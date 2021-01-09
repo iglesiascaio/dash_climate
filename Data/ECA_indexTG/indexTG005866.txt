@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   KATTUVUOMA                               (STAID:   5866)
+LATITUDE: dd:mm:ss +68:16:48
+LONGITUDE: ddd:mm:ss +019:54:00
+ELEVATION: m  355
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5866   1965 -285    -999999 519     -999999 -474    918     -114    -1676   -913    -1127   -287    -2      861     915     975     641     16      -1005   -1836   
+5866   1966 -403    -1439   489     -2057   -689    1075    -230    -1997   -2369   -1519   -704    154     1091    1234    901     229     -344    -572    -1082   
+5866   1967 -210    -955    639     -1428   -200    1029    45      -1889   -1300   -567    -337    299     839     1098    1144    771     -172    -457    -1998   
+5866   1968 -312    -1242   482     -1968   -407    908     -273    -2218   -1670   -942    -237    -37     839     1023    859     430     -715    -520    -586    
+5866   1969 -263    -1072   641     -1405   -440    1229    -160    -1673   -2014   -995    -468    141     1074    1258    1349    462     25      -974    -1472   
+5866   1970 -182    -1119   630     -1632   -414    1192    -153    -1556   -1894   -912    -683    344     1163    1294    1119    515     -48     -930    -740    
+5866   1971 -999999 -958    554     -1122   -571    1046    -999999 -1253   -1401   -1419   -519    227     1015    1079    1044    458     -999999 -999999 -999999 

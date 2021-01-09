@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  KEMIJARVI LENTOKENTTA                    (STAID:   7816)
+LATITUDE: dd:mm:ss +66:42:55
+LONGITUDE: ddd:mm:ss +027:09:51
+ELEVATION: m  208
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7816   2006 -999999 -999999 -999999 -999999 -999999 1427    4       -999999 -999999 -999999 -999999 -999999 1344    1468    1466    728     -134    -578    -413    
+7816   2007 127     -699    840     -1097   94      1304    150     -1167   -1777   -224    -22     524     1184    1411    1313    608     376     -542    -323    
+7816   2008 89      -503    713     -675    -186    1146    76      -865    -847    -839    -136    421     1081    1333    1022    530     175     -467    -365    
+7816   2009 75      -601    905     -874    -38     1310    135     -1091   -1199   -716    -209    805     1144    1396    1384    878     -252    -183    -1112   
+7816   2010 -65     -933    914     -1407   -24     1287    10      -1492   -1640   -962    67      826     1101    1612    1129    732     203     -912    -1475   
+7816   2011 209     -952    1018    -1497   101     1449    355     -1251   -1792   -563    237     634     1428    1667    1251    878     319     -130    -314    
+7816   2012 -32     -571    793     -1028   -68     1229    118     -1267   -1537   -545    -233    567     1073    1434    1176    717     0       -359    -1465   
+7816   2013 143     -835    987     -1129   -168    1416    156     -1030   -865    -1280   -143    919     1415    1442    1392    870     60      -459    -670    
+7816   2014 169     -534    925     -827    63      1408    53      -1395   -372    -349    -45     581     1030    1787    1393    771     -116    -490    -806    
+7816   2015 201     -569    865     -865    146     1185    303     -1205   -553    -241    71      606     999     1203    1346    947     131     -164    -762    
+7816   2016 180     -571    984     -1003   191     1363    163     -1669   -548    -400    80      889     1215    1680    1189    826     180     -593    -778    
+7816   2017 52      -606    713     -896    -223    1228    95      -935    -984    -560    -311    200     1017    1475    1185    687     73      -474    -828    
+7816   2018 173     -781    1040    -1097   -1      1474    262     -1041   -1456   -1013   3       1006    1086    1960    1363    781     34      -22     -749    
+7816   2019 -999999 -658    865     -1111   2       1261    -999999 -1514   -1065   -648    151     509     1258    1329    1197    730     -158    -999999 -999999 

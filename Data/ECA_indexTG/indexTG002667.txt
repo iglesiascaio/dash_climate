@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   LYSEBOTN                                 (STAID:   2667)
+LATITUDE: dd:mm:ss +59:03:24
+LONGITUDE: ddd:mm:ss +006:38:57
+ELEVATION: m    9
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+2667   2011 -999999 -999999 -999999 -999999 -999999 1507    1021    -999999 -999999 -999999 -999999 -999999 1328    1615    1573    1271    957     831     335     
+2667   2012 746     460     1167    137     744     1421    791     188     -128    563     621     1045    1251    1469    1536    1063    698     615     -12     
+2667   2013 780     201     1249    -34     553     1511    903     14      -110    -14     511     1161    1314    1627    1586    1274    954     481     495     
+2667   2014 975     533     1381    392     873     1627    1074    198     493     572     902     1144    1474    1869    1533    1349    1056    818     267     
+2667   2015 856     544     1170    290     656     1414    944     309     294     505     627     837     1110    1421    1701    1307    881     647     583     
+2667   2016 866     460     1324    267     787     1487    931     50      163     421     669     1268    1552    1466    1447    1535    828     434     541     
+2667   2017 846     460     1239    365     729     1418    936     269     275     394     602     1187    1365    1481    1407    1378    966     462     328     
+2667   2018 892     360     1398    212     817     1598    901     271     18      85      812     1554    1529    1811    1454    1207    875     622     405     
+2667   2019 -999999 507     1324    359     797     1601    -999999 197     487     459     986     953     1468    1663    1669    1196    788     -999999 -999999 

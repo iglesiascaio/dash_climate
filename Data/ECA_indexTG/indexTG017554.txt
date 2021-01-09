@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    CAMPORA_DI_SASSO                         (STAID:  17554)
+LATITUDE: dd:mm:ss +44:31:15
+LONGITUDE: ddd:mm:ss +010:16:31
+ELEVATION: m 6490
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17554  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17554  2006 1159    -999999 1767    -999999 1033    2074    1315    -35     215     509     1064    1528    1987    2384    1849    1773    1343    829     406     
+17554  2007 1226    755     1816    536     1254    2077    1075    616     590     730     1353    1683    1901    2275    2047    1617    1065    544     240     
+17554  2008 1175    555     1732    335     1075    2094    1183    371     398     700     1023    1500    1893    2164    2219    1571    1316    659     248     
+17554  2009 1189    554     1855    199     1203    2162    1194    80      276     724     1088    1794    1950    2235    2294    1745    1119    719     175     
+17554  2010 1064    448     1736    97      1008    2108    1067    -70     196     530     1055    1441    1933    2333    2052    1585    970     650     35      
+17554  2011 1230    464     1883    176     1205    2105    1262    120     393     614     1314    1690    1908    2036    2363    1974    1157    660     480     
+17554  2012 1224    614     1848    274     1169    2308    1233    334     -9      1021    968     1512    2143    2341    2435    1666    1222    811     192     
+17554  2013 1161    499     1771    177     944     2137    1258    246     83      411     1097    1328    1894    2302    2207    1782    1274    719     515     
+17554  2014 1244    726     1719    494     1174    1987    1325    406     569     857     1181    1485    1982    1979    2001    1674    1346    954     460     
+17554  2015 1262    710     1862    399     1167    2248    1176    473     249     738     1164    1599    2032    2524    2180    1650    1069    813     578     
+17554  2016 1200    661     1794    472     1084    2103    1177    309     533     659     1188    1406    1886    2280    2135    1856    1040    638     446     
+17554  2017 1235    596     1866    288     1244    2312    1125    -47     485     1008    1132    1590    2201    2309    2422    1516    1291    564     292     
+17554  2018 1208    520     1848    255     1091    2149    1279    461     -13     473     1299    1509    1977    2234    2231    1822    1299    716     397     
+17554  2019 -999999 676     -999999 371     1005    -999999 -999999 202     528     898     998     1123    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

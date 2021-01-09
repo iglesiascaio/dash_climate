@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   NAISHEDEN                                (STAID:   5819)
+LATITUDE: dd:mm:ss +66:31:48
+LONGITUDE: ddd:mm:ss +022:22:12
+ELEVATION: m   95
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5819   1949 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -716    -585    -661    -999999 -999999 -999999 -999999 -999999 -999999 -70     -145    -869    
+5819   1950 -999999 -805    -999999 -1360   -999999 -999999 -999999 -2032   -1160   -565    -999999 -999999 -999999 -999999 -999999 -999999 257     -740    -998    
+5819   1951 -36     -878    831     -1338   -134    1243    62      -1850   -1148   -809    84      331     964     1246    1511    829     273     -924    -1015   
+5819   1952 -54     -779    808     -1029   -89     1212    -179    -1213   -849    -958    124     575     1176    1458    1000    494     -320    -788    -1455   
+5819   1953 -999999 -918    -999999 -1370   150     -999999 227     -1284   -1371   -311    103     655     1793    -999999 1275    625     325     -272    -646    
+5819   1954 76      -639    941     -1161   138     1339    -21     -1228   -1656   -444    0       854     1173    1585    1244    779     -150    -688    -622    
+5819   1955 -195    -911    798     -1273   -280    1307    -137    -1655   -1571   -837    -361    355     933     1588    1388    852     -166    -1097   -1870   
+5819   1956 -150    -1170   787     -1709   -110    1266    -263    -1497   -1763   -665    -389    714     1289    1455    1056    570     -198    -1164   -1281   
+5819   1957 57      -890    848     -1075   -102    1320    64      -1029   -897    -779    -2      479     972     1683    1292    663     76      -549    -1205   
+5819   1958 -53     -891    -999999 -1360   -177    -999999 293     -1605   -1261   -829    -163    464     1224    -999999 1386    803     192     -113    -1554   
+5819   1959 170     -582    907     -1165   183     1357    92      -1393   -482    -120    -51     713     1288    1460    1322    687     106     -518    -1007   
+5819   1960 -23     -868    -999999 -1424   -999999 1513    -211    -1837   -1427   -549    133     -999999 1399    1761    1375    792     -532    -882    -1053   
+5819   1961 -999999 -845    -999999 -1089   -999999 1424    409     -1451   -729    -415    -999999 602     1408    1619    1243    796     632     -209    -1449   
+5819   1962 -999999 -842    -999999 -1364   -225    -999999 -999999 -1364   -1269   -1413   126     623     1091    -999999 -999999 -999999 -999999 -999999 -999999 

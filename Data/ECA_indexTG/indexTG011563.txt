@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    FOPPOLO                                  (STAID:  11563)
+LATITUDE: dd:mm:ss +46:02:38
+LONGITUDE: ddd:mm:ss +009:45:21
+ELEVATION: m 1682
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11563  2004 -999999 -999999 -999999 -999999 -999999 -999999 709     -999999 -999999 -999999 -999999 -999999 -999999 -999999 1390    1106    706     288     -999999 
+11563  2005 516     -999999 -999999 -999999 -999999 1340    608     -132    -534    7       -999999 923     1329    1439    1248    1051    680     91      -304    
+11563  2006 630     -18     1092    -277    391     1349    845     -302    -215    -99     421     820     1284    1653    1109    1258    859     431     172     
+11563  2007 655     328     1108    159     630     1330    566     186     113     185     780     935     1207    1458    1321    925     656     112     -55     
+11563  2008 593     159     1009    44      380     1354    591     84      106     46      264     825     1247    1390    1420    888     723     142     -110    
+11563  2009 616     -999999 1151    -198    591     1406    682     -226    -259    112     478     1087    1217    1436    1558    1110    629     309     -253    
+11563  2010 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1226    -999999 -999999 -999999 -999999 -999999 -366    
+11563  2011 692     -999999 1171    -153    618     1343    824     -174    104     194     698     965     1196    1264    1564    1329    688     459     -9      
+11563  2012 651     211     1129    -142    573     1497    715     -94     -336    529     329     851     1366    1513    1610    1084    718     344     -200    
+11563  2013 600     80      1076    -201    359     1399    677     -29     -394    -31     498     614     1152    1555    1475    1149    695     188     220     
+11563  2014 657     231     1027    46      553     1245    799     -53     -46     325     572     762     1217    1298    1219    1089    830     478     81      
+11563  2015 728     241     1168    -27     561     1539    723     -44     -127    200     527     954     1311    1802    1489    904     631     636     400     
+11563  2016 650     288     1103    124     443     1391    669     -80     45      92      511     729     1162    1550    1454    1199    594     205     310     
+11563  2017 -999999 -999999 1152    6       632     1533    638     -338    55      451     514     929     1450    1528    1614    854     902     157     -999999 

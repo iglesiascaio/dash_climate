@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    MADONNA_DEI_FORNELLI                     (STAID:  17664)
+LATITUDE: dd:mm:ss +44:12:56
+LONGITUDE: ddd:mm:ss +011:15:24
+ELEVATION: m 9000
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17664  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17664  2006 1037    -999999 1589    -999999 841     1876    1243    -90     150     304     914     1307    1771    2155    1697    1675    1248    805     450     
+17664  2007 1076    688     1617    507     1061    1870    946     578     491     539     1215    1435    1670    2081    1851    1430    933     477     166     
+17664  2008 1045    461     1551    295     861     1922    1062    398     323     459     819     1305    1740    1965    2055    1399    1208    576     255     
+17664  2009 1056    463     1660    149     1007    1958    1105    37      155     518     910     1590    1664    2051    2150    1567    998     752     209     
+17664  2010 926     394     1518    73      807     1876    963     -126    141     379     851     1193    1696    2088    1837    1424    868     599     115     
+17664  2011 1094    412     1674    191     985     1887    1176    155     314     417     1117    1426    1694    1784    2177    1833    1031    669     472     
+17664  2012 1084    533     1645    193     989     2095    1127    269     -187    900     792     1270    1914    2103    2263    1503    1150    726     247     
+17664  2013 1001    443     1541    141     793     1876    1089    222     -67     338     958     1089    1618    2027    1975    1566    1165    533     511     
+17664  2014 1065    614     1469    442     926     1738    1187    394     420     637     951     1192    1702    1739    1773    1449    1213    898     378     
+17664  2015 1102    582     1633    290     927     2021    1068    341     134     497     930     1354    1778    2278    1999    1432    939     838     629     
+17664  2016 1052    587     1565    445     866     1853    1082    276     428     407     1026    1169    1617    2066    1869    1628    975     647     502     
+17664  2017 -999999 532     -999999 241     1045    2095    -999999 -137    371     822     935     1374    1939    2088    2254    -999999 -999999 493     225     
+17664  2018 1053    -999999 1657    125     926     1943    1140    423     -316    242     1125    1329    1712    2074    2034    1652    1139    630     385     
+17664  2019 -999999 555     -999999 304     753     -999999 -999999 47      499     627     771     864     -999999 -999999 -999999 -999999 -999999 -999999 -999999 

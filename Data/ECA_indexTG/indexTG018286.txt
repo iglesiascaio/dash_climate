@@ -1,0 +1,33 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   SKJEGGEDAL                               (STAID:  18286)
+LATITUDE: dd:mm:ss +60:07:41
+LONGITUDE: ddd:mm:ss +006:37:45
+ELEVATION: m  470
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18286  2017 -999999 -999999 937     -999999 408     1132    583     -999999 -999999 64      269     885     1044    1206    1142    1061    605     80      -86     
+18286  2018 -999999 -26     -999999 -189    478     1414    -999999 -130    -368    -290    417     1304    1365    1700    1174    -999999 -999999 -999999 -15     
+18286  2019 -999999 -999999 1028    -24     453     1338    -999999 -157    112     84      610     670     1162    1441    1405    866     449     -999999 -999999 

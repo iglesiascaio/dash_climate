@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    MANERBIO (V.DANTE)                       (STAID:  11604)
+LATITUDE: dd:mm:ss +45:21:39
+LONGITUDE: ddd:mm:ss +010:08:44
+ELEVATION: m   60
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11604  2003 -999999 -999999 -999999 -999999 -999999 -999999 1338    -999999 -999999 -999999 -999999 -999999 -999999 2605    2802    1913    1201    905     425     
+11604  2004 -999999 664     2030    350     1284    2385    1478    233     390     805     1332    1719    2253    2425    2460    2010    1570    850     -999999 
+11604  2005 1305    -999999 2038    -999999 1351    2350    1369    134     254     857     1252    1942    2395    2474    2188    2010    1369    727     137     
+11604  2006 1412    564     2119    148     1373    2423    1548    8       315     809     1407    1903    2364    2703    2199    2125    1588    930     528     
+11604  2007 1469    899     2155    594     1622    2411    1348    589     673     1064    1762    2046    2290    2566    2360    1899    1383    760     261     
+11604  2008 1451    745     2086    431     1424    2439    1460    483     557     1017    1325    1925    2295    2510    2506    1931    1547    900     374     
+11604  2009 1467    736     2220    318     1534    2518    1513    119     475     978     1479    2143    2340    2563    2644    2130    1428    982     258     
+11604  2010 1366    697     2091    294     1372    2458    1355    173     468     859     1431    1826    2359    2664    2349    1897    1265    905     145     
+11604  2011 1475    680     2222    300     1583    2429    1473    247     531     979     1700    2073    2275    2398    2609    2266    1397    758     408     
+11604  2012 1450    709     2172    267     1497    2589    1515    178     212     1270    1323    1893    2476    2589    2698    2027    1503    1014    174     
+11604  2013 1410    691     2093    280     1288    2465    1510    338     335     758     1412    1697    2305    2640    2445    2042    1557    930     396     
+11604  2014 1534    912     2066    586     1531    2312    1597    600     802     1163    1559    1871    2348    2303    2286    2020    1631    1139    577     
+11604  2015 1507    877     2228    479     1497    2613    1454    424     432     1026    1473    1992    2412    2866    2555    2044    1429    890     463     
+11604  2016 1468    816     2143    517     1453    2448    1488    369     733     1015    1552    1782    2272    2642    2423    2176    1379    906     328     
+11604  2017 -999999 760     2185    338     1564    2584    1369    86      -999999 1208    1511    1970    2534    2579    2637    1844    1463    813     -999999 

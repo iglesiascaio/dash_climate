@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  INARI PARTAKKO                           (STAID:   7890)
+LATITUDE: dd:mm:ss +69:10:59
+LONGITUDE: ddd:mm:ss +027:55:00
+ELEVATION: m  120
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7890   1979 -148    -999999 706     -999999 -307    1209    -65     -2008   -1409   -828    -407    311     1053    1397    1174    682     -227    -644    -948    
+7890   1980 -263    -1057   708     -1433   -355    1153    -220    -1600   -1773   -1184   -96     225     1179    1213    1068    646     -116    -1194   -1571   
+7890   1981 -308    -1282   581     -1632   -525    979     23      -1700   -1626   -1513   -346    289     615     1311    1001    589     80      -602    -1875   
+7890   1982 -98     -955    619     -1489   -224    1006    -32     -1611   -928    -783    -200    313     593     1363    1050    566     -59     -603    -938    
+7890   1983 -139    -780    754     -1121   -107    1113    -146    -1237   -1197   -694    -22     398     992     1366    977     793     21      -1258   -1910   
+7890   1984 -56     -1068   722     -1397   -168    1093    -180    -1552   -683    -1010   -185    691     1059    1166    1054    523     -146    -944    -688    

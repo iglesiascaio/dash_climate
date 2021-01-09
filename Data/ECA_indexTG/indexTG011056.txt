@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    MONTSERRAT-SANT DIMES                    (STAID:  11056)
+LATITUDE: dd:mm:ss +41:35:43
+LONGITUDE: ddd:mm:ss +001:50:15
+ELEVATION: m  916
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11056  2008 1144    -999999 1544    -999999 944     1850    -999999 699     624     675     954     1203    1647    1927    1969    1546    1280    681     535     
+11056  2009 1272    686     1739    478     1119    2064    1399    403     496     820     908     1623    1921    2068    2198    1697    1441    1057    577     
+11056  2010 1116    730     1614    420     942     1944    1164    286     395     601     1033    1196    1663    2168    1992    1615    1153    724     516     
+11056  2011 1285    731     1701    599     1170    1836    1465    533     764     702     1266    1545    1651    1789    2061    1882    1481    1033    683     
+11056  2012 1259    859     1698    549     1107    2048    1317    622     329     975     856     1482    1953    1945    2242    1694    1354    902     713     
+11056  2013 1204    793     1600    587     928     1935    1359    680     344     728     976     1080    1623    2175    1996    1736    1513    822     698     
+11056  2014 1266    860     1633    660     1090    1857    1470    684     591     825     1211    1239    1826    1877    1866    1803    1665    991     665     
+11056  2015 1325    877     1760    567     1207    2087    1319    613     407     879     1112    1627    1956    2298    2002    1543    1269    1146    973     
+11056  2016 1266    903     1677    779     959     2005    1350    685     673     667     947     1262    1786    2146    2077    1828    1358    864     868     
+11056  2017 1297    880     1747    676     1204    2106    1304    408     760     1011    1101    1498    2085    2085    2147    1550    1485    869     525     
+11056  2018 1249    743     1732    500     972     2044    1351    675     280     582     1027    1314    1793    2188    2143    1865    1322    868     841     
+11056  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

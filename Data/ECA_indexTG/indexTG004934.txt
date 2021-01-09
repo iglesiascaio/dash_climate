@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  VEILSDORF                                (STAID:   4934)
+LATITUDE: dd:mm:ss +50:25:04
+LONGITUDE: ddd:mm:ss +010:49:00
+ELEVATION: m  397
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4934   2007 -999999 -999999 -999999 -999999 -999999 1653    671     -999999 -999999 -999999 -999999 1381    1720    1648    1592    1104    703     205     31      
+4934   2008 859     295     1400    171     824     1708    749     251     234     337     679     1451    1690    1771    1661    1124    757     367     -44     
+4934   2009 820     136     1469    -206    929     1635    906     -474    -90     285     1174    1335    1429    1704    1766    1391    713     620     -55     
+4934   2010 700     161     1349    -228    701     1720    733     -453    -171    295     792     1019    1659    1947    1551    1113    670     418     -483    
+4934   2011 864     151     1454    -212    944     1632    820     -80     -60     427     1076    1333    1627    1552    1718    1410    789     262     249     
+4934   2012 822     262     1410    -24     926     1668    774     68      -413    574     765     1435    1526    1696    1778    1239    702     384     54      
+4934   2013 802     147     1398    -53     607     1745    839     -50     -176    -57     758     1125    1545    1938    1745    1259    919     337     213     
+4934   2014 952     422     1434    220     944     1656    987     159     294     595     1047    1193    1581    1878    1506    1392    1062    503     172     
+4934   2015 921     368     1454    72      793     1843    849     118     -89     400     750     1228    1587    1939    1996    1197    740     613     495     
+4934   2016 853     394     1454    228     784     1706    871     -43     231     326     704     1321    1625    1800    1689    1572    783     262     -45     
+4934   2017 853     216     1407    -130    885     1751    824     -509    197     606     676     1367    1739    1779    1735    1124    969     373     132     
+4934   2018 979     277     1648    45      986     1897    926     289     -320    166     1200    1599    1766    1977    1943    1385    942     452     248     
+4934   2019 -999999 383     1489    109     835     1889    -999999 -74     157     552     950     1006    1977    1867    1825    1302    947     -999999 -999999 

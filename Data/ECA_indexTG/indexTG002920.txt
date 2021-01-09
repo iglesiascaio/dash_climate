@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    VILLA MINOZZO                            (STAID:   2920)
+LATITUDE: dd:mm:ss +44:21:45
+LONGITUDE: ddd:mm:ss +010:27:36
+ELEVATION: m  704
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+2920   2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+2920   2006 1193    -999999 1758    -999999 1055    2048    1357    42      319     547     1095    1523    1964    2329    1849    1776    1374    921     526     
+2920   2007 1257    832     1807    641     1260    2067    1110    730     670     759     1364    1660    1900    2264    2031    1604    1107    618     329     
+2920   2008 1199    622     1721    425     1087    2067    1205    458     490     722     1046    1492    1863    2132    2199    1575    1343    694     343     
+2920   2009 1213    609     1834    282     1207    2131    1229    179     330     742     1089    1785    1916    2208    2261    1718    1143    831     292     
+2920   2010 1079    520     1703    180     1029    2052    1087    -4      259     585     1070    1431    1886    2250    2013    1548    1001    717     143     
+2920   2011 1255    537     1851    283     1188    2066    1300    237     489     636     1313    1620    1875    2004    2313    1971    1184    751     621     
+2920   2012 1202    679     1786    371     1123    2245    1194    434     37      1007    932     1424    2068    2295    2368    1607    1195    781     221     
+2920   2013 1108    481     1689    168     898     2033    1210    223     48      385     1062    1253    1791    2193    2109    1712    1252    665     530     
+2920   2014 1178    692     1625    472     1096    1891    1268    387     502     794     1114    1380    1872    1890    1910    1573    1303    925     443     
+2920   2015 1215    674     1780    376     1104    2150    1150    453     218     668     1111    1533    1936    2425    2084    1567    1033    855     624     
+2920   2016 1159    660     1711    486     1027    2011    1146    313     523     608     1134    1341    1792    2201    2031    1752    1014    675     504     
+2920   2017 1217    611     1815    322     1204    2257    1128    -25     506     986     1092    1530    2129    2262    2375    1480    1323    576     309     
+2920   2018 1165    520     1783    254     1050    2073    1229    484     -63     434     1277    1447    1890    2173    2151    1743    1251    692     416     
+2920   2019 -999999 664     -999999 386     952     -999999 -999999 190     569     855     936     1068    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

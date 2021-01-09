@@ -1,0 +1,48 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  WOLFSTEIN/PFALZ                          (STAID:   4786)
+LATITUDE: dd:mm:ss +49:34:55
+LONGITUDE: ddd:mm:ss +007:37:27
+ELEVATION: m  200
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4786   1981 -999999 -999999 -999999 -999999 -999999 -999999 958     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1433    878     564     -10     
+4786   1982 947     309     1485    -33     822     1780    1082    -158    81      483     724     1257    1689    1954    1695    1578    982     691     329     
+4786   1983 978     504     1535    269     852     1921    908     470     -21     529     927     1103    1712    2132    1912    1403    954     365     167     
+4786   1984 868     361     1319    180     686     1619    959     236     133     296     721     1043    1450    1700    1702    1282    1062    531     228     
+4786   1985 822     281     1417    -116    878     1621    808     -370    -216    411     887     1335    1433    1813    1611    1404    855     163     452     
+4786   1986 878     276     1399    69      844     1707    910     204     -502    405     693     1429    1733    1726    1662    1130    1015    580     350     
+4786   1987 841     295     1410    -2      719     1627    1024    -420    71      159     998     1009    1474    1768    1635    1568    960     545     293     
+4786   1988 978     501     1442    338     920     1665    912     439     278     476     857     1425    1510    1704    1777    1362    1063    306     502     
+4786   1989 994     558     1465    383     992     1733    914     299     346     802     746     1422    1555    1885    1753    1411    1084    242     323     
+4786   1990 1015    556     1453    419     986     1748    947     301     657     730     787     1435    1559    1766    1913    1235    1057    545     165     
+4786   1991 906     427     1459    78      836     1802    924     175     -126    693     755     1059    1429    2011    1955    1524    821     430     64      
+4786   1992 996     391     1549    165     981     1861    911     133     307     586     876     1478    1697    1929    1951    1343    714     682     235     
+4786   1993 942     420     1495    215     1004    1707    743     412     -27     468     1093    1453    1716    1730    1674    1294    812     120     474     
+4786   1994 1075    475     1546    361     980     1914    1020    412     180     814     855     1267    1749    2204    1785    1393    810     865     502     
+4786   1995 985     552     1495    414     872     1820    986     175     580     392     978     1249    1536    2080    1835    1270    1255    425     9       
+4786   1996 825     306     1403    -48     780     1719    887     -133    -19     279     874     1190    1673    1727    1756    1183    939     538     -126    
+4786   1997 952     383     1475    6       954     1789    883     -313    505     772     750     1333    1637    1730    1997    1381    817     453     331     
+4786   1998 975     488     1488    336     995     1737    855     276     409     635     901     1445    1748    1709    1753    1355    949     258     224     

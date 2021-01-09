@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SERBIA                                   CRNI VRH (OLD)                           (STAID:   2939)
+LATITUDE: dd:mm:ss +44:10:00
+LONGITUDE: ddd:mm:ss +021:58:00
+ELEVATION: m  834
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+2939   1966 -999999 -999999 -999999 -999999 -999999 -999999 880     -999999 -999999 -999999 -999999 1118    1338    -999999 -999999 1290    1154    188     -210    
+2939   1967 739     120     1354    -319    702     1621    945     -492    -249    299     606     1198    1366    1736    1753    1446    1059    325     -250    
+2939   1968 714     132     1387    -264    886     1527    776     -525    0       178     1063    1423    1535    1598    1448    1243    762     325     -491    
+2939   1969 607     -135    1307    -546    591     1483    893     -730    -404    -285    558     1500    1316    1482    1644    1317    751     617     -529    
+2939   1970 667     50      1263    -402    595     1553    786     -414    -246    114     740     936     1485    1605    1568    1230    619     516     -199    
+2939   1971 687     84      1301    -186    653     1588    616     -136    -226    -87     695     1353    1412    1590    1755    972     631     244     -28     
+2939   1972 638     19      1314    -349    778     1613    606     -648    -370    265     903     1170    1614    1686    1540    959     485     378     -345    
+2939   1973 632     -51     1307    -373    579     1552    704     -572    -185    -66     602     1203    1441    1622    1591    1367    725     20      -214    
+2939   1974 675     49      1250    -221    555     1547    738     -442    15      186     460     1017    1339    1551    1745    1369    606     242     -30     
+2939   1975 726     152     1364    -166    867     1532    709     -119    -369    532     742     1322    1476    1606    1511    1517    703     -93     -199    
+2939   1976 567     -100    1198    -350    560     1386    685     -276    -590    -176    735     1127    1265    1607    1283    1158    622     278     -264    
+2939   1977 728     186     1255    -91     757     1555    767     -270    299     466     584     1215    1472    1626    1563    1046    848     405     -545    
+2939   1978 596     32      1171    -433    570     1473    593     -442    -299    207     555     948     1392    1535    1488    1091    715     -32     -72     
+2939   1979 697     70      1291    -246    751     1528    706     -359    -313    441     590     1217    1631    1470    1486    1342    529     253     6       
+2939   1980 583     -30     1192    -310    461     1511    758     -670    -264    -43     487     939     1429    1555    1545    1178    889     203     -271    
+2939   1981 -999999 48      -999999 -412    685     1592    -999999 -620    -338    391     621     1040    1571    1526    1700    -999999 -999999 -999999 -999999 

@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    CASTRONNO                                (STAID:  11623)
+LATITUDE: dd:mm:ss +45:45:00
+LONGITUDE: ddd:mm:ss +008:49:14
+ELEVATION: m  379
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11623  2002 -999999 -999999 1811    -999999 1257    2119    1266    69      552     986     1215    1563    2172    2117    2068    1650    1244    907     -999999 
+11623  2003 1312    -999999 2009    -999999 1297    2432    1164    295     127     870     1144    1823    2443    2359    2493    1708    1051    737     383     
+11623  2004 1259    591     1812    345     1096    2151    1322    239     418     712     1149    1427    2069    2209    2173    1832    1356    777     -999999 
+11623  2005 1214    -999999 1845    -999999 1226    2143    1208    321     263     830     1103    1742    2136    2261    2033    1778    1215    630     187     
+11623  2006 1295    530     1916    210     1189    2221    1434    142     313     675     1246    1647    2145    2515    2002    1929    1455    918     496     
+11623  2007 1353    860     1899    589     1444    2117    1254    590     691     993     1599    1745    2004    2300    2041    1689    1305    766     466     
+11623  2008 1310    773     1837    535     1260    2168    1288    520     626     946     1171    1659    2062    2211    2226    1671    1392    799     402     
+11623  2009 1346    715     1994    378     1399    2261    1356    242     502     936     1326    1932    2095    2289    2392    1908    1317    844     313     
+11623  2010 1222    634     1863    280     1201    2207    1213    141     398     776     1277    1551    2074    2437    2107    1718    1145    778     213     
+11623  2011 1375    648     1997    354     1441    2155    1402    262     612     880     1585    1864    1989    2105    2365    2065    1325    818     584     
+11623  2012 1289    744     1891    372     1299    2277    1306    390     127     1184    1067    1639    2148    2289    2391    1791    1282    846     257     
+11623  2013 1236    605     1835    298     1060    2198    1293    395     236     584     1178    1422    2012    2352    2224    1805    1296    777     476     
+11623  2014 1311    765     1790    481     1324    2009    1386    429     542     1046    1335    1592    2035    2020    1972    1781    1430    946     557     
+11623  2015 1333    788     1939    475     1300    2310    1236    445     415     906     1314    1682    2120    2576    2229    1688    1182    838     535     
+11623  2016 1268    713     1868    473     1207    2154    1261    322     568     826     1290    1508    1976    2304    2175    1941    1125    716     447     
+11623  2017 -999999 671     1927    347     1371    2299    1225    88      536     1107    1302    1703    2224    2310    2362    1631    1354    700     -999999 

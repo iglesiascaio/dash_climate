@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    ARDESIO (VALCANALE)                      (STAID:  11651)
+LATITUDE: dd:mm:ss +45:57:06
+LONGITUDE: ddd:mm:ss +009:51:47
+ELEVATION: m 1002
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11651  2004 -999999 -999999 -999999 -999999 663     -999999 952     -139    123     227     707     1002    1589    1688    -999999 1406    1035    411     156     
+11651  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 258     828     1218    1934    -999999 1801    1574    1385    884     -999999 -175    
+11651  2006 898     -999999 1430    -999999 773     1686    1048    -201    -49     217     778     1217    1643    1954    1452    1527    1078    554     236     
+11651  2007 -999999 509     -999999 279     1009    -999999 -999999 278     327     558     1153    1321    1568    1837    -999999 1229    893     -999999 56      
+11651  2008 862     -999999 1364    139     765     1683    861     183     181     391     681     1220    1585    1720    1742    1214    979     387     5       
+11651  2009 857     269     1468    -41     873     1713    894     -74     -56     339     796     1446    1533    1744    1856    1411    835     438     -77     
+11651  2010 751     199     1357    -125    691     1696    766     -247    -42     274     735     1065    1573    1875    1636    1241    711     343     -203    
+11651  2011 -999999 237     -999999 -18     -999999 -999999 947     -36     206     433     1090    -999999 -999999 1597    1845    1576    865     401     54      
+11651  2012 861     299     1439    -88     871     1810    898     -78     -250    768     653     1187    1692    1822    1913    1351    891     452     -114    
+11651  2013 922     206     1529    -113    655     1953    1032    -27     -205    208     787     973     1731    2159    1963    1546    1085    464     295     
+11651  2014 1043    531     1478    -999999 1027    1680    1123    226     301     733     1074    1276    1684    1722    1635    1474    1145    750     290     
+11651  2015 1054    510     1615    192     1019    1975    984     140     142     575     1005    1406    1738    2234    1945    1342    936     665     394     
+11651  2016 943     471     1498    234     898     1754    907     30      267     492     990     1191    1601    1914    1741    1522    812     377     229     
+11651  2017 -999999 -999999 1476    11      930     1854    824     -345    -999999 664     862     1261    1773    1862    1929    1177    1014    274     -999999 

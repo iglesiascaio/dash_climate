@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SLOVENIA                                 CELJE-MEDLOG                             (STAID:   3333)
+LATITUDE: dd:mm:ss +46:12:00
+LONGITUDE: ddd:mm:ss +015:12:00
+ELEVATION: m  242
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+3333   2009 1069    -999999 1730    -999999 1163    1946    1109    -192    146     581     1226    1684    1794    2017    2020    1617    1007    708     164     
+3333   2010 996     381     1677    1       1044    2029    971     -204    48      541     1058    1535    1949    2207    1927    1361    831     725     -84     
+3333   2011 1054    361     1733    11      1082    1979    995     101     15      558     1178    1513    1899    1961    2075    1760    889     339     291     
+3333   2012 1078    350     1746    22      1131    2085    1154    65      -311    785     1087    1519    2032    2138    2084    1601    1058    806     24      
+3333   2013 1066    377     1703    35      959     2037    1135    84      -6      274     1162    1449    1874    2170    2060    1482    1249    669     257     
+3333   2014 1179    640     1671    355     1185    1920    1230    417     393     833     1224    1499    1886    2007    1865    1532    1291    866     280     
+3333   2015 1103    572     1746    208     1097    2080    1040    212     126     623     1076    1590    1910    2251    2074    1550    1012    559     184     
+3333   2016 1064    487     1694    228     1082    1970    1060    -6      526     651     1137    1458    1873    2154    1879    1647    938     599     -92     
+3333   2017 -999999 360     -999999 -82     -999999 -999999 980     -506    399     837     -999999 -999999 -999999 2170    2088    1344    1035    558     204     
+3333   2018 1123    415     1794    174     1145    2026    1163    419     -132    357     1370    1715    1957    2026    2091    1597    1158    734     134     
+3333   2019 -999999 502     1708    128     1003    2135    -999999 -64     334     728     1034    1248    2169    2122    2115    1551    1233    -999999 -999999 

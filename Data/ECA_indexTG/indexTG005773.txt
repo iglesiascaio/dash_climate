@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   ABELVATTNET                              (STAID:   5773)
+LATITUDE: dd:mm:ss +65:31:48
+LONGITUDE: ddd:mm:ss +014:58:12
+ELEVATION: m  665
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5773   1985 -999999 -999999 -999999 -999999 -999999 1008    -999999 -999999 -999999 -999999 -999999 118     882     1134    1005    436     -999999 -862    -1725   
+5773   1986 -999999 -999999 -999999 -999999 -999999 977     45      -999999 -999999 -999999 -511    440     1083    1074    776     357     137     -329    -1509   
+5773   1987 -214    -994    454     -1561   -400    -999999 124     -1801   -1353   -1121   -268    193     739     -999999 725     478     320     -433    -780    
+5773   1988 -999999 -700    584     -1001   -472    1071    -24     -967    -1274   -1091   -628    299     922     1308    979     595     5       -654    -999999 
+5773   1989 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -191    216     717     868     -999999 -999999 34      -277    -1031   
+5773   1990 71      -528    588     -840    -155    1014    62      -1077   -366    -429    -236    196     882     1096    1060    510     190     -518    -493    
+5773   1991 -16     -601    535     -876    -291    1000    51      -745    -1446   -676    -245    50      730     1139    1123    381     90      -310    -387    
+5773   1992 -22     -356    484     -493    -256    870     -999999 -518    -578    -447    -666    331     935     861     818     606     -999999 -782    -473    
+5773   1993 -61     -999999 482     -999999 -184    818     -110    -767    -999999 -555    -366    362     497     1084    862     426     -147    -607    -1130   
+5773   1994 -999999 -969    -999999 -1426   -277    -999999 -999999 -1535   -1634   -811    -172    156     555     -999999 -999999 -999999 -104    -561    -525    
+5773   1995 -89     -999999 421     -746    -999999 801     20      -979    -731    -999999 -529    129     636     886     876     507     172     -624    -1093   
+5773   1996 -999999 -758    -999999 -1109   -315    -999999 -999999 -852    -1400   -787    -999999 108     681     990     -999999 -999999 -999999 -999999 -999999 

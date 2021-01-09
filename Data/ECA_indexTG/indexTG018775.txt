@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   KOBBELV                                  (STAID:  18775)
+LATITUDE: dd:mm:ss +67:35:31
+LONGITUDE: ddd:mm:ss +015:53:22
+ELEVATION: m    7
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18775  1977 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -82     -170    
+18775  1978 222     -999999 900     -597    76      1352    336     -700    -955    -342    -3      570     1267    1527    1259    757     268     -17     -1050   
+18775  1979 306     -387    873     -786    124     1293    318     -719    -566    -246    105     515     1087    1491    1294    722     242     -6      -309    
+18775  1980 313     -286    1051    -540    201     1490    238     -665    -654    -338    269     674     1357    1655    1454    874     170     -327    -741    
+18775  1981 177     -463    793     -618    11      1055    298     -606    -494    -776    71      739     805     1265    1087    768     365     -241    -902    
+18775  1982 325     -286    766     -595    195     1077    370     -768    -64     -82     107     556     807     1193    1223    689     441     -24     -203    
+18775  1983 298     -132    868     -295    298     1014    257     -356    -330    -335    315     915     928     1188    924     927     255     -412    -485    
+18775  1984 369     -309    881     -434    241     1120    394     -661    -137    -405    229     899     1121    1132    1106    781     484     -85     -45     
+18775  1985 223     -253    855     -560    56      1334    323     -664    -1016   -260    -131    554     1198    1468    1333    686     444     -166    -861    
+18775  1986 287     -342    855     -793    285     1226    391     -985    -505    9       29      810     1164    1331    1179    591     456     124     -816    
+18775  1987 270     -379    844     -810    92      1173    495     -832    -779    -451    121     606     1184    1261    1074    804     714     -39     -487    
+18775  1988 334     -181    933     -420    22      1356    329     -329    -445    -510    -121    693     1103    1632    1325    941     304     -258    -361    
+18775  1989 437     -61     883     -153    329     1179    397     6       -98     33      334     619     1095    1125    1314    798     296     101     -412    
+18775  1990 492     -49     957     -221    266     1356    397     -296    73      -40     244     594     1285    1459    1321    822     530     -165    40      
+18775  1991 403     -81     874     -216    171     1286    366     -142    -580    -219    191     541     1222    1344    1290    640     395     64      12      
+18775  1992 -999999 24      -999999 -103    -999999 -999999 -999999 -132    -196    -11     -7      -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

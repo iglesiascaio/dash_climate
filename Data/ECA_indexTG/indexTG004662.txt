@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  STEGEN                                   (STAID:   4662)
+LATITUDE: dd:mm:ss +47:59:16
+LONGITUDE: ddd:mm:ss +007:56:51
+ELEVATION: m  363
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4662   1985 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 465     
+4662   1986 895     -999999 1445    30      815     1736    1019    194     -633    360     657     1422    1681    1794    1732    1364    1077    614     350     
+4662   1987 880     332     1445    20      737     1673    1099    -450    174     219     1007    992     1472    1835    1706    1651    1100    546     281     
+4662   1988 996     523     1484    352     929     1705    965     516     254     424     938     1425    1586    1735    1790    1415    1105    371     351     
+4662   1989 975     526     1476    273     1027    1729    898     149     324     829     764     1478    1586    1847    1748    1411    1046    232     219     
+4662   1990 -999999 523     1465    375     996     1731    -999999 222     719     711     748     1521    1559    1791    1837    1309    -999999 -999999 -999999 

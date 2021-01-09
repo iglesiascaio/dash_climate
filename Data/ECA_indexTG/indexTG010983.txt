@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWITZERLAND                              CHAUMONT                                 (STAID:  10983)
+LATITUDE: dd:mm:ss +47:03:00
+LONGITUDE: ddd:mm:ss +006:58:59
+ELEVATION: m 1136
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+10983  2009 680     -999999 1283    -999999 689     1477    805     -372    -240    84      779     1208    1275    1506    1644    1269    692     458     -204    
+10983  2010 567     53      1154    -313    512     1472    610     -469    -261    84      679     779     1335    1701    1375    1039    622     169     -302    
+10983  2011 784     134     1282    -121    832     1390    892     -150    112     355     955     1190    1299    1280    1588    1374    735     572     68      
+10983  2012 686     220     1207    -189    720     1499    763     -74     -586    566     536     1051    1393    1459    1642    1140    775     374     -108    
+10983  2013 623     72      1152    -233    388     1506    717     -148    -466    -39     522     685     1246    1725    1538    1176    869     100     184     
+10983  2014 766     291     1155    101     669     1373    954     62      51      448     725     836     1449    1419    1255    1243    1006    613     49      
+10983  2015 784     290     1269    -68     670     1655    715     -49     -219    302     679     1006    1451    1853    1655    945     619     585     475     
+10983  2016 715     305     1209    177     493     1480    756     36      10      97      499     884     1237    1592    1603    1425    605     243     315     
+10983  2017 731     264     1231    57      716     1600    681     -341    199     535     540     1068    1586    1582    1631    959     906     170     -133    
+10983  2018 798     119     1389    -150    712     1633    884     157     -510    66      962     1117    1432    1755    1706    1351    926     373     148     
+10983  2019 -999999 290     1235    22      532     1646    -999999 -341    284     354     556     687     1592    1752    1593    1221    910     -999999 -999999 

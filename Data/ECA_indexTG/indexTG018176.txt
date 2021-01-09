@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   STORD LUFTHAVN                           (STAID:  18176)
+LATITUDE: dd:mm:ss +59:47:35
+LONGITUDE: ddd:mm:ss +005:20:26
+ELEVATION: m   49
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18176  2004 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+18176  2005 830     -999999 1149    -999999 638     1333    983     370     200     311     749     856     1146    1520    1326    1245    1079    622     385     
+18176  2006 912     443     1310    297     546     1567    1131    249     253     60      514     1063    1260    1720    1711    1571    1087    737     665     
+18176  2007 832     635     1164    456     752     1428    784     436     245     597     753     905     1474    1425    1386    1031    878     441     358     
+18176  2008 887     463     1311    386     723     1569    871     374     430     293     699     1177    1358    1782    1561    1267    835     512     336     
+18176  2009 816     416     1220    239     729     1430    902     287     77      420     859     914     1142    1589    1549    1252    749     710     189     
+18176  2010 659     297     1145    -4      605     1382    759     -137    -70     321     652     844     1174    1485    1480    1222    859     194     -167    
+18176  2011 841     249     1224    46      718     1401    1007    199     112     283     858     1016    1234    1477    1486    1259    982     781     353     
+18176  2012 764     535     1113    288     696     1367    795     270     237     577     554     953     1192    1416    1487    1060    717     611     66      
+18176  2013 791     277     1180    73      545     1429    937     90      63      106     479     1047    1260    1503    1519    1257    994     559     555     
+18176  2014 965     577     1333    448     820     1572    1074    298     496     549     845     1065    1363    1828    1518    1363    1078    782     366     
+18176  2015 859     575     1132    356     630     1361    1005    353     348     509     562     817     1079    1364    1631    1323    1003    688     592     
+18176  2016 854     509     1251    308     719     1411    969     111     217     428     590     1136    1413    1437    1384    1538    931     439     603     
+18176  2017 840     512     1193    423     710     1363    944     343     311     426     574     1125    1273    1409    1404    1360    982     489     345     
+18176  2018 850     380     1287    233     729     1473    920     285     52      98      720     1369    1340    1635    1441    1195    867     700     443     
+18176  2019 -999999 530     1240    390     738     1488    -999999 252     485     434     940     847     1340    1512    1608    1186    829     -999999 -999999 

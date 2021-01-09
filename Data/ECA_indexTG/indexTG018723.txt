@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   RV150 AKER SYKEHUS                       (STAID:  18723)
+LATITUDE: dd:mm:ss +59:56:27
+LONGITUDE: ddd:mm:ss +010:47:53
+ELEVATION: m  140
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18723  2012 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -310    517     -999999 -999999 -999999 1595    -999999 -999999 -999999 -999999 -999999 
+18723  2013 534     -999999 1154    -999999 314     1483    619     -562    -505    -479    246     1174    1333    1646    1464    1034    626     198     156     
+18723  2014 703     180     1272    -39     683     1595    739     -367    108     352     623     1072    1436    1913    1431    1135    785     296     -380    
+18723  2015 666     120     1142    -205    538     1428    706     -150    -72     229     587     799     1312    1488    1480    1178    682     259     157     
+18723  2016 692     104     1355    -202    683     1625    686     -637    -119    273     555     1216    1652    1700    1524    1471    567     24      54      
+18723  2017 639     87      1202    -100    593     1500    635     -176    -187    214     455     1107    1431    1613    1455    1134    665     106     -207    
+18723  2018 714     -79     1474    -313    620     1812    710     -242    -508    -323    587     1596    1719    2148    1567    1198    679     255     -199    
+18723  2019 -999999 90      1286    -188    637     1615    -999999 -318    -32     149     807     959     1479    1729    1633    1093    485     -999999 -999999 

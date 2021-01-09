@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   SKAMDAL                                  (STAID:  18161)
+LATITUDE: dd:mm:ss +66:14:04
+LONGITUDE: ddd:mm:ss +013:54:14
+ELEVATION: m    5
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18161  2011 -999999 -999999 -999999 -999999 -999999 -999999 711     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1122    590     424     -37     
+18161  2012 362     65      858     -256    303     1187    393     -401    -333    135     204     566     1069    1261    1229    803     266     114     -589    
+18161  2013 483     -225    1057    -442    295     1330    535     -365    -365    -415    205     1092    1320    1344    1325    1038    473     95      -13     
+18161  2014 530     36      1084    -145    389     1496    466     -507    108     68      360     737     1174    1883    1421    904     485     8       -311    
+18161  2015 521     -14     949     -234    378     1189    595     -294    -83     102     334     695     887     1222    1449    1093    495     202     100     
+18161  2016 459     -8      999     -293    435     1259    441     -712    -264    124     345     832     1116    1444    1212    1031    310     -13     61      
+18161  2017 460     2       933     -71     228     1248    504     -38     -255    -78     172     588     1177    1335    1230    1086    480     -55     -174    
+18161  2018 426     -207    1018    -385    261     1287    515     -397    -604    -525    286     1022    950     1670    1231    921     365     265     -145    
+18161  2019 -999999 -70     997     -282    302     1350    -999999 -507    -185    -216    409     715     1146    1479    1419    792     271     -999999 -999999 

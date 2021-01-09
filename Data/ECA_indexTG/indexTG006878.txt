@@ -1,0 +1,35 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   PORJUS                                   (STAID:   6878)
+LATITUDE: dd:mm:ss +66:57:35
+LONGITUDE: ddd:mm:ss +019:49:12
+ELEVATION: m  390
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+6878   1961 21      -999999 785     -999999 -165    1302    217     -1516   -893    -622    -332    454     1249    1496    1160    659     440     -457    -1447   
+6878   1962 -140    -890    687     -1323   -324    1052    19      -1263   -1251   -1385   -23     444     940     1231    980     532     174     -655    -1464   
+6878   1963 -20     -960    881     -1447   -10     1164    3       -1326   -1561   -976    -15     959     1020    1225    1243    829     57      -879    -936    
+6878   1964 14      -762    705     -1001   -105    1099    52      -629    -1470   -766    -134    585     967     1287    1039    459     306     -619    -931    
+6878   1965 -999999 -783    702     -1142   -310    1119    -999999 -1496   -983    -989    -134    198     1128    1154    1075    782     -999999 -999999 -999999 

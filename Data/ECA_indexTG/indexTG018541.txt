@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   FV64 ISFJORDEN                           (STAID:  18541)
+LATITUDE: dd:mm:ss +62:34:15
+LONGITUDE: ddd:mm:ss +007:46:59
+ELEVATION: m   27
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18541  2012 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 40      458     513     648     -999999 1088    1207    -999999 -999999 434     -234    
+18541  2013 679     -999999 1150    -171    514     1393    732     -166    -106    -92     494     1138    1239    1491    1446    1075    736     385     445     
+18541  2014 876     468     1257    382     762     1526    929     126     595     528     754     1002    1294    1790    1487    1200    978     608     137     
+18541  2015 772     460     1101    214     651     1317    864     193     322     515     562     873     1035    1268    1640    1215    905     471     232     
+18541  2016 626     261     1139    -22     564     1355    594     -304    7       244     470     976     1250    1485    1327    1313    464     8       244     
+18541  2017 655     230     1090    207     552     1308    692     220     153     276     433     944     1226    1375    1322    1229    753     92      -195    
+18541  2018 588     -25     1175    -251    493     1413    624     -235    -328    -259    476     1261    1265    1653    1317    1056    596     221     -35     
+18541  2019 -999999 127     1092    -70     548     1387    -999999 -239    77      138     754     760     1358    1494    1308    870     406     -999999 -999999 

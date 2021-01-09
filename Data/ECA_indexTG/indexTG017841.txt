@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    VERGIANO                                 (STAID:  17841)
+LATITUDE: dd:mm:ss +44:02:03
+LONGITUDE: ddd:mm:ss +012:30:01
+ELEVATION: m  360
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17841  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17841  2006 1410    -999999 1984    -999999 1296    2274    1572    250     540     818     1322    1749    2175    2485    2157    2000    1634    1079    651     
+17841  2007 1471    984     2065    705     1477    2391    1348    653     824     1048    1439    1944    2293    2558    2320    1813    1394    837     488     
+17841  2008 1457    810     2028    546     1335    2401    1527    567     584     974     1295    1735    2187    2517    2491    1924    1626    1027    518     
+17841  2009 1453    850     2085    490     1419    2378    1502    391     569     950     1342    1962    2165    2466    2495    2056    1425    1027    527     
+17841  2010 1356    781     1972    441     1292    2314    1420    244     563     886     1259    1729    2133    2499    2304    1885    1351    1028    338     
+17841  2011 1447    747     2098    400     1361    2369    1522    307     573     878     1429    1778    2191    2373    2537    2263    1418    887     673     
+17841  2012 1440    773     2088    407     1335    2531    1591    325     210     1091    1262    1651    2367    2639    2583    2004    1594    1175    337     
+17841  2013 1420    809     2002    407     1284    2330    1560    432     457     836     1347    1671    2133    2446    2406    1989    1574    1117    568     
+17841  2014 1507    992     1952    731     1380    2254    1600    733     910     1049    1392    1700    2209    2261    2292    1844    1695    1258    699     
+17841  2015 1485    984     2103    654     1374    2463    1487    630     631     967     1322    1833    2225    2726    2432    2059    1429    975     525     
+17841  2016 1449    891     2037    649     1341    2341    1480    576     861     979     1385    1695    2179    2534    2304    2056    1387    1000    441     
+17841  2017 1485    835     2099    476     1440    2515    1438    268     745     1162    1355    1801    2402    2544    2595    1875    1501    935     589     
+17841  2018 1472    818     2107    556     1385    2404    1573    702     358     784     1515    1859    2235    2492    2481    2047    1585    1086    444     
+17841  2019 -999999 898     -999999 511     1301    -999999 -999999 378     733     1150    1284    1474    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

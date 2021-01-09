@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   HORNSET                                  (STAID:  18866)
+LATITUDE: dd:mm:ss +61:47:53
+LONGITUDE: ddd:mm:ss +011:08:12
+ELEVATION: m  278
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18866  1965 -999999 -999999 893     -999999 99      1184    169     -999999 -999999 -571    232     640     1210    1215    1127    923     339     -759    -1460   
+18866  1966 98      -897    892     -1564   60      1364    242     -1675   -1556   -331    -187    689     1495    1394    1208    731     247     -254    -701    
+18866  1967 259     -449    940     -885    271     1285    408     -1349   -577    -68     183     695     1190    1370    1292    892     328     6       -897    
+18866  1968 100     -603    993     -1215   179     1397    40      -1480   -1273   -325    251     613     1423    1421    1348    892     156     -932    -944    
+18866  1969 166     -792    1079    -1047   62      1534    131     -750    -1490   -865    233     825     1556    1448    1599    791     405     -811    -1078   
+18866  1970 126     -834    961     -1383   116     1388    167     -1489   -1603   -502    -15     860     1605    1239    1328    732     341     -577    -534    
+18866  1971 251     -399    916     -543    151     1243    151     -699    -379    -551    157     847     1141    1374    1212    740     256     -546    -584    
+18866  1972 291     -512    970     -867    284     1344    242     -1262   -747    -205    203     853     1231    1620    1178    708     293     -275    -145    
+18866  1973 300     -123    957     -287    324     1387    -36     -200    -541    85      119     762     1395    1581    1185    681     -36     -751    -784    

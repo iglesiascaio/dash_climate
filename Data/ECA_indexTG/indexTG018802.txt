@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   SANDNESSJOEEN - BJOERKLI                 (STAID:  18802)
+LATITUDE: dd:mm:ss +65:59:29
+LONGITUDE: ddd:mm:ss +012:35:17
+ELEVATION: m   75
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18802  1964 -999999 -999999 -999999 -999999 -999999 -999999 602     -999999 -999999 -999999 -999999 -999999 -999999 1242    1201    816     798     186     42      
+18802  1965 436     105     936     -102    345     1104    561     -253    -94     -66     502     605     1124    1037    1150    1198    682     -201    -479    
+18802  1966 362     -242    858     -597    193     1227    460     -504    -830    -172    104     645     1293    1233    1158    699     418     263     -49     
+18802  1967 510     74      966     -146    443     1161    707     -406    34      188     248     879     969     1204    1303    1150    514     463     -455    
+18802  1968 409     -18     863     -354    281     1101    395     -338    -262    -30     308     567     1082    1122    1099    992     211     -12     150     
+18802  1969 497     -47     1033    -134    346     1413    450     -184    -393    -85     418     706     1270    1306    1657    820     635     -113    -150    
+18802  1970 476     -83     990     -351    348     1325    478     -361    -562    7       183     849     1274    1363    1336    919     552     -38     109     
+18802  1971 -999999 37      -999999 -2      269     -999999 -999999 -22     -104    -288    248     848     1122    -999999 -999999 -999999 -999999 -999999 -999999 

@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  HOHENNAUEN                               (STAID:  11756)
+LATITUDE: dd:mm:ss +52:40:00
+LONGITUDE: ddd:mm:ss +012:19:59
+ELEVATION: m    3
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11756  1953 -999999 -999999 -999999 -999999 -999999 -999999 995     -999999 -999999 -999999 -999999 -999999 -999999 1831    1697    1348    1064    572     203     
+11756  1954 811     237     1383    -202    788     1629    952     -335    -503    359     602     1398    1735    1505    1651    1394    1067    392     364     
+11756  1955 780     216     1377    -48     569     1708    901     -208    -326    -41     692     1059    1481    1852    1784    1374    881     449     279     
+11756  1956 722     165     1313    -221    717     1550    846     5       -998    305     507     1333    1439    1786    1421    1371    882     284     240     
+11756  1957 894     416     1346    251     786     1707    884     138     390     555     760     1043    1735    1841    1547    1137    1000    509     46      
+11756  1958 851     285     1390    54      646     1657    963     -57     187     23      552     1358    1486    1765    1715    1443    1020    425     252     
+11756  1959 929     395     1529    91      979     1860    806     16      -4      627     988     1324    1716    2009    1848    1268    832     317     130     
+11756  1960 870     274     1390    34      814     1655    944     37      -73     378     712     1349    1715    1625    1628    1294    902     636     205     
+11756  1961 932     465     1457    190     956     1644    1039    -78     470     662     1108    1104    1765    1593    1578    1598    1103    414     -131    
+11756  1962 754     303     1274    74      662     1501    823     239     119     61      899     1032    1461    1511    1530    1204    911     352     -298    
+11756  1963 751     -37     1474    -583    789     1765    1002    -843    -612    223     826     1320    1714    1860    1720    1385    853     773     -283    
+11756  1964 816     159     1470    -216    736     1746    851     -331    -21     -27     888     1352    1795    1850    1594    1326    713     519     127     
+11756  1965 785     276     1332    72      711     1563    733     172     -100    199     741     1193    1637    1541    1513    1360    789     49      263     
+11756  1966 881     221     1451    20      875     1728    888     -266    68      405     838     1381    1835    1696    1657    1288    1116    254     244     

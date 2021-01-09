@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   KLEVAVATNET                              (STAID:  18116)
+LATITUDE: dd:mm:ss +60:43:09
+LONGITUDE: ddd:mm:ss +007:12:30
+ELEVATION: m  960
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18116  2013 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -252    
+18116  2014 185     -999999 -999999 -497    0       973     340     -819    -413    -267    3       304     725     1309    914     753     303     -21     -406    
+18116  2015 139     -194    446     -401    -108    685     305     -409    -388    -254    -169    97      401     703     943     689     292     -66     -214    
+18116  2016 152     -291    634     -566    -16     880     266     -860    -630    -282    -177    406     850     909     880     933     215     -350    -80     
+18116  2017 144     -214    550     -288    -26     794     205     -368    -431    -298    -181    396     666     887     825     695     221     -302    -430    
+18116  2018 213     -421    785     -569    15      1109    261     -505    -793    -753    -3      802     995     1445    882     565     170     51      -377    
+18116  2019 -999999 -209    674     -376    1       1046    -999999 -537    -197    -354    105     257     827     1188    1115    534     104     -999999 -999999 

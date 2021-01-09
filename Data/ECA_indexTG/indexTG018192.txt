@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   MANNEN                                   (STAID:  18192)
+LATITUDE: dd:mm:ss +62:27:20
+LONGITUDE: ddd:mm:ss +007:46:13
+ELEVATION: m 1294
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18192  2010 -999999 -999999 385     -999999 -999999 658     -999999 -999999 -999999 -999999 -245    107     344     835     783     410     -100    -999999 -1028   
+18192  2011 37      -999999 484     -999999 -174    737     211     -680    -999999 -698    51      131     581     874     751     507     58      72      -592    
+18192  2012 -999999 -999999 -999999 -999999 -999999 550     -157    -999999 -999999 -289    -304    201     299     633     709     178     -278    -367    -966    
+18192  2013 -999999 -999999 404     -999999 -351    688     70      -999999 -999999 -964    -483    350     488     836     733     476     110     -376    -425    
+18192  2014 -999999 -999999 536     -999999 -78     824     125     -999999 -460    -360    -93     219     496     1245    719     608     100     -331    -572    
+18192  2015 -999999 -999999 294     -999999 -282    564     158     -999999 -999999 -415    -327    -105    226     564     891     503     181     -210    -382    
+18192  2016 27      -999999 435     -999999 -199    686     112     -999999 -999999 -403    -413    210     654     744     661     742     32      -495    -212    
+18192  2017 -999999 -999999 -999999 -999999 -999999 563     -56     -450    -999999 -587    -999999 129     426     650     610     436     -87     -516    -650    
+18192  2018 -999999 -999999 534     -999999 -156    800     64      -999999 -999999 -936    -197    665     582     1162    648     318     -78     -48     -573    
+18192  2019 -999999 -999999 435     -999999 -256    807     -999999 -999999 -999999 -658    -71     -33     616     895     905     283     -160    -999999 -999999 

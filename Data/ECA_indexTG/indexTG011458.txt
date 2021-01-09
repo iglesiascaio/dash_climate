@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    CANZO                                    (STAID:  11458)
+LATITUDE: dd:mm:ss +45:50:57
+LONGITUDE: ddd:mm:ss +009:19:05
+ELEVATION: m 1233
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11458  2011 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1546    1917    1657    902     -999999 259     
+11458  2012 912     -999999 1437    88      855     1835    937     138     -150    808     577     1171    1673    1851    1975    1349    915     520     36      
+11458  2013 827     265     1352    10      581     1721    880     142     -161    114     697     921     1511    1901    1762    1356    891     392     367     
+11458  2014 -999999 -999999 -999999 -999999 -999999 1524    996     -999999 -999999 582     852     -999999 1530    1564    1480    1326    1007    675     261     
+11458  2015 957     436     1460    161     767     1839    921     176     -999999 388     791     1176    1610    2094    1797    1190    808     769     495     
+11458  2016 879     447     1371    259     702     1645    890     48      228     308     778     1023    1459    1809    1662    1485    789     387     472     
+11458  2017 -999999 397     1409    177     879     1801    842     -156    195     683     778     1173    1696    1793    1906    1095    1075    350     -999999 

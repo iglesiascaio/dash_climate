@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  PAPENBURG                                (STAID:   4505)
+LATITUDE: dd:mm:ss +53:03:56
+LONGITUDE: ddd:mm:ss +007:28:55
+ELEVATION: m    7
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4505   1950 903     -999999 1387    -999999 860     1688    890     112     482     618     707     1250    1686    1671    1707    1282    871     517     -84     
+4505   1951 915     358     1357    158     702     1600    1002    295     275     273     670     1162    1491    1626    1680    1500    727     787     457     
+4505   1952 825     455     1340    296     839     1584    690     208     218     330     954     1236    1433    1651    1663    1082    764     221     113     
+4505   1953 946     299     1387    117     838     1635    1067    134     103     438     801     1273    1628    1668    1608    1330    1141    729     445     
+4505   1954 838     429     1268    70      760     1490    1006    -45     -217    469     594     1210    1497    1423    1550    1322    1117    575     477     
+4505   1955 831     359     1350    115     606     1656    963     -55     -98     100     756     966     1405    1783    1772    1402    891     599     396     
+4505   1956 767     297     1245    -34     708     1441    926     126     -664    381     514     1224    1334    1652    1333    1397    927     453     454     

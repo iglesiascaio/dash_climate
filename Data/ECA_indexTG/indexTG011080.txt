@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    TARREGA                                  (STAID:  11080)
+LATITUDE: dd:mm:ss +41:40:00
+LONGITUDE: ddd:mm:ss +001:09:55
+ELEVATION: m  427
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11080  2008 1375    -999999 1935    -999999 1286    2277    1330    557     871     975     1307    1577    2035    2398    2388    1884    1446    656     383     
+11080  2009 1461    751     2042    467     1321    2421    1560    386     651     975     1117    1865    2272    2467    2518    1991    1588    1099    545     
+11080  2010 1335    838     1935    497     1203    2299    1355    408     541     828     1286    1496    1975    2549    2363    1920    1377    766     449     
+11080  2011 1490    778     2077    513     1453    2283    1650    395     714     957     1537    1867    2086    2262    2495    2204    1654    1093    572     
+11080  2012 1457    877     2064    454     1383    2453    1511    429     355     1133    1182    1828    2379    2342    2636    2000    1569    961     621     
+11080  2013 1375    868     1903    561     1179    2272    1550    496     565     969     1227    1343    1937    2524    2344    2029    1740    876     389     
+11080  2014 1485    905     1994    592     1353    2257    1691    685     713     1011    1460    1592    2177    2275    2318    2134    1782    1154    481     
+11080  2015 1485    907     2093    467     1452    2466    1449    423     500     1068    1381    1905    2292    2693    2406    1858    1532    955     728     
+11080  2016 1450    934     2013    744     1234    2367    1554    736     770     873     1244    1585    2134    2515    2444    2140    1574    946     414     
+11080  2017 1467    874     2074    522     1430    2473    1438    354     830     1123    1321    1844    2408    2520    2487    1841    1650    816     365     
+11080  2018 1452    812     2052    505     1258    2394    1559    705     437     860     1317    1597    2140    2553    2481    2210    1491    977     581     
+11080  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

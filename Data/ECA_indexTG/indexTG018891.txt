@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   OPPDAL - MYRHAUGEN                       (STAID:  18891)
+LATITUDE: dd:mm:ss +62:39:43
+LONGITUDE: ddd:mm:ss +009:49:17
+ELEVATION: m  668
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18891  1993 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 18      -412    -792    
+18891  1994 196     -527    747     -821    87      1108    205     -693    -996    -331    158     435     760     1484    1071    552     111     -44     -252    
+18891  1995 208     -206    693     -341    17      1032    274     -417    -355    -287    -119    452     918     1143    1030    714     475     -374    -724    
+18891  1996 124     -408    706     -720    30      1074    62      -614    -829    -405    177     323     872     972     1373    504     371     -698    -606    
+18891  1997 254     -320    786     -454    -34     1279    172     -339    -411    -258    -184    336     1003    1391    1433    713     17      -209    -493    
+18891  1998 213     -254    701     -329    52      944     130     -324    -153    -351    -11     515     869     1039    921     860     41      -508    -372    
+18891  1999 -999999 -318    -999999 -429    176     -999999 -999999 -481    -434    -170    219     481     1017    1181    -999999 -999999 -999999 -999999 -999999 

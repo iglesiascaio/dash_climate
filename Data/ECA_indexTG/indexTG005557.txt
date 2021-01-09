@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   FAGERVIKEN                               (STAID:   5557)
+LATITUDE: dd:mm:ss +60:32:24
+LONGITUDE: ddd:mm:ss +017:45:00
+ELEVATION: m    5
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5557   1966 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -98     
+5557   1967 561     -999999 1143    -342    457     1518    747     -694    -223    261     352     754     1300    1710    1536    1185    719     337     -551    
+5557   1968 480     -116    1165    -618    440     1543    465     -815    -478    82      555     686     1610    1508    1515    1110    428     -143    -326    
+5557   1969 450     -281    1143    -508    155     1600    597     -366    -866    -467    291     646     1469    1649    1679    1108    692     -13     -510    
+5557   1970 392     -325    1055    -847    204     1499    559     -794    -1278   -132    114     627     1517    1506    1475    1076    606     -8      -129    
+5557   1971 534     -35     1090    -168    260     1485    508     -172    -207    -316    174     920     1339    1600    1510    974     585     -38     -25     
+5557   1972 597     -52     1169    -282    329     1642    600     -593    -224    -27     303     711     1515    1895    1512    1061    591     149     238     
+5557   1973 599     202     1189    72      492     1657    373     106     -150    242     304     924     1594    1887    1488    912     371     -165    -392    
+5557   1974 625     -25     1125    -131    395     1464    633     -40     58      21      425     739     1385    1482    1523    1184    463     257     -30     
+5557   1975 680     123     1211    -26     441     1582    717     35      -88     83      344     894     1325    1741    1672    1270    631     254     -54     
+5557   1976 449     -61     1053    -299    288     1413    477     -619    -220    -359    274     947     1250    1526    1457    836     453     142     -323    
+5557   1977 494     -85     985     -393    347     1331    603     -301    -573    49      190     795     1338    1296    1361    911     670     227     -111    
+5557   1978 448     -32     1041    -322    282     1450    579     -228    -659    -144    167     819     1445    1456    1450    889     529     321     -742    

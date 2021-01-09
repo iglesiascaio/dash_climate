@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    CASTELLNOU DE BAGES                      (STAID:  11024)
+LATITUDE: dd:mm:ss +41:49:50
+LONGITUDE: ddd:mm:ss +001:50:48
+ELEVATION: m  507
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11024  2008 1308    -999999 1804    -999999 1178    2123    1306    621     793     897     1179    1457    1882    2220    2261    1806    1426    683     451     
+11024  2009 1401    760     1945    492     1277    2288    1490    419     618     946     1087    1791    2137    2321    2402    1907    1539    1023    561     
+11024  2010 1264    797     1826    486     1116    2166    1297    391     510     737     1198    1415    1851    2404    2232    1840    1331    719     482     
+11024  2011 1422    775     1931    557     1351    2113    1614    508     694     907     1435    1714    1900    2100    2334    2092    1621    1128    588     
+11024  2012 1385    881     1936    488     1259    2319    1466    484     386     1056    1090    1625    2199    2250    2505    1931    1504    962     591     
+11024  2013 1328    836     1811    538     1127    2157    1501    504     516     914     1182    1286    1872    2356    2234    1919    1676    902     510     
+11024  2014 1405    899     1887    599     1304    2138    1569    628     665     988     1409    1518    2057    2176    2179    1974    1678    1051    495     
+11024  2015 1429    872     1982    483     1373    2339    1403    452     506     1024    1283    1808    2167    2593    2253    1763    1426    1020    779     
+11024  2016 1418    927     1927    755     1169    2284    1496    712     774     842     1172    1493    2073    2427    2344    2039    1505    944     668     
+11024  2017 1414    905     1979    629     1348    2379    1374    392     850     1070    1243    1729    2320    2427    2389    1746    1582    788     389     
+11024  2018 1354    775     1896    485     1172    2197    1473    659     399     795     1261    1462    1966    2328    2290    2055    1434    930     600     
+11024  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

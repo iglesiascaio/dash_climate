@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION BELARUS                                  MOZYR                                    (STAID:    657)
+LATITUDE: dd:mm:ss +52:00:00
+LONGITUDE: ddd:mm:ss +029:12:00
+ELEVATION: m  173
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+657    1995 784     -999999 1544    -999999 832     1906    698     -432    140     319     840     1338    1956    1931    1830    1354    804     -122    -711    
+657    1996 624     -380    1508    -853    725     1763    821     -1056   -786    -423    894     1748    1692    1753    1840    1082    821     561     -663    
+657    1997 702     12      1414    -465    646     1845    665     -612    -93     77      469     1385    1723    1925    1888    1108    603     272     -568    
+657    1998 763     -999999 1551    -999999 831     1845    559     -144    40      42      931     1434    1957    1880    1704    1396    703     -427    -550    
+657    1999 868     -89     1662    -377    872     2068    710     -235    -338    301     1127    1168    2240    2174    1802    1458    767     -97     -77     
+657    2000 864     36      1545    -208    959     1813    844     -483    -50     147     1242    1445    1712    1832    1893    1129    972     411     32      
+657    2001 776     172     1592    -173    826     1973    760     -216    -353    150     1029    1305    1578    2368    1972    1307    874     94      -841    
+657    2002 840     71      1662    -323    966     2047    717     -330    238     389     923     1565    1809    2339    1994    1322    571     260     -966    
+657    2003 729     -229    1537    -739    806     1824    709     -499    -751    3       634     1776    1618    2098    1750    1306    561     285     -128    
+657    2004 744     -1      1453    -369    739     1808    766     -602    -377    240     786     1194    1596    1902    1920    1302    877     114     -66     
+657    2005 -999999 -2      -999999 -243    710     -999999 -999999 -134    -561    -292    936     1493    1622    -999999 -999999 -999999 -999999 -999999 -999999 

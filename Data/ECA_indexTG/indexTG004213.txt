@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  HERRENBERG                               (STAID:   4213)
+LATITUDE: dd:mm:ss +48:35:34
+LONGITUDE: ddd:mm:ss +008:51:19
+ELEVATION: m  430
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4213   1978 -999999 -999999 1284    -999999 -999999 1519    794     -999999 -999999 -999999 732     1138    1461    1609    1486    1266    834     280     82      
+4213   1979 828     222     1335    -109    784     1610    896     -445    53      513     600     1233    1632    1666    1532    1332    950     404     417     
+4213   1980 781     388     1303    172     709     1572    823     -191    297     445     595     1084    1465    1511    1736    1416    782     273     -55     
+4213   1981 831     240     1381    -123    925     1607    895     -206    -106    721     834     1216    1523    1647    1648    1408    841     437     -58     
+4213   1982 885     245     1434    -86     770     1732    994     -165    -31     424     641     1239    1656    1889    1648    1513    908     563     272     
+4213   1983 896     400     1496    148     806     1872    820     373     -238    463     866     1091    1653    2109    1846    1391    887     180     35      
+4213   1984 776     217     1258    21      595     1563    893     61      -38     160     645     982     1415    1667    1604    1218    964     495     103     
+4213   1985 -999999 188     -999999 -232    -999999 -999999 -999999 -601    -193    331     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

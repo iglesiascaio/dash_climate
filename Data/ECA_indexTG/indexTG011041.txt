@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    GUARDIOLA DE BERGUEDA                    (STAID:  11041)
+LATITUDE: dd:mm:ss +42:14:03
+LONGITUDE: ddd:mm:ss +001:52:28
+ELEVATION: m  788
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11041  2008 1128    -999999 1649    -999999 1003    1979    1102    376     556     677     1044    1290    1733    2084    2112    1613    1188    504     332     
+11041  2009 1178    576     1733    322     1121    2048    1206    237     404     772     953     1633    1903    2121    2115    1654    1243    720     319     
+11041  2010 999     539     1564    252     891     1886    1000    196     240     495     989     1192    1603    2108    1938    1533    1074    391     176     
+11041  2011 1137    487     1667    253     1118    1863    1267    167     435     672     1220    1465    1723    1849    2011    1722    1253    829     257     
+11041  2012 1101    582     1666    218     977     2063    1155    184     212     741     806     1378    1930    2053    2201    1606    1164    694     207     
+11041  2013 1028    547     1499    244     884     1816    1167    286     238     667     946     1042    1620    1928    1892    1555    1295    646     165     
+11041  2014 1102    580     1582    272     1032    1807    1229    311     349     695     1149    1257    1707    1831    1880    1658    1315    711     312     
+11041  2015 1132    607     1684    268     1136    2004    1079    245     244     780     1061    1565    1806    2254    1945    1447    1096    694     377     
+11041  2016 1098    598     1625    397     926     1960    1142    345     474     595     942     1240    1719    2095    2059    1679    1181    564     258     
+11041  2017 1126    582     1694    307     1092    2075    1066    136     549     799     1012    1461    1961    2133    2128    1449    1270    474     94      
+11041  2018 1082    474     1628    178     941     1910    1189    335     96      540     1023    1263    1769    2021    1936    1747    1159    663     371     
+11041  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

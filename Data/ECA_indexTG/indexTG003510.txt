@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   TORUP A                                  (STAID:   3510)
+LATITUDE: dd:mm:ss +56:56:58
+LONGITUDE: ddd:mm:ss +013:03:45
+ELEVATION: m  130
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+3510   2008 808     -999999 1291    -999999 693     1563    759     242     297     173     681     1224    1442    1713    1529    1136    818     320     96      
+3510   2009 730     193     1341    -62     742     1592    778     -97     -197    185     955     1093    -999999 1695    1623    1269    523     549     -148    
+3510   2010 544     2       1246    -382    541     1593    605     -632    -363    67      612     945     1355    1841    1576    1124    617     73      -748    
+3510   2011 788     -56     1343    -399    707     1590    884     -174    -262    140     922     1066    1533    1691    1546    1289    807     560     274     
+3510   2012 683     291     1213    -22     704     1470    771     -39     -322    433     489     1183    1253    1601    1551    1179    667     470     -308    
+3510   2013 720     19      1275    -265    509     1583    805     -262    -220    -244    484     1285    1444    1720    1579    1110    881     423     373     
+3510   2014 875     396     1354    186     829     1607    952     -75     269     496     819     1173    1430    1902    1485    1302    983     571     106     
+3510   2015 804     380     1203    112     633     1492    846     155     70      370     634     895     1256    1562    1651    1207    790     543     461     
+3510   2016 -999999 303     -999999 73      720     -999999 784     -299    54      258     581     1317    -999999 -999999 -999999 1446    682     226     278     
+3510   2017 775     249     1252    85      683     1508    832     -68     41      313     530     1200    1463    1548    1513    1241    876     377     216     
+3510   2018 855     190     1515    5       740     1798    867     84      -317    -141    790     1574    1693    2020    1677    1310    875     415     195     
+3510   2019 -999999 355     1345    145     728     1675    -999999 -27     280     388     801     999     1714    1668    1644    1236    787     -999999 -999999 

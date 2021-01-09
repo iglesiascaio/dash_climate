@@ -1,0 +1,47 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  MEINERZHAGEN (A)                         (STAID:   4399)
+LATITUDE: dd:mm:ss +51:05:56
+LONGITUDE: ddd:mm:ss +007:40:04
+ELEVATION: m  506
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4399   1979 -999999 -999999 -999999 -999999 -999999 -999999 773     -999999 -999999 -999999 -999999 -999999 -999999 -999999 1325    1189    889     237     241     
+4399   1980 655     266     1152    71      592     1352    702     -244    225     242     521     1009    1215    1329    1507    1320    633     155     -64     
+4399   1981 691     170     1225    -119    797     1408    729     -160    -135    559     690     1138    1294    1422    1506    1285    592     314     -264    
+4399   1982 794     148     1305    -105    639     1569    943     -82     45      279     530     1106    1427    1751    1526    1476    834     522     62      
+4399   1983 786     286     1317    22      601     1719    782     240     -264    273     678     854     1491    1925    1734    1202    765     379     78      
+4399   1984 686     210     1114    -15     526     1395    827     -47     -82     155     579     848     1164    1413    1600    1064    887     527     99      
+4399   1985 624     148     1177    -239    652     1343    667     -546    -274    164     597     1194    1107    1527    1388    1230    834     -68     256     
+4399   1986 675     86      1180    -156    604     1488    801     -111    -660    187     387     1231    1507    1525    1432    979     917     503     96      
+4399   1987 632     129     1165    -190    509     1351    823     -592    -63     -91     856     773     1177    1493    1377    1307    834     329     153     
+4399   1988 767     285     1224    147     690     1410    759     252     30      97      691     1282    1293    1417    1516    1128    869     278     309     
+4399   1989 859     403     1294    227     803     1527    873     171     197     567     483     1348    1405    1623    1550    1332    951     333     285     
+4399   1990 817     451     1232    278     811     1511    761     131     435     567     578     1279    1305    1495    1725    983     975     318     -27     
+4399   1991 730     277     1206    -93     665     1490    810     18      -289    613     574     806     1063    1745    1649    1382    742     307     66      
+4399   1992 818     304     1343    130     778     1624    707     100     232     371     616     1343    1514    1690    1663    1210    504     415     134     
+4399   1993 741     260     1255    93      857     1407    590     175     -41     350     933     1290    1435    1434    1352    1078    684     5       145     
+4399   1994 842     233     1311    75      724     1674    848     134     -66     460     637     1072    1410    2022    1581    1121    722     705     236     
+4399   1995 792     339     1314    149     666     1646    845     -65     289     157     706     1137    1269    1891    1765    1090    1126    309     -215    

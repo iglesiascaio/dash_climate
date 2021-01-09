@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  FRAMMERSBACH                             (STAID:   4101)
+LATITUDE: dd:mm:ss +50:03:46
+LONGITUDE: ddd:mm:ss +009:27:21
+ELEVATION: m  260
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4101   1965 -999999 -999999 1230    -999999 -999999 1482    670     -999999 -999999 -999999 646     1133    1530    1519    1398    1143    689     177     328     
+4101   1966 828     282     1326    179     804     1517    827     -292    537     274     896     1246    1594    1477    1482    1251    1065    156     246     
+4101   1967 839     373     1324    169     765     1611    879     2       269     480     639     1171    1418    1850    1558    1288    1072    270     8       
+4101   1968 764     276     1304    -26     752     1546    849     -136    53      371     800     1086    1535    1559    1544    1293    946     305     -201    
+4101   1969 752     179     1350    -144    730     1620    862     20      -263    230     686     1272    1448    1801    1606    1266    848     472     -437    
+4101   1970 750     113     1289    -261    598     1604    885     -244    -85     118     547     1126    1672    1528    1614    1230    900     523     22      
+4101   1971 775     229     1334    -44     743     1579    706     -256    117     69      775     1387    1345    1717    1667    1085    744     287     314     
+4101   1972 717     290     1230    82      746     1527    626     -215    154     448     722     1067    1351    1737    1486    995     533     353     -50     
+4101   1973 766     194     1328    -15     685     1633    759     -25     37      306     505     1237    1561    1654    1682    1310    671     300     -94     
+4101   1974 842     340     1254    162     792     1495    704     306     284     565     755     1056    1364    1483    1635    1220    494     404     491     
+4101   1975 858     377     1399    341     728     1693    805     397     113     335     682     1164    1467    1791    1813    1460    686     272     55      
+4101   1976 826     229     1394    92      663     1764    853     199     16      134     626     1229    1777    1928    1587    1200    893     466     -169    
+4101   1977 837     350     1258    51      751     1573    853     47      301     565     545     1137    1513    1637    1567    1132    938     485     140     
+4101   1978 749     339     1215    31      755     1442    762     95      -161    491     646     1124    1426    1516    1382    1182    826     277     112     
+4101   1979 745     170     1265    -181    714     1547    785     -540    -108    430     573     1133    1658    1532    1454    1226    803     324     394     
+4101   1980 -999999 330     1255    133     699     1514    -999999 -216    227     442     568     1084    1431    1474    1634    1323    702     -999999 -999999 

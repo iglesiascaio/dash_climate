@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FRANCE                                   VANNESSA                                 (STAID:  11310)
+LATITUDE: dd:mm:ss +47:37:59
+LONGITUDE: ddd:mm:ss -002:45:00
+ELEVATION: m   11
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11310  1986 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 773     
+11310  1987 1135    -999999 1586    445     1045    1765    1291    51      517     692     1200    1248    1509    1909    1869    1768    1268    836     721     
+11310  1988 1218    868     1538    741     1137    1689    1272    819     680     873     1139    1398    1707    1606    1753    1619    1384    809     812     
+11310  1989 1303    899     1690    719     1202    1936    1365    614     734     1021    909     1668    1758    2107    1937    1740    1431    922     739     
+11310  1990 1310    974     1682    854     1208    1888    1341    797     1046    915     1059    1644    1583    2009    2063    1712    1414    893     557     
+11310  1991 1198    808     1617    500     1142    1799    1335    571     358     1014    1003    1406    1474    1848    2064    1889    1221    900     561     
+11310  1992 1229    788     1616    559     1195    1827    1270    483     640     915     1049    1615    1721    1859    1899    1533    1133    1150    727     
+11310  1993 1215    901     1585    752     1136    1799    1111    897     620     861     1145    1402    1779    1744    1874    1559    1106    669     875     
+11310  1994 1320    886     1601    837     1134    1891    1380    826     805     1021    995     1380    1698    2009    1958    1548    1387    1205    962     
+11310  1995 1325    1031    1698    912     1147    2007    1356    780     1002    853     1114    1473    1704    2115    2192    1569    1578    915     570     
+11310  1996 1196    873     1570    642     1029    1841    1298    788     563     806     1082    1201    1757    1909    1854    1611    1385    894     478     
+11310  1997 1329    858     1697    565     1287    1887    1444    366     882     1145    1175    1538    1628    1894    2132    1798    1443    1092    820     
+11310  1998 -999999 972     1605    759     1212    1755    -999999 675     785     1005    1008    1615    1631    1710    1920    1729    -999999 -999999 -999999 

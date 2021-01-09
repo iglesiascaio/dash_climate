@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   NYNASHAMN                                (STAID:   6220)
+LATITUDE: dd:mm:ss +58:55:12
+LONGITUDE: ddd:mm:ss +017:55:12
+ELEVATION: m   15
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+6220   1961 694     -999999 1160    -999999 568     1471    873     -213    84      354     444     902     1509    1495    1410    1189    1088    334     -305    
+6220   1962 485     15      1029    -233    161     1337    670     -166    -227    -646    396     740     1262    1401    1345    1015    758     233     -323    
+6220   1963 493     -219    1178    -644    284     1526    743     -834    -790    -400    265     986     1404    1618    1553    1224    692     316     -197    
+6220   1964 558     -4      1111    -262    363     1431    649     -187    -413    -253    374     967     1363    1535    1392    1017    693     234     -64     
+6220   1965 479     21      1052    -205    254     1361    586     -142    -429    -205    340     629     1341    1369    1373    1253    711     -212    -343    
+6220   1966 -999999 -257    -999999 -668    284     -999999 -999999 -658    -1040   -74     48      870     -999999 -999999 -999999 -999999 -999999 -999999 -999999 

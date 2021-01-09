@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   KISTEFJELL                               (STAID:  18280)
+LATITUDE: dd:mm:ss +69:17:22
+LONGITUDE: ddd:mm:ss +018:07:44
+ELEVATION: m  982
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18280  2013 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 742     645     449     -291    -999999 -999999 
+18280  2014 -999999 -999999 -999999 -999999 -999999 -999999 -155    -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 173     -218    -417    -744    
+18280  2015 -180    -618    225     -837    -380    492     -56     -944    -822    -575    -434    -131    48      584     829     433     -166    -430    -599    
+18280  2016 -144    -598    290     -791    -299    509     -30     -982    -793    -625    -402    126     182     802     534     477     12      -581    -518    
+18280  2017 -209    -559    209     -652    -544    502     -64     -734    -710    -838    -440    -349    306     672     521     540     -129    -602    -773    
+18280  2018 -189    -747    296     -899    -450    585     -51     -955    -976    -1067   -410    129     57      1086    595     286     -251    -182    -644    
+18280  2019 -999999 -642    289     -836    -424    631     -999999 -1009   -857    -916    -257    -94     315     792     776     179     -498    -999999 -999999 

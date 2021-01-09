@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   LYNGEN - GJERDVASSBU                     (STAID:  18291)
+LATITUDE: dd:mm:ss +69:33:32
+LONGITUDE: ddd:mm:ss +020:05:38
+ELEVATION: m  710
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18291  2011 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -444    
+18291  2012 -110    -999999 313     -652    -317    659     -5      -821    -693    -442    -553    37      414     811     743     402     -116    -296    -829    
+18291  2013 27      -581    587     -702    -303    920     47      -596    -680    -969    -333    392     824     979     953     686     -74     -468    -435    
+18291  2014 13      -456    461     -559    -268    864     46      -837    -389    -525    -288    7       413     1262    901     443     -60     -241    -563    
+18291  2015 45      -421    458     -646    -139    725     163     -763    -608    -305    -238    123     346     750     1068    681     55      -242    -383    
+18291  2016 48      -419    525     -623    -118    771     128     -826    -663    -465    -265    372     460     1087    756     716     94      -425    -301    
+18291  2017 -61     -398    351     -481    -444    723     63      -523    -636    -623    -573    -141    491     871     800     641     1       -449    -631    
+18291  2018 36      -608    577     -750    -247    897     180     -793    -834    -960    -216    437     393     1384    898     532     -19     35      -487    
+18291  2019 -999999 -459    480     -672    -264    828     -999999 -863    -665    -757    -110    80      510     985     979     418     -392    -999999 -999999 

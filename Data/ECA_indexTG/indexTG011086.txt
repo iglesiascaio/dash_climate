@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    VILANOVA DE MEIA                         (STAID:  11086)
+LATITUDE: dd:mm:ss +41:59:44
+LONGITUDE: ddd:mm:ss +001:01:32
+ELEVATION: m  594
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11086  2008 1262    -999999 1811    -999999 1166    2153    1213    451     781     859     1188    1451    1905    2257    2290    1754    1343    538     306     
+11086  2009 1374    665     1959    373     1262    2341    1411    270     547     920     1066    1792    2182    2414    2422    1850    1422    946     438     
+11086  2010 1211    719     1799    395     1104    2150    1212    297     456     742     1192    1380    1856    2383    2206    1788    1248    599     393     
+11086  2011 1379    673     1960    438     1338    2160    1554    335     602     854     1416    1748    1933    2125    2415    2113    1554    994     410     
+11086  2012 1356    789     1957    363     1285    2355    1398    329     348     1079    1057    1711    2256    2246    2559    1895    1435    864     446     
+11086  2013 1261    745     1783    420     1083    2145    1417    359     460     882     1146    1222    1828    2379    2217    1889    1576    781     334     
+11086  2014 1359    806     1866    495     1282    2104    1540    563     598     962     1414    1475    2042    2132    2135    1994    1624    999     333     
+11086  2015 1397    794     2001    361     1410    2357    1317    306     453     1025    1358    1846    2190    2600    2276    1711    1384    854     690     
+11086  2016 1353    831     1925    656     1130    2292    1432    621     656     771     1145    1475    2043    2440    2384    2044    1456    796     379     
+11086  2017 1371    793     1972    466     1355    2365    1323    275     776     1076    1268    1718    2262    2428    2402    1732    1535    696     244     
+11086  2018 1340    690     1944    380     1166    2268    1454    553     338     743     1261    1498    2028    2433    2334    2095    1375    894     462     
+11086  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

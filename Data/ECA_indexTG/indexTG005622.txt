@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   BRAMO                                    (STAID:   5622)
+LATITUDE: dd:mm:ss +62:07:48
+LONGITUDE: ddd:mm:ss +017:27:00
+ELEVATION: m   17
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5622   1965 437     -999999 975     -999999 211     1300    605     -244    -261    -91     206     517     1137    1397    1362    1220    767     -177    -635    
+5622   1966 268     -510    957     -1062   -66     1492    513     -1067   -1530   -505    -220    521     1475    1625    1376    943     489     108     -135    
+5622   1967 453     -48     955     -356    296     1284    708     -760    -152    158     235     493     1116    1412    1318    1143    644     339     -532    
+5622   1968 421     -130    1052    -601    308     1443    380     -739    -526    27      403     497     1364    1477    1485    1074    352     -286    -104    
+5622   1969 390     -284    1032    -461    35      1530    542     -359    -968    -403    134     378     1369    1541    1675    1078    639     -96     -405    
+5622   1970 324     -327    913     -739    14      1389    485     -696    -1156   -319    -80     440     1332    1348    1486    936     566     -49     -39     

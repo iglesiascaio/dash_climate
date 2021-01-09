@@ -1,0 +1,48 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   TENNHOLMEN FYR                           (STAID:  19092)
+LATITUDE: dd:mm:ss +67:18:06
+LONGITUDE: ddd:mm:ss +013:29:56
+ELEVATION: m   14
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+19092  1985 -999999 -999999 -999999 -999999 -999999 -999999 637     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 901     720     287     -84     
+19092  1986 526     188     841     -65     422     1074    670     -135    33      294     247     719     949     1095    1174    846     690     475     -108    
+19092  1987 505     133     802     -144    320     997     767     -148    -180    52      326     583     918     1043    1025    907     955     432     101     
+19092  1988 559     294     893     100     265     1169    690     157     37      67      126     599     871     1283    1343    1118    670     283     131     
+19092  1989 634     331     908     236     485     1111    715     340     238     313     519     623     972     1039    1319    967     658     522     76      
+19092  1990 695     352     983     227     426     1251    761     219     401     247     453     578     1084    1326    1336    1113    824     344     387     
+19092  1991 632     365     889     277     383     1155    710     288     141     183     429     537     993     1181    1287    896     737     496     372     
+19092  1992 609     406     897     301     383     1144    585     295     230     296     209     637     1082    1133    1215    1099    364     297     437     
+19092  1993 598     298     885     295     397     1141    653     261     176     240     325     624     804     1342    1267    929     482     552     141     
+19092  1994 553     232     853     55      380     1059    621     -27     52      186     408     547     801     1110    1259    983     535     347     401     
+19092  1995 531     315     774     257     340     962     654     207     154     229     215     573     865     1006    1010    963     698     299     118     
+19092  1996 564     259     863     119     323     1134    674     335     -109    192     280     498     862     1144    1386    992     756     270     123     
+19092  1997 603     256     914     125     270     1234    696     150     100     121     122     563     1024    1320    1352    1086    591     415     354     
+19092  1998 631     296     957     217     330     1244    731     185     101     114     282     593     985     1402    1338    1127    734     333     331     
+19092  1999 619     299     898     169     416     1066    884     111     53      212     390     644     993     1135    1069    1156    828     669     144     
+19092  2000 631     348     864     174     346     1060    893     176     204     69      274     692     848     1178    1147    1032    938     708     291     
+19092  2001 580     357     883     178     294     1083    782     365     -154    -46     339     591     953     1115    1176    1114    800     433     219     
+19092  2002 -999999 331     1113    183     530     1416    -999999 188     136     192     561     838     1305    1456    1483    1021    506     -999999 -999999 

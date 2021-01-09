@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   OSTMARK-ASARNA                           (STAID:  11208)
+LATITUDE: dd:mm:ss +60:16:44
+LONGITUDE: ddd:mm:ss +012:51:14
+ELEVATION: m  135
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11208  2013 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 38      86      
+11208  2014 655     -999999 1226    -79     636     1567    698     -399    93      308     570     1029    1367    1920    1408    1041    775     275     -558    
+11208  2015 580     39      1109    -333    476     1432    560     -279    -145    157     499     773     1281    1532    1479    1077    467     139     -73     
+11208  2016 540     -88     1228    -449    581     1494    553     -1003   -257    196     431     1109    1507    1604    1371    1332    404     -72     -155    
+11208  2017 503     -85     1118    -321    487     1422    510     -497    -310    97      300     1058    1405    1484    1377    1069    511     -49     -466    
+11208  2018 -999999 -999999 -999999 -503    -999999 1720    582     -431    -622    -999999 -999999 1496    1601    2084    1470    1093    500     155     -464    
+11208  2019 -999999 -117    1208    -471    519     1580    -999999 -762    -158    29      650     882     1530    1651    1557    961     326     -999999 -999999 

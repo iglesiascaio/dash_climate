@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   LYNGEN - GJERDELVDALEN                   (STAID:  18135)
+LATITUDE: dd:mm:ss +69:33:34
+LONGITUDE: ddd:mm:ss +020:09:06
+ELEVATION: m  670
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18135  2013 -999999 -999999 -999999 -999999 -999999 -999999 103     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 733     -32     -386    -379    
+18135  2014 98      -363    519     -439    -218    947     111     -599    -329    -454    -262    54      522     1385    919     469     -3      -129    -455    
+18135  2015 87      -348    491     -569    -102    756     218     -685    -566    -263    -194    148     380     779     1095    719     107     -170    -363    
+18135  2016 115     -349    569     -555    -25     782     224     -735    -568    -376    -183    481     497     1076    763     758     240     -326    -284    
+18135  2017 20      -308    418     -412    -369    777     152     -500    -458    -534    -456    -120    571     940     812     751     72      -363    -513    
+18135  2018 94      -515    603     -644    -172    892     231     -695    -734    -873    -151    510     396     1371    895     566     48      86      -356    
+18135  2019 -999999 -385    512     -587    -197    836     -999999 -789    -620    -687    -15     117     546     993     960     455     -292    -999999 -999999 

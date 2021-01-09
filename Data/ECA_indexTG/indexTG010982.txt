@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NETHERLANDS                              F3-FB-1                                  (STAID:  10982)
+LATITUDE: dd:mm:ss +54:51:14
+LONGITUDE: ddd:mm:ss +004:43:39
+ELEVATION: m    0
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+10982  2013 -999999 -999999 -999999 -999999 -999999 -999999 1235    -999999 -999999 -999999 -999999 -999999 -999999 1600    1724    1489    1313    910     836     
+10982  2014 -999999 846     1392    715     885     1600    1381    622     683     698     847     1109    1379    1797    1617    1589    1437    1116    -999999 
+10982  2015 1042    -999999 1223    -999999 725     1446    1269    606     534     585     674     910     1187    1482    1677    1456    1275    1095    988     
+10982  2016 1059    850     1333    718     773     1510    1304    592     563     578     684     1056    1313    1571    1655    1769    1259    885     883     
+10982  2017 1059    801     1316    667     801     1539    1275    582     524     651     713     1036    1400    1566    1646    1527    1357    938     722     
+10982  2018 1037    712     1362    556     716     1622    1240    601     320     300     683     1164    1388    1718    1759    1483    1252    1009    792     
+10982  2019 -999999 -999999 1342    -999999 808     1596    -999999 644     -999999 686     785     951     1409    1594    1779    1525    -999999 -999999 -999999 

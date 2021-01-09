@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    CORREGGIO                                (STAID:  17601)
+LATITUDE: dd:mm:ss +44:44:35
+LONGITUDE: ddd:mm:ss +010:46:22
+ELEVATION: m  330
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17601  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17601  2006 1279    -999999 1960    -999999 1250    2260    1387    -50     259     732     1281    1738    2161    2533    2083    1951    1399    810     392     
+17601  2007 1327    762     1990    483     1421    2271    1185    474     596     889     1502    1875    2147    2431    2230    1732    1223    600     170     
+17601  2008 1319    616     1935    330     1272    2300    1322    391     436     862     1219    1733    2131    2359    2404    1740    1414    810     289     
+17601  2009 1335    640     2068    235     1396    2379    1354    70      358     876     1345    1964    2174    2455    2502    1943    1221    902     150     
+17601  2010 1235    561     1943    171     1216    2319    1232    50      330     703     1260    1687    2160    2529    2263    1736    1121    843     89      
+17601  2011 1324    577     2055    212     1388    2300    1310    167     396     835     1462    1869    2148    2256    2491    2089    1179    666     275     
+17601  2012 1302    527     2031    91      1317    2459    1388    64      -76     1024    1213    1711    2328    2504    2543    1863    1381    921     91      
+17601  2013 1294    580     1967    162     1208    2301    1411    218     180     661     1337    1629    2111    2471    2314    1922    1459    851     306     
+17601  2014 1387    808     1915    505     1378    2178    1413    514     717     993     1411    1732    2188    2210    2135    1805    1428    1008    465     
+17601  2015 1362    710     2080    325     1336    2474    1304    243     260     846     1329    1832    2260    2736    2419    1882    1282    750     426     
+17601  2016 1467    713     2258    445     1433    2639    1409    267     657     891     1535    1874    2421    2842    2647    2206    1228    798     223     
+17601  2017 1333    639     2051    235     1403    2484    1214    -49     564     1071    1340    1795    2409    2498    2543    1697    1273    669     139     
+17601  2018 1377    579     2078    283     1339    2365    1474    433     277     655     1519    1849    2202    2464    2424    1996    1462    965     211     
+17601  2019 -999999 688     -999999 250     1210    -999999 -999999 92      470     917     1271    1451    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

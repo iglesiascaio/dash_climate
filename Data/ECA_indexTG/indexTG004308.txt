@@ -1,0 +1,47 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  KORBACH-LENGEFELD                        (STAID:   4308)
+LATITUDE: dd:mm:ss +51:16:03
+LONGITUDE: ddd:mm:ss +008:49:54
+ELEVATION: m  395
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4308   1989 -999999 -999999 -999999 -999999 -999999 1537    856     -999999 -999999 -999999 -999999 -999999 1400    1625    1581    1346    955     263     264     
+4308   1990 850     452     1272    291     834     1558    791     177     448     602     636     1257    1374    1536    1759    1049    959     360     8       
+4308   1991 737     276     1247    -88     678     1544    802     54      -354    571     599     862     1151    1775    1694    1381    746     281     -4      
+4308   1992 828     277     1376    81      802     1663    739     60      193     381     685     1335    1555    1703    1729    1226    533     463     56      
+4308   1993 752     229     1309    12      879     1470    575     134     -172    328     978     1334    1481    1490    1439    1121    685     -85     219     
+4308   1994 869     251     1358    112     795     1701    834     204     -109    545     706     1132    1469    1995    1630    1191    669     647     271     
+4308   1995 806     339     1347    169     701     1673    842     -104    358     205     782     1119    1323    1908    1777    1144    1105    269     -252    
+4308   1996 622     85      1200    -305    586     1473    739     -406    -254    34      765     966     1402    1445    1572    1041    830     342     -300    
+4308   1997 809     239     1330    -118    767     1641    777     -366    360     584     560     1151    1451    1591    1876    1329    683     323     135     
+4308   1998 819     361     1318    226     859     1514    687     158     404     468     767     1340    1506    1490    1545    1246    718     97      56      
+4308   1999 868     269     1403    94      848     1595    886     207     10      497     778     1267    1410    1793    1576    1578    785     300     155     
+4308   2000 891     349     1366    174     924     1532    907     78      296     478     924     1370    1569    1393    1635    1293    918     509     217     
+4308   2001 820     354     1313    129     758     1609    852     -17     193     291     623     1355    1334    1759    1726    1051    1116    381     -33     
+4308   2002 863     398     1363    139     804     1665    823     51      427     448     717     1245    1606    1613    1775    1201    718     553     -17     
+4308   2003 -999999 251     1490    -110    870     1863    -999999 -61     -266    537     781     1289    1799    1795    1993    1265    -999999 529     69      
+4308   2004 804     -999999 1326    84      749     1579    839     -15     207     343     857     1051    1454    1526    1753    1302    860     354     -57     
+4308   2005 841     262     1363    -13     802     1567    943     157     -151    373     898     1139    1528    1691    1481    1433    997     396     85      

@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   OSTMARK-ROJDASEN                         (STAID:   5545)
+LATITUDE: dd:mm:ss +60:21:00
+LONGITUDE: ddd:mm:ss +012:39:00
+ELEVATION: m  308
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5545   1988 -999999 -999999 -999999 -999999 -999999 -999999 315     -999999 -999999 -999999 -999999 -999999 -999999 -999999 1313    1030    256     -339    -529    
+5545   1989 544     -58     1063    -126    441     1385    477     103     68      95      275     946     1338    1556    1258    985     432     16      -578    
+5545   1990 552     20      1073    -202    576     1397    319     -152    157     258     419     1045    1343    1441    1405    764     429     -241    -276    
+5545   1991 460     -173    1030    -417    395     1363    445     -378    -616    0       361     824     938     1696    1441    891     433     11      -178    
+5545   1992 492     3       1072    -171    482     1402    244     -124    -214    74      166     1195    1534    1458    1218    841     48      -150    -174    
+5545   1993 372     -154    945     -241    481     1165    197     -237    -319    -107    408     1139    1096    1325    1071    609     246     -266    -555    
+5545   1994 402     -404    1084    -748    354     1488    351     -639    -1082   -188    390     863     1174    1908    1372    770     302     -16     -148    
+5545   1995 388     -134    1017    -328    265     1427    416     -581    -248    -117    145     764     1335    1476    1467    889     672     -320    -866    
+5545   1996 325     -382    990     -800    228     1407    378     -704    -833    -266    334     618     1266    1383    1567    752     553     -176    -644    
+5545   1997 497     -150    1142    -444    337     1615    376     -408    -262    25      261     722     1401    1692    1745    1006    242     -116    -398    
+5545   1998 425     -130    992     -262    365     1232    306     -301    -68     -135    252     973     1149    1363    1182    1013    285     -379    -269    
+5545   1999 465     -242    1089    -408    349     1380    633     -462    -503    -155    451     754     1276    1569    1291    1183    476     245     -593    
+5545   2000 -999999 -72     -999999 -375    -999999 -999999 -999999 -230    -297    -40     421     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

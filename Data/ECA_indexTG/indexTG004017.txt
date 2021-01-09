@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  BAD-HEILIGENDAMM DOBERAN                 (STAID:   4017)
+LATITUDE: dd:mm:ss +54:08:44
+LONGITUDE: ddd:mm:ss +011:50:48
+ELEVATION: m    3
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4017   1991 -999999 -999999 -999999 -999999 -999999 -999999 967     -999999 -999999 -999999 -999999 -999999 -999999 1790    1721    1476    924     504     278     
+4017   1992 968     478     1485    301     860     1822    889     223     410     527     770     1281    1743    1893    1827    1380    736     556     254     
+4017   1993 848     399     1323    229     834     1534    747     272     155     403     824     1275    1472    1575    1553    1224    860     152     357     
+4017   1994 937     361     1408    223     785     1728    970     379     -99     465     762     1126    1441    1981    1755    1360    841     714     432     
+4017   1995 882     488     1386    331     709     1726    984     104     471     371     655     1099    1427    1844    1896    1374    1186    384     -255    
+4017   1996 711     115     1293    -291    556     1603    906     -285    -337    -21     741     955     1455    1560    1788    1242    951     523     -75     
+4017   1997 -999999 353     -999999 50      726     1788    -999999 -161    420     471     647     1057    1557    1743    2057    -999999 -999999 -999999 -999999 

@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION UKRAINE                                  ZHITOMIR (AMSG)                          (STAID:   1473)
+LATITUDE: dd:mm:ss +50:16:12
+LONGITUDE: ddd:mm:ss +028:37:48
+ELEVATION: m  219
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+1473   1995 775     -999999 1504    -999999 820     1869    681     -393    161     337     826     1297    1810    1928    1866    1279    803     -23     -611    
+1473   1996 678     -321    1521    -999999 743     1783    833     -1097   -780    -372    828     1779    1724    1781    1845    1092    810     615     -358    
+1473   1997 733     107     1427    -320    728     1790    686     -518    -68     175     523     1479    1722    1843    1801    1147    621     292     -390    
+1473   1998 -999999 -999999 -999999 -999999 819     1822    583     -82     123     29      1029    1387    1881    1830    1749    1326    733     -339    -518    
+1473   1999 -999999 -999999 1597    -306    848     1984    755     -134    -249    311     1056    1178    2031    2101    1824    1443    806     16      -91     
+1473   2000 832     71      -999999 -195    859     1781    849     -428    -50     177     1161    1336    1620    1799    1904    1172    836     539     142     
+1473   2001 806     229     1590    -79     838     1937    805     -98     -295    228     991     1324    1590    2258    1953    1354    898     183     -758    
+1473   2002 862     140     1593    -248    958     1943    814     -280    332     454     878     1540    1699    2214    1912    1329    690     443     -856    
+1473   2003 790     -120    1545    -999999 826     1843    774     -417    -706    -7      657     1795    1712    1985    1822    1271    657     394     -47     
+1473   2004 791     95      1447    -278    770     1784    843     -543    -250    306     783     1221    1583    1922    1845    1325    919     290     -15     
+1473   2005 -999999 85      -999999 -188    831     -999999 -999999 -82     -495    -93     981     1526    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

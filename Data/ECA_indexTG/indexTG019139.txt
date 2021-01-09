@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   RV13 EIANE                               (STAID:  19139)
+LATITUDE: dd:mm:ss +59:17:39
+LONGITUDE: ddd:mm:ss +006:17:34
+ELEVATION: m   30
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+19139  2013 715     -999999 1175    -999999 502     1442    840     -122    -205    -30     453     1082    1267    1547    1501    1185    894     441     506     
+19139  2014 969     520     1367    413     822     1637    1072    245     496     536     815     1116    1490    1910    1505    1354    1083    780     270     
+19139  2015 829     534     1132    276     630     1361    943     296     262     494     566     829     1141    1276    1657    1311    929     589     549     
+19139  2016 787     412     1240    195     713     1398    855     -75     107     362     564     1209    1423    1401    1370    1462    760     348     493     
+19139  2017 816     404     1217    308     716     1384    921     206     215     381     598     1164    1309    1428    1412    1380    938     444     267     
+19139  2018 886     341     1383    186     782     1610    915     259     16      97      761     1488    1525    1836    1465    1203    861     682     372     
+19139  2019 -999999 503     1252    335     782     1470    -999999 184     463     460     951     941     1369    1503    1535    1206    785     -999999 -999999 

@@ -1,0 +1,47 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  OSTERHOF                                 (STAID:   4501)
+LATITUDE: dd:mm:ss +49:30:15
+LONGITUDE: ddd:mm:ss +007:16:41
+ELEVATION: m  338
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4501   1961 972     -999999 1457    -999999 986     1584    1081    64      565     740     1123    1099    1555    1545    1652    1771    1107    364     75      
+4501   1962 724     317     1254    123     602     1513    754     230     55      43      821     950     1459    1504    1574    1209    826     225     -248    
+4501   1963 701     8       1332    -453    764     1549    947     -614    -501    317     847     1130    1473    1694    1479    1361    728     760     -322    
+4501   1964 829     211     1434    -124    775     1683    850     -231    201     148     830     1349    1634    1831    1582    1364    673     520     33      
+4501   1965 761     271     1217    22      710     1458    737     155     -136    353     646     1130    1491    1451    1431    1141    838     229     329     
+4501   1966 862     352     1346    233     841     1509    881     -186    590     331     915     1280    1595    1449    1487    1347    1111    178     246     
+4501   1967 856     413     1320    209     800     1589    894     112     274     533     687     1178    1414    1796    1551    1278    1035    364     4       
+4501   1968 792     326     1293    41      772     1525    864     -24     150     414     856     1048    1457    1596    1520    1272    998     318     -114    
+4501   1969 791     255     1345    -33     749     1595    903     180     -179    286     731     1230    1396    1794    1589    1312    922     476     -316    
+4501   1970 785     186     1309    -148    620     1599    934     -100    -16     142     554     1161    1656    1511    1631    1329    903     572     37      
+4501   1971 821     285     1372    28      798     1595    770     -97     157     136     886     1376    1330    1772    1675    1170    840     296     256     
+4501   1972 766     342     1236    135     759     1537    700     -104    260     495     738     1044    1335    1727    1543    1008    704     387     38      
+4501   1973 825     261     1386    35      713     1707    836     17      50      355     553     1225    1620    1689    1809    1404    769     339     14      
+4501   1974 879     410     1290    235     845     1528    733     354     349     627     838     1069    1403    1509    1666    1242    488     477     488     
+4501   1975 887     407     1421    381     730     1724    858     419     221     330     728     1132    1506    1780    1881    1484    719     377     24      
+4501   1976 887     272     1465    108     743     1843    891     200     99      206     707     1313    1861    1986    1683    1219    960     492     -110    
+4501   1977 862     404     1273    112     777     1580    864     102     369     609     570     1144    1497    1657    1583    1171    961     458     190     

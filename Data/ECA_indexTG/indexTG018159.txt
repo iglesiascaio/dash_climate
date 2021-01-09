@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   HEIMDAL                                  (STAID:  18159)
+LATITUDE: dd:mm:ss +59:34:27
+LONGITUDE: ddd:mm:ss +002:13:37
+ELEVATION: m   59
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18159  2005 -999999 -999999 -999999 -999999 663     -999999 1022    -999999 -999999 513     706     771     1013    -999999 1260    1205    1078    765     631     
+18159  2006 931     658     1143    595     531     1341    1164    609     539     314     558     751     1038    1477    1500    1442    1184    866     803     
+18159  2007 884     772     1073    642     730     1272    926     627     481     646     712     831     1199    1331    1283    1073    993     709     686     
+18159  2008 931     679     1197    636     704     1400    993     597     624     459     671     981     1189    1508    1496    1326    937     721     640     
+18159  2009 -999999 658     1170    554     762     1368    -999999 557     -999999 608     746     926     1157    1476    1452    1260    951     -999999 569     
+18159  2010 780     -999999 1062    -999999 614     1257    889     -999999 309     514     604     724     1069    1310    1385    1232    931     504     289     
+18159  2011 886     522     1115    404     723     1249    1058    530     391     476     789     905     1096    1276    1370    1245    1006    927     595     
+18159  2012 836     722     1027    564     684     1233    920     545     553     701     550     795     1026    1244    1408    1125    869     767     430     
+18159  2013 829     532     1065    416     545     1289    977     431     385     301     532     801     1107    1344    1408    1185    1009    737     678     
+18159  2014 946     686     1171    574     742     1369    1117    465     579     634     724     868     1169    1518    1403    1331    1116    904     620     
+18159  2015 881     723     1026    572     652     1172    1076    550     542     592     604     757     938     1158    1414    1275    1105    847     765     
+18159  2016 897     706     1112    568     680     1273    1053    481     452     575     596     867     1146    1337    1331    1388    1069    701     804     
+18159  2017 -999999 732     -999999 674     696     1258    -999999 633     -999999 583     620     883     1144    1289    -999999 -999999 1065    700     613     
+18159  2018 887     608     1150    518     661     1348    994     525     404     338     633     1010    1155    1462    1421    1204    926     853     670     
+18159  2019 -999999 700     1093    610     707     1284    -999999 513     650     587     759     775     1095    1292    1459    1172    973     -999999 -999999 

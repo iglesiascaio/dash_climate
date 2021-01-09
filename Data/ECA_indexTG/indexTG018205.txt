@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   MYRKDALEN-VETLEBOTN                      (STAID:  18205)
+LATITUDE: dd:mm:ss +60:51:56
+LONGITUDE: ddd:mm:ss +006:28:23
+ELEVATION: m  700
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18205  2013 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -77     
+18205  2014 443     -999999 897     -199    266     1224    536     -440    -67     30      250     517     964     1564    1136    933     531     144     -276    
+18205  2015 298     -29     611     -264    82      816     476     -292    -219    -74     52      266     494     797     1147    899     447     84      -69     
+18205  2016 321     -109    793     -370    155     1045    410     -640    -403    -85     35      511     1024    1058    1052    1068    383     -220    46      
+18205  2017 314     -60     726     -129    142     955     380     -209    -235    -148    29      542     836     1062    964     909     380     -150    -252    
+18205  2018 359     -250    915     -387    161     1240    388     -331    -598    -577    153     908     1152    1568    997     689     293     184     -199    
+18205  2019 -999999 -51     848     -210    223     1184    -999999 -359    -58     -161    368     468     993     1317    1236    690     260     -999999 -999999 

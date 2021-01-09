@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   BINGSA                                   (STAID:  18731)
+LATITUDE: dd:mm:ss +62:28:58
+LONGITUDE: ddd:mm:ss +006:23:17
+ELEVATION: m   18
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18731  2009 -999999 -999999 -999999 -999999 -999999 -999999 864     -999999 -999999 -999999 -999999 -999999 -999999 1415    1508    1255    657     688     275     
+18731  2010 630     286     1099    27      530     1363    718     -75     -134    275     584     733     1079    1491    1508    1181    866     103     -117    
+18731  2011 842     274     1172    113     714     1299    1056    284     177     319     850     978     1186    1303    1403    1304    1003    864     397     
+18731  2012 757     598     1057    364     631     1314    837     312     385     622     423     840     1100    1317    1517    1125    720     670     44      
+18731  2013 838     287     1260    82      614     1501    951     129     71      81      581     1180    1331    1563    1602    1284    934     636     608     
+18731  2014 1024    639     1397    543     879     1649    1082    340     694     626     903     1108    1409    1861    1670    1415    1064    769     412     
+18731  2015 945     601     1223    394     722     1450    1115    349     424     578     640     945     1167    1430    1743    1396    1170    776     673     
+18731  2016 902     623     1303    400     778     1496    943     183     340     585     617     1128    1330    1630    1523    1579    836     418     626     
+18731  2017 829     513     1184    473     671     1375    910     454     326     398     543     1069    1282    1419    1422    1354    935     441     267     
+18731  2018 835     349     1252    233     668     1456    903     252     173     11      613     1378    1282    1691    1388    1139    755     806     388     
+18731  2019 -999999 -999999 1198    -999999 664     1482    -999999 170     438     328     853     815     1344    1558    1541    1064    687     -999999 -999999 

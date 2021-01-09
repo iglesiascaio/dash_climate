@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    CADI NORD-PRAT DAGUILO                   (STAID:  11020)
+LATITUDE: dd:mm:ss +42:17:33
+LONGITUDE: ddd:mm:ss +001:42:54
+ELEVATION: m 2143
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11020  2008 425     -999999 824     -999999 170     1179    383     115     45      -105    199     418     916     1298    1298    805     472     -131    -236    
+11020  2009 -999999 -999999 947     -999999 318     1319    623     -999999 -222    83      38      825     1096    1410    1427    870     755     241     -208    
+11020  2010 -999999 -999999 855     -354    -999999 1199    432     -395    -455    -999999 246     356     857     1445    1285    923     482     -111    -999999 
+11020  2011 -999999 -999999 993     -999999 406     1167    730     -999999 -68     -70     547     746     971     1094    1431    1161    695     256     33      
+11020  2012 508     100     962     -152    279     1368    544     8       -522    117     -9      718     1240    1290    1570    937     564     129     -43     
+11020  2013 403     -18     810     -221    70      1153    546     -106    -534    -167    163     216     860     1307    1283    1016    696     -78     86      
+11020  2014 484     58      865     -104    298     1089    684     -126    -286    10      427     463     998     1105    1160    1036    805     207     -78     
+11020  2015 579     79      997     -224    427     1347    587     -126    -493    106     379     795     1108    1654    1273    748     549     465     401     
+11020  2016 512     180     926     82      159     1292    585     -72     -93     -176    136     515     1005    1416    1445    1019    662     72      187     
+11020  2017 556     130     1011    -73     437     1397    582     -368    -33     240     331     737     1299    1449    1440    793     872     72      -208    
+11020  2018 475     -8      931     -248    166     1226    566     -44     -519    -268    321     449     1014    1360    1298    1132    522     45      309     
+11020  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

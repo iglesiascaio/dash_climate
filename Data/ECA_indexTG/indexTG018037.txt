@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   SURNADAL - SYLTE                         (STAID:  18037)
+LATITUDE: dd:mm:ss +62:59:07
+LONGITUDE: ddd:mm:ss +008:41:21
+ELEVATION: m    5
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18037  2013 492     -999999 1149    -999999 412     1421    404     -546    -375    -294    347     1182    1324    1489    1446    1082    227     -104    47      
+18037  2014 595     22      1138    -82     638     1416    472     -403    131     252     629     1031    1298    1701    1245    902     583     -72     -190    
+18037  2015 608     32      1020    -176    398     1313    752     -306    -18     189     334     670     832     1336    1755    1169    732     357     200     
+18037  2016 601     175     1153    -84     563     1393    517     -365    -88     204     477     1006    1312    1530    1336    1241    342     -26     214     
+18037  2017 598     91      1111    41      489     1380    606     9       -114    99      393     972     1325    1450    1365    1146    659     12      -192    
+18037  2018 566     -114    1217    -344    487     1466    616     -419    -429    -342    460     1342    1259    1753    1377    1084    560     206     -137    
+18037  2019 -999999 43      1148    -197    529     1488    -999999 -403    -36     65      697     829     1433    1551    1479    883     316     -999999 -999999 

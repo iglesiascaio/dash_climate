@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SLOVENIA                                 CERKLJE-LETALISCE                        (STAID:   3327)
+LATITUDE: dd:mm:ss +45:54:00
+LONGITUDE: ddd:mm:ss +015:30:00
+ELEVATION: m  154
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+3327   2006 1118    -999999 1762    -999999 1070    2038    1265    -205    45      476     1194    1545    2006    2298    1810    1706    1238    852     385     
+3327   2007 1185    740     1808    507     1297    2109    942     537     607     807     1348    1738    2125    2180    2023    1414    976     433     -3      
+3327   2008 1140    445     1735    195     1142    2059    1079    190     411     659     1104    1660    2030    2115    2031    1447    1156    630     221     
+3327   2009 1152    444     1846    61      1267    2069    1192    -214    189     665     1349    1788    1896    2157    2147    1719    1082    779     206     
+3327   2010 1033    437     1732    51      1088    2089    1043    -133    83      585     1130    1550    1992    2258    2010    1438    874     823     -233    
+3327   2011 1139    396     1854    -2      1173    2122    1055    146     91      660     1287    1576    1996    2145    2222    1887    973     307     305     
+3327   2012 1170    400     1863    65      1227    2229    1238    147     -280    898     1185    1596    2142    2266    2275    1694    1154    870     37      
+3327   2013 1132    434     1800    65      1036    2156    1178    87      70      365     1224    1526    1949    2305    2206    1565    1290    675     242     
+3327   2014 1246    685     1743    382     1267    2007    1269    475     435     968     1298    1536    1964    2096    1960    1590    1326    889     356     
+3327   2015 1201    627     1849    261     1188    2188    1164    257     161     735     1148    1682    1976    2375    2206    1683    1086    725     304     
+3327   2016 1165    588     1825    326     1181    2113    1147    74      618     726     1244    1576    1999    2305    2030    1781    995     669     -35     
+3327   2017 1205    442     1878    -13     1299    2293    1095    -400    439     991     1193    1708    2223    2382    2272    1466    1145    674     319     
+3327   2018 1219    502     1916    241     1262    2151    1243    442     -68     450     1509    1836    2031    2157    2262    1683    1290    754     198     
+3327   2019 -999999 593     1810    207     1106    2250    -999999 21      424     859     1131    1327    2306    2221    2225    1640    1291    -999999 -999999 

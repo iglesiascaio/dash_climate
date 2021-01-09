@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   TYINKRYSSET                              (STAID:  19075)
+LATITUDE: dd:mm:ss +61:12:06
+LONGITUDE: ddd:mm:ss +008:14:15
+ELEVATION: m  864
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+19075  1987 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1025    815     405     -999999 -999999 -999999 
+19075  1988 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+19075  1989 -999999 -999999 -999999 -999999 -999999 -999999 204     -999999 -999999 -999999 -999999 -999999 -999999 1095    829     609     181     -178    -615    
+19075  1990 236     -219    677     -395    146     1002    93      -424    -119    -149    11      571     951     1054    999     459     157     -339    -367    
+19075  1991 152     -369    667     -615    48      1032    97      -589    -917    -210    -15     367     654     1335    1094    538     47      -293    -279    
+19075  1992 165     -227    652     -274    43      956     -9      -209    -339    -299    -196    617     1063    974     833     606     -234    -391    -462    
+19075  1993 50      -399    572     -449    48      829     -94     -535    -340    -425    -42     608     762     945     779     357     50      -693    -895    
+19075  1994 56      -700    654     -1010   -67     1021    99      -827    -1338   -560    5       356     626     1411    1015    483     -1      -181    -425    
+19075  1995 119     -367    635     -514    -130    1046    191     -598    -519    -485    -209    301     935     1069    1130    567     345     -344    -815    
+19075  1996 -999999 -546    -999999 -895    -103    -999999 -999999 -877    -1000   -605    43      258     885     -999999 -999999 -999999 -999999 -999999 -999999 

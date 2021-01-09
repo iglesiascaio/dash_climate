@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NETHERLANDS                              J6-A                                     (STAID:   3174)
+LATITUDE: dd:mm:ss +53:49:27
+LONGITUDE: ddd:mm:ss +002:56:43
+ELEVATION: m   46
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+3174   2009 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 807     -999999 -999999 1605    1740    -999999 1278    1097    677     
+3174   2010 934     713     1257    448     726     1494    1158    329     327     540     729     904     1309    1601    1572    1440    1232    802     421     
+3174   2011 1063    670     1320    481     860     1454    1329    515     510     550     915     1116    1342    1485    1532    1524    1321    1143    774     
+3174   2012 -999999 832     -999999 618     795     1470    -999999 656     412     671     711     1001    1239    1480    1683    -999999 -999999 -999999 653     
+3174   2013 960     -999999 1213    501     556     1471    1253    473     365     279     547     841     1154    1576    1673    1473    1342    930     816     
+3174   2014 1157    876     1392    741     919     1575    1399    700     704     749     874     1132    1409    1704    1607    1620    1448    1127    785     
+3174   2015 1067    861     1261    656     763     1477    1288    631     543     611     705     972     1242    1514    1668    1449    1301    1113    1010    
+3174   2016 1094    891     1349    774     801     1507    1348    690     610     608     713     1079    1275    1555    1697    1788    1338    919     877     
+3174   2017 1084    840     1344    683     866     1554    1283    592     568     723     771     1101    1418    1584    1657    1523    1361    962     708     
+3174   2018 1049    740     1340    578     736     1578    1263    629     377     376     736     1096    1311    1713    1701    1483    1302    1031    831     
+3174   2019 -999999 872     1357    725     843     1600    -999999 631     713     713     834     981     1398    1642    1759    1533    1270    -999999 -999999 

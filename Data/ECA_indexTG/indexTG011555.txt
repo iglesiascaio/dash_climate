@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    APRICA                                   (STAID:  11555)
+LATITUDE: dd:mm:ss +46:07:51
+LONGITUDE: ddd:mm:ss +010:08:53
+ELEVATION: m 1950
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11555  2003 -999999 -999999 1001    -999999 312     1436    342     -999999 -690    54      79      788     1437    1310    1562    778     109     126     -206    
+11555  2004 -999999 -999999 -999999 -322    -999999 -999999 471     -535    -210    -999999 132     446     -999999 1147    1163    877     506     27      -999999 
+11555  2005 276     -999999 819     -999999 218     1096    400     -375    -806    -190    145     696     1104    1201    993     838     518     -146    -531    
+11555  2006 -999999 -239    -999999 -507    183     -999999 -999999 -525    -461    -322    212     625     1082    1404    847     -999999 660     187     -42     
+11555  2007 -999999 100     -999999 -74     413     -999999 -999999 -66     -116    -63     589     719     1045    -999999 1073    667     438     -999999 -295    
+11555  2008 371     -999999 798     -170    169     1147    355     -122    -88     -206    54      642     1058    1179    1205    668     492     -98     -306    
+11555  2009 380     -168    943     -418    337     1186    462     -453    -504    -167    307     871     995     1215    1341    906     370     79      -512    
+11555  2010 -999999 -999999 808     -999999 138     1159    -999999 -640    -551    -268    195     463     1016    1374    1084    700     277     -999999 -999999 
+11555  2011 492     -999999 952     -999999 405     1139    580     -999999 -108    -15     481     752     1020    1057    1336    1060    452     250     -278    
+11555  2012 410     -37     910     -404    354     1272    476     -353    -593    273     124     659     1149    1290    1373    843     488     109     -471    
+11555  2013 367     -183    866     -479    141     1186    453     -297    -690    -275    305     404     952     1357    1243    904     504     -49     -35     
+11555  2014 451     12      818     -999999 343     1042    586     -250    -999999 109     376     545     1020    1105    999     856     610     291     -161    
+11555  2015 502     10      952     -275    332     1331    497     -292    -384    -36     296     735     1099    1577    1301    680     435     378     184     
+11555  2016 -999999 49      888     -120    216     1173    -999999 -353    -202    -165    307     509     960     1326    1227    987     -999999 -999999 59      
+11555  2017 -999999 -999999 934     -999999 407     1321    396     -593    -146    224     272     719     1257    1310    1393    633     644     -89     -999999 

@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   STORVOLL                                 (STAID:  19044)
+LATITUDE: dd:mm:ss +66:30:16
+LONGITUDE: ddd:mm:ss +014:54:27
+ELEVATION: m  158
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+19044  1976 -999999 -999999 -999999 -999999 -999999 -999999 36      -999999 -999999 -999999 -999999 -999999 -999999 -999999 1100    294     118     -308    -1001   
+19044  1977 -999999 -682    667     -1220   -48     1091    -999999 -1225   -1456   -283    -225    358     846     1273    1146    578     300     -999999 -999999 
+19044  1978 -999999 -999999 771     -999999 -78     1234    148     -999999 -1581   -531    -120    417     1146    1428    1124    608     129     -291    -1852   
+19044  1979 70      -805    777     -1435   28      1201    72      -1411   -1001   -407    44      446     1048    1359    1192    552     -2      -378    -722    
+19044  1980 -999999 -746    -999999 -1082   -999999 1372    -51     -1399   -1126   -826    -999999 -999999 1240    1572    1298    775     -66     -861    -1197   
+19044  1981 -72     -860    724     -1030   -181    1004    34      -1019   -857    -1159   37      586     774     1202    1028    698     145     -746    -1597   
+19044  1982 145     -666    687     -1069   96      993     155     -1212   -326    -227    49      465     743     1111    1118    617     230     -385    -475    
+19044  1983 -999999 -423    -999999 -601    83      -999999 -999999 -701    -631    -592    173     673     -999999 -999999 -999999 -999999 -999999 -999999 -999999 

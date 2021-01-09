@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   HASSLARP                                 (STAID:   5202)
+LATITUDE: dd:mm:ss +56:07:48
+LONGITUDE: ddd:mm:ss +012:49:12
+ELEVATION: m   10
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5202   1961 848     -999999 1333    -999999 801     1547    1001    -68     261     509     799     1095    1614    1525    1504    1459    1131    408     -93     
+5202   1962 697     265     1194    38      521     1432    844     140     70      -84     700     953     1389    1480    1425    1210    938     382     -271    
+5202   1963 674     -54     1340    -531    571     1633    956     -790    -532    -84     521     1273    1618    1655    1625    1330    895     646     -136    
+5202   1964 763     209     1321    -87     657     1542    858     -6      -120    -31     772     1235    1523    1559    1543    1281    764     532     88      
+5202   1965 698     223     1237    -12     536     1487    798     55      -196    64      597     949     1496    1440    1526    1409    893     88      -8      
+5202   1966 725     99      1274    -222    594     1625    845     -387    -277    249     339     1185    1658    1719    1501    1225    925     384     105     
+5202   1967 -999999 330     -999999 41      762     -999999 1026    -133    164     518     595     1169    -999999 1723    1685    1427    1112    536     -52     
+5202   1968 798     269     1381    -141    741     1677    914     -250    -120    372     827     1027    1705    1577    1750    1392    893     458     -71     
+5202   1969 748     134     1406    -161    529     1745    962     -83     -346    -85     587     1087    1629    1787    1815    1513    994     379     -375    
+5202   1970 709     20      1324    -437    537     1698    848     -446    -496    25      392     1190    1783    1595    1719    1248    883     414     117     
+5202   1971 826     262     1339    67      647     1647    820     -33     121     58      613     1268    1446    1775    1715    1191    896     371     432     
+5202   1972 795     288     1311    71      672     1657    805     -231    8       234     631     1149    1512    1839    1615    1097    774     547     333     
+5202   1973 805     387     1333    189     680     1708    713     30      206     420     516     1097    1669    1840    1615    1240    630     271     82      
+5202   1974 843     297     1285    189     697     1514    849     222     270     306     768     1019    1412    1505    1623    1374    642     538     399     

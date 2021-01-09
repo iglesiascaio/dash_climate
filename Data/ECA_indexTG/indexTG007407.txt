@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  GASHALLAN/NARPIO                         (STAID:   7407)
+LATITUDE: dd:mm:ss +62:34:00
+LONGITUDE: ddd:mm:ss +021:03:00
+ELEVATION: m    3
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7407   1967 -999999 -999999 1001    -999999 -999999 1363    807     -999999 -999999 -999999 100     634     1111    1512    1457    1172    775     474     -714    
+7407   1968 281     -256    893     -834    49      1307    364     -1147   -627    -296    31      413     1227    1351    1340    981     241     -128    -38     
+7407   1969 321     -385    994     -548    -72     1468    541     -652    -1002   -793    39      540     1244    1484    1671    961     617     42      -428    
+7407   1970 348     -331    999     -766    35      1497    496     -698    -1217   -378    -46     527     1369    1585    1534    1005    509     -28     -109    
+7407   1971 405     -143    946     -254    -3      1364    481     -141    -538    -586    -17     594     1175    1405    1506    991     540     -89     -59     
+7407   1972 -999999 -150    -999999 -349    119     -999999 -999999 -524    -472    -316    62      611     -999999 -999999 -999999 -999999 -999999 -999999 -999999 

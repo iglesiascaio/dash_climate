@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    CERRETO_LAGHI                            (STAID:  17586)
+LATITUDE: dd:mm:ss +44:17:54
+LONGITUDE: ddd:mm:ss +010:14:17
+ELEVATION: m 1336
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17586  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17586  2006 730     -999999 1241    -999999 530     1534    944     -326    -151    58      555     977     1457    1816    1325    1304    980     545     162     
+17586  2007 751     391     1267    198     723     1519    647     246     185     214     841     1116    1352    1686    1513    1079    659     202     -125    
+17586  2008 717     175     1210    12      543     1572    717     141     21      143     480     1005    1419    1620    1672    1039    855     253     -77     
+17586  2009 738     143     1313    -154    675     1602    813     -214    -174    189     547     1284    1363    1678    1756    1222    718     502     -79     
+17586  2010 -999999 120     -999999 -185    473     -999999 -999999 -336    -136    36      522     863     1355    -999999 -999999 -999999 -999999 -999999 -999999 

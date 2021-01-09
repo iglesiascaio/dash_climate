@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   REIPA                                    (STAID:  18079)
+LATITUDE: dd:mm:ss +66:54:12
+LONGITUDE: ddd:mm:ss +013:38:45
+ELEVATION: m    9
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18079  2009 -999999 -999999 -999999 -999999 -999999 -999999 531     -999999 -999999 -999999 -999999 -999999 -999999 1395    1433    998     369     232     -324    
+18079  2010 355     -134    892     -405    276     1120    412     -332    -575    -204    290     743     856     1307    1188    947     566     -283    -318    
+18079  2011 628     -52     1060    -229    479     1302    814     -114    -259    69      521     847     1277    1324    1305    1079    756     609     61      
+18079  2012 413     245     825     -53     336     1121    442     -204    -14     255     156     591     1018    1182    1162    824     289     217     -535    
+18079  2013 541     -124    1040    -320    327     1285    627     -147    -273    -297    210     1064    1239    1302    1312    1096    532     258     137     
+18079  2014 571     121     1042    -82     426     1388    582     -490    126     165     390     723     1054    1703    1398    963     625     155     3       
+18079  2015 615     182     954     14      462     1170    698     -40     86      251     397     737     850     1198    1450    1075    637     384     313     
+18079  2016 540     184     977     -43     469     1188    538     -391    -53     207     378     819     1002    1367    1188    1091    381     147     319     
+18079  2017 532     153     937     131     253     1251    605     190     -144    -3      191     567     1198    1303    1249    1100    553     163     -33     
+18079  2018 495     -53     995     -216    276     1245    644     -265    -365    -393    252     968     900     1540    1285    998     475     465     24      
+18079  2019 -999999 94      991     -89     369     1297    -999999 -299    19      -113    515     710     1084    1381    1420    816     333     -999999 -999999 

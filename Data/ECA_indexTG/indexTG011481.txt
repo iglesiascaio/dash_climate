@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    ERBA (V. BATTISTI)                       (STAID:  11481)
+LATITUDE: dd:mm:ss +45:48:36
+LONGITUDE: ddd:mm:ss +009:13:18
+ELEVATION: m  279
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11481  2003 -999999 -999999 2075    -999999 1363    2528    1185    -999999 -999999 900     1175    1920    2518    2460    2605    1744    1074    740     338     
+11481  2004 1255    568     1887    295     1141    2243    1333    202     349     698     1208    1520    2164    2284    2279    1854    1405    739     333     
+11481  2005 1231    621     1932    247     1262    2251    1233    182     223     809     1142    1831    2270    2369    2115    1850    1236    614     69      
+11481  2006 1309    469     2007    80      1252    2327    1443    -43     229     689     1304    1764    2273    2611    2095    1978    1455    894     389     
+11481  2007 1353    816     1985    513     1486    2231    1219    537     625     979     1632    1851    2133    2410    2145    1721    1270    663     221     
+11481  2008 1292    660     1896    360     1285    2240    1263    393     474     925     1204    1722    2114    2295    2306    1713    1351    722     253     
+11481  2009 1438    626     2174    242     1425    2504    1528    69      420     925     1357    1992    2265    2557    2682    2169    1468    951     340     
+11481  2010 1400    741     2127    355     1374    2505    1401    237     503     935     1448    1742    2341    2748    2420    2046    1339    820     166     
+11481  2011 1421    666     2113    291     1529    2276    1459    203     527     933     1669    1989    2078    2240    2504    2183    1423    773     477     
+11481  2012 1401    759     2054    351     1422    2463    1427    369     196     1282    1193    1785    2310    2472    2601    1943    1406    931     269     
+11481  2013 1329    668     1980    331     1147    2367    1416    412     312     654     1276    1516    2153    2527    2413    1979    1399    872     366     
+11481  2014 1366    796     1873    455     1406    2079    1455    419     594     1109    1413    1696    2107    2109    2021    1887    1504    971     514     
+11481  2015 1427    824     2092    473     1424    2482    1326    429     476     1021    1432    1820    2257    2764    2419    1835    1302    842     455     
+11481  2016 1383    755     2033    478     1342    2313    1415    353     636     938     1437    1653    2092    2478    2361    2166    1285    796     385     
+11481  2017 -999999 733     2072    358     1485    2464    1334    149     583     1172    1437    1845    2371    2485    2534    1740    1483    775     -999999 

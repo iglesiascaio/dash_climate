@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  LEUTKIRCH-HERLAZHOFEN                    (STAID:   4927)
+LATITUDE: dd:mm:ss +47:47:47
+LONGITUDE: ddd:mm:ss +010:02:00
+ELEVATION: m  672
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4927   2007 -999999 -999999 1381    -999999 -999999 1590    619     -999999 -999999 -999999 1071    1300    1610    1635    1525    1090    727     37      -184    
+4927   2008 775     180     1320    21      729     1619    715     95      161     237     626     1320    1598    1643    1615    1098    833     209     -161    
+4927   2009 777     77      1422    -257    813     1631    886     -390    -217    162     933     1349    1443    1675    1768    1346    778     538     -115    
+4927   2010 671     132     1288    -252    648     1629    708     -448    -185    206     734     1005    1508    1836    1539    1090    685     350     -321    
+4927   2011 834     179     1400    -139    888     1580    814     -123    43      431     942     1293    1526    1472    1740    1418    750     277     189     
+4927   2012 787     186     1374    -144    823     1675    -999999 -19     -634    505     692     1269    1600    1655    1768    1241    797     -999999 -17     
+4927   2013 735     -999999 1334    -150    592     1666    833     -96     -358    50      738     991     1446    1875    1671    1266    973     254     -72     
+4927   2014 890     341     1334    98      817     1574    966     138     241     497     853     1103    1592    1652    1480    1319    1064    512     185     
+4927   2015 855     307     1420    -39     778     1804    824     18      -349    359     744     1230    1614    1947    1843    1116    771     587     287     
+4927   2016 822     367     1387    194     695     1671    831     58      239     255     706     1124    1550    1777    1683    1470    721     305     -43     
+4927   2017 815     212     1377    -138    840     1753    779     -560    225     628     596     1288    1786    1727    1747    1099    926     308     -34     
+4927   2018 903     232     1538    -23     904     1770    874     289     -357    203     1097    1418    1636    1817    1852    1394    885     343     164     
+4927   2019 -999999 282     1383    -23     722     1783    -999999 -260    31      507     765     895     1816    1812    1720    1278    987     -999999 -999999 

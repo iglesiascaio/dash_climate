@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION RUSSIAN FEDERATION                       NIKOLO-POLOMA                            (STAID:   1187)
+LATITUDE: dd:mm:ss +58:24:00
+LONGITUDE: ddd:mm:ss +043:24:00
+ELEVATION: m  150
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+1187   1995 -999999 -999999 1399    -999999 659     1680    -999999 -941    -304    -170    750     1349    1842    1575    1617    1255    -999999 -999999 -999999 
+1187   1996 -999999 -999999 -999999 -999999 -999999 1621    403     -999999 -1275   -446    197     1112    1560    1799    1515    829     288     97      -1046   
+1187   1997 -999999 -999999 -999999 -999999 293     -999999 217     -1484   -805    -353    322     888     1686    1662    1500    843     232     -470    -1133   
+1187   1998 -999999 -999999 1228    -1179   299     1720    -999999 -909    -1554   -300    -59     1225    1855    1834    1483    975     414     -935    -842    
+1187   1999 357     -999999 1255    -970    230     1769    221     -1139   -905    -548    627     612     1880    1969    1439    967     610     -903    -489    
+1187   2000 431     -419    1275    -648    436     1698    350     -897    -539    -304    809     802     1591    2008    1492    907     522     -380    -970    
+1187   2001 357     -532    1339    -941    414     1671    391     -783    -1087   -499    825     954     1579    2011    1423    1180    248     -268    -1378   
+1187   2002 -999999 -422    1229    -829    395     1684    217     -803    -267    -113    430     887     1528    2086    1427    982     41      -490    -1695   
+1187   2003 -999999 -999999 -999999 -1358   330     1566    475     -1182   -1171   -487    323     1209    1121    1947    1667    1008    415     -34     -405    
+1187   2004 -999999 -386    -999999 -860    -999999 -999999 -999999 -1131   -1046   -81     -999999 1084    1377    -999999 -999999 1083    409     -384    -671    
+1187   2005 -999999 -999999 -999999 -784    314     -999999 -999999 -584    -1159   -908    380     1353    1516    -999999 -999999 -999999 -999999 -999999 -999999 

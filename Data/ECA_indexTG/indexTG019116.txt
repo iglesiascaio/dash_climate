@@ -1,0 +1,35 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   ASKER BRANNSTASJON                       (STAID:  19116)
+LATITUDE: dd:mm:ss +59:50:00
+LONGITUDE: ddd:mm:ss +010:26:08
+ELEVATION: m  112
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+19116  1978 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -854    
+19116  1979 410     -999999 1112    -821    358     1473    465     -872    -728    -90     343     821     1539    1529    1355    1075    426     -103    -444    
+19116  1980 457     -348    1251    -698    440     1569    426     -785    -876    -330    488     1163    1557    1684    1467    1131    404     -256    -212    
+19116  1981 465     -198    1184    -363    439     1449    558     -442    -443    -264    435     1146    1262    1572    1506    1163    492     21      -928    
+19116  1982 567     -259    1227    -742    522     1572    644     -838    -428    121     489     955     1353    1749    1607    1187    576     170     -232    

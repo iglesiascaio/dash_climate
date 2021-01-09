@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    ODENA                                    (STAID:  11059)
+LATITUDE: dd:mm:ss +41:35:11
+LONGITUDE: ddd:mm:ss +001:39:11
+ELEVATION: m  333
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11059  2008 1397    -999999 1899    -999999 1257    2229    1386    670     784     954     1259    1539    1991    2343    2347    1900    1498    758     550     
+11059  2009 1439    -999999 1942    -999999 1258    2284    1505    -999999 685     917     1114    1740    2134    2325    2387    1931    1537    1045    581     
+11059  2010 1275    814     1837    527     1100    2187    1314    481     519     698     1172    1433    1886    2412    2252    1849    1335    758     452     
+11059  2011 1417    754     1938    504     1332    2154    1597    434     640     897     1379    1721    1945    2185    2325    2059    1585    1147    645     
+11059  2012 1373    863     1938    499     1239    2298    1465    506     334     935     1147    1633    2173    2255    2463    1943    1519    932     595     
+11059  2013 1341    855     1820    573     1149    2155    1521    563     560     932     1151    1364    1858    2357    2239    1935    1693    929     456     
+11059  2014 1422    898     1909    601     1273    2166    1608    679     675     938     1373    1510    2059    2199    2238    2068    1674    1081    530     
+11059  2015 1421    879     1986    488     1350    2352    1411    451     484     1024    1249    1774    2168    2577    2306    1822    1442    968     719     
+11059  2016 1418    924     1932    753     1193    2276    1508    737     805     865     1202    1511    2073    2405    2345    2042    1527    953     535     
+11059  2017 1409    879     1968    586     1304    2359    1399    401     846     1009    1196    1703    2273    2402    2398    1816    1614    760     449     
+11059  2018 1415    824     1957    558     1229    2271    1511    752     462     869     1265    1555    2016    2398    2391    2101    1486    946     663     
+11059  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

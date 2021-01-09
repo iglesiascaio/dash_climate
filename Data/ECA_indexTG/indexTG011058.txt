@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    NURIA                                    (STAID:  11058)
+LATITUDE: dd:mm:ss +42:22:54
+LONGITUDE: ddd:mm:ss +002:09:19
+ELEVATION: m 1971
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11058  2008 530     -999999 918     -999999 312     1233    502     226     64      26      359     551     1003    1348    1340    891     581     33      -83     
+11058  2009 618     77      1029    -119    435     1358    752     -191    -78     183     195     920     1189    1439    1442    964     852     437     12      
+11058  2010 472     135     930     -155    268     1258    533     -234    -250    -32     348     491     938     1495    1329    964     561     74      -78     
+11058  2011 625     95      1052    -47     499     1234    723     -79     22      66      610     824     1061    1195    1442    1169    690     312     147     
+11058  2012 575     165     1004    -58     348     1383    635     106     -453    156     109     771     1277    1333    1536    980     642     283     103     
+11058  2013 477     107     856     -95     194     1175    633     24      -444    -13     277     320     921     1310    1286    1008    795     92      78      
+11058  2014 559     163     908     -5      364     1128    752     17      -123    91      470     534     1038    1149    1194    1058    882     313     37      
+11058  2015 620     183     1032    -109    501     1361    621     -8      -383    205     425     869     1159    1622    1283    818     605     442     354     
+11058  2016 562     241     954     146     272     1277    632     74      1       -35     260     590     1018    1402    1402    1033    690     172     107     
+11058  2017 609     182     1032    -28     480     1400    633     -244    61      294     361     782     1292    1439    1465    830     872     189     -83     
+11058  2018 545     99      960     -127    257     1230    652     85      -409    -104    362     533     1038    1345    1302    1142    662     152     360     
+11058  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

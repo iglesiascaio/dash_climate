@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    QUARTESANA                               (STAID:  17747)
+LATITUDE: dd:mm:ss +44:49:05
+LONGITUDE: ddd:mm:ss +011:44:56
+ELEVATION: m   20
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17747  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 305     
+17747  2006 1343    -999999 1993    253     1270    2279    1474    107     359     729     1341    1742    2162    2535    2135    2030    1527    863     519     
+17747  2007 1396    851     2041    567     1491    2316    1277    529     660     992     1555    1927    2227    2441    2277    1802    1338    688     266     
+17747  2008 1383    690     1989    406     1304    2348    1421    469     488     878     1266    1767    2190    2424    2426    1839    1517    904     392     
+17747  2009 1396    733     2092    357     1424    2375    1446    223     467     872     1401    1999    2191    2424    2506    2010    1361    969     269     
+17747  2010 1304    673     1972    295     1301    2307    1331    160     472     795     1333    1776    2169    2492    2256    1784    1255    956     151     
+17747  2011 1387    661     2101    278     1421    2342    1409    251     449     894     1481    1889    2211    2332    2477    2203    1304    723     374     
+17747  2012 1379    637     2086    215     1396    2494    1468    117     149     1123    1291    1771    2349    2549    2578    1957    1450    999     175     
+17747  2013 1349    668     1995    263     1240    2349    1457    312     307     739     1327    1656    2166    2512    2363    1930    1496    944     364     
+17747  2014 1453    869     1954    567     1408    2220    1530    589     766     1046    1453    1726    2218    2242    2201    1875    1587    1126    563     
+17747  2015 1460    855     2126    486     1390    2499    1467    353     547     935     1354    1881    2284    2724    2481    2010    1460    931     494     
+17747  2016 1468    857     2097    570     1433    2393    1500    416     816     1024    1484    1792    2225    2589    2361    2115    1403    986     395     
+17747  2017 1472    810     2151    414     1516    2565    1391    170     707     1193    1454    1898    2490    2579    2624    1838    1476    856     335     
+17747  2018 1468    736     2143    449     1388    2442    1569    610     397     711     1537    1921    2286    2527    2508    2060    1549    1099    343     
+17747  2019 -999999 827     2134    405     1325    2616    -999999 233     664     1064    1366    1545    2571    2654    2623    2034    1604    -999999 -999999 

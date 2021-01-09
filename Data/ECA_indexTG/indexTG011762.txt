@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  MESPELBRUNN                              (STAID:  11762)
+LATITUDE: dd:mm:ss +49:55:18
+LONGITUDE: ddd:mm:ss +009:17:12
+ELEVATION: m   30
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11762  1953 821     -999999 1340    -999999 822     1553    879     -210    -11     378     825     1263    1519    1630    1509    1285    950     400     260     
+11762  1954 740     256     1225    -91     706     1457    849     -309    -240    431     577     1107    1509    1374    1489    1284    907     354     328     
+11762  1955 715     228     1255    -7      558     1578    747     -196    -170    112     617     948     1461    1689    1581    1219    725     299     231     
+11762  1956 689     136     1230    -203    714     1434    809     58      -946    385     577     1174    1282    1635    1381    1314    832     281     207     
+11762  1957 830     400     1262    196     766     1587    813     -35     440     675     723     899     1637    1708    1416    1184    810     446     41      
+11762  1958 818     260     1332    109     605     1586    887     29      274     -34     530     1316    1427    1651    1675    1374    829     461     252     
+11762  1959 864     357     1397    74      931     1663    746     7       -48     607     919     1265    1566    1834    1587    1192    722     325     320     
+11762  1960 829     331     1285    128     838     1527    892     -40     101     543     739     1230    1599    1469    1514    1150    912     614     91      
+11762  1961 868     430     1341    161     863     1481    968     -16     435     553     1054    988     1484    1429    1531    1565    977     361     44      
+11762  1962 681     271     1222    90      565     1478    724     205     14      3       779     921     1362    1496    1574    1187    782     201     -395    

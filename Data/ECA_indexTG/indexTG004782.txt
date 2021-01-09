@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  WOLDEGK                                  (STAID:   4782)
+LATITUDE: dd:mm:ss +53:27:47
+LONGITUDE: ddd:mm:ss +013:36:42
+ELEVATION: m  118
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4782   1979 683     -999999 1299    -999999 683     1550    737     -570    -480    171     597     1279    1669    1411    1574    1251    642     321     258     
+4782   1980 657     96      1226    -148    521     1510    789     -608    -89     46      545     971     1473    1517    1539    1296    791     280     104     
+4782   1981 761     247     1347    -32     827     1578    827     -168    -32     481     646     1347    1501    1627    1603    1339    725     419     -405    
+4782   1982 818     90      1396    -337    724     1689    987     -435    -154    374     615     1180    1525    1774    1762    1501    931     530     150     
+4782   1983 856     373     1409    118     776     1718    864     403     -233    403     746     1177    1515    1860    1773    1363    888     340     -50     
+4782   1984 745     206     1269    -31     640     1524    839     58      -106    91      667     1163    1319    1520    1727    1197    1019    294     -52     
+4782   1985 689     59      1315    -399    720     1554    743     -680    -471    201     677     1281    1350    1657    1650    1254    918     50      286     
+4782   1986 733     112     1286    -162    670     1595    858     -89     -738    163     507     1334    1463    1727    1590    1068    900     606     146     
+4782   1987 648     84      1240    -276    503     1483    862     -800    -164    -192    770     941     1371    1611    1463    1277    832     479     152     
+4782   1988 851     346     1378    202     741     1623    791     263     191     155     702     1365    1492    1718    1654    1316    852     204     265     
+4782   1989 922     428     1403    309     860     1639    912     301     367     567     731     1279    1525    1721    1669    1480    1027    224     131     
+4782   1990 911     483     1336    322     905     1604    837     313     543     655     764     1292    1499    1587    1722    1133    959     417     15      

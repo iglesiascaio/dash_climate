@@ -1,0 +1,47 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  PUOLANKA KK                              (STAID:   7703)
+LATITUDE: dd:mm:ss +64:52:00
+LONGITUDE: ddd:mm:ss +027:42:00
+ELEVATION: m  156
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7703   1971 -999999 -999999 -999999 -999999 -999999 -999999 -69     -999999 -999999 -999999 -999999 -999999 -999999 1417    1285    579     24      -812    -998    
+7703   1972 240     -766    1023    -1065   -2      1583    119     -1143   -1054   -653    25      623     1473    1847    1425    717     126     -486    -119    
+7703   1973 100     -456    971     -609    67      1531    -205    -755    -989    -569    36      732     1466    1917    1209    436     -244    -805    -1366   
+7703   1974 308     -708    976     -919    -34     1475    304     -891    -436    -487    -95     478     1435    1625    1363    1032    239     -380    -304    
+7703   1975 204     -413    941     -683    187     1264    241     -835    -934    -314    -7      875     1167    1455    1165    965     113     -355    -935    
+7703   1976 -36     -850    834     -1286   -58     1248    -110    -1762   -1153   -982    -61     871     1040    1380    1319    420     -289    -455    -791    
+7703   1977 71      -720    823     -1000   -36     1293    89      -981    -1253   -596    -93     578     1226    1509    1142    552     13      -296    -1043   
+7703   1978 -58     -788    856     -1305   20      1286    77      -1143   -1776   -561    -179    794     1263    1452    1141    640     -20     -385    -2042   
+7703   1979 110     -954    957     -1657   78      1438    128     -1484   -1421   -400    -210    834     1388    1510    1413    777     -136    -249    -810    
+7703   1980 24      -813    1019    -1192   -62     1531    -62     -1385   -1394   -921    139     602     1684    1622    1291    759     83      -1032   -1208   
+7703   1981 46      -935    889     -1159   -168    1301    206     -956    -1330   -1207   -150    854     1105    1601    1192    699     318     -404    -1271   
+7703   1982 107     -805    874     -1477   105     1260    285     -2070   -1049   -363    30      647     868     1589    1308    771     137     -47     -613    
+7703   1983 129     -550    1024    -929    176     1346    24      -810    -1409   -624    245     909     1253    1619    1162    936     189     -1058   -988    
+7703   1984 221     -758    1015    -935    164     1314    237     -1086   -715    -897    203     1189    1281    1455    1205    728     309     -329    -724    
+7703   1985 -121    -938    876     -1744   -56     1391    170     -2465   -2077   -435    -239    501     1291    1510    1369    798     283     -574    -1545   
+7703   1986 56      -883    891     -1618   146     1415    243     -1706   -1601   -214    -103    746     1598    1611    1041    431     309     -14     -1530   
+7703   1987 -90     -958    816     -1720   -113    1190    170     -2175   -1428   -928    -64     653     1211    1331    1028    717     575     -795    -1289   

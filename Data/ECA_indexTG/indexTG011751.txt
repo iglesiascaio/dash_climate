@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  GROSSMEHRING-THEISSING                   (STAID:  11751)
+LATITUDE: dd:mm:ss +48:48:45
+LONGITUDE: ddd:mm:ss +011:34:22
+ELEVATION: m   41
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11751  1949 903     -999999 1517    -999999 863     1698    1004    -88     -34     256     1075    1265    1463    1845    1780    1664    1041    305     200     
+11751  1950 875     346     1529    55      927     1878    781     -169    144     536     728     1509    1881    1952    1801    1278    714     354     -274    
+11751  1951 866     189     1448    -77     786     1706    949     -71     133     279     803     1277    1554    1773    1785    1479    827     543     -36     
+11751  1952 814     229     1517    -102    888     1878    627     -120    -153    295     1075    1301    1620    2074    1933    1073    694     113     -182    
+11751  1953 867     140     1480    -175    969     1683    898     -234    -101    523     997     1387    1597    1795    1653    1435    1020    234     33      
+11751  1954 756     182     1315    -250    791     1559    851     -432    -361    545     625     1199    1627    1452    1601    1377    887     286     188     
+11751  1955 736     166     1346    -96     626     1650    760     -295    -188    88      706     1087    1541    1739    1666    1321    725     233     141     
+11751  1956 670     65      1316    -294    736     1515    773     -35     -1036   293     637     1276    1339    1705    1497    1424    736     161     -33     
+11751  1957 822     258     1333    -17     828     1668    787     -274    286     673     796     1014    1744    1763    1501    1173    797     389     -28     
+11751  1958 807     164     1415    -55     670     1655    900     -195    70      -50     579     1478    1504    1717    1738    1451    827     423     89      
+11751  1959 885     292     1499    -57     975     1764    805     -137    -131    642     943     1339    1633    1937    1719    1406    798     212     177     
+11751  1960 834     237     1401    -34     893     1649    883     -200    -81     496     814     1365    1710    1595    1645    1263    881     505     -13     

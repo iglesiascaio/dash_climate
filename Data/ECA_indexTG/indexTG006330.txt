@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   BRUNSBERG                                (STAID:   6330)
+LATITUDE: dd:mm:ss +59:37:12
+LONGITUDE: ddd:mm:ss +012:58:48
+ELEVATION: m   70
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+6330   1945 594     -999999 1251    -999999 598     1641    496     -555    -217    225     577     992     1417    1771    1727    997     503     -14     -360    
+6330   1946 550     -187    1248    -499    530     1522    554     -616    -523    -139    652     1081    1363    1768    1429    1175    261     234     -151    
+6330   1947 483     -337    1423    -676    439     1779    490     -481    -1473   -502    457     1363    1690    1823    1820    1361    446     -334    -528    
+6330   1948 552     -277    1256    -645    655     1544    441     -895    -504    136     671     1157    1464    1750    1415    1062    357     -93     59      
+6330   1949 681     10      1296    -28     546     1554    718     -58     -91     -128    561     1207    1442    1812    1405    1331    574     255     -188    
+6330   1950 548     -53     1244    -390    538     1564    555     -658    -316    -2      492     1122    1499    1569    1622    1141    617     -95     -471    
+6330   1951 576     -202    1179    -440    265     1539    721     -615    -213    -435    324     908     1461    1572    1583    1207    647     311     114     
+6330   1952 468     23      1133    -178    435     1448    334     -385    -267    -291    616     987     1297    1620    1421    839     373     -210    -403    
+6330   1953 662     -182    1257    -514    592     1638    747     -611    -530    253     471     1048    1776    1649    1494    1093    867     276     78      
+6330   1954 513     -33     1173    -479    519     1485    549     -681    -872    65      292     1192    1425    1544    1484    1081    525     41      -43     
+6330   1955 456     -196    1195    -478    210     1669    578     -617    -804    -331    203     756     1314    1939    1742    1189    488     59      -563    
+6330   1956 -999999 -379    -999999 -848    -999999 -999999 -999999 -918    -1079   -293    194     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

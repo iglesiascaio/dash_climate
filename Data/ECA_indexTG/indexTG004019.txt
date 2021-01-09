@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  DOMITZ                                   (STAID:   4019)
+LATITUDE: dd:mm:ss +53:08:29
+LONGITUDE: ddd:mm:ss +011:15:20
+ELEVATION: m   15
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4019   1947 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 518     218     
+4019   1948 906     -999999 1453    195     988     1626    858     262     100     508     1077    1382    1632    1627    1619    1375    782     402     63      
+4019   1949 -999999 294     1471    125     846     1619    -999999 120     198     210     1039    1294    1434    1729    1688    1634    1029    -999999 349     
+4019   1950 875     -999999 1451    173     865     1767    837     -102    281     517     702     1369    1728    1765    1807    1316    769     429     -119    
+4019   1951 888     254     1418    34      703     1713    906     99      132     211     760     1140    1618    1726    1791    1462    612     655     405     
+4019   1952 808     338     1407    217     803     1669    677     119     122     109     1076    1234    1465    1771    1766    1114    755     160     -22     
+4019   1953 955     258     1469    29      914     1747    1014    72      39      523     891     1329    1741    1807    1694    1341    1097    600     262     
+4019   1954 822     281     1373    -142    789     1617    965     -248    -472    382     622     1357    1676    1525    1651    1393    1074    424     377     
+4019   1955 815     261     1400    21      585     1727    943     -140    -194    -14     716     1057    1473    1870    1829    1436    906     487     279     
+4019   1956 756     207     1329    -165    738     1557    876     35      -854    330     531     1347    1429    1814    1425    1411    893     324     300     
+4019   1957 914     450     1363    295     811     1712    896     182     414     582     805     1044    1743    1835    1558    1180    987     518     91      
+4019   1958 870     292     1412    73      646     1683    992     -22     158     16      584     1335    1518    1778    1747    1489    1046    437     307     
+4019   1959 967     428     1560    128     1020    1861    883     56      9       672     1016    1373    1707    2010    1862    1375    925     347     174     
+4019   1960 907     326     1428    83      855     1671    981     80      -13     401     770     1392    1722    1650    1642    1376    917     650     210     
+4019   1961 -999999 484     1473    201     993     1657    -999999 -59     479     727     1116    1140    1766    1595    1613    1612    -999999 -999999 -999999 

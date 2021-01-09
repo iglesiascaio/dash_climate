@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   LEJEN                                    (STAID:   5535)
+LATITUDE: dd:mm:ss +60:12:00
+LONGITUDE: ddd:mm:ss +014:24:00
+ELEVATION: m  340
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5535   1961 477     -999999 1060    -999999 452     1368    652     -682    -219    151     351     850     1482    1397    1227    1043    853     52      -813    
+5535   1962 280     -248    889     -585    78      1189    419     -532    -391    -659    283     615     1156    1259    1151    857     597     -204    -808    
+5535   1963 322     -493    1077    -968    262     1405    454     -1024   -1083   -485    246     1025    1396    1445    1374    956     528     -124    -486    
+5535   1964 370     -240    973     -487    297     1215    444     -399    -583    -396    351     936     1145    1305    1192    890     451     -9      -478    
+5535   1965 262     -240    948     -510    184     1236    331     -509    -546    -373    245     681     1242    1265    1202    1041    519     -574    -1099   
+5535   1966 248     -661    985     -1222   140     1443    389     -1149   -1438   -299    -91     802     1549    1504    1279    847     369     -47     -472    
+5535   1967 382     -266    1010    -672    328     1373    593     -1108   -410    63      199     718     1242    1495    1378    1007    559     214     -816    
+5535   1968 294     -347    1056    -904    283     1460    248     -1080   -809    -160    405     608     1560    1427    1395    931     268     -456    -587    
+5535   1969 264     -554    -999999 -800    -999999 1581    391     -650    -1203   -758    155     -999999 1571    1555    1616    977     558     -367    -810    
+5535   1970 247     -577    999     -1102   135     1448    310     -1073   -1458   -391    -10     801     1651    1324    1377    837     439     -350    -314    
+5535   1971 409     -241    998     -366    210     1337    378     -435    -346    -452    117     964     1239    1477    1293    874     493     -235    -141    
+5535   1972 434     -225    1019    -484    255     1455    422     -890    -416    -175    137     798     1367    1704    1290    794     454     16      97      
+5535   1973 414     34      1033    -118    330     1504    152     -126    -346    70      92      822     1474    1700    1335    747     130     -419    -583    
+5535   1974 480     -229    1033    -311    373     1302    397     -199    -134    -164    426     860     1297    1300    1310    991     239     -34     -167    
+5535   1975 532     -102    1124    -237    317     1531    548     -145    -417    -116    151     910     1247    1679    1659    1067    495     84      -309    
+5535   1976 -999999 -270    1059    -559    217     1499    307     -929    -431    -530    229     954     1400    1589    1505    651     301     -30     -999999 

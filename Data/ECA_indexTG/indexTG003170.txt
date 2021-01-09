@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NETHERLANDS                              F16-A                                    (STAID:   3170)
+LATITUDE: dd:mm:ss +54:07:00
+LONGITUDE: ddd:mm:ss +004:00:43
+ELEVATION: m   43
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+3170   2006 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+3170   2007 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1653    1482    1296    977     764     
+3170   2008 1084    830     1369    715     853     1567    1238    716     660     597     740     1217    1424    1605    1669    1547    1215    952     634     
+3170   2009 1068    720     1374    521     827     1582    1322    485     440     574     820     1089    1351    1632    1756    1584    1264    1118    664     
+3170   2010 940     693     1283    407     722     1535    1172    267     277     540     716     910     1321    1661    1616    1461    1251    801     411     
+3170   2011 1063    664     1332    464     848     1475    1321    524     457     522     897     1125    1367    1499    1556    1539    1326    1097    805     
+3170   2012 1015    827     1278    622     791     1490    1215    663     384     662     688     1019    1240    1511    1718    1494    1187    965     630     
+3170   2013 965     635     1235    472     535     1513    1266    443     328     236     520     848     1182    1615    1720    1505    1341    949     845     
+3170   2014 1172    883     1417    743     928     1620    1397    671     707     749     885     1131    1419    1785    1649    1623    1461    1105    789     
+3170   2015 1074    862     1269    664     759     1493    1295    650     540     605     704     966     1245    1532    1694    1468    1295    1129    1029    
+3170   2016 -999999 890     -999999 768     808     -999999 1341    651     608     609     721     1091    -999999 -999999 1702    1794    1310    919     889     
+3170   2017 1089    827     1356    677     847     1578    1303    589     540     689     759     1089    1444    1598    1688    1549    1382    976     724     
+3170   2018 1065    735     1388    571     741     1645    1266    617     350     334     732     1158    1403    1773    1752    1512    1309    1008    837     
+3170   2019 -999999 871     1372    730     837     1622    -999999 643     709     710     808     991     1427    1649    1785    1564    1295    -999999 -999999 

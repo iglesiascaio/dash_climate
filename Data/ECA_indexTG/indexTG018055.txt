@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   GRAN                                     (STAID:  18055)
+LATITUDE: dd:mm:ss +60:21:20
+LONGITUDE: ddd:mm:ss +010:33:33
+ELEVATION: m  245
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18055  2013 453     -999999 1162    -999999 290     1501    537     -951    -713    -544    265     1150    1361    1699    1438    1035    545     32      -4      
+18055  2014 669     78      1264    -143    657     1584    712     -438    30      299     591     1078    1421    1885    1440    1147    744     243     -448    
+18055  2015 587     49      1104    -290    484     1417    565     -247    -164    153     535     766     1277    1506    1462    1062    526     108     6       
+18055  2016 514     -100    1224    -451    537     1493    525     -919    -439    105     398     1104    1531    1555    1396    1350    383     -153    -168    
+18055  2017 490     -110    1121    -337    505     1412    487     -498    -345    98      374     1038    1357    1516    1361    1059    498     -96     -541    
+18055  2018 562     -314    1364    -569    418     1742    588     -506    -669    -596    363     1484    1660    2107    1457    1082    548     137     -405    
+18055  2019 -999999 -117    1172    -465    466     1543    -999999 -740    -228    -18     557     863     1425    1665    1534    969     378     -999999 -999999 

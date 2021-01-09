@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  ANDERNACH                                (STAID:  11733)
+LATITUDE: dd:mm:ss +50:25:24
+LONGITUDE: ddd:mm:ss +007:25:12
+ELEVATION: m    8
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11733  2011 -999999 -999999 -999999 -999999 -999999 -999999 1075    -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1657    1045    523     539     
+11733  2012 1059    571     1566    325     1127    1817    1013    434     -21     866     953     1555    1639    1816    1990    1423    980     637     384     
+11733  2013 1025    436     1563    247     827     1880    1096    219     128     245     972     1267    1668    2090    1874    1489    1192    604     491     
+11733  2014 1181    693     1629    523     1143    1833    1224    518     564     775     1267    1390    1761    2046    1688    1612    1283    774     454     
+11733  2015 1137    634     1616    366     1008    1959    1087    352     284     628     1010    1386    1728    2100    2043    1406    961     897     789     
+11733  2016 1096    676     1651    554     976     1898    1116    377     492     536     931     1458    1777    1982    1929    1814    970     570     298     
+11733  2017 1119    529     1624    229     1129    1954    1093    -88     504     916     904     1558    1968    2009    1885    1400    1246    627     455     
+11733  2018 1192    578     1806    368     1164    2080    1113    623     -10     471     1332    1695    1916    2210    2110    1556    1138    644     529     
+11733  2019 -999999 638     1662    408     1045    2037    -999999 251     449     799     1104    1235    2071    2051    1989    1511    1162    -999999 -999999 

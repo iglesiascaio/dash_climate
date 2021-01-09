@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    MONTSEC                                  (STAID:  11055)
+LATITUDE: dd:mm:ss +42:03:05
+LONGITUDE: ddd:mm:ss +000:43:45
+ELEVATION: m 1572
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11055  2008 790     -999999 1213    -999999 555     1565    752     415     299     271     577     817     1309    1683    1696    1174    823     256     136     
+11055  2009 901     297     1390    76      739     1759    998     -15     110     452     473     1283    1588    1823    1860    1286    1123    581     134     
+11055  2010 737     315     1276    -17     544     1640    773     -102    -79     191     634     811     1302    1895    1712    1283    801     234     103     
+11055  2011 938     315     1412    182     800     1596    1085    131     325     293     925     1185    1383    1546    1853    1570    1071    616     322     
+11055  2012 893     476     1370    205     702     1761    915     356     -83     542     394     1162    1659    1660    1960    1361    935     447     270     
+11055  2013 789     336     1216    133     461     1577    932     232     -127    220     537     629     1260    1798    1664    1392    1060    338     385     
+11055  2014 879     412     1294    216     716     1526    1065    196     51      404     858     891     1443    1557    1575    1435    1204    551     327     
+11055  2015 963     473     1409    175     845     1765    943     265     -93     530     762     1240    1583    2026    1680    1138    879     813     644     
+11055  2016 893     501     1344    375     542     1721    978     249     223     191     532     904     1446    1869    1840    1456    1034    443     490     
+11055  2017 945     496     1415    295     825     1797    971     81      317     590     732     1149    1717    1842    1829    1201    1202    504     125     
+11055  2018 860     347     1354    82      554     1681    952     243     -145    111     661     894     1416    1848    1769    1520    924     412     590     
+11055  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

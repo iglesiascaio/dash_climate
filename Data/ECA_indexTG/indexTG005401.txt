@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   VASTRA_NY                                (STAID:   5401)
+LATITUDE: dd:mm:ss +58:39:00
+LONGITUDE: ddd:mm:ss +015:03:00
+ELEVATION: m  120
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5401   1961 675     -999999 1204    -999999 587     1524    816     -345    39      309     512     938     1621    1537    1418    1186    1008    246     -403    
+5401   1962 -999999 -999999 1033    -259    -999999 1323    565     -143    -226    -999999 446     805     1308    1376    1286    964     697     30      -449    
+5401   1963 488     -302    1207    -727    353     1536    696     -945    -794    -391    315     1132    1485    1631    1489    1169    695     223     -234    
+5401   1964 587     4       1184    -282    539     1469    576     -192    -429    -60     550     1125    1386    1528    1491    1004    527     200     -122    
+5401   1965 492     -18     1118    -231    351     1439    560     -187    -398    -155    451     760     1449    1308    1560    1170    752     -247    -621    
+5401   1966 -999999 -999999 1123    -804    -999999 1545    575     -756    -1058   -999999 80      989     1591    1629    1416    1009    572     144     -161    

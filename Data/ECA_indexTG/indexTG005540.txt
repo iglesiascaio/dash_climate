@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   VASBY                                    (STAID:   5540)
+LATITUDE: dd:mm:ss +60:18:00
+LONGITUDE: ddd:mm:ss +017:25:48
+ELEVATION: m   35
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5540   1962 376     -999999 995     -999999 124     1309    525     -388    -380    -709    350     739     1252    1360    1314    944     672     -46     -636    
+5540   1963 374     -442    1144    -897    235     1454    608     -997    -1076   -620    193     1130    1355    1513    1492    1157    595     74      -432    
+5540   1964 487     -138    1117    -402    409     1381    522     -300    -480    -301    471     1061    1338    1464    1340    1011    527     27      -344    
+5540   1965 404     -121    1067    -346    283     1369    433     -255    -450    -256    362     744     1406    1368    1335    1179    630     -517    -753    
+5540   1966 375     -560    1113    -1066   204     1582    544     -1021   -1463   -321    -49     975     1703    1644    1404    978     515     139     -143    
+5540   1967 -999999 -47     1140    -399    467     1501    -999999 -834    -200    232     372     795     1296    1620    1580    1155    713     -999999 -999999 
+5540   1968 435     -999999 1184    -999999 448     1553    409     -931    -708    19      613     717     1626    1499    1537    1104    387     -265    -414    
+5540   1969 406     -401    1185    -612    132     1634    539     -460    -999    -711    287     825     1541    1681    1677    1082    656     -125    -677    
+5540   1970 365     -437    1105    -1001   258     1541    492     -970    -1393   -196    103     861     1612    1495    1519    1022    579     -130    -250    
+5540   1971 509     -124    1112    -260    272     1497    454     -254    -277    -429    189     1053    1344    1625    1515    919     570     -130    -79     
+5540   1972 566     -125    1163    -364    348     1616    547     -718    -291    -111    301     852     1538    1844    1463    958     545     139     236     
+5540   1973 533     149     1167    2       488     1620    251     36      -296    191     297     969     1566    1841    1450    855     257     -360    -488    
+5540   1974 617     -106    1140    -178    439     1442    613     -44     18      -16     499     835     1408    1445    1472    1168    450     226     -88     
+5540   1975 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -2      -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

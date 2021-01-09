@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    GUIGLIA (STAZ. AGRARIA)                  (STAID:   2819)
+LATITUDE: dd:mm:ss +44:25:57
+LONGITUDE: ddd:mm:ss +010:59:33
+ELEVATION: m  456
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+2819   2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+2819   2006 1309    -999999 1926    -999999 1168    2233    1489    81      358     634     1214    1659    2131    2522    2041    1976    1529    960     543     
+2819   2007 1384    893     1992    653     1418    2260    1243    711     709     891     1518    1846    2088    2479    2206    1795    1239    695     388     
+2819   2008 1333    705     1902    477     1221    2274    1357    492     556     849     1170    1643    2061    2348    2407    1757    1490    818     374     
+2819   2009 1331    696     2016    328     1347    2325    1341    175     446     852     1237    1947    2085    2406    2476    1918    1303    802     259     
+2819   2010 1202    572     1881    197     1173    2243    1226    18      328     705     1221    1594    2081    2451    2193    1727    1139    816     105     
+2819   2011 1377    596     2039    279     1342    2264    1436    202     555     761     1460    1810    2039    2202    2544    2164    1315    832     587     
+2819   2012 1369    749     2008    375     1327    2472    1394    407     112     1204    1126    1644    2296    2515    2598    1844    1385    951     285     
+2819   2013 1301    626     1930    275     1107    2284    1399    339     194     569     1263    1493    2038    2448    2358    1966    1393    837     639     
+2819   2014 1372    844     1854    600     1310    2133    1461    499     669     1007    1315    1608    2119    2120    2159    1790    1506    1085    549     
+2819   2015 1406    830     2024    505     1296    2407    1343    567     388     853     1304    1732    2174    2672    2366    1873    1232    927     712     
+2819   2016 1350    797     1952    606     1226    2266    1336    457     653     796     1315    1571    2047    2465    2278    2020    1188    804     585     
+2819   2017 1405    745     2042    423     1418    2491    1312    85      617     1180    1317    1755    2376    2495    2597    1689    1487    755     446     
+2819   2018 1366    675     2024    387     1267    2313    1458    565     125     623     1492    1695    2134    2391    2408    2011    1500    861     505     
+2819   2019 -999999 831     -999999 509     1169    -999999 -999999 329     714     1065    1162    1282    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

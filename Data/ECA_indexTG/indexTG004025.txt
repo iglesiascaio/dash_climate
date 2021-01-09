@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  DUDERSTADT                               (STAID:   4025)
+LATITUDE: dd:mm:ss +51:30:19
+LONGITUDE: ddd:mm:ss +010:15:45
+ELEVATION: m  180
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4025   1963 704     -999999 1392    -999999 792     1631    964     -865    -608    265     876     1237    1582    1721    1587    1339    781     778     -314    
+4025   1964 817     175     1434    -191    767     1679    846     -257    9       59      852     1392    1737    1741    1563    1309    693     542     152     
+4025   1965 769     284     1266    83      689     1490    733     205     -128    206     705     1155    1548    1492    1431    1257    807     132     346     
+4025   1966 864     306     1372    164     868     1583    861     -192    356     385     905     1316    1671    1539    1541    1254    1102    221     239     
+4025   1967 894     442     1342    240     815     1606    964     167     321     581     631     1226    1440    1778    1595    1361    1145    380     56      
+4025   1968 814     322     1368    -12     814     1608    927     -107    16      424     912     1111    1615    1603    1607    1350    1058    368     -211    
+4025   1969 778     205     1376    -76     670     1657    950     186     -216    9       709     1293    1460    1853    1650    1267    1008    573     -522    
+4025   1970 782     126     1337    -331    640     1629    959     -346    -102    137     590     1191    1691    1584    1614    1341    923     614     95      
+4025   1971 858     315     1398    81      762     1672    796     -57     218     94      780     1412    1412    1771    1823    1160    845     382     402     
+4025   1972 770     353     1271    123     792     1562    709     -263    236     511     731     1132    1421    1731    1530    1064    605     462     69      
+4025   1973 833     281     1383    73      719     1695    839     40      115     387     521     1244    1611    1699    1773    1430    744     348     29      
+4025   1974 910     416     1309    262     829     1537    822     428     335     601     795     1091    1400    1529    1678    1347    574     554     553     
+4025   1975 907     462     1420    409     752     1715    859     533     113     413     700     1140    1448    1816    1873    1525    741     314     199     
+4025   1976 855     264     1407    124     693     1728    935     112     57      143     655     1279    1628    1945    1608    1305    944     556     -18     

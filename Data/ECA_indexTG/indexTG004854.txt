@@ -1,0 +1,48 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  INGELFINGEN-STACHENHAUSEN                (STAID:   4854)
+LATITUDE: dd:mm:ss +49:20:00
+LONGITUDE: ddd:mm:ss +009:42:18
+ELEVATION: m  385
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4854   2002 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 207     
+4854   2003 977     -999999 1657    -18     973     2074    881     -80     -197    643     852     1421    2075    1926    2222    1428    636     586     130     
+4854   2004 885     330     1429    119     806     1708    940     5       231     395     919     1109    1551    1739    1829    1412    1037    368     9       
+4854   2005 894     296     1485    -14     879     1706    986     128     -196    383     953     1305    1721    1814    1583    1525    1088    342     10      
+4854   2006 950     225     1533    -107    790     1783    1192    -263    -63     215     839     1319    1681    2189    1476    1683    1213    679     371     
+4854   2007 973     623     1503    419     1074    1714    775     434     456     572     1217    1436    1743    1719    1680    1209    828     287     65      
+4854   2008 945     387     1464    258     909     1757    852     357     357     421     769     1533    1719    1809    1742    1186    895     472     53      
+4854   2009 927     258     1553    -86     998     1745    1025    -297    -6      414     1179    1406    1533    1797    1898    1491    842     750     72      
+4854   2010 814     302     1431    -71     806     1782    840     -292    17      413     912     1096    1674    2016    1653    1221    784     516     -284    
+4854   2011 1002    314     1564    -15     1091    1702    987     83      174     606     1196    1474    1676    1592    1837    1600    937     426     377     
+4854   2012 951     392     1531    78      1034    1791    945     171     -340    733     861     1503    1651    1771    1947    1432    872     533     216     
+4854   2013 897     285     1465    46      709     1808    956     38      -135    151     868     1114    1595    2015    1806    1370    1070    425     364     
+4854   2014 1065    568     1516    382     1043    1742    1111    327     463     747     1129    1255    1708    1901    1616    1479    1211    641     272     
+4854   2015 1062    492     1603    169     952     1994    977     211     9       567     937     1350    1701    2141    2131    1328    854     754     674     
+4854   2016 971     541     1550    414     842     1812    994     208     357     395     798     1332    1669    1915    1848    1723    854     410     131     
+4854   2017 985     370     1526    51      996     1880    962     -341    395     778     779     1425    1880    1890    1871    1294    1108    479     225     
+4854   2018 1113    409     1769    168     1090    2022    1111    457     -216    345     1329    1604    1838    2111    2110    1606    1161    563     349     
+4854   2019 -999999 535     1562    252     928     1949    -999999 -4      429     700     994     1092    1974    1955    1918    1427    1113    -999999 -999999 

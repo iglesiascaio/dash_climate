@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   KVARNBERG                                (STAID:   5595)
+LATITUDE: dd:mm:ss +61:26:24
+LONGITUDE: ddd:mm:ss +014:52:12
+ELEVATION: m  434
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5595   1965 -999999 -999999 -999999 -999999 218     -999999 319     -579    -445    -225    241     640     -999999 1212    1165    954     566     -570    -954    
+5595   1966 203     -645    943     -1165   79      1411    299     -1122   -1446   -420    -124    774     1546    1452    1241    748     305     -156    -487    
+5595   1967 -999999 -999999 -999999 -621    -999999 1330    493     -972    -379    -999999 -999999 659     1197    1487    1301    998     385     101     -854    
+5595   1968 267     -359    985     -827    238     1397    124     -959    -657    -172    385     505     1438    1400    1354    817     104     -549    -489    
+5595   1969 274     -526    1041    -756    137     1513    260     -694    -1121   -464    163     713     1508    1435    1596    813     439     -479    -724    
+5595   1970 229     -566    953     -1013   146     1385    237     -1049   -1293   -360    -21     814     1593    1265    1304    745     362     -401    -321    
+5595   1971 339     -286    926     -395    146     1267    265     -404    -466    -509    73      871     1144    1395    1258    792     362     -363    -157    
+5595   1972 372     -300    978     -543    222     1413    357     -959    -510    -192    119     734     1316    1664    1256    753     400     -83     -71     
+5595   1973 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -114    -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

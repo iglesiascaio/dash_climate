@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   VISSEFJARDA                              (STAID:   5219)
+LATITUDE: dd:mm:ss +56:30:36
+LONGITUDE: ddd:mm:ss +015:37:12
+ELEVATION: m  114
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5219   1969 -999999 -999999 -999999 -999999 -999999 -999999 751     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1228    803     219     -480    
+5219   1970 523     -143    1138    -592    347     1528    631     -568    -743    -134    244     929     1625    1462    1501    1049    662     180     -20     
+5219   1971 663     81      1191    -75     470     1517    635     -149    -53     -144    424     1128    1299    1661    1585    1025    735     141     238     
+5219   1972 667     127     1191    -75     506     1578    641     -380    -83     97      468     952     1466    1788    1477    973     608     343     264     
+5219   1973 660     251     1220    71      574     1597    507     -76     21      327     368     1019    1539    1755    1495    1124    408     -8      -101    
+5219   1974 698     112     1151    20      554     1413    684     78      90      201     561     902     1326    1427    1484    1194    516     346     219     
+5219   1975 769     237     1275    144     534     1618    780     230     -33     122     426     1051    1351    1700    1795    1300    767     273     178     
+5219   1976 569     63      1167    -142    390     1520    644     -407    -201    -242    391     1020    1431    1611    1515    1013    598     323     -248    
+5219   1977 646     74      1106    -212    477     1474    709     -167    -221    139     299     988     1546    1466    1411    910     832     382     98      
+5219   1978 -999999 151     -999999 -132    467     -999999 753     -90     -431    66      330     1002    1423    1429    -999999 984     697     581     -367    
+5219   1979 -999999 -999999 -999999 -453    -999999 -999999 -999999 -504    -491    -999999 354     1087    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

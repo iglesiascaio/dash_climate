@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   E6 AKERSVIKA                             (STAID:  19196)
+LATITUDE: dd:mm:ss +60:48:16
+LONGITUDE: ddd:mm:ss +011:06:41
+ELEVATION: m  125
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+19196  2008 -999999 -999999 -999999 -999999 -999999 -999999 506     -999999 -999999 -999999 -999999 -999999 -999999 -999999 1442    967     587     -37     -467    
+19196  2009 485     -228    1252    -639    567     1536    531     -534    -945    -33     614     1122    1452    1640    1512    1156    240     206     -704    
+19196  2010 225     -524    1177    -1095   344     1574    284     -1439   -1147   -335    410     958     1449    1735    1533    953     391     -497    -1405   
+19196  2011 546     -572    1304    -1030   522     1597    668     -788    -883    -279    813     1043    1561    1711    1518    1168    575     265     -235    
+19196  2012 481     -35     1136    -454    581     1454    514     -612    -521    296     368     1072    1329    1551    1480    995     377     174     -771    
+19196  2013 457     -440    1231    -857    303     1582    527     -1001   -793    -641    316     1234    1449    1765    1527    1070    515     -3      -46     
+19196  2014 696     73      1310    -142    679     1667    723     -430    69      333     601     1102    1487    1985    1524    1140    771     256     -524    
+19196  2015 594     27      1160    -361    526     1481    566     -333    -210    185     573     822     1334    1566    1537    1115    540     44      -104    
+19196  2016 566     -93     1289    -447    589     1578    562     -885    -347    179     452     1131    1587    1668    1480    1401    415     -125    -190    
+19196  2017 506     -114    1165    -360    510     1474    515     -501    -393    82      381     1062    1435    1564    1423    1109    541     -106    -582    
+19196  2018 587     -309    1407    -580    440     1785    633     -526    -638    -570    342     1545    1668    2155    1529    1167    582     153     -445    
+19196  2019 -999999 -106    1250    -465    514     1629    -999999 -670    -261    -3      608     939     1517    1745    1622    1050    432     -999999 -999999 

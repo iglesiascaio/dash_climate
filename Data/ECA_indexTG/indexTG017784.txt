@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    SAN_PIETRO_IN_VINCOLI                    (STAID:  17784)
+LATITUDE: dd:mm:ss +44:18:50
+LONGITUDE: ddd:mm:ss +012:09:36
+ELEVATION: m   50
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17784  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17784  2006 1315    -999999 1927    -999999 1232    2213    1446    135     401     735     1266    1696    2070    2465    2099    1947    1507    883     511     
+17784  2007 1361    843     1964    567     1381    2276    1261    510     691     942     1370    1831    2178    2415    2232    1743    1325    714     337     
+17784  2008 1384    708     1968    429     1289    2331    1449    481     473     903     1257    1707    2162    2407    2418    1837    1564    943     421     
+17784  2009 1366    766     2045    389     1386    2345    1419    290     463     893     1348    1917    2123    2413    2456    2005    1326    931     295     
+17784  2010 1282    656     1929    284     1253    2274    1327    135     438     801     1250    1708    2108    2455    2252    1781    1260    943     201     
+17784  2011 1363    656     2048    297     1320    2324    1401    257     447     815     1395    1753    2166    2334    2467    2159    1295    751     458     
+17784  2012 1365    647     2042    267     1306    2463    1491    187     145     999     1257    1660    2328    2555    2500    1933    1494    1046    197     
+17784  2013 1340    689     1957    272     1230    2285    1487    317     304     751     1304    1637    2090    2424    2335    1936    1514    1012    388     
+17784  2014 1444    892     1918    599     1361    2201    1529    615     815     1007    1396    1681    2158    2212    2233    1819    1592    1174    588     
+17784  2015 1402    875     2044    513     1323    2414    1390    409     543     919     1265    1784    2192    2651    2392    1956    1348    866     444     
+17784  2016 1386    800     1996    542     1337    2299    1400    424     773     948     1369    1694    2137    2487    2268    2005    1313    883     323     
+17784  2017 1383    727     2029    355     1378    2431    1314    124     648     1070    1309    1751    2351    2462    2477    1793    1374    788     411     
+17784  2018 1414    702     2070    433     1351    2359    1518    542     337     728     1478    1852    2199    2446    2428    1999    1510    1046    328     
+17784  2019 -999999 781     -999999 369     1227    -999999 -999999 229     570     991     1243    1455    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

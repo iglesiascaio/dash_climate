@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FRANCE                                   CALAIS-MARCK                             (STAID:  11314)
+LATITUDE: dd:mm:ss +50:58:00
+LONGITUDE: ddd:mm:ss +001:58:00
+ELEVATION: m    2
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11314  1957 1069    -999999 1379    -999999 973     1638    1104    550     672     968     877     1070    1529    1734    1648    1404    1181    725     440     
+11314  1958 1013    636     1354    493     757     1553    1160    438     611     422     693     1155    1375    1619    1657    1610    1187    682     637     
+11314  1959 1065    659     1449    415     989     1659    1181    346     270     793     968     1206    1479    1721    1771    1536    1295    708     627     
+11314  1960 1028    704     1366    524     912     1566    1155    450     492     638     890     1206    1482    1595    1617    1397    1145    924     479     
+11314  1961 1077    755     1447    541     1021    1584    1206    429     733     823     1106    1135    1492    1612    1645    1692    1249    675     325     
+11314  1962 904     589     1270    432     696     1481    1048    534     437     303     793     994     1323    1529    1586    1385    1143    613     175     
+11314  1963 829     343     1288    -115    824     1483    1145    -355    -168    609     832     1031    1365    1536    1544    1413    1123    902     61      
+11314  1964 982     529     1427    244     878     1595    1077    197     489     415     891     1329    1458    1660    1663    1546    910     781     436     
+11314  1965 950     579     1300    398     858     1484    982     429     322     575     821     1176    1392    1482    1576    1345    1097    501     630     
+11314  1966 1015    628     1363    485     920     1558    1090    126     721     695     900     1165    1558    1563    1553    1434    1213    619     618     
+11314  1967 1037    730     1370    578     910     1596    1106    498     621     797     778     1150    1404    1728    1651    1496    1265    551     466     
+11314  1968 956     609     1336    386     849     1544    1149    407     277     663     840     1043    1446    1543    1639    1499    1338    604     150     
+11314  1969 984     564     1374    319     814     1596    1186    600     194     464     764     1214    1390    1715    1676    1469    1337    746     183     
+11314  1970 981     574     1348    321     752     1566    1201    397     389     377     669     1206    1528    1575    1593    1506    1199    899     398     
+11314  1971 -999999 643     -999999 437     786     1545    -999999 427     492     438     741     1178    1301    1625    1700    -999999 -999999 -999999 -999999 

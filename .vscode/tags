@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+all_dataframes_generator	../read_files.py	/^def all_dataframes_generator():$/;"	kind:function	line:12
+app	../dash/dash_app.py	/^app = dash.Dash(__name__, external_stylesheets=external_stylesheets)$/;"	kind:variable	line:7
+create_dataframe	../temperatures_europe/fonctions/load_usefull_data_in_dataframe.py	/^def create_dataframe():$/;"	kind:function	line:11
+dash_app.py	../dash/dash_app.py	1;"	kind:file	line:1
+external_stylesheets	../dash/dash_app.py	/^external_stylesheets = ['https:\/\/codepen.io\/chriddyp\/pen\/bWLwgP.css']$/;"	kind:variable	line:5
+figure	../dash/dash_app.py	/^        figure={$/;"	kind:variable	line:18
+id	../dash/dash_app.py	/^        id='example-graph',$/;"	kind:variable	line:17
+load_city_codes	../temperatures_europe/fonctions/load_city_codes.py	/^def load_city_codes(filename):$/;"	kind:function	line:1
+load_city_codes.py	../temperatures_europe/fonctions/load_city_codes.py	1;"	kind:file	line:1
+load_one_file	../temperatures_europe/fonctions/load_one_file.py	/^def load_one_file(filename):$/;"	kind:function	line:1
+load_one_file.py	../temperatures_europe/fonctions/load_one_file.py	1;"	kind:file	line:1
+load_usefull_data_in_dataframe.py	../temperatures_europe/fonctions/load_usefull_data_in_dataframe.py	1;"	kind:file	line:1
+read_csv	../read_files.py	/^def read_csv(filename):$/;"	kind:function	line:7
+read_files.py	../read_files.py	1;"	kind:file	line:1

@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    SAN GIACOMO FILIPPO (LAGO TRUZZO)        (STAID:  11632)
+LATITUDE: dd:mm:ss +46:21:42
+LONGITUDE: ddd:mm:ss +009:19:12
+ELEVATION: m 2064
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11632  2004 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 377     992     -999999 -999999 898     507     -101    -161    
+11632  2005 -999999 -999999 -999999 -421    -999999 -999999 -999999 -347    -778    -183    120     -999999 -999999 1127    -999999 -999999 -999999 -999999 -999999 
+11632  2006 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 239     -999999 
+11632  2007 -999999 -999999 -999999 -999999 -999999 -999999 380     -999999 -999999 -999999 718     716     991     1202    -999999 673     514     -30     -242    
+11632  2008 401     -18     -999999 -126    -999999 1144    413     -94     -38     -218    -999999 610     1047    1166    1215    702     562     -30     -299    
+11632  2009 391     -145    927     -409    297     1175    531     -441    -493    -215    283     756     959     1209    1349    987     461     146     -447    
+11632  2010 -999999 -200    -999999 -519    97      -999999 -999999 -574    -537    -272    182     382     961     1355    -999999 -999999 -999999 -60     -553    
+11632  2011 502     -999999 947     -340    394     1122    692     -360    -81     -15     454     745     1009    1017    1343    1131    555     423     -227    
+11632  2012 399     30      868     -377    316     1227    497     -313    -599    295     55      590     1075    1238    1362    869     506     116     -472    
+11632  2013 364     -187    830     -486    83      1159    502     -319    -688    -282    223     314     848     1378    1240    961     520     25      61      
+11632  2014 443     35      795     -124    283     1016    630     -228    -215    24      361     468     991     1086    971     886     670     332     -70     
+11632  2015 545     74      941     -201    336     1322    562     -214    -331    25      295     686     1085    1574    1299    683     516     488     358     
+11632  2016 465     145     891     2       198     1170    538     -225    -145    -140    262     479     939     1300    1264    1049    466     79      183     
+11632  2017 -999999 68      925     -138    408     1305    479     -503    -84     276     274     670     1254    1284    1375    669     737     27      -999999 

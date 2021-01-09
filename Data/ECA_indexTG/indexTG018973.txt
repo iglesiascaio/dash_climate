@@ -1,0 +1,48 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   VALLERSUND                               (STAID:  18973)
+LATITUDE: dd:mm:ss +63:51:00
+LONGITUDE: ddd:mm:ss +009:43:59
+ELEVATION: m    4
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18973  1957 618     -999999 954     -999999 427     1191    735     223     -84     157     461     663     927     1389    1249    1021    696     488     176     
+18973  1958 582     90      1032    -128    294     1255    967     -168    -421    -271    435     723     1080    1225    1455    1261    956     683     -41     
+18973  1959 713     371     1060    12      636     1305    812     -262    375     525     582     798     1139    1352    1417    1057    826     552     173     
+18973  1960 608     263     1100    -58     608     1316    617     -161    -195    365     585     874     1105    1452    1384    1187    401     270     4       
+18973  1961 721     213     1059    88      541     1274    975     1       278     329     427     863     1141    1348    1328    1235    1078    609     -8      
+18973  1962 573     287     948     67      348     1133    728     107     105     -178    447     777     976     1149    1269    1057    844     279     19      
+18973  1963 669     172     1134    -73     586     1332    722     -30     -223    110     572     1076    1191    1221    1579    1146    805     212     291     
+18973  1964 675     343     990     236     599     1174    724     375     29      324     572     899     1008    1234    1274    937     850     380     182     
+18973  1965 575     269     1013    74      503     1148    746     -60     103     148     611     753     1199    1077    1172    1271    887     75      -349    
+18973  1966 507     -37     977     -411    347     1300    629     -318    -584    21      248     769     1336    1268    1298    930     683     273     84      
+18973  1967 646     214     1052    2       553     1232    843     -244    183     305     400     950     1076    1295    1320    1256    693     586     -90     
+18973  1968 588     217     1023    -60     456     1269    588     -78     -7      196     465     706     1229    1292    1285    1154    497     115     188     
+18973  1969 617     90      1129    -28     445     1478    631     31      -333    0       566     774     1365    1362    1705    990     822     73      -31     
+18973  1970 586     53      1069    -235    467     1348    638     -264    -428    100     352     944     1321    1323    1401    1057    743     109     291     
+18973  1971 639     243     1008    214     454     1205    632     198     146     -41     423     979     1056    1256    1298    1022    698     173     418     
+18973  1972 713     264     1107    123     615     1397    672     -129    76      335     520     987     1359    1483    1348    928     749     335     538     
+18973  1973 631     433     978     346     533     1252    545     409     62      463     296     832     1158    1366    1228    971     495     171     68      
+18973  1974 721     280     1101    231     598     1302    669     394     230     312     536     945     1306    1268    1331    1209    564     238     266     

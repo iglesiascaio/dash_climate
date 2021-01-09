@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  MULTIA SAHRAJARVI LINJALA                (STAID:   7485)
+LATITUDE: dd:mm:ss +62:30:00
+LONGITUDE: ddd:mm:ss +025:10:00
+ELEVATION: m  247
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7485   1984 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 441     -999999 -544    
+7485   1985 73      -999999 944     -1367   110     1400    275     -1858   -1734   -334    -75     734     1292    1481    1422    782     455     -419    -998    
+7485   1986 200     -590    961     -1150   275     1417    314     -1222   -1237   -176    38      956     1594    1559    1104    490     346     104     -1247   
+7485   1987 67      -729    841     -1399   36      1190    260     -1921   -988    -664    122     654     1200    1383    987     682     502     -411    -804    
+7485   1988 289     -428    1088    -743    161     1547    201     -673    -751    -450    -39     966     1530    1846    1263    935     286     -621    -871    
+7485   1989 449     -292    1107    -461    408     1452    342     -271    -217    -62     337     947     1510    1546    1301    987     236     -194    -769    
+7485   1990 368     -306    993     -581    342     1374    160     -851    -74     -157    376     810     1299    1433    1388    633     300     -457    -315    

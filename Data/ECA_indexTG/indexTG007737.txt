@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  ROVANIEMEN MLK PISAVAARA-1               (STAID:   7737)
+LATITUDE: dd:mm:ss +66:19:00
+LONGITUDE: ddd:mm:ss +025:10:00
+ELEVATION: m  130
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7737   1963 -999999 -999999 -999999 -999999 -999999 -999999 194     -999999 -999999 -999999 -999999 -999999 -999999 1337    1320    956     206     -582    -928    
+7737   1964 90      -659    801     -947    -63     1211    160     -645    -1292   -750    -94     654     1032    1385    1209    594     409     -524    -959    
+7737   1965 -20     -671    778     -1029   -187    1187    14      -1057   -1076   -817    -51     313     1176    1297    1089    832     123     -916    -1264   
+7737   1966 -124    -1199   798     -1736   -341    1354    76      -1904   -2056   -1250   -314    543     1458    1473    1134    472     -64     -180    -921    
+7737   1967 85      -673    905     -1194   104     1328    325     -1821   -772    -258    9       558     1152    1393    1431    862     142     -33     -1730   
+7737   1968 -999999 -939    -999999 -1719   -114    1217    -999999 -1885   -1534   -603    -68     330     1272    1260    1122    -999999 -999999 -999999 -999999 

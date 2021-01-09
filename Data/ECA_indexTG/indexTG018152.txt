@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   VATS I VINDAFJORD                        (STAID:  18152)
+LATITUDE: dd:mm:ss +59:29:34
+LONGITUDE: ddd:mm:ss +005:43:14
+ELEVATION: m   20
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18152  2011 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 878     700     256     
+18152  2012 702     455     1089    189     681     1344    719     182     126     577     491     970     1185    1402    1440    1025    617     518     -137    
+18152  2013 693     88      1158    -171    456     1425    840     -153    -227    -109    396     1080    1276    1539    1454    1185    887     445     469     
+18152  2014 926     519     1303    406     817     1559    995     262     498     550     811     1089    1376    1842    1452    1229    1012    744     221     
+18152  2015 804     490     1117    235     601     1375    890     265     218     461     545     795     1112    1396    1609    1230    848     592     530     
+18152  2016 774     377     1240    157     691     1413    835     -133    67      342     549     1179    1438    1418    1385    1466    708     334     513     
+18152  2017 786     394     1178    309     687     1360    877     210     193     385     549     1124    1304    1416    1357    1308    927     394     217     
+18152  2018 799     277     1299    105     708     1507    835     154     -74     14      698     1413    1426    1718    1373    1147    791     569     295     
+18152  2019 -999999 434     1220    276     702     1498    -999999 141     405     405     841     863     1369    1538    1583    1114    679     -999999 -999999 

@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  LIMBURGERHOF                             (STAID:   4357)
+LATITUDE: dd:mm:ss +49:24:43
+LONGITUDE: ddd:mm:ss +008:23:56
+ELEVATION: m   96
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4357   1947 1047    -999999 1829    -999999 1117    2111    1095    -343    -425    543     1173    1638    1976    2157    2195    1819    829     646     264     
+4357   1948 1027    549     1568    355     1154    1750    928     533     262     745     1159    1560    1730    1754    1765    1425    954     405     1       
+4357   1949 1081    363     1687    120     1014    1900    1136    176     191     438     1256    1357    1638    2106    1947    1808    1142    458     396     
+4357   1950 1031    521     1641    287     1020    1990    978     21      461     642     839     1572    1955    2102    1912    1441    904     590     -100    
+4357   1951 1047    442     1579    222     944     1838    1062    385     399     474     944     1415    1691    1965    1854    1589    848     755     214     
+4357   1952 994     438     1636    150     1077    1976    796     171     59      566     1201    1468    1810    2163    1950    1203    856     328     107     
+4357   1953 1023    349     1598    80      1102    1796    1027    -13     152     646     1100    1559    1697    1872    1816    1530    1070    479     312     
+4357   1954 942     389     1464    35      945     1702    1021    -141    -78     650     826     1354    1754    1636    1717    1486    1072    504     446     
+4357   1955 918     402     1505    152     853     1791    889     -65     68      357     977     1229    1670    1886    1812    1441    854     373     355     
+4357   1956 889     282     1484    -57     984     1661    972     219     -791    617     820     1510    1498    1862    1617    1579    941     397     311     

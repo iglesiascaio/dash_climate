@@ -1,0 +1,48 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   ORSTA-VOLDA LUFTHAVN                     (STAID:   5052)
+LATITUDE: dd:mm:ss +62:10:51
+LONGITUDE: ddd:mm:ss +006:04:50
+ELEVATION: m   74
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5052   2002 -999999 -999999 -999999 -999999 -999999 -999999 302     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 971     202     -274    -270    
+5052   2003 714     -999999 1179    -95     658     1483    626     5       -9      439     658     863     1343    1704    1396    1079    322     489     139     
+5052   2004 680     218     1118    56      650     1320    645     -29     58      327     745     882     1132    1309    1512    1117    546     276     266     
+5052   2005 649     218     1061    134     467     1296    809     245     -133    77      615     714     1097    1526    1259    1145    865     414     -84     
+5052   2006 744     190     1206    85      328     1493    863     209     136     -398    439     945     1215    1624    1631    1361    698     524     496     
+5052   2007 652     346     1053    143     595     1363    631     111     -213    418     578     787     1339    1459    1290    855     808     223     97      
+5052   2008 683     293     1114    202     539     1378    618     186     332     113     535     968     1223    1589    1317    1031    565     260     64      
+5052   2009 676     232     1176    59      735     1370    603     235     -142    373     838     996     1188    1494    1423    1107    346     364     -164    
+5052   2010 356     -152    1017    -565    401     1329    361     -793    -755    50      474     681     1081    1476    1423    950     654     -529    -551    
+5052   2011 701     -83     1140    -275    617     1317    886     -23     -258    165     772     917     1188    1377    1381    1196    851     612     176     
+5052   2012 572     398     958     139     539     1249    551     56      188     500     281     826     1093    1307    1341    876     363     421     -405    
+5052   2013 605     -62     1075    -312    381     1329    708     -306    -215    -230    340     1034    1171    1431    1382    1070    657     399     464     
+5052   2014 818     429     1224    362     692     1501    809     156     476     427     674     974     1287    1767    1443    1184    859     383     156     
+5052   2015 745     380     1037    211     537     1278    857     177     308     387     452     768     1013    1278    1534    1165    873     532     411     
+5052   2016 682     344     1150    104     588     1346    646     -185    85      336     408     1014    1247    1449    1337    1435    372     142     525     
+5052   2017 704     291     1111    315     595     1308    749     320     76      283     444     1055    1231    1348    1342    1235    776     233     52      
+5052   2018 682     140     1189    16      553     1393    719     15      -23     -223    567     1316    1201    1656    1315    1055    629     469     145     
+5052   2019 -999999 299     1151    156     597     1455    -999999 29      309     226     810     762     1316    1518    1527    964     486     -999999 -999999 

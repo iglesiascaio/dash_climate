@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  SCHMALKALDEN                             (STAID:   4613)
+LATITUDE: dd:mm:ss +50:43:35
+LONGITUDE: ddd:mm:ss +010:27:19
+ELEVATION: m  330
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4613   2005 -999999 -999999 1438    -999999 841     1665    956     -999999 -163    358     899     1269    1625    1812    1557    1455    1030    379     63      
+4613   2006 918     203     1504    -117    736     1772    1150    -301    -114    136     781     1291    1679    2138    1496    1623    1150    677     400     
+4613   2007 963     619     1473    433     1037    1699    765     468     430     571     1104    1437    1737    1723    1640    1185    773     338     112     
+4613   2008 923     383     1445    253     872     1759    828     365     282     420     726     1465    1730    1810    1738    1178    846     460     33      
+4613   2009 879     217     1506    -127    969     1686    969     -400    -3      352     1176    1385    1467    1777    1807    1407    784     721     29      
+4613   2010 775     250     1408    -142    768     1777    817     -389    -59     399     860     1048    1683    2020    1625    1194    754     504     -383    
+4613   2011 938     247     1507    -90     995     1678    894     74      51      474     1143    1374    1666    1597    1770    1486    852     346     367     
+4613   2012 886     348     1453    76      979     1705    846     163     -327    646     827     1458    1555    1734    1822    1298    766     477     154     
+4613   2013 862     218     1441    24      659     1775    912     0       -92     -16     823     1176    1599    1949    1770    1307    1009    418     334     
+4613   2014 1018    515     1486    336     996     1704    1053    261     421     633     1098    1259    1608    1928    1573    1439    1134    582     244     
+4613   2015 984     447     1489    163     842     1867    919     206     27      452     807     1265    1601    1972    2019    1243    779     740     621     
+4613   2016 930     490     1520    345     839     1783    931     92      320     385     775     1355    1727    1865    1753    1632    848     315     75      
+4613   2017 -999999 -999999 -999999 -3      -999999 -999999 -999999 -345    287     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

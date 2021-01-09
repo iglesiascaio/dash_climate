@@ -1,0 +1,11 @@
+000010   STOCKHOLM                               SWEDEN                                  +59:21:00,+018:03:00,  44
+000016   WIEN                                    AUSTRIA                                 +48:13:59,+016:21:00, 199
+000038   PARIS - MONTSOURIS                      FRANCE                                  +48:49:18,+002:20:16,  75
+000230  MADRID - RETIRO                         SPAIN                                   +40:24:42,-003:40:41, 667
+000041   BERLIN-DAHLEM                           GERMANY                                 +52:27:50,+013:18:06,  51
+000059   CORFU                                   GREECE                                  +39:37:00,+019:55:00,  11
+000087   MOSCOW                                  RUSSIAN FEDERATION                      +55:49:59,+037:37:00, 156
+000176  ROMA CIAMPINO                           ITALY                                   +41:46:59,+012:34:59, 105
+001633 SHAWBURY                                UNITED KINGDOM                          +52:48:00,-002:40:12,  72
+001439 VAN                                     TURKEY                                  +38:27:00,+043:19:12, 1662
+000252  KIEV                                    UKRAINE                                 +50:24:00,+030:31:59, 166

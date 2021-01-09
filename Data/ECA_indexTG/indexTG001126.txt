@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION RUSSIAN FEDERATION                       VEL-SK                                   (STAID:   1126)
+LATITUDE: dd:mm:ss +61:06:00
+LONGITUDE: ddd:mm:ss +042:06:00
+ELEVATION: m   91
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+1126   1995 -999999 -999999 1290    -999999 558     1602    339     -811    -303    -80     620     1179    1768    1544    1503    1102    483     -636    -1253   
+1126   1996 234     -999999 1029    -999999 150     1546    329     -1228   -1258   -498    82      821     1442    1704    1490    597     300     108     -912    
+1126   1997 -999999 -999999 -999999 -999999 144     -999999 161     -1556   -915    -404    169     748     1590    1673    1470    861     100     -546    -1336   
+1126   1998 199     -818    1132    -1354   123     1651    170     -878    -1904   -465    -200    1026    1718    1824    1413    978     413     -861    -970    
+1126   1999 284     -736    1196    -1176   171     1727    236     -1491   -1049   -490    502     500     1873    1904    1419    994     608     -947    -477    
+1126   2000 398     -452    1272    -747    454     1696    337     -1183   -604    -223    710     899     1581    2032    1473    893     567     -432    -1130   
+1126   2001 252     -628    1282    -1096   308     1639    212     -791    -1386   -680    739     899     1541    1979    1390    1074    180     -531    -1514   
+1126   2002 -999999 -552    -999999 -939    345     -999999 11      -830    -433    -221    371     886     1503    1938    1287    886     -26     -887    -1550   
+1126   2003 346     -906    1209    -1404   337     1629    443     -1601   -1028   -348    228     1127    1112    2033    1731    1015    425     -150    -441    
+1126   2004 319     -427    1147    -895    319     1556    353     -1181   -1094   -155    54      1094    1318    1858    1483    1075    404     -444    -644    
+1126   2005 -999999 -569    -999999 -801    262     -999999 -999999 -658    -1145   -907    416     1311    1516    -999999 -999999 -999999 -999999 -999999 -999999 

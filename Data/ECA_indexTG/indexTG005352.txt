@@ -1,0 +1,33 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   HOGSTENA                                 (STAID:   5352)
+LATITUDE: dd:mm:ss +58:13:48
+LONGITUDE: ddd:mm:ss +013:43:12
+ELEVATION: m  211
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5352   1962 -999999 -999999 -999999 -999999 -999999 -999999 593     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 938     753     84      -355    
+5352   1963 473     -247    1150    -669    381     1435    694     -903    -756    -340    373     1110    1424    1467    1412    1096    698     286     -270    
+5352   1964 567     1       1125    -258    494     1334    635     -136    -374    -212    607     1091    1289    1369    1342    1041    619     246     -114    

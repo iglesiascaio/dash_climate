@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    PONTE_CAVOLA                             (STAID:  17733)
+LATITUDE: dd:mm:ss +44:24:33
+LONGITUDE: ddd:mm:ss +010:31:22
+ELEVATION: m 3670
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17733  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17733  2006 1085    -999999 1701    -999999 1014    1993    1211    -128    159     535     1048    1460    1870    2268    1836    1709    1245    677     285     
+17733  2007 1129    634     1728    399     1153    2014    1005    411     512     662     1210    1587    1879    2169    1989    1516    1057    441     72      
+17733  2008 1108    465     1673    222     1009    2023    1130    301     297     609     981     1435    1841    2095    2128    1513    1242    632     186     
+17733  2009 1110    486     1781    118     1126    2093    1128    -17     192     655     1084    1638    1884    2180    2208    1666    1033    688     50      
+17733  2010 995     400     1644    59      953     2007    1029    -55     195     480     996     1386    1796    2197    1988    1507    936     646     -47     
+17733  2011 1110    394     1770    63      1086    2025    1133    27      224     571     1161    1529    1901    1980    2191    1842    1025    536     275     
+17733  2012 1136    429     1809    60      1088    2241    1233    81      -193    815     1013    1434    2081    2292    2344    1665    1231    805     7       
+17733  2013 1098    435     1716    39      967     2035    1246    92      15      429     1160    1318    1788    2184    2124    1703    1345    687     252     
+17733  2014 1191    661     1666    384     1100    1936    1292    349     568     754     1123    1425    1907    1968    1932    1633    1306    937     364     
+17733  2015 1168    616     1809    254     1103    2209    1086    236     153     668     1079    1562    1967    2470    2182    1565    1093    600     365     
+17733  2016 1143    579     1739    370     1079    2039    1145    241     512     657     1176    1406    1838    2207    2066    1725    1083    629     159     
+17733  2017 1160    518     1813    153     1173    2243    1055    -136    467     905     1065    1545    2140    2258    2327    1523    1136    503     139     
+17733  2018 1150    438     1792    167     1078    2074    1258    318     32      462     1254    1524    1924    2161    2131    1742    1258    776     144     
+17733  2019 -999999 547     -999999 162     960     -999999 -999999 -4      366     732     1002    1152    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

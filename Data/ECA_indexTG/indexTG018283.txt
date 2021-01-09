@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   DRIVDALEN                                (STAID:  18283)
+LATITUDE: dd:mm:ss +62:26:49
+LONGITUDE: ddd:mm:ss +009:34:58
+ELEVATION: m  680
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18283  2014 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 414     19      -236    
+18283  2015 424     -16     790     -194    224     1076    488     -294    -38     40      186     445     819     1084    1317    871     476     119     25      
+18283  2016 354     -73     875     -336    243     1119    355     -658    -377    -38     51      711     1097    1210    1051    1122    216     -267    104     
+18283  2017 338     -76     797     -91     196     1061    337     -92     -308    -139    46      675     1002    1135    1043    864     381     -234    -369    
+18283  2018 393     -306    1019    -468    278     1272    422     -411    -641    -591    270     1154    1086    1604    1119    850     347     71      -226    
+18283  2019 -999999 -88     890     -248    234     1232    -999999 -446    -51     -215    409     514     1143    1309    1242    706     140     -999999 -999999 

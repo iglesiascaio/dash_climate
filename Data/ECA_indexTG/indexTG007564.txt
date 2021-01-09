@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  ILOMANTSI VALIVAARA                      (STAID:   7564)
+LATITUDE: dd:mm:ss +62:52:00
+LONGITUDE: ddd:mm:ss +031:15:00
+ELEVATION: m  194
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7564   1977 161     -999999 946     -999999 131     1373    154     -978    -1139   -490    82      800     1326    1554    1238    650     24      -208    -1019   
+7564   1978 7       -735    887     -1262   80      1296    172     -1132   -1675   -475    -139    848     1260    1487    1140    696     45      -221    -1861   
+7564   1979 173     -834    995     -1500   152     1452    194     -1295   -1327   -376    -170    992     1385    1527    1442    764     5       -182    -797    
+7564   1980 105     -694    988     -1075   -27     1478    61      -1276   -1156   -772    128     569     1683    1491    1267    778     194     -793    -885    
+7564   1981 181     -704    970     -887    -71     1413    295     -752    -1037   -985    -135    906     1295    1706    1235    780     422     -321    -1028   
+7564   1982 198     -633    910     -1229   187     1279    304     -1739   -923    -298    110     747     936     1612    1278    747     127     42      -466    
+7564   1983 247     -443    1095    -780    285     1407    155     -711    -1219   -524    333     1046    1239    1717    1260    950     267     -755    -835    
+7564   1984 276     -606    1063    -852    294     1358    266     -882    -839    -614    267     1229    1321    1525    1227    783     352     -340    -761    
+7564   1985 -13     -850    928     -1591   62      1381    217     -2114   -1930   -394    -100    674     1238    1431    1469    826     328     -508    -1250   
+7564   1986 143     -735    960     -1368   216     1456    282     -1332   -1542   -218    57      804     1606    1630    1136    502     265     79      -1439   
+7564   1987 -34     -867    859     -1627   -15     1251    149     -2255   -1140   -708    -38     701     1309    1387    1058    714     436     -714    -1218   
+7564   1988 206     -604    1058    -996    118     1555    102     -907    -853    -389    -161    894     1517    1834    1315    923     217     -839    -1121   
+7564   1989 -999999 -454    1128    -696    416     1506    -999999 -546    -392    -52     324     972     1613    1573    1335    934     187     -999999 -999999 

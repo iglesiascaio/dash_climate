@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   FV281 STORSAND HURUM                     (STAID:  18374)
+LATITUDE: dd:mm:ss +59:38:29
+LONGITUDE: ddd:mm:ss +010:36:14
+ELEVATION: m   12
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18374  2013 575     -999999 1227    -999999 352     1587    666     -636    -533    -377    314     1118    1436    1756    1564    1149    691     157     182     
+18374  2014 774     200     1349    -6      713     1682    828     -292    103     347     677     1115    1507    1990    1544    1238    871     374     -224    
+18374  2015 792     206     1296    -93     650     1585    837     -4      -48     248     704     999     1443    1655    1653    1311    793     409     288     
+18374  2016 800     220     1440    -70     746     1711    821     -507    15      318     654     1262    1706    1788    1639    1577    711     180     242     
+18374  2017 789     241     1349    84      685     1613    846     30      -29     285     565     1202    1568    1706    1563    1475    849     212     -22     
+18374  2018 805     65      1500    -158    636     1843    873     -121    -351    -212    592     1526    1764    2101    1662    1329    843     446     1       
+18374  2019 -999999 265     1350    -8      731     1663    -999999 -139    127     303     838     1055    1510    1768    1706    1204    629     -999999 -999999 

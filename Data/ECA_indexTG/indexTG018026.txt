@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   LEBERGSFJELLET                           (STAID:  18026)
+LATITUDE: dd:mm:ss +62:30:56
+LONGITUDE: ddd:mm:ss +006:52:18
+ELEVATION: m  625
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18026  2013 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 90      
+18026  2014 551     -999999 939     32      369     1215    652     -148    169     106     368     632     892     1595    1148    978     631     349     -129    
+18026  2015 435     129     712     -102    187     953     614     -139    -29     82      91      384     596     908     1344    934     667     239     99      
+18026  2016 426     86      813     -142    244     1017    551     -318    -213    25      54      646     925     1097    1027    1117    588     -52     186     
+18026  2017 404     105     774     56      209     968     494     10      -38     -84     25      681     868     1028    1003    1027    492     -38     -163    
+18026  2018 442     -76     871     -182    313     1054    524     -132    -259    -374    257     1055    808     1361    985     733     361     484     -30     
+18026  2019 -999999 79      858     -75     272     1144    -999999 -272    94      -150    580     395     991     1233    1203    736     363     -999999 -999999 

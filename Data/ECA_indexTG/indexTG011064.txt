@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    PN DELS PORTS                            (STAID:  11064)
+LATITUDE: dd:mm:ss +40:47:48
+LONGITUDE: ddd:mm:ss +000:19:05
+ELEVATION: m 1055
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11064  2008 1016    -999999 1472    -999999 857     1799    943     578     517     563     935     1077    1553    1927    1911    1411    1014    400     286     
+11064  2009 1128    475     1617    260     921     2022    1227    199     298     631     663     1459    1863    2095    2102    1490    1312    875     436     
+11064  2010 970     580     1497    264     785     1851    1005    128     236     458     865     1036    1532    2084    1927    1517    989     508     306     
+11064  2011 1089    505     1571    356     947     1766    1235    295     478     453     1063    1329    1571    1736    1984    1733    1214    758     421     
+11064  2012 1047    565     1556    251     892     1926    1090    337     -24     651     680     1337    1869    1783    2124    1521    1135    611     490     
+11064  2013 954     553     1374    344     691     1719    1092    381     142     521     738     816     1414    1945    1787    1529    1284    458     363     
+11064  2014 1062    591     1470    404     895     1698    1253    470     377     569     1047    1074    1607    1725    1759    1605    1364    786     318     
+11064  2015 1102    587     1579    244     974     1921    1100    329     68      614     891     1415    1733    2157    1866    1386    1061    856     767     
+11064  2016 1055    675     1494    577     732     1850    1154    537     415     404     714     1077    1619    1993    1931    1615    1203    643     481     
+11064  2017 1095    631     1574    380     1005    1924    1107    171     501     773     892     1345    1883    1933    1953    1422    1291    601     326     
+11064  2018 1069    538     1551    288     801     1884    1158    442     77      451     867     1089    1637    2033    1974    1690    1080    706     702     
+11064  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

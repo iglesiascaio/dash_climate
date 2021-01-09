@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   VAEROEY HELIPORT                         (STAID:  18239)
+LATITUDE: dd:mm:ss +67:39:10
+LONGITUDE: ddd:mm:ss +012:43:22
+ELEVATION: m    4
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18239  2004 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 331     
+18239  2005 649     -999999 915     278     401     1180    744     292     209     167     453     585     999     1307    1227    909     778     543     291     
+18239  2006 658     367     931     290     386     1118    765     410     157     9       413     736     881     1145    1320    1076    640     583     487     
+18239  2007 648     380     918     221     468     1202    676     154     1       384     361     655     1054    1399    1147    877     781     366     533     
+18239  2008 641     384     911     355     376     1139    732     257     269     91      372     665     988     1244    1182    1002    811     379     416     
+18239  2009 639     353     956     224     478     1183    740     206     32      244     390     798     943     1274    1323    992     621     612     184     
+18239  2010 516     247     843     77      343     1001    662     163     -137    12      376     643     777     1095    1122    1037    692     256     106     
+18239  2011 678     232     958     106     430     1159    910     145     61      116     464     712     1091    1168    1216    1090    865     775     390     
+18239  2012 551     452     790     249     364     1009    689     217     132     319     241     527     892     1052    1080    936     621     511     73      
+18239  2013 632     262     953     163     337     1170    743     204     218     -49     272     784     1099    1180    1228    1143    692     396     387     
+18239  2014 686     373     956     281     435     1244    800     108     354     301     397     604     926     1505    1290    999     797     605     322     
+18239  2015 665     427     885     260     480     1047    830     233     221     370     411     657     798     1057    1276    1098    809     583     434     
+18239  2016 661     401     925     229     485     1095    822     72      180     322     419     711     871     1232    1175    1133    879     451     461     
+18239  2017 644     417     909     324     335     1146    827     288     213     193     285     525     1020    1218    1195    1202    817     461     281     
+18239  2018 627     292     926     170     360     1131    810     163     56      -42     358     763     795     1325    1261    1035    704     694     365     
+18239  2019 -999999 348     924     205     388     1155    -999999 56      194     74      484     610     933     1222    1305    976     588     -999999 -999999 

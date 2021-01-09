@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   HEMSEDAL - HOLLEKOLTEN                   (STAID:  18322)
+LATITUDE: dd:mm:ss +60:52:14
+LONGITUDE: ddd:mm:ss +008:31:03
+ELEVATION: m  807
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18322  2013 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 342     -141    -224    
+18322  2014 351     -194    929     -467    318     1239    359     -859    -304    14      259     678     1086    1548    1079    905     367     -194    -408    
+18322  2015 310     -171    745     -377    147     1043    362     -461    -249    -88     170     361     850     1125    1147    805     303     -21     -261    
+18322  2016 275     -259    866     -576    202     1139    246     -949    -515    -121    15      704     1191    1167    1062    1042    139     -440    -20     
+18322  2017 277     -207    780     -245    198     1049    232     -302    -431    -216    63      742     955     1156    1034    714     255     -274    -426    
+18322  2018 297     -438    1018    -635    176     1372    267     -647    -853    -718    100     1144    1307    1733    1074    722     293     -214    -461    
+18322  2019 -999999 -226    852     -412    195     1211    -999999 -574    -178    -221    302     507     1054    1344    1231    657     113     -999999 -999999 

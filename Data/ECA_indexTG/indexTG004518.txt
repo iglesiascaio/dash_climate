@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  PFORZHEIM-ISPRINGEN                      (STAID:   4518)
+LATITUDE: dd:mm:ss +48:55:58
+LONGITUDE: ddd:mm:ss +008:41:48
+ELEVATION: m  333
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4518   2005 -999999 -999999 -999999 -999999 -999999 -999999 1037    -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1562    1136    412     85      
+4518   2006 1002    289     1580    -49     859     1830    1245    -220    -8      303     893     1383    1705    2242    1538    1705    1270    760     392     
+4518   2007 1016    667     1541    440     1105    1749    837     439     493     606     1244    1469    1754    1769    1725    1274    877     359     72      
+4518   2008 989     438     1498    293     940     1801    908     414     399     503     793     1521    1736    1869    1794    1249    960     512     92      
+4518   2009 987     318     1600    -24     1048    1803    1080    -246    94      483     1193    1474    1613    1854    1936    1516    939     789     156     
+4518   2010 867     376     1475    15      851     1820    890     -212    109     464     973     1120    1698    2035    1723    1288    822     562     -219    
+4518   2011 1058    376     1601    69      1125    1746    1033    155     294     640     1235    1502    1715    1639    1884    1625    979     496     481     
+4518   2012 1005    469     1560    180     1056    1835    1000    294     -264    779     884     1498    1701    1809    1989    1459    946     596     302     
+4518   2013 943     355     1508    117     757     1848    1022    108     -78     223     924     1128    1637    2054    1845    1444    1139    480     337     
+4518   2014 1113    612     1553    413     1079    1777    1164    404     509     788     1161    1292    1754    1910    1665    1527    1262    700     350     
+4518   2015 1084    544     1617    228     990     1990    1005    264     51      596     982     1390    1713    2178    2071    1345    888     786     661     
+4518   2016 1011    585     1581    461     868     1864    1029    291     430     449     836     1318    1705    1972    1911    1730    883     479     113     
+4518   2017 1037    414     1583    87      1051    1949    987     -264    446     834     832     1479    1939    1985    1922    1318    1131    507     277     
+4518   2018 1139    472     1768    251     1108    2021    1115    543     -102    425     1348    1561    1853    2121    2085    1626    1134    586     401     
+4518   2019 -999999 569     1579    310     942     1965    -999999 74      469     741     952     1134    1956    1985    1953    1485    1184    -999999 -999999 

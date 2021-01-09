@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  HASSELFELDE                              (STAID:   4196)
+LATITUDE: dd:mm:ss +51:41:17
+LONGITUDE: ddd:mm:ss +010:51:51
+ELEVATION: m  461
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4196   1963 573     -999999 1243    -999999 624     1512    832     -970    -716    148     648     1076    1464    1614    1455    1187    691     622     -412    
+4196   1964 662     38      1290    -282    529     1565    704     -292    -132    -240    626     1202    1604    1651    1441    1204    561     353     -44     
+4196   1965 599     101     1109    -112    486     1348    606     -6      -303    16      489     952     1399    1329    1319    1156    738     -80     107     
+4196   1966 700     106     1230    -76     671     1463    745     -415    96      183     670     1161    1570    1403    1419    1146    980     101     51      
+4196   1967 765     283     1219    65      645     1499    866     6       145     394     450     1086    1321    1691    1479    1268    1011    314     -31     
+4196   1968 679     204     1228    -117    623     1501    807     -208    -112    235     729     908     1468    1488    1546    1222    952     242     -338    
+4196   1969 633     37      1245    -230    433     1552    855     30      -399    -302    476     1127    1368    1748    1534    1191    981     388     -614    
+4196   1970 635     7       1172    -428    418     1515    815     -369    -289    -69     332     990     1582    1466    1499    1151    772     523     -24     
+4196   1971 728     199     1245    -8      577     1525    705     -21     24      -89     596     1224    1248    1660    1658    1054    808     249     265     
+4196   1972 647     218     1130    -29     608     1444    620     -447    105     319     542     961     1294    1638    1395    931     589     341     81      
+4196   1973 699     209     1221    18      544     1551    713     -23     -7      254     323     1049    1456    1582    1613    1281    615     246     -55     
+4196   1974 746     271     1148    125     630     1393    677     248     189     377     589     922     1259    1379    1538    1186    448     403     369     
+4196   1975 783     310     1302    271     568     1627    764     394     26      199     499     1003    1312    1742    1819    1416    684     194     50      

@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   RONNEBY                                  (STAID:   5942)
+LATITUDE: dd:mm:ss +56:12:00
+LONGITUDE: ddd:mm:ss +015:16:48
+ELEVATION: m   10
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5942   1951 763     -999999 1237    -999999 449     1546    900     -16     33      -64     555     861     1410    1562    1662    1360    722     625     402     
+5942   1952 619     264     1146    123     488     1434    579     17      -62     -131    659     942     1261    1535    1500    961     638     135     -55     
+5942   1953 817     148     1300    -84     679     1626    927     -62     -142    346     627     1063    1654    1684    1542    1218    990     571     249     
+5942   1954 678     225     1201    -114    542     1484    774     -249    -365    108     386     1126    1460    1520    1472    1227    769     325     276     
+5942   1955 643     79      1243    -129    281     1655    851     -258    -434    -243    317     770     1232    1873    1846    1396    787     371     -25     
+5942   1956 585     53      1147    -287    459     1456    630     -136    -727    11      310     1051    1415    1608    1343    1135    725     27      193     
+5942   1957 734     222     1175    159     472     1574    774     136     147     92      463     860     1427    1758    1533    989     899     429     32      
+5942   1958 654     105     1183    -162    354     1505    892     -200    -335    -228    302     986     1353    1632    1525    1280    905     490     68      
+5942   1959 824     283     1347    -10     659     1716    869     -133    40      311     629     1037    1495    1878    1767    1252    805     552     199     
+5942   1960 724     200     1250    -94     552     1570    837     -218    -275    117     488     1049    1539    1551    1619    1241    775     497     265     

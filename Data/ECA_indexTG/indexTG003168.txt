@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NETHERLANDS                              K14-FA-1C                                (STAID:   3168)
+LATITUDE: dd:mm:ss +53:16:09
+LONGITUDE: ddd:mm:ss +003:37:40
+ELEVATION: m   42
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+3168   2008 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+3168   2009 -999999 -999999 -999999 -999999 874     1614    1346    -999999 -999999 623     828     1162    1373    1656    1833    1614    1274    1170    698     
+3168   2010 951     721     1288    445     736     1531    1215    311     313     539     753     916     1317    1649    1638    1502    1306    840     404     
+3168   2011 -999999 695     -999999 485     907     -999999 1389    522     530     589     971     1195    1406    1523    -999999 1626    1406    1145    819     
+3168   2012 1058    840     1333    623     833     1548    1260    670     363     691     761     1045    1298    1568    1771    1543    1235    1005    716     
+3168   2013 998     682     1261    523     586     1511    1314    478     360     279     586     892     1192    1596    1734    1549    1409    980     875     
+3168   2014 1228    956     -999999 823     -999999 1638    1447    777     817     867     -999999 1209    1462    1765    1682    1680    1520    1140    799     
+3168   2015 1121    891     1325    680     801     1552    1328    667     563     631     735     1044    1316    1586    1746    1503    1306    1175    1126    
+3168   2016 1146    948     1414    853     853     1581    1376    759     662     647     770     1138    1347    1631    1757    1864    1344    955     899     
+3168   2017 1136    860     1421    687     933     1643    1334    579     571     784     827     1183    1520    1664    1741    1578    1429    991     720     
+3168   2018 1110    774     1421    595     818     1629    1333    670     373     426     853     1177    1350    1753    1776    1603    1377    1018    882     
+3168   2019 -999999 904     1415    756     869     1661    -999999 635     749     751     886     987     1445    1679    1826    1609    1332    -999999 -999999 

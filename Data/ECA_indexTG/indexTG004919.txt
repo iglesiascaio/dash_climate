@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  AHAUS                                    (STAID:   4919)
+LATITUDE: dd:mm:ss +52:04:58
+LONGITUDE: ddd:mm:ss +006:56:30
+ELEVATION: m   46
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4919   2006 -999999 -999999 1589    -999999 866     1829    1322    -999999 -999999 315     852     1432    1685    2222    1575    1751    1345    869     599     
+4919   2007 1075    788     1518    586     1128    1707    964     615     540     738     1251    1399    1750    1691    1682    1328    954     609     316     
+4919   2008 1019    579     1477    456     968     1722    969     582     469     536     828     1535    1657    1785    1722    1318    977     613     186     
+4919   2009 1006    428     1540    133     1068    1713    1102    -36     262     557     1267    1388    1535    1779    1821    1440    953     918     158     
+4919   2010 863     422     1434    21      843     1787    931     -169    81      572     931     1030    1672    2033    1652    1275    965     552     -286    
+4919   2011 1047    402     1523    107     1071    1645    1063    267     366     550     1245    1423    1647    1581    1707    1528    1052    608     546     
+4919   2012 998     570     1453    317     1033    1688    988     373     11      795     824     1475    1483    1711    1863    1340    982     644     420     
+4919   2013 957     411     1449    231     713     1761    1065    160     102     138     835     1170    1564    1909    1803    1397    1188    605     547     
+4919   2014 1135    713     1523    552     1099    1707    1216    486     629     813     1197    1290    1590    1954    1574    1526    1313    805     417     
+4919   2015 1063    621     1460    339     894     1767    1068    339     253     572     877     1231    1560    1865    1870    1339    948     921     912     
+4919   2016 1038    675     1558    565     933     1771    1049    364     407     489     842     1464    1728    1830    1754    1717    931     503     402     
+4919   2017 1066    536     1507    301     1056    1788    1093    49      469     857     788     1515    1810    1820    1734    1356    1269    648     428     
+4919   2018 1140    551     1724    318     1141    1931    1110    508     -14     417     1281    1729    1767    2102    1919    1525    1175    627     552     
+4919   2019 -999999 658     1565    453     995     1915    -999999 243     578     762     1058    1167    1944    1913    1888    1409    1163    -999999 -999999 

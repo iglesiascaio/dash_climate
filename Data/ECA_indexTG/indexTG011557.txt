@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    CARONA (CARISOLE)                        (STAID:  11557)
+LATITUDE: dd:mm:ss +46:02:24
+LONGITUDE: ddd:mm:ss +009:47:38
+ELEVATION: m 1950
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11557  2003 -999999 -999999 1003    -999999 356     1454    -999999 -999999 -999999 152     116     794     1441    1311    -999999 823     194     205     -158    
+11557  2004 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -57     -119    -999999 -999999 -999999 1157    1182    -999999 -999999 -999999 -999999 
+11557  2005 -999999 -999999 -999999 -999999 266     1118    466     -999999 -688    -89     185     730     1092    1225    1042    863     574     -43     -387    
+11557  2006 -999999 -127    -999999 -379    247     1123    -999999 -403    -344    -207    283     651     1061    1459    911     -999999 668     294     103     
+11557  2007 490     188     906     62      448     1123    412     91      -16     16      591     740     1010    1239    1116    736     510     -13     -153    
+11557  2008 441     52      821     -33     219     1148    414     3       65      -103    114     632     1061    1181    1201    707     553     5       -198    
+11557  2009 444     -59     957     -301    397     1189    533     -315    -393    -47     341     895     995     1222    1343    930     470     202     -370    
+11557  2010 -999999 -124    833     -426    202     1157    367     -488    -418    -156    271     495     984     1369    1114    751     361     -9      -999999 
+11557  2011 524     -999999 960     -999999 431     1131    654     -267    41      68      493     733     1014    1039    1336    1144    492     336     -168    
+11557  2012 470     51      927     -289    393     1288    546     -231    -481    360     166     647     1153    1297    1413    882     579     198     -336    
+11557  2013 432     -69     904     -351    196     1181    518     -170    -568    -156    354     -999999 942     1336    1255    964     554     34      110     
+11557  2014 499     105     838     -999999 393     1047    635     -154    -999999 201     424     555     1014    1109    1016    902     670     331     -57     
+11557  2015 564     103     961     -155    377     1329    561     -168    -249    63      326     739     1097    1591    1292    697     483     504     324     
+11557  2016 479     158     904     13      247     1189    495     -212    -88     -82     312     522     953     1339    1268    1005    429     50      206     
+11557  2017 -999999 75      953     -116    442     1336    478     -491    -51     303     297     722     1263    1327    1413    680     743     8       -999999 

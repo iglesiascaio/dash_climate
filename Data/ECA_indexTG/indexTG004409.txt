@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  BECKUM-UNTERBERG                         (STAID:   4409)
+LATITUDE: dd:mm:ss +51:43:18
+LONGITUDE: ddd:mm:ss +008:03:30
+ELEVATION: m  120
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4409   2004 -999999 -999999 -999999 -999999 -999999 -999999 1039    -999999 -999999 -999999 -999999 -999999 -999999 1655    1903    1479    1115    519     232     
+4409   2005 1015    490     1499    235     967     1676    1149    383     75      579     1021    1326    1629    1810    1586    1603    1268    572     283     
+4409   2006 1065    419     1592    122     833     1836    1347    -7      86      284     841     1374    1684    2235    1584    1819    1379    842     592     
+4409   2007 1083    785     1533    577     1151    1710    966     610     525     740     1273    1443    1725    1715    1691    1343    977     578     341     
+4409   2008 1038    581     1506    468     967     1763    995     572     493     518     830     1549    1689    1819    1779    1350    1005    629     198     
+4409   2009 1027    427     1590    117     1089    1761    1134    -68     232     554     1305    1417    1541    1828    1906    1531    941     936     157     
+4409   2010 877     411     1469    14      843     1829    953     -191    82      528     974     1032    1690    2104    1689    1312    974     571     -287    
+4409   2011 1085    413     1574    92      1128    1688    1134    256     331     629     1308    1453    1674    1606    1785    1612    1085    707     536     
+4409   2012 1002    586     1474    285     1054    1713    1002    343     -47     853     853     1450    1477    1726    1928    1390    990     625     383     
+4409   2013 -999999 382     -999999 185     728     -999999 -999999 111     49      112     881     1197    1578    -999999 -999999 -999999 -999999 -999999 -999999 

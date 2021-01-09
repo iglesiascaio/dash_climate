@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  ALFELD                                   (STAID:   4913)
+LATITUDE: dd:mm:ss +51:58:01
+LONGITUDE: ddd:mm:ss +009:48:15
+ELEVATION: m  144
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4913   2007 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 246     
+4913   2008 982     -999999 1439    393     880     1737    937     509     427     481     776     1380    1670    1794    1744    1247    976     586     164     
+4913   2009 944     360     1519    26      1010    1703    1051    -206    131     493     1194    1350    1451    1815    1836    1456    829     875     63      
+4913   2010 803     307     1427    -116    791     1783    890     -368    -34     465     900     1010    1610    2053    1681    1295    881     494     -393    
+4913   2011 995     302     1511    -18     996     1669    1010    201     155     469     1166    1359    1643    1602    1760    1530    993     506     503     
+4913   2012 945     493     1443    226     1011    1671    949     288     -136    764     843     1419    1475    1693    1839    1368    902     577     252     
+4913   2013 892     291     1424    107     643     1733    983     69      -11     -61     821     1174    1539    1868    1786    1336    1118    491     512     
+4913   2014 1055    604     1475    429     1012    1671    1155    251     534     709     1109    1220    1516    1910    1583    1506    1240    716     334     
+4913   2015 1015    556     1434    278     843     1764    997     304     189     523     834     1173    1500    1842    1941    1291    836     869     811     
+4913   2016 982     573     1548    434     874     1788    1004    141     343     429     808     1382    1712    1871    1778    1724    875     418     290     
+4913   2017 990     424     1445    158     967     1734    1047    -124    324     753     731     1408    1712    1770    1719    1310    1210    616     402     
+4913   2018 1077    473     1687    243     1023    1926    1066    423     -131    262     1254    1562    1747    2037    1986    1520    1109    567     498     
+4913   2019 -999999 590     1515    377     914     1885    -999999 150     493     714     923     1105    1908    1821    1927    1395    1148    -999999 -999999 

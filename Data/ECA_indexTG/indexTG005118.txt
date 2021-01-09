@@ -1,0 +1,47 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   SOGNDAL LUFTHAVN                         (STAID:   5118)
+LATITUDE: dd:mm:ss +61:09:29
+LONGITUDE: ddd:mm:ss +007:08:29
+ELEVATION: m  497
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5118   2003 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 223     -167    
+5118   2004 441     -999999 961     -304    399     1213    412     -485    -257    -65     474     789     1040    1196    1397    853     449     -68     -57     
+5118   2005 441     -52     895     -176    250     1196    533     -145    -343    -176    353     576     944     1484    1151    842     631     124     -213    
+5118   2006 528     -97     1066    -296    169     1425    651     -361    -315    -459    187     779     1194    1584    1491    1136    583     237     225     
+5118   2007 431     115     907     -105    381     1261    348     -173    -396    172     316     653     1346    1273    1168    674     447     -81     -287    
+5118   2008 469     -47     996     -157    339     1302    375     -113    -64     -185    351     850     1116    1570    1214    851     322     -47     -256    
+5118   2009 418     -108    983     -300    405     1262    371     -250    -406    -38     515     741     1144    1438    1200    843     160     118     -495    
+5118   2010 228     -312    898     -696    250     1234    236     -822    -780    -85     227     607     1071    1375    1251    837     329     -463    -886    
+5118   2011 460     -322    971     -555    335     1239    566     -285    -486    -163    486     687     1092    1407    1212    929     468     304     -194    
+5118   2012 350     21      829     -281    340     1160    327     -364    -284    184     113     716     1021    1229    1225    649     228     107     -644    
+5118   2013 376     -326    910     -607    142     1211    503     -619    -553    -486    79      830     1095    1349    1185    903     532     74      55      
+5118   2014 616     115     1110    -35     504     1432    628     -275    131     175     461     875     1255    1746    1288    1016    637     230     -178    
+5118   2015 471     97      841     -141    277     1115    558     -168    -71     120     201     508     882     1147    1308    983     505     186     10      
+5118   2016 460     -20     992     -282    368     1241    474     -561    -295    26      210     861     1297    1255    1173    1145    420     -143    98      
+5118   2017 441     11      907     -62     338     1132    456     -138    -154    -37     194     853     1041    1231    1122    987     455     -74     -235    
+5118   2018 491     -162    1089    -323    382     1381    481     -267    -482    -397    285     1254    1325    1694    1121    829     408     209     -155    
+5118   2019 -999999 17      1004    -156    395     1323    -999999 -289    -9      -59     584     665     1152    1459    1355    792     332     -999999 -999999 

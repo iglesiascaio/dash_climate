@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   NAMDALSEID - VENGSTAD                    (STAID:  18934)
+LATITUDE: dd:mm:ss +64:11:48
+LONGITUDE: ddd:mm:ss +011:14:06
+ELEVATION: m  120
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18934  2001 -999999 -999999 960     -999999 194     1241    579     -999999 -999999 -427    290     722     1100    1324    1295    1010    605     122     -269    
+18934  2002 542     15      1246    -200    555     1599    243     -241    -79     -51     563     1153    1535    1517    1742    943     143     -354    -409    
+18934  2003 532     -194    1109    -387    493     1466    415     -519    -216    185     440     852     1277    1730    1385    949     298     2       -53     
+18934  2004 520     -67     1066    -267    523     1299    479     -535    -210    91      630     852     1059    1335    1495    1010    485     -59     53      
+18934  2005 523     20      1004    -51     320     1308    618     43      -269    -162    470     656     1074    1560    1284    962     630     260     -290    
+18934  2006 587     -49     1153    -208    239     1472    629     -135    -200    -564    372     914     1179    1509    1720    1202    494     197     297     
+18934  2007 506     65      1025    -180    468     1400    418     -225    -659    220     408     773     1360    1554    1285    755     515     -20     6       
+18934  2008 555     57      1079    -26     424     1380    515     -106    24      -82     485     869     1289    1547    1300    967     515     63      -254    

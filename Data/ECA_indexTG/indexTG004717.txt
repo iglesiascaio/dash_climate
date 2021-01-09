@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  WACKERSLEBEN                             (STAID:   4717)
+LATITUDE: dd:mm:ss +52:04:24
+LONGITUDE: ddd:mm:ss +011:01:24
+ELEVATION: m   86
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4717   1963 -999999 -999999 -999999 -999999 -999999 1729    983     -999999 -999999 -999999 -999999 -999999 1675    1803    1706    1378    781     796     -357    
+4717   1964 812     139     1463    -245    753     1715    847     -333    -32     -11     865     1409    1724    1799    1622    1342    713     489     143     
+4717   1965 769     282     1292    87      700     1524    695     196     -96     219     714     1167    1579    1505    1490    1285    761     37      305     
+4717   1966 880     230     1433    59      881     1678    897     -295    180     383     875     1385    1797    1624    1616    1286    1146    250     265     
+4717   1967 932     463     1396    245     863     1655    994     151     329     616     671     1295    1485    1832    1645    1427    1146    404     131     
+4717   1968 848     346     1430    22      830     1696    965     -83     18      441     942     1112    1668    1640    1780    1432    1076    383     -253    
+4717   1969 788     176     1436    -126    671     1730    966     104     -239    -49     722     1342    1606    1897    1681    1343    975     578     -566    
+4717   1970 789     94      1362    -388    655     1683    945     -417    -160    147     594     1223    1728    1630    1693    1291    917     628     141     
+4717   1971 870     309     1414    55      775     1692    839     -156    194     127     772     1425    1436    1794    1837    1192    888     435     441     
+4717   1972 794     353     1322    101     820     1626    736     -315    181     481     776     1203    1514    1793    1568    1057    643     513     97      
+4717   1973 865     327     1406    118     737     1739    852     48      218     439     531     1235    1634    1783    1797    1434    747     378     95      
+4717   1974 921     420     1321    282     794     1560    863     390     369     533     749     1100    1419    1555    1702    1387    627     583     595     
+4717   1975 945     485     1481    444     763     1798    884     597     106     367     692     1226    1550    1870    1967    1562    791     304     241     

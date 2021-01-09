@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    NEVIANO_ARDUINI                          (STAID:  17702)
+LATITUDE: dd:mm:ss +44:34:59
+LONGITUDE: ddd:mm:ss +010:18:48
+ELEVATION: m 5130
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17702  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17702  2006 1340    -999999 1944    -999999 1221    2234    1497    176     396     688     1270    1707    2158    2534    2009    1973    1523    995     590     
+17702  2007 1410    932     1994    703     1460    2237    1265    756     769     944     1583    1857    2062    2441    2203    1802    1271    720     463     
+17702  2008 1352    753     1897    537     1249    2247    1372    521     635     896     1170    1678    2058    2313    2363    1775    1499    838     442     
+17702  2009 1356    740     2018    387     1383    2312    1361    246     482     911     1275    1959    2099    2392    2440    1921    1319    844     329     
+17702  2010 1226    620     1895    264     1206    2248    1219    104     370     738     1270    1612    2081    2466    2190    1732    1128    799     168     
+17702  2011 1404    639     2033    354     1397    2228    1449    292     630     820     1531    1845    2033    2163    2483    2132    1333    886     654     
+17702  2012 1402    821     2010    472     1375    2452    1396    532     214     1269    1151    1696    2297    2486    2568    1838    1381    969     366     
+17702  2013 1274    671     1881    353     1115    2220    1311    416     270     597     1270    1483    2006    2377    2269    1862    1308    763     590     
+17702  2014 1303    777     1783    535     1261    2045    1380    433     586     965     1264    1554    2050    2035    2049    1733    1412    995     512     
+17702  2015 1344    771     1953    463     1245    2347    1251    539     324     810     1254    1673    2123    2620    2290    1736    1136    886     663     
+17702  2016 1281    727     1883    534     1156    2195    1261    378     562     733     1261    1477    1973    2380    2224    1968    1116    705     571     
+17702  2017 1340    693     1975    394     1364    2418    1232    65      562     1128    1259    1702    2302    2418    2532    1613    1412    665     362     
+17702  2018 1298    600     1956    317     1188    2254    1377    503     61      550     1413    1608    2067    2332    2357    1941    1394    794     463     
+17702  2019 -999999 766     -999999 458     1102    -999999 -999999 278     651     1007    1099    1203    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

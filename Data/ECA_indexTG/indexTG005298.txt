@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   FAGERHULT                                (STAID:   5298)
+LATITUDE: dd:mm:ss +57:39:00
+LONGITUDE: ddd:mm:ss +013:14:24
+ELEVATION: m  170
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5298   2001 -999999 -999999 -999999 -999999 -999999 -999999 718     -999999 -999999 -999999 -999999 -999999 -999999 1653    1507    1063    952     132     -331    
+5298   2002 661     181     1290    -70     645     1632    474     -17     159     188     578     1166    1453    1665    1773    1081    319     27      -490    
+5298   2003 601     -158    1216    -470    498     1574    582     -392    -533    92      414     986     1476    1718    1524    1156    274     327     96      
+5298   2004 599     8       1169    -205    567     1420    587     -549    -159    58      593     1050    1254    1390    1611    1098    597     66      150     
+5298   2005 646     -999999 1190    -999999 426     1486    727     -999999 -282    -214    544     953     1301    1681    1471    1174    696     311     -101    
+5298   2006 685     -80     1303    -341    326     1656    915     -563    -360    -478    426     1033    1509    1883    1572    1374    896     476     386     
+5298   2007 699     350     1215    106     705     1499    550     101     -200    393     677     1044    1552    1450    1498    1057    488     106     155     
+5298   2008 713     193     1215    168     599     1498    633     160     191     54      612     1131    1371    1686    1431    1038    667     192     -4      
+5298   2009 629     70      1239    -180    629     1489    666     -235    -312    79      793     1021    1312    1628    1522    1141    399     466     -316    
+5298   2010 -999999 -151    -999999 -557    440     -999999 -999999 -817    -536    -120    514     928     -999999 -999999 -999999 -999999 -999999 -999999 -999999 

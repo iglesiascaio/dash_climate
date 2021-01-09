@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   REKDAL                                   (STAID:  18240)
+LATITUDE: dd:mm:ss +62:39:03
+LONGITUDE: ddd:mm:ss +006:45:19
+ELEVATION: m   43
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18240  2008 -999999 -999999 -999999 -999999 -999999 1394    837     -999999 -999999 -999999 -999999 -999999 1244    1505    1429    1216    793     505     316     
+18240  2009 784     427     1181    271     758     1350    785     363     120     437     808     1030    1175    1436    1434    1190    575     597     205     
+18240  2010 575     224     1041    -19     483     1308    640     -105    -174    217     526     707     1040    1428    1447    1079    800     36      -167    
+18240  2011 805     225     1146    65      690     1283    987     265     100     301     815     957     1178    1287    1379    1255    922     787     372     
+18240  2012 685     546     986     321     596     1242    713     258     335     594     390     797     1090    1299    1332    991     604     549     -27     
+18240  2013 720     222     1080    50      483     1313    821     82      102     24      436     989     1165    1365    1403    1107    798     560     559     
+18240  2014 871     537     1193    447     694     1442    954     239     553     514     674     894     1218    1617    1483    1260    970     629     385     
+18240  2015 818     538     1053    379     599     1260    972     326     430     476     518     798     995     1234    1541    1215    1020    678     552     
+18240  2016 764     494     1119    277     618     1304    842     73      203     426     488     936     1157    1427    1323    1375    755     398     589     
+18240  2017 777     464     1112    430     591     1313    875     428     256     339     488     943     1206    1349    1381    1293    899     431     275     
+18240  2018 761     338     1147    221     586     1335    863     235     145     28      537     1191    1122    1543    1331    1137    739     711     372     
+18240  2019 -999999 465     1122    344     602     1387    -999999 181     495     311     781     721     1276    1425    1458    1065    666     -999999 -999999 

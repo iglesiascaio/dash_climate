@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   HARRTRASK                                (STAID:   6881)
+LATITUDE: dd:mm:ss +67:01:48
+LONGITUDE: ddd:mm:ss +020:42:00
+ELEVATION: m  410
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+6881   1968 -189    -999999 613     -999999 -252    1082    -368    -1792   -1324   -766    -89     106     1121    1125    1002    400     -632    -882    -602    
+6881   1969 -168    -1038   717     -1270   -315    1291    -153    -1455   -1805   -894    -283    233     1184    1306    1379    461     72      -999    -1335   
+6881   1970 -85     -1002   750     -1487   -216    1315    -167    -1411   -1740   -667    -481    491     1388    1374    1186    515     -103    -914    -795    
+6881   1971 -158    -916    650     -1098   -402    1126    -261    -1191   -1331   -1204   -349    349     1063    1204    1108    499     -152    -1134   -845    
+6881   1972 31      -865    818     -1105   -135    1384    -115    -1274   -1202   -613    -176    384     1343    1620    1187    528     -15     -861    -605    
+6881   1973 -87     -654    737     -849    -132    1309    -352    -746    -1235   -523    -256    380     1194    1719    1010    344     -368    -1033   -1619   
+6881   1974 68      -884    825     -1126   1       1212    -63     -915    -814    -554    50      508     1230    1298    1108    742     -141    -787    -969    
+6881   1975 36      -670    674     -896    -18     995     87      -1133   -553    -430    -193    562     847     1159    975     675     83      -497    -1096   
+6881   1976 -145    -843    708     -1269   -116    1143    -284    -1768   -922    -851    -219    718     985     1246    1192    294     -285    -861    -1300   
+6881   1977 -144    -1009   582     -1422   -284    1083    -113    -1535   -1431   -678    -450    271     889     1241    1112    399     -102    -638    -905    
+6881   1978 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -1545   -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  SCHMATZFELD                              (STAID:   4614)
+LATITUDE: dd:mm:ss +51:52:59
+LONGITUDE: ddd:mm:ss +010:46:00
+ELEVATION: m  198
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4614   1947 842     -999999 1633    -999999 893     1868    1032    -557    -1030   258     960     1465    1808    1891    1904    1760    753     591     172     
+4614   1948 952     401     1468    174     958     1657    966     345     -7      531     1016    1330    1628    1635    1708    1479    895     525     307     
+4614   1949 948     407     1465    280     822     1605    1061    234     301     170     1070    1233    1358    1735    1715    1673    1129    379     344     
+4614   1950 878     438     1454    211     849     1759    868     -84     390     465     684     1393    1737    1757    1784    1349    788     470     -216    
+4614   1951 883     274     1370    57      678     1636    929     207     193     201     762     1072    1501    1682    1720    1470    622     706     419     
+4614   1952 802     350     1403    195     821     1681    654     85      75      189     1074    1208    1487    1753    1796    1079    743     136     -29     
+4614   1953 940     237     1436    9       895     1683    1026    18      42      492     911     1284    1607    1775    1665    1360    1070    648     348     
+4614   1954 792     282     1313    -147    726     1555    986     -360    -468    372     551     1251    1595    1456    1614    1398    1080    476     405     
+4614   1955 756     232     1323    -44     553     1614    906     -205    -362    -52     694     1022    1439    1709    1688    1371    882     465     347     
+4614   1956 687     152     1257    -219    647     1482    849     10      -1070   211     472     1253    1334    1678    1429    1357    895     294     291     
+4614   1957 879     442     1304    277     759     1652    889     117     439     613     712     951     1655    1761    1541    1196    993     475     75      
+4614   1958 850     294     1365    122     583     1624    963     44      262     -79     503     1322    1438    1704    1723    1479    1026    382     356     
+4614   1959 932     425     1496    161     938     1805    865     93      20      633     977     1206    1603    2001    1803    1371    863     362     186     
+4614   1960 860     308     1350    102     761     1606    981     73      44      303     707     1271    1604    1615    1600    1290    946     710     134     
+4614   1961 940     495     1439    202     918     1615    1081    -51     556     686     1053    1020    1667    1556    1622    1720    1110    412     -73     
+4614   1962 733     309     1246    98      609     1471    813     286     79      20      820     994     1439    1446    1526    1242    924     269     -285    

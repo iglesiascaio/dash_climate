@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    LAGO_PADULI                              (STAID:  17647)
+LATITUDE: dd:mm:ss +44:20:44
+LONGITUDE: ddd:mm:ss +010:08:17
+ELEVATION: m 1151
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17647  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17647  2006 802     -999999 1302    -999999 606     1583    998     -225    -48     121     654     1045    1486    1895    1364    1357    1027    609     282     
+17647  2007 812     472     1303    290     798     1525    722     321     265     315     941     1144    1372    1663    1534    1151    739     277     -13     
+17647  2008 775     254     1246    100     597     1589    789     205     109     201     524     1064    1456    1627    1679    1104    927     331     39      
+17647  2009 811     237     1371    -48     761     1632    887     -113    -73     285     660     1334    1384    1699    1805    1320    785     558     19      
+17647  2010 680     191     1231    -105    532     1579    727     -256    -74     102     603     894     1410    1789    1531    1142    660     380     -63     
+17647  2011 826     200     1364    -10     737     1547    907     -35     77      173     862     1180    1444    1464    1731    1492    772     461     245     
+17647  2012 807     286     1332    -39     702     1734    889     15      -399    581     522     998     1559    1729    1907    1254    902     509     46      
+17647  2013 743     227     1241    -55     517     1580    891     22      -253    100     646     809     1347    1698    1706    1299    1007    363     246     
+17647  2014 855     417     1231    237     698     1475    1004    242     222     405     739     953     1438    1500    1484    1266    1027    719     226     
+17647  2015 873     395     1373    107     699     1744    856     140     -60     284     703     1112    1520    1987    1720    1172    786     612     424     
+17647  2016 834     402     1305    259     637     1585    893     116     237     232     765     919     1372    1761    1616    1381    804     499     285     
+17647  2017 861     361     1388    85      812     1790    816     -221    202     589     712     1132    1686    1760    1921    1096    995     351     62      
+17647  2018 849     250     1399    9       696     1667    958     273     -341    108     902     1085    1477    1760    1758    1396    997     481     210     
+17647  2019 -999999 387     -999999 131     555     -999999 -999999 -94     291     428     579     663     -999999 -999999 -999999 -999999 -999999 -999999 -999999 

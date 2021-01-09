@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    CAPACCIO                                 (STAID:  17559)
+LATITUDE: dd:mm:ss +43:55:57
+LONGITUDE: ddd:mm:ss +011:53:39
+ELEVATION: m 2950
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17559  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17559  2006 1173    -999999 -999999 -999999 1122    1990    1331    75      348     618     1171    1577    1846    2233    1912    1740    1370    948     470     
+17559  2007 1287    844     1851    632     1270    2167    1127    700     738     829     1297    1685    2046    2357    2095    1604    1146    630     279     
+17559  2008 1267    634     1811    396     1172    2171    1290    459     453     834     1157    1537    2052    2205    2251    1629    1422    814     366     
+17559  2009 1246    665     1860    314     1235    2151    1257    211     371     785     1147    1771    1929    2252    2265    1771    1147    857     389     
+17559  2010 1153    593     1736    280     1083    2077    1187    69      397     684     1074    1490    1904    2256    2064    1608    1115    842     262     
+17559  2011 1223    560     1851    252     1137    2110    1275    140     366     625     1233    1555    1952    2086    2286    1979    1161    689     549     
+17559  2012 1259    608     1874    268     1175    2308    1376    288     -53     972     1113    1438    2140    2384    2394    1755    1362    1010    247     
+17559  2013 1214    633     1774    256     1103    2063    1353    297     219     633     1247    1435    1845    2187    2150    1764    1420    874     433     
+17559  2014 1301    821     1729    583     1186    2006    1389    584     748     862     1202    1494    1955    2021    2041    1648    1446    1070    508     
+17559  2015 1287    778     1876    458     1192    2227    1250    485     369     749     1158    1668    1986    2502    2183    1734    1210    808     488     
+17559  2016 1259    733     1801    557     1177    2084    1262    433     764     697     1266    1507    1912    2253    2080    1775    1152    854     326     
+17559  2017 1304    662     1917    332     1284    2360    1206    36      668     1033    1168    1605    2228    2388    2455    1636    1291    703     390     
+17559  2018 1290    629     1901    382     1217    2184    1371    607     92      587     1388    1640    1999    2298    2230    1845    1391    876     349     
+17559  2019 -999999 717     -999999 354     1094    -999999 -999999 193     546     936     1081    1263    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

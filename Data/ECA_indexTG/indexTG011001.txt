@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION PORTUGAL                                 QUINTA DO SAIRRAO 2                      (STAID:  11001)
+LATITUDE: dd:mm:ss +41:07:14
+LONGITUDE: ddd:mm:ss -007:24:38
+ELEVATION: m  548
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11001  2013 1378    -999999 -999999 -999999 -999999 2233    1530    701     656     876     1145    -999999 1860    2443    2362    2124    1552    915     537     
+11001  2014 1441    944     1865    706     1353    2085    1582    835     751     1076    1406    1580    1905    2209    2136    1942    1731    1068    605     
+11001  2015 1460    954     1970    592     1424    2264    1448    513     661     1105    1368    1796    2199    2393    2197    1848    1461    1033    855     
+11001  2016 1428    974     1929    832     1138    2312    1511    871     766     847     1111    1456    1995    2486    2443    2065    1541    944     602     
+11001  2017 1529    949     2029    698     1470    2316    1605    582     934     1093    1517    1803    2268    2329    2352    1923    1866    1017    710     
+11001  2018 1422    960     1935    696     1171    2172    1592    748     625     767     1209    1563    1883    2118    2504    2297    1504    978     827     
+11001  2019 -999999 995     1868    776     1340    2107    -999999 601     913     1139    1149    1720    1757    2314    2237    1984    1526    -999999 -999999 

@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   BREKKE SLUSE                             (STAID:   2584)
+LATITUDE: dd:mm:ss +59:08:52
+LONGITUDE: ddd:mm:ss +011:33:34
+ELEVATION: m  114
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+2584   1957 571     -999999 1096    -999999 373     1479    580     -144    -225    -110    397     831     1329    1657    1448    893     686     159     -128    
+2584   1958 472     -172    1094    -458    158     1463    767     -482    -797    -519    204     790     1383    1608    1394    1168    803     328     -300    
+2584   1959 660     -9      1274    -447    572     1640    733     -785    -234    123     516     1075    1480    1762    1674    1113    689     398     45      
+2584   1960 523     -16     1153    -383    481     1452    573     -505    -711    -41     372     1109    1486    1445    1425    1064    470     187     -73     
+2584   1961 634     76      1156    -170    568     1458    767     -419    -1      286     432     980     1524    1533    1318    1137    949     210     -379    
+2584   1962 448     -13     989     -242    198     1288    575     -180    -158    -528    383     746     1238    1385    1237    928     735     55      -500    
+2584   1963 412     -350    1133    -847    308     1472    667     -1135   -911    -384    317     991     1500    1504    1414    1056    717     226     -435    
+2584   1964 537     -43     1102    -345    454     1363    595     -213    -390    -174    478     1058    1282    1387    1416    971     572     242     -223    
+2584   1965 -999999 -43     -999999 -296    342     -999999 -999999 -291    -385    -196    397     827     -999999 -999999 -999999 -999999 -999999 -999999 -999999 

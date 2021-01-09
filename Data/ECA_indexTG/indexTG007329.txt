@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  JAMSA HIMOS                              (STAID:   7329)
+LATITUDE: dd:mm:ss +61:53:08
+LONGITUDE: ddd:mm:ss +025:19:48
+ELEVATION: m  205
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7329   1997 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -529    
+7329   1998 288     -999999 -999999 -597    138     -999999 309     -455    -830    -566    177     804     1311    1560    -999999 984     436     -452    -496    
+7329   1999 427     -430    1185    -778    269     1616    546     -904    -959    -286    429     670     1774    1715    1365    1151    484     5       -488    
+7329   2000 522     -199    1101    -475    355     1440    602     -495    -441    -277    421     943     1334    1586    1397    902     693     209     -82     
+7329   2001 377     -176    1176    -481    231     1580    457     -394    -1001   -549    456     793     1351    1856    1526    1041    576     -282    -990    
+7329   2002 380     -305    1266    -657    479     1721    68      -636    -311    -156    463     1131    -999999 1802    1818    903     -113    -585    -1088   
+7329   2003 378     -652    1114    -1016   288     1532    430     -1231   -697    -182    99      941     1204    1972    1405    1041    175     65      -383    
+7329   2004 416     -309    1121    -654    400     1444    -999999 -888    -667    -147    450     899     1229    1605    1502    1066    392     -999999 -254    
+7329   2005 -999999 -999999 -999999 -437    -999999 -999999 618     -341    -734    -690    375     825     1335    -999999 1471    1113    537     256     -579    
+7329   2006 -999999 -999999 1278    -999999 233     1714    538     -756    -1090   -724    294     1008    1537    1777    1822    1193    501     -29     105     
+7329   2007 503     -120    1150    -478    503     1559    426     -513    -1158   190     377     929     1458    1599    1619    912     532     -167    -14     
+7329   2008 532     -73     1071    -172    366     1389    547     -283    -222    -295    455     941     1313    1538    1314    846     663     128     -44     
+7329   2009 475     -125    1200    -426    384     1534    504     -620    -633    -281    317     1115    1391    1655    1545    1161    210     151     -557    
+7329   2010 -999999 -999999 -999999 -999999 -999999 1774    363     -1441   -1103   -303    -999999 1087    1411    2187    1700    1038    403     -330    -1319   
+7329   2011 -999999 -602    -999999 -1150   390     -999999 -999999 -712    -1465   -300    522     975     1695    1933    -999999 -999999 -999999 -999999 -999999 

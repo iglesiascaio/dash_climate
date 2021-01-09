@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION LITHUANIA                                KIMBARTAY                                (STAID:   1019)
+LATITUDE: dd:mm:ss +54:36:00
+LONGITUDE: ddd:mm:ss +022:48:00
+ELEVATION: m   58
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+1019   1995 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1184    -999999 1816    1737    -999999 -999999 -999999 -999999 
+1019   1996 -999999 -999999 1347    -999999 -999999 1651    828     -999999 -999999 -999999 697     1335    1555    1572    1822    1045    927     519     -605    
+1019   1997 -999999 -999999 -999999 -999999 599     1797    708     -416    80      187     448     1147    1623    1831    1931    1295    604     227     -193    
+1019   1998 -999999 -999999 -999999 12      734     1617    561     93      170     27      898     1312    1680    1637    1530    1285    732     -328    -262    
+1019   1999 812     -999999 1455    -235    785     1790    803     -95     -367    391     931     1025    1796    1906    1674    1452    775     162     41      
+1019   2000 859     202     1379    2       891     1609    903     -176    152     251     1160    1250    1553    1639    1637    1059    1043    598     182     
+1019   2001 781     253     1466    -43     712     1796    839     -82     -243    19      846     1294    1414    2109    1856    1250    1019    235     -504    
+1019   2002 -999999 232     1588    -113    949     1900    -999999 -98     263     404     819     1598    1673    2030    1997    1342    -999999 -999999 -999999 

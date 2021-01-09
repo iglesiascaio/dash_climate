@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   ATVIDABERG                               (STAID:   5348)
+LATITUDE: dd:mm:ss +58:12:00
+LONGITUDE: ddd:mm:ss +016:00:36
+ELEVATION: m  140
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5348   1961 724     -999999 1228    -999999 651     1528    870     -299    170     441     571     939     1600    1536    1448    1267    1062    274     -355    
+5348   1962 510     33      1063    -207    249     1360    644     -92     -169    -532    474     813     1354    1393    1332    1003    795     129     -420    
+5348   1963 526     -257    1255    -723    414     1570    759     -990    -762    -332    405     1168    1500    1656    1552    1227    752     300     -243    
+5348   1964 641     26      1257    -246    559     1518    678     -105    -400    -169    646     1202    1510    1571    1474    1123    645     267     -113    
+5348   1965 522     13      1156    -239    402     1445    609     -169    -458    -130    496     844     1507    1403    1426    1256    773     -207    -542    
+5348   1966 524     -258    1188    -719    408     1594    643     -753    -877    -3      127     1092    1657    1653    1476    1100    661     168     -111    
+5348   1967 669     86      1221    -247    615     1543    851     -516    -98     397     458     985     1404    1653    1567    1241    933     375     -420    
+5348   1968 609     8       1275    -493    587     1624    619     -581    -476    199     715     853     1696    1532    1647    1198    558     103     -169    
+5348   1969 551     -153    1290    -368    299     1702    704     -320    -640    -490    429     962     1651    1766    1686    1230    774     104     -622    
+5348   1970 483     -285    1174    -819    346     1575    607     -800    -1059   -170    240     965     1665    1523    1541    1096    669     54      -45     
+5348   1971 659     42      1204    -91     449     1533    644     -136    -93     -207    372     1180    1367    1696    1529    1053    748     128     208     
+5348   1972 670     87      1213    -152    505     1622    657     -532    -129    88      458     968     1549    1813    1500    967     658     347     324     
+5348   1973 662     281     1250    102     592     1675    447     14      -47     362     356     1049    1603    1852    1569    1048    393     -98     -216    
+5348   1974 694     51      1197    -32     533     1478    665     52      78      95      577     929     1412    1505    1514    1234    467     300     128     
+5348   1975 -999999 -999999 -999999 85      -999999 -999999 -999999 184     -72     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

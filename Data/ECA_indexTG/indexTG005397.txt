@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   KVARN_MO                                 (STAID:   5397)
+LATITUDE: dd:mm:ss +58:37:48
+LONGITUDE: ddd:mm:ss +015:26:24
+ELEVATION: m   72
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5397   2010 -999999 -999999 1266    -999999 493     1646    -999999 -999999 -999999 -82     528     1014    1444    1906    1581    1086    -999999 -999999 -999999 
+5397   2011 805     -999999 1361    -999999 666     1641    874     -308    -999999 45      891     1070    1603    1769    1549    1273    749     570     178     
+5397   2012 -999999 247     1189    -70     657     1473    -999999 -159    -252    391     421     1152    1273    1646    1495    1124    -999999 391     -999999 
+5397   2013 -999999 -999999 1258    -999999 459     1589    -999999 -316    -310    -347    375     1243    1514    1710    1540    1126    855     320     -999999 
+5397   2014 800     -999999 1289    -999999 714     1599    832     -255    179     378     673     1088    1391    1897    1503    1159    866     456     127     
+5397   2015 768     305     1208    71      612     1510    806     44      46      277     651     909     1338    1606    1580    1146    663     585     293     
+5397   2016 762     212     1331    -68     675     1601    -999999 -456    -79     245     542     1235    1563    1720    1517    1390    644     -999999 165     
+5397   2017 740     -999999 1237    1       622     1537    -999999 -119    -48     251     434     1176    1479    1622    1510    1183    768     -999999 104     
+5397   2018 804     -999999 1482    -104    640     1822    -999999 -42     -426    -254    637     1509    1667    2085    1709    1258    831     424     -3      
+5397   2019 -999999 -999999 1299    -32     647     1663    -999999 -267    196     275     655     1011    1721    1655    1614    1121    -999999 -999999 -999999 

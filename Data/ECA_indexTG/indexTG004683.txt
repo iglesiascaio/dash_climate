@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  TIEFENORT                                (STAID:   4683)
+LATITUDE: dd:mm:ss +50:50:39
+LONGITUDE: ddd:mm:ss +010:09:45
+ELEVATION: m  236
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4683   1991 829     -999999 1360    -999999 726     1708    892     167     -284    643     576     954     1361    1957    1796    1497    766     417     11      
+4683   1992 931     345     1498    127     917     1817    824     96      286     493     783     1471    1718    1847    1884    1263    634     583     92      
+4683   1993 843     276     1438    27      953     1629    652     173     -207    347     1036    1479    1630    1657    1599    1210    741     1       358     
+4683   1994 983     354     1497    227     922     1856    901     322     -24     675     824     1263    1693    2113    1757    1310    706     693     382     
+4683   1995 889     423     1438    284     802     1746    901     -7      498     285     937     1188    1461    1994    1774    1255    1160    280     -185    
+4683   1996 708     141     1305    -239    668     1612    818     -335    -193    101     775     1131    1560    1584    1691    1074    887     492     -288    
+4683   1997 877     308     1393    -68     844     1726    806     -313    445     643     603     1277    1576    1708    1889    1279    719     423     239     
+4683   1998 916     416     1449    271     943     1686    791     232     350     530     907     1390    1699    1664    1694    1329    872     169     121     

@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  EISFELD-WAFFENROD-HINTERROD              (STAID:   4227)
+LATITUDE: dd:mm:ss +50:28:18
+LONGITUDE: ddd:mm:ss +010:54:42
+ELEVATION: m  668
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4227   1991 686     -999999 1247    -999999 635     1555    753     -59     -396    506     577     820     1157    1808    1686    1415    679     168     -211    
+4227   1992 721     123     1332    -110    684     1646    613     -112    -1      209     537     1301    1498    1667    1767    1198    416     231     -93     
+4227   1993 654     81      1250    -105    794     1405    476     -34     -196    141     933     1311    1374    1384    1456    1031    607     -214    -13     
+4227   1994 786     94      1325    -72     677     1708    773     -14     -201    361     577     1090    1443    2048    1625    1142    655     525     102     
+4227   1995 692     193     1282    -24     596     1622    709     -308    153     39      686     1065    1238    1908    1707    1062    1030    24      -345    
+4227   1996 532     -39     1138    -386    478     1458    604     -457    -355    -147    701     889     1430    1394    1550    851     757     200     -448    
+4227   1997 727     110     1291    -254    673     1604    715     -394    118     429     445     1138    1400    1533    1874    1335    569     247     -15     
+4227   1998 709     207     1275    49      758     1490    571     -18     193     267     723     1282    1491    1414    1566    1161    620     -70     -161    
+4227   1999 747     84      1363    -135    759     1540    790     5       -261    334     710     1233    1341    1721    1552    1605    705     62      -122    
+4227   2000 770     119     1329    -106    817     1509    804     -246    60      251     878     1325    1601    1257    1672    1229    835     346     17      
+4227   2001 690     211     1224    -49     654     1557    695     -169    12      208     470     1277    1237    1705    1718    906     1061    105     -318    
+4227   2002 -999999 200     1318    -111    719     1648    -999999 -181    195     336     596     1220    1572    1611    1758    1128    -999999 -999999 -999999 

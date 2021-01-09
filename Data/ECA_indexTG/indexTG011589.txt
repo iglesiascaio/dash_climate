@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    CEVO                                     (STAID:  11589)
+LATITUDE: dd:mm:ss +46:04:54
+LONGITUDE: ddd:mm:ss +010:22:40
+ELEVATION: m 1128
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11589  2003 -999999 -999999 -999999 -999999 -999999 -999999 862     -999999 -999999 -999999 -999999 -999999 -999999 1899    2186    1402    681     528     238     
+11589  2004 -999999 330     1385    145     701     1705    1016    -27     231     332     748     1025    1576    1720    1803    1479    1035    533     -999999 
+11589  2005 841     -999999 1419    -999999 820     1706    893     88      -141    429     710     1318    1695    1812    1610    1390    905     384     -68     
+11589  2006 961     248     1494    -20     774     1759    1160    -25     40      236     845     1243    1735    2028    1513    1593    1174    713     384     
+11589  2007 1015    628     1513    423     1066    1719    897     445     441     595     1223    1385    1597    1890    1666    1306    961     422     213     
+11589  2008 939     451     1415    287     814     1736    926     321     331     450     719     1272    1614    1773    1818    1272    1053    447     170     
+11589  2009 978     392     1573    111     991     1808    1028    57      104     495     951     1525    1614    1826    1979    1520    977     589     39      
+11589  2010 849     308     1459    -29     778     1808    858     -156    35      346     846     1144    1686    2011    1723    1327    805     442     -74     
+11589  2011 1040    360     1585    126     1023    1744    1134    114     361     514     1156    1404    1552    1695    1978    1717    1037    651     269     
+11589  2012 997     504     1526    133     976     1891    1037    165     -46     915     737     1268    1771    1876    2022    1460    1028    623     98      
+11589  2013 952     374     1486    95      735     1823    1020    202     -28     289     871     1049    1608    1974    1882    1516    1027    518     449     
+11589  2014 1020    556     1429    336     991     1626    1132    246     308     745     1016    1215    1618    1670    1589    1460    1162    772     353     
+11589  2015 1076    560     1587    274     973     1943    1042    273     190     581     971     1368    1714    2191    1908    1353    944     832     545     
+11589  2016 987     559     1490    353     884     1740    985     163     345     506     977     1171    1568    1892    1754    1570    886     496     468     
+11589  2017 -999999 -999999 1494    -999999 984     1851    913     -221    -999999 758     902     1290    1776    1850    1924    1191    1126    424     -999999 

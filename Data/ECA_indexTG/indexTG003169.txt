@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NETHERLANDS                              A12-CPP                                  (STAID:   3169)
+LATITUDE: dd:mm:ss +55:23:57
+LONGITUDE: ddd:mm:ss +003:48:37
+ELEVATION: m   48
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+3169   2009 -999999 -999999 -999999 -999999 -999999 -999999 1238    -999999 -999999 -999999 785     -999999 -999999 1610    1687    1479    1184    1053    648     
+3169   2010 881     654     1222    396     672     1476    1078    268     259     489     668     859     1254    1595    1565    1382    1158    690     355     
+3169   2011 1011    612     1262    431     823     1402    1247    500     439     508     865     1075    1295    1437    1470    1421    1235    1086    730     
+3169   2012 967     807     1212    608     776     1416    1120    640     443     694     660     970     1158    1431    1649    1392    1072    897     578     
+3169   2013 918     585     1187    442     511     1453    1193    429     308     212     502     818     1138    1534    1678    1445    1270    870     781     
+3169   2014 1109    820     1343    692     864     1544    1332    631     663     690     824     1076    1349    1711    1565    1525    1368    1101    748     
+3169   2015 1027    840     1206    643     736     1411    1259    634     544     617     691     898     1161    1432    1631    1414    1264    1081    925     
+3169   2016 1046    834     1308    695     763     1475    1277    588     564     593     663     1032    1274    1541    1603    1725    1258    848     844     
+3169   2017 1035    790     1291    661     798     1504    1224    598     529     640     719     1034    1375    1530    1603    1488    1303    895     694     
+3169   2018 1012    705     1310    568     685     1566    1196    618     374     320     655     1081    1313    1687    1688    1435    1186    999     788     
+3169   2019 -999999 827     1300    694     796     1542    -999999 615     676     687     781     920     1346    1544    1728    1472    1207    -999999 -999999 

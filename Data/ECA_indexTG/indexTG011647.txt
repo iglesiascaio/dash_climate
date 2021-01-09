@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    LURAGO MARINONE                          (STAID:  11647)
+LATITUDE: dd:mm:ss +45:42:42
+LONGITUDE: ddd:mm:ss +008:58:21
+ELEVATION: m  296
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11647  2002 1196    -999999 1777    -999999 1171    2099    1246    -137    441     866     1126    1512    2149    2110    2039    1630    1229    878     438     
+11647  2003 1281    -999999 2007    220     1262    2446    1142    172     22      724     1135    1852    2470    2373    2495    1691    987     752     385     
+11647  2004 1209    549     1813    293     1087    2157    1305    201     294     665     1149    1449    2056    2203    2210    1798    1411    703     339     
+11647  2005 1161    590     1825    204     1196    2113    1208    116     153     782     1078    1724    2116    2216    2006    1796    1243    583     49      
+11647  2006 1233    459     1883    84      1165    2178    1395    -4      219     646     1194    1656    2112    2456    1965    1898    1433    851     305     
+11647  2007 1237    736     1842    420     1333    2088    1133    446     517     846     1467    1691    2024    2223    2015    1620    1196    582     176     
+11647  2008 1186    576     1764    289     1156    2092    1197    327     370     793     1059    1613    1995    2139    2139    1622    1299    667     173     
+11647  2009 1209    528     1912    131     1283    2179    1253    -45     280     777     1236    1834    2031    2194    2307    1848    1174    739     82      
+11647  2010 1103    480     1783    103     1078    2144    1109    14      224     631     1110    1494    2008    2385    2037    1645    1045    638     -44     
+11647  2011 1215    463     1899    106     1330    2065    1242    46      337     750     1427    1815    1916    2041    2234    1945    1182    599     241     
+11647  2012 1252    519     1892    103     1236    2250    1397    115     -56     1000    1082    1622    2114    2248    2383    1887    1373    933     269     
+11647  2013 1319    659     1950    329     1138    2332    1381    429     283     641     1256    1522    2133    2498    2359    1914    1383    844     496     
+11647  2014 1400    831     1898    537     1420    2116    1486    502     620     1122    1428    1709    2145    2127    2076    1896    1524    1036    568     
+11647  2015 1424    855     2059    520     1394    2445    1326    508     479     983     1396    1804    2254    2721    2355    1802    1285    892     535     
+11647  2016 1364    774     1993    517     1316    2275    1360    382     642     905     1418    1629    2094    2424    2302    2077    1219    789     475     
+11647  2017 -999999 738     2048    389     1482    2420    1333    159     570     1185    1418    1841    2354    2433    2473    1741    1487    779     -999999 

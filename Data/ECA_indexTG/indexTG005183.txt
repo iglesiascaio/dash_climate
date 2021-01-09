@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   ORTOFTA                                  (STAID:   5183)
+LATITUDE: dd:mm:ss +55:46:48
+LONGITUDE: ddd:mm:ss +013:15:00
+ELEVATION: m   20
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5183   1961 861     -999999 1321    -999999 798     1549    1021    -35     265     546     769     1077    1653    1507    1489    1425    1182    452     -25     
+5183   1962 696     295     1177    54      514     1408    874     137     49      -41     686     904     1349    1475    1396    1243    972     405     -254    
+5183   1963 677     -49     1333    -535    569     1618    999     -836    -511    -97     535     1267    1605    1648    1600    1328    963     708     -155    
+5183   1964 772     228     1327    -86     647     1552    871     4       -109    -49     763     1232    1540    1538    1578    1297    783     535     126     
+5183   1965 676     242     1191    8       528     1422    769     78      -202    95      572     919     1418    1357    1489    1385    819     103     20      
+5183   1966 740     110     1266    -174    587     1595    885     -332    -214    230     345     1177    1637    1639    1509    1268    954     430     168     
+5183   1967 861     351     1335    54      763     1609    1051    -135    138     531     620     1135    1377    1729    1713    1416    1185    546     24      
+5183   1968 814     288     1393    -117    723     1683    968     -238    -138    331     862     981     1706    1553    1792    1460    927     518     -11     
+5183   1969 732     170     1382    -121    507     1744    929     -80     -288    -76     509     1088    1640    1773    1815    1449    965     373     -452    
+5183   1970 701     9       1310    -437    514     1689    828     -416    -442    -6      396     1147    1779    1605    1686    1229    853     403     104     
+5183   1971 838     257     1359    78      653     1668    835     -2      136     39      634     1286    1479    1785    1734    1211    913     377     410     
+5183   1972 786     322     1284    110     691     1620    757     -161    80      300     634     1135    1477    1799    1579    1060    724     488     289     
+5183   1973 813     337     1374    132     699     1739    749     -26     134     398     508     1184    1660    1882    1673    1313    682     253     50      
+5183   1974 877     316     1327    187     767     1562    851     242     278     385     806     1110    1503    1531    1649    1353    671     535     429     

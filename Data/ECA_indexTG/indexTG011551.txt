@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    SANTA MARGHERITA DI STAFFORA (PASSO DEL  (STAID:  11551)
+LATITUDE: dd:mm:ss +44:40:54
+LONGITUDE: ddd:mm:ss +009:13:09
+ELEVATION: m 1363
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11551  2002 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+11551  2003 861     -999999 -999999 -999999 736     1958    782     17      -262    497     547     1249    1923    1858    2087    1253    614     483     181     
+11551  2004 -999999 272     -999999 125     526     -999999 944     -1      203     151     543     885     -999999 1700    1683    1363    1001    463     -999999 
+11551  2005 762     -999999 -999999 -999999 713     1640    837     52      -280    300     584     1248    -999999 1763    1527    1279    870     361     -73     
+11551  2006 892     203     1400    -70     684     1675    1107    -136    6       178     717     1157    1600    1958    1463    1489    1130    701     379     
+11551  2007 920     579     1402    407     894     1633    810     454     385     411     1051    1225    1456    1819    1618    1227    828     375     156     
+11551  2008 871     389     1327    250     696     1679    862     355     239     369     608     1108    1531    1719    1781    1196    1011    373     125     
+11551  2009 875     318     1443    45      842     1727    950     -9      16      367     717     1439    1521    -999999 1866    1366    884     603     77      
+11551  2010 754     263     1315    -43     621     1658    795     -168    -39     201     685     978     1462    1889    1618    1241    742     404     -22     
+11551  2011 913     295     1461    107     850     1638    953     86      274     289     984     1282    1474    1549    1886    1582    807     495     236     
+11551  2012 794     322     1298    2       695     1703    839     82      -335    612     476     991     1536    1715    1851    1194    857     464     21      
+11551  2013 730     199     1221    -63     467     1555    829     86      -315    36      620     748     1327    1700    1632    1285    896     305     332     
+11551  2014 804     368     1188    187     665     1435    947     132     74      404     696     897     1397    1462    1445    1242    970     627     205     
+11551  2015 869     367     1350    95      701     1726    843     153     -93     303     701     1101    1502    2005    1665    1102    720     711     473     
+11551  2016 794     389     1267    245     579     1573    828     84      176     158     702     880     1341    1763    1615    1351    761     409     418     
+11551  2017 -999999 363     1372    113     804     1785    798     -225    153     621     697     1091    1660    1770    1921    1061    1045    290     -999999 

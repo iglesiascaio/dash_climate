@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   SKOTSELV                                 (STAID:  18308)
+LATITUDE: dd:mm:ss +59:50:18
+LONGITUDE: ddd:mm:ss +009:53:40
+ELEVATION: m   18
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18308  2013 544     -999999 1267    -999999 391     1630    601     -871    -591    -411    372     1210    1491    1827    1568    1110    615     78      46      
+18308  2014 782     167     1388    -48     800     1703    801     -308    135     431     753     1214    1552    2008    1543    1239    840     323     -387    
+18308  2015 693     154     1235    -197    645     1536    625     -113    -80     325     702     910     1423    1618    1562    1182    580     115     42      
+18308  2016 657     16      1366    -285    698     1621    613     -756    -132    241     587     1263    1649    1685    1531    1468    536     -163    -70     
+18308  2017 603     -3      1245    -219    637     1531    580     -345    -238    233     507     1165    1483    1641    1468    1187    580     -28     -475    
+18308  2018 665     -200    1450    -461    533     1830    695     -412    -500    -388    487     1499    1772    2146    1569    1197    665     224     -362    
+18308  2019 -999999 -12     1271    -373    596     1629    -999999 -574    -162    130     682     979     1491    1752    1639    1065    441     -999999 -999999 

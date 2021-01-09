@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    VALMADRERA (V.POZZI)                     (STAID:  11546)
+LATITUDE: dd:mm:ss +45:50:36
+LONGITUDE: ddd:mm:ss +009:21:06
+ELEVATION: m  247
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11546  2006 -999999 -999999 1989    -999999 1266    2292    1543    -999999 336     747     1304    1747    2281    2528    2105    2044    1568    1015    554     
+11546  2007 1438    937     2029    648     1544    2248    1338    650     749     1068    1689    1878    2106    2458    2177    1836    1396    812     422     
+11546  2008 1371    795     1941    517     1328    2282    1350    520     614     992     1241    1747    2140    2332    2370    1787    1462    824     414     
+11546  2009 1420    741     2112    376     1477    2392    1448    225     501     998     1385    2065    2221    2425    2519    2036    1411    917     339     
+11546  2010 1312    694     1984    320     1266    2365    1312    205     425     845     1320    1635    2228    2614    2248    1842    1243    853     235     
+11546  2011 1438    680     2097    342     1519    2265    1487    236     577     934     1661    1966    2078    2233    2478    2155    1436    872     574     
+11546  2012 1429    812     2048    424     1404    2460    1466    461     223     1268    1183    1753    2298    2463    2613    1955    1453    992     366     
+11546  2013 1396    -999999 1991    -999999 1176    2376    1470    442     -999999 692     1290    1520    2155    2542    2428    2025    1437    948     545     
+11546  2014 1462    895     1949    590     1485    2146    1563    554     681     1188    1487    1779    2172    2175    2093    1979    1611    1082    680     
+11546  2015 1485    922     2120    593     1443    2504    1401    562     530     1037    1457    1834    2282    2815    2406    1859    1361    985     616     
+11546  2016 1412    850     2012    588     1350    2275    1447    454     701     979     1440    1637    2060    2443    2315    2146    1319    882     554     
+11546  2017 -999999 814     2060    480     1500    2432    1394    240     664     1216    1437    1846    2352    2451    2489    1764    1540    873     -999999 

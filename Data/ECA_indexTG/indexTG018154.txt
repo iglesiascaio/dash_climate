@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   HYNNEKLEIV                               (STAID:  18154)
+LATITUDE: dd:mm:ss +58:36:02
+LONGITUDE: ddd:mm:ss +008:25:00
+ELEVATION: m  162
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18154  2012 537     -999999 1078    -999999 633     1360    553     -288    -275    491     342     1056    1181    1475    1418    974     405     284     -649    
+18154  2013 498     -278    1124    -630    243     1480    595     -673    -561    -482    178     1031    1323    1690    1423    1072    647     63      182     
+18154  2014 724     195     1245    42      668     1553    774     -178    129     316     623     1062    1453    1841    1362    1113    841     365     -281    
+18154  2015 640     161     1089    -155    502     1387    644     -84     -94     199     538     769     1251    1466    1439    1060    597     277     206     
+18154  2016 596     78      1198    -189    548     1451    620     -609    -163    150     401     1089    1469    1507    1377    1331    548     -18     50      
+18154  2017 597     67      1143    -98     561     1409    605     -161    -192    148     438     1092    1413    1462    1353    1086    680     45      -262    
+18154  2018 655     -93     1338    -316    497     1682    685     -196    -507    -356    451     1395    1639    1988    1417    1111    655     291     -115    
+18154  2019 -999999 107     1177    -165    545     1515    -999999 -387    25      173     558     905     1409    1604    1527    1040    474     -999999 -999999 

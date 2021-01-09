@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    CORTENOVA                                (STAID:  11637)
+LATITUDE: dd:mm:ss +46:00:32
+LONGITUDE: ddd:mm:ss +009:22:49
+ELEVATION: m  456
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11637  2004 -999999 -999999 -999999 -999999 970     -999999 -999999 63      212     474     1038    1347    1963    2038    -999999 -999999 1282    543     86      
+11637  2005 -999999 445     -999999 58      -999999 -999999 1096    -43     134     624     -999999 1659    -999999 2084    1863    1678    1145    463     -229    
+11637  2006 -999999 -999999 -999999 -999999 1113    -999999 -999999 -335    27      550     1139    1542    2009    2299    -999999 -999999 1254    702     -999999 
+11637  2007 -999999 -999999 -999999 -999999 -999999 -999999 1028    -999999 -999999 -999999 -999999 -999999 -999999 -999999 1890    1475    1120    486     -28     
+11637  2008 1069    458     1660    138     1071    1965    1048    156     296     710     989     1511    1889    1995    2009    1528    1149    544     67      
+11637  2009 1084    441     -999999 71      1220    -999999 1117    -82     244     721     1160    1727    1924    -999999 2127    1668    1065    618     19      
+11637  2010 -999999 399     1677    18      1026    2032    -999999 -74     116     630     1052    1396    1927    2250    1915    1503    928     -999999 -999999 
+11637  2011 1090    -999999 1756    -999999 1210    1942    1073    -16     241     693     1322    1619    1836    1919    2067    1759    1006    453     89      
+11637  2012 1082    403     1741    29      1129    2115    1104    38      -44     891     982     1511    2018    2115    2207    1593    1089    631     -95     
+11637  2013 1054    374     1694    19      952     2044    1126    87      69      440     1109    1311    1890    2211    2027    1600    1192    584     65      
+11637  2014 1146    530     1663    187     1168    1886    1225    175     337     813     1225    1467    1899    1922    1837    1622    1277    772     357     
+11637  2015 1129    584     1814    220     1166    2182    1030    118     181     764     1179    1597    2020    2455    2065    1505    1065    518     55      
+11637  2016 1100    466     1731    174     1093    2005    1108    44      442     675     1206    1403    1831    2162    2018    1753    986     551     79      
+11637  2017 -999999 439     1763    38      1221    2117    997     -269    366     917     1135    1608    2110    2154    2086    1454    1107    442     -999999 

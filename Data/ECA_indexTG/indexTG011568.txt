@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    LOZZA (PONTE VEDANO)                     (STAID:  11568)
+LATITUDE: dd:mm:ss +45:46:37
+LONGITUDE: ddd:mm:ss +008:52:06
+ELEVATION: m  276
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11568  2002 1196    -999999 1758    -999999 1171    2074    1193    -137    441     866     1126    1512    2131    2074    2019    1588    1160    832     -999999 
+11568  2003 -999999 -999999 -999999 -999999 -999999 2386    1093    184     3       724     1060    1769    2407    2325    2429    1632    986     664     275     
+11568  2004 1171    504     1771    237     1053    2124    1244    157     280     654     1093    1412    2058    2172    2140    1736    1348    644     322     
+11568  2005 1126    546     1805    176     1165    2099    1154    58      144     722     1075    1696    2098    2225    1975    1744    1156    562     -8      
+11568  2006 1204    405     1868    19      1141    2174    1354    -82     161     623     1177    1625    2108    2444    1968    1871    1385    804     305     
+11568  2007 1231    720     1840    420     1333    2090    1117    446     517     846     1467    1691    2024    2238    2006    1600    1185    565     139     
+11568  2008 1197    575     1781    284     1177    2121    1179    311     409     832     1086    1610    2020    2175    2164    1612    1268    653     191     
+11568  2009 1233    550     1924    180     1301    2203    1254    15      350     805     1233    1861    2058    2235    2310    1824    1194    747     101     
+11568  2010 1140    511     1810    139     1115    2176    1120    49      280     678     1153    1514    2037    2428    2059    1650    1049    664     62      
+11568  2011 1242    506     1923    177     1338    2104    1245    109     381     762     1473    1784    1954    2072    2282    1960    1186    591     298     
+11568  2012 1223    540     1888    139     1248    2273    1280    128     -20     1025    1076    1637    2171    2290    2355    1779    1257    804     128     
+11568  2013 1291    538     1950    195     1111    2332    1381    273     183     559     1256    1522    2133    2497    2359    1914    1383    844     496     
+11568  2014 1401    833     1898    540     1420    2116    1486    511     620     1122    1428    1709    2145    2127    2076    1896    1524    1036    568     
+11568  2015 1424    855     2060    520     1394    2446    1327    508     479     983     1396    1804    2257    2721    2355    1802    1285    896     535     
+11568  2016 1365    775     1993    517     1316    2275    1362    382     642     905     1418    1629    2094    2424    2302    2077    1222    793     475     
+11568  2017 -999999 742     2048    391     1482    2420    1333    159     -999999 1185    1418    1841    2354    2433    2473    1741    1487    779     -999999 

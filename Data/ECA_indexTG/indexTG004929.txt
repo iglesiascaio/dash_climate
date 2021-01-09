@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  NEUHUTTEN/SPESSART                       (STAID:   4929)
+LATITUDE: dd:mm:ss +50:00:33
+LONGITUDE: ddd:mm:ss +009:25:30
+ELEVATION: m  340
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4929   2006 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1135    647     352     
+4929   2007 917     591     1418    402     1030    1611    703     447     408     540     1178    1377    1656    1617    1563    1106    725     277     79      
+4929   2008 875     335     1382    212     832     1686    775     292     270     362     666     1464    1658    1743    1658    1081    795     447     41      
+4929   2009 850     206     1463    -126    935     1637    946     -393    -16     346     1146    1319    1445    1695    1765    1394    782     669     10      
+4929   2010 751     244     1357    -134    748     1709    794     -349    -57     391     842     1013    1633    1927    1565    1146    733     503     -380    
+4929   2011 926     261     1464    -78     1005    1610    894     67      98      535     1139    1345    1586    1526    1719    1463    869     351     361     
+4929   2012 868     361     1414    91      962     1668    802     185     -299    657     793     1429    1525    1680    1793    1242    735     432     184     
+4929   2013 833     219     1392    31      643     1722    890     5       -109    42      801     1091    1536    1932    1693    1281    987     397     276     
+4929   2014 985     493     1436    296     983     1642    1011    240     379     664     1096    1194    1563    1861    1499    1393    1092    544     263     
+4929   2015 961     429     1470    150     846     1849    883     186     -14     465     827     1245    1607    1976    1957    1183    789     681     556     
+4929   2016 888     463     1457    314     793     1707    897     86      299     363     733     1282    1608    1807    1702    1594    774     329     64      
+4929   2017 901     302     1416    -5      921     1745    873     -357    309     697     710     1350    1761    1769    1706    1179    1014    421     213     
+4929   2018 1011    355     1643    145     1002    1893    949     418     -232    244     1218    1552    1750    1978    1946    1395    968     482     323     
+4929   2019 -999999 446     1485    196     869     1859    -999999 -2      274     617     950     1043    1869    1863    1845    1329    1018    -999999 -999999 

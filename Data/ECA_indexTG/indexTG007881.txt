@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  INARI ANGELI LINTUPUOLISELKA             (STAID:   7881)
+LATITUDE: dd:mm:ss +68:54:09
+LONGITUDE: ddd:mm:ss +025:44:26
+ELEVATION: m  285
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7881   2008 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -51     -685    -575    
+7881   2009 -31     -714    720     -969    -111    1088    33      -1010   -1361   -663    -243    569     864     1183    1212    712     -244    -359    -1120   
+7881   2010 -133    -932    731     -1352   -135    1056    -119    -1316   -1648   -956    -23     577     846     1342    972     648     72      -1084   -1140   
+7881   2011 87      -946    845     -1366   -3      1207    246     -1266   -1725   -611    148     459     1141    1371    1108    829     160     -248    -447    
+7881   2012 -91     -579    633     -963    -119    1017    10      -1110   -1359   -511    -264    415     829     1151    1064    578     -56     -489    -1389   
+7881   2013 87      -820    905     -1070   -174    1304    40      -969    -830    -1179   -167    824     1311    1331    1271    835     -87     -625    -729    
+7881   2014 37      -636    756     -891    -84     1225    -70     -1428   -474    -458    -122    328     892     1590    1182    639     -126    -723    -887    
+7881   2015 72      -700    744     -1029   53      1058    142     -1422   -751    -297    1       453     867     1030    1270    824     -17     -376    -765    
+7881   2016 74      -681    839     -1074   108     1144    70      -1638   -801    -487    -6      814     967     1438    1021    774     102     -666    -684    
+7881   2017 -57     -611    605     -848    -264    1060    -39     -876    -992    -590    -330    126     815     1352    1006    641     -19     -741    -1147   
+7881   2018 53      -916    885     -1234   -136    1316    150     -1188   -1380   -1059   -110    761     901     1861    1173    689     -82     -149    -882    
+7881   2019 -999999 -727    727     -1129   -111    1095    -999999 -1273   -1243   -763    88      349     946     1241    1095    626     -391    -999999 -999999 

@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    LECCO (V.SORA)                           (STAID:  11662)
+LATITUDE: dd:mm:ss +45:51:54
+LONGITUDE: ddd:mm:ss +009:24:00
+ELEVATION: m  272
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11662  2004 -999999 -999999 -999999 -999999 1138    -999999 1334    223     356     700     1208    1509    2140    2253    -999999 1847    1425    683     332     
+11662  2005 -999999 615     1887    251     1250    -999999 1247    190     228     802     1141    1803    -999999 2318    2089    1843    1256    643     -999999 
+11662  2006 -999999 -999999 1953    -999999 1265    2265    1423    -999999 -999999 710     1258    1718    2218    2547    2030    1931    1459    885     393     
+11662  2007 1319    786     -999999 512     1444    2185    1209    535     619     942     1583    1811    2080    2365    2086    1688    1297    718     268     
+11662  2008 1352    710     1916    421     1302    2252    1389    464     538     965     1221    1717    2094    2295    2364    1809    1501    854     432     
+11662  2009 1446    783     2120    428     1519    2383    1460    317     548     1027    1427    2100    2205    2434    2504    2028    1417    935     350     
+11662  2010 1297    712     1956    346     1264    2322    1296    235     465     853     1313    1628    2190    2567    2203    1814    1231    846     175     
+11662  2011 1446    691     2087    363     1517    2249    1499    308     632     951     1653    1953    2071    2242    2429    2162    1449    889     563     
+11662  2012 1418    824     2026    437     1403    2429    1451    471     266     1275    1176    1750    2287    2450    2547    1925    1439    988     384     
+11662  2013 1372    731     1989    415     1162    2368    1452    489     367     694     1290    1506    2161    2552    2385    2025    1418    914     589     
+11662  2014 1434    896     1905    611     1459    2100    1526    565     688     1183    1461    1734    2134    2130    2039    1925    1585    1067    648     
+11662  2015 1469    910     2080    586     1422    2467    1385    569     535     1024    1438    1805    2249    2751    2394    1821    1347    987     644     
+11662  2016 1410    854     2008    600     1352    2283    1460    464     700     978     1442    1640    2072    2446    2329    2148    1313    843     572     
+11662  2017 -999999 813     2054    484     1506    2423    1377    228     669     1218    1455    1843    2361    2459    2446    1739    1541    846     -999999 

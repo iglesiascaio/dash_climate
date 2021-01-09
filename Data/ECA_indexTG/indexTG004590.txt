@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  SALZHEMMENDORF-LAUENSTEIN                (STAID:   4590)
+LATITUDE: dd:mm:ss +52:04:45
+LONGITUDE: ddd:mm:ss +009:33:11
+ELEVATION: m  175
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4590   1992 -999999 -999999 1502    -999999 -999999 1811    880     -999999 -999999 -999999 826     1413    1704    1840    1887    1320    674     651     213     
+4590   1993 866     370     1395    146     979     1553    703     267     -62     444     1067    1430    1544    1578    1535    1207    837     62      412     
+4590   1994 1005    400     1486    262     953     1800    963     424     -83     692     898     1268    1580    2060    1754    1332    783     780     481     
+4590   1995 927     515     1439    385     817     1737    987     117     574     372     863     1219    1465    1944    1793    1331    1215    408     -199    
+4590   1996 730     171     1311    -250    698     1593    872     -346    -203    132     856     1111    1482    1575    1719    1110    963     539     -202    
+4590   1997 931     377     1430    30      860     1751    895     -227    570     644     664     1265    1572    1714    1962    1380    820     487     304     
+4590   1998 958     537     1425    439     976     1610    831     395     636     590     924     1414    1616    1592    1621    1374    884     232     194     
+4590   1999 1014    426     1517    264     985     1692    1037    434     155     625     967     1364    1536    1881    1655    1689    948     477     379     
+4590   2000 1039    532     1473    386     1023    1638    1092    276     510     601     1025    1442    1660    1527    1728    1443    1089    744     412     
+4590   2001 960     526     1436    304     866     1722    1037    180     324     395     785     1415    1415    1878    1864    1231    1309    561     108     
+4590   2002 987     578     1482    329     937     1775    935     284     625     586     822     1399    1691    1741    1891    1328    859     622     -17     
+4590   2003 968     336     1567    -16     941     1918    905     93      -136    560     877     1383    1849    1901    2001    1371    592     763     283     
+4590   2004 948     443     1424    264     873     1665    1001    168     346     509     956     1158    1526    1629    1835    1428    1059    513     232     
+4590   2005 967     450     1451    216     899     1657    1070    378     17      459     959     1280    1584    1820    1565    1488    1117    603     267     
+4590   2006 1020    354     1549    58      795     1810    1287    -142    46      210     861     1314    1660    2182    1584    1676    1319    864     602     

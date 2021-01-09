@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  BOBECK                                   (STAID:   4760)
+LATITUDE: dd:mm:ss +50:54:20
+LONGITUDE: ddd:mm:ss +011:47:57
+ELEVATION: m  337
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4760   1994 -999999 -999999 -999999 -999999 -999999 1840    907     -999999 -999999 -999999 -999999 1239    1610    2138    1764    1322    750     654     339     
+4760   1995 861     398     1423    234     761     1755    890     -43     423     273     821     1190    1406    2020    1828    1247    1196    217     -279    
+4760   1996 664     70      1287    -332    630     1588    795     -448    -263    -18     832     1081    1529    1545    1688    1032    925     422     -381    
+4760   1997 874     272     1425    -103    826     1736    843     -267    387     560     607     1304    1570    1674    1958    1416    755     361     128     
+4760   1998 907     405     1447    276     936     1672    749     247     471     474     937     1398    1681    1639    1696    1320    819     106     70      
+4760   1999 936     304     1507    120     915     1692    962     286     -10     513     860     1371    1501    1892    1677    1730    855     306     177     
+4760   2000 993     374     1503    194     1004    1693    1032    47      370     485     1046    1483    1711    1518    1850    1395    1095    604     301     
+4760   2001 887     439     1414    187     832     1719    934     45      216     354     712     1427    1403    1843    1901    1167    1260    363     -110    
+4760   2002 -999999 432     1467    144     873     1798    -999999 86      489     509     726     1379    1707    1798    1886    1287    -999999 -999999 -999999 

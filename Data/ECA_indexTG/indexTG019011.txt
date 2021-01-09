@@ -1,0 +1,47 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   FUGLOEYKALVEN FYR                        (STAID:  19011)
+LATITUDE: dd:mm:ss +70:19:00
+LONGITUDE: ddd:mm:ss +020:09:18
+ELEVATION: m   37
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+19011  1987 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 833     91      -196    
+19011  1988 321     67      679     -152    86      964     382     -86     -174    -78     -89     419     764     1135    985     840     367     -60     -196    
+19011  1989 469     37      815     -78     385     1000    541     12      -48     138     471     548     886     925     1185    866     444     317     -144    
+19011  1990 506     126     834     -12     246     1093    562     -81     210     25      340     376     850     1143    1278    1005    597     82      223     
+19011  1991 442     162     723     108     222     986     465     39      57      -39     273     433     868     976     1111    663     503     230     163     
+19011  1992 437     208     755     125     269     960     384     134     76      135     120     549     854     965     1056    977     143     39      185     
+19011  1993 416     82      708     96      186     1005    444     68      28      21      102     433     552     1238    1211    687     244     408     -38     
+19011  1994 407     60      737     -113    283     936     422     -238    -56     41      384     426     763     982     1058    803     317     148     225     
+19011  1995 347     123     664     62      237     872     338     14      -66     80      162     466     809     900     905     732     306     -24     -147    
+19011  1996 389     35      657     -57     122     960     512     208     -243    90      -15     285     807     901     1167    783     569     183     -104    
+19011  1997 392     40      720     -162    104     993     535     -219    -162    -45     -73     425     766     1009    1197    981     422     207     147     
+19011  1998 372     33      732     -110    129     1048    442     -132    -369    -108    116     379     774     1198    1164    746     482     95      58      
+19011  1999 443     74      747     -56     243     933     681     -86     -150    26      193     510     864     1028    905     978     595     472     -56     
+19011  2000 454     145     719     -33     186     924     703     4       -47     -99     95      559     763     1000    1003    881     818     405     48      
+19011  2001 410     166     757     -5      110     989     552     171     -257    -225    90      464     906     1022    1036    1015    486     156     9       
+19011  2002 440     82      844     -54     356     1061    414     -57     -120    3       444     625     790     1191    1194    802     341     100     -69     
+19011  2003 -999999 38      -999999 -97     -999999 -999999 -999999 -390    195     71      238     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

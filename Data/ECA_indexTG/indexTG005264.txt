@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   KALLSJO                                  (STAID:   5264)
+LATITUDE: dd:mm:ss +57:13:48
+LONGITUDE: ddd:mm:ss +012:42:00
+ELEVATION: m  154
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5264   2008 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 795     302     74      
+5264   2009 720     170     1321    -86     718     1549    765     -122    -225    162     916     1085    1383    1679    1580    1269    510     525     -173    
+5264   2010 524     -25     1225    -414    522     1565    592     -649    -422    40      570     959     1334    1807    1545    1116    607     52      -733    
+5264   2011 787     -74     1325    -413    684     1572    876     -206    -289    108     910     1042    1495    1696    1522    1275    802     553     -999999 
+5264   2012 656     -999999 1186    -999999 676     1443    741     -56     -331    394     453     1175    1226    1565    1531    1144    638     443     -350    
+5264   2013 693     -4      1252    -295    484     1558    -999999 -267    -263    -237    437     1250    1418    1691    1560    1129    -999999 394     376     
+5264   2014 863     -999999 1352    175     812     1612    935     -93     249     473     813     1151    1446    1913    1471    1301    964     540     93      
+5264   2015 786     356     1185    93      606     1472    840     137     46      334     619     865     1220    1528    1659    1202    774     547     442     
+5264   2016 757     293     1331    61      708     1554    759     -295    35      249     572     1296    1580    1610    1473    1442    659     180     262     
+5264   2017 739     218     1219    61      647     1473    791     -75     -10     272     494     1170    1422    1520    1475    1218    825     327     179     
+5264   2018 821     149     1489    -30     720     1764    827     48      -349    -177    745     1593    1663    1994    1632    1282    822     377     134     
+5264   2019 -999999 298     1305    84      686     1629    -999999 -87     216     321     792     947     1644    1645    1598    1193    738     -999999 -999999 

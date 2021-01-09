@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  WUNSIEDEL-SCHONBRUNN                     (STAID:   4923)
+LATITUDE: dd:mm:ss +50:01:54
+LONGITUDE: ddd:mm:ss +011:58:27
+ELEVATION: m  622
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4923   2006 -999999 -999999 -999999 -999999 -999999 1621    974     -999999 -999999 -999999 -999999 -999999 1519    2005    1335    1488    995     440     184     
+4923   2007 802     420     1346    213     906     1571    602     224     232     428     1007    1285    1572    1582    1559    1058    663     81      -103    
+4923   2008 762     191     1289    66      689     1593    690     100     211     189     600     1276    1573    1619    1585    1062    700     308     -99     
+4923   2009 737     71      1393    -266    830     1568    824     -492    -200    192     1081    1224    1316    1626    1753    1347    626     504     -183    
+4923   2010 594     45      1256    -353    600     1618    629     -571    -301    174     706     924     1489    1866    1495    1036    562     290     -588    
+4923   2011 781     47      1374    -324    868     1538    779     -138    -237    374     996     1238    1488    1448    1676    1392    739     207     122     
+4923   2012 742     178     1347    -150    843     1617    719     -38     -560    550     668     1306    1482    1607    1757    1239    641     279     -86     
+4923   2013 679     25      1283    -193    480     1632    727     -208    -293    -208    651     1001    1405    1836    1649    1133    805     238     62      
+4923   2014 857     311     1331    78      852     1554    919     23      157     562     946     1052    1470    1763    1426    1319    996     440     80      
+4923   2015 834     283     1367    -32     709     1753    771     3       -194    332     669     1124    1439    1853    1956    1133    639     547     416     
+4923   2016 772     301     1379    141     669     1634    799     -113    117     195     627     1185    1532    1720    1648    1549    676     176     -62     
+4923   2017 773     147     1327    -184    804     1674    760     -548    85      549     580     1275    1644    1684    1694    1060    929     284     -11     
+4923   2018 880     165     1567    -88     858     1813    869     161     -447    18      1146    1419    1614    1891    1928    1390    898     317     127     
+4923   2019 -999999 299     1417    30      730     1832    -999999 -205    183     460     805     927     1901    1805    1792    1263    898     -999999 -999999 

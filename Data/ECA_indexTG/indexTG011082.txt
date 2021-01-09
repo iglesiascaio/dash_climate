@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    ULLDEMOLINS                              (STAID:  11082)
+LATITUDE: dd:mm:ss +41:19:12
+LONGITUDE: ddd:mm:ss +000:53:08
+ELEVATION: m  687
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11082  2008 -999999 -999999 -999999 -999999 -999999 2110    1240    -999999 -999999 -999999 -999999 1411    1879    2205    2238    1740    1336    641     473     
+11082  2009 1372    715     1910    475     1216    2282    1466    400     558     866     983     1791    2172    2337    2334    1817    1514    1067    561     
+11082  2010 1240    787     1802    464     1086    2157    1263    349     485     729     1171    1362    1835    2394    2232    1802    1267    720     480     
+11082  2011 1386    744     1913    548     1301    2118    1516    487     690     812     1383    1710    1914    2107    2325    2028    1495    1026    609     
+11082  2012 1325    808     1872    451     1201    2254    1374    482     248     961     1008    1627    2183    2132    2445    1816    1425    878     651     
+11082  2013 1249    800     1716    547     1021    2061    1408    552     426     833     1067    1164    1747    2298    2126    1875    1587    755     497     
+11082  2014 1359    842     1812    606     1201    2057    1564    673     654     864     1348    1397    1955    2092    2120    1957    1645    1087    484     
+11082  2015 1362    840     1893    452     1284    2243    1330    489     376     923     1221    1707    2067    2463    2194    1684    1379    926     833     
+11082  2016 1335    877     1825    742     1066    2175    1433    711     678     723     1070    1406    1948    2333    2236    1942    1472    884     593     
+11082  2017 1353    855     1877    571     1289    2237    1338    357     783     1034    1168    1662    2170    2271    2267    1703    1525    779     481     
+11082  2018 1321    768     1851    506     1113    2179    1396    660     362     761     1197    1384    1897    2347    2285    1984    1316    891     700     
+11082  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

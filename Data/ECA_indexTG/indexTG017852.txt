@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    RIMINI_AUSA                              (STAID:  17852)
+LATITUDE: dd:mm:ss +44:03:23
+LONGITUDE: ddd:mm:ss +012:32:43
+ELEVATION: m  100
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17852  2011 -999999 -999999 2142    -999999 -999999 2400    1502    -999999 -999999 -999999 -999999 1820    2247    2404    2545    2241    1406    862     630     
+17852  2012 1447    745     2123    371     1369    2562    1582    281     190     1068    1319    1718    2444    2662    2577    2001    1584    1162    317     
+17852  2013 1420    793     2016    386     1291    2348    1564    407     437     828     1365    1683    2150    2476    2412    1990    1576    1125    521     
+17852  2014 1509    982     1978    706     1404    2280    1577    719     897     1048    1422    1744    2248    2277    2315    1824    1699    1245    689     
+17852  2015 1485    972     2121    633     1381    2487    1483    586     622     966     1329    1846    2277    2747    2430    2074    1421    956     500     
+17852  2016 1454    876     2048    627     1375    2362    1472    547     850     984     1415    1728    2199    2554    2328    2048    1382    989     415     
+17852  2017 1480    814     2112    453     1445    2528    1421    256     713     1125    1375    1834    2448    2555    2578    1864    1473    925     564     
+17852  2018 1497    818     2144    556     1424    2444    1585    685     405     817     1545    1912    2276    2546    2503    2063    1587    1106    445     
+17852  2019 -999999 887     -999999 495     1306    -999999 -999999 374     683     1112    1304    1509    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

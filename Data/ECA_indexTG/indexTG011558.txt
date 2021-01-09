@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    LIVIGNO (LA VALLACCIA )                  (STAID:  11558)
+LATITUDE: dd:mm:ss +46:28:42
+LONGITUDE: ddd:mm:ss +010:11:20
+ELEVATION: m 2655
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11558  2003 -999999 -999999 574     -999999 -98     978     48      -999999 -999999 -330    -326    346     976     868     1088    442     -180    -121    -572    
+11558  2004 -999999 -999999 -999999 -717    -999999 -999999 120     -949    -613    -999999 -999999 -999999 -999999 705     766     535     226     -410    -999999 
+11558  2005 -88     -999999 413     -999999 -159    654     95      -651    -1221   -552    -216    288     681     756     539     489     309     -519    -958    
+11558  2006 8       -592    -999999 -894    -214    687     -999999 -859    -864    -688    -164    226     625     1044    379     -999999 392     -186    -339    
+11558  2007 40      -248    490     -411    21      706     -34     -442    -458    -476    248     297     648     769     701     276     102     -484    -708    
+11558  2008 17      -440    434     -550    -195    748     33      -485    -439    -667    -322    325     673     744     827     345     240     -467    -698    
+11558  2009 -8      -554    -999999 -819    -99     775     128     -805    -984    -635    -55     492     539     803     967     583     23      -189    -857    
+11558  2010 -96     -586    423     -914    -230    741     -32     -982    -904    -637    -135    86      583     936     699     357     -12     -444    -856    
+11558  2011 -999999 -486    534     -718    21      698     239     -729    -568    -353    63      355     585     571     933     691     109     -72     -999999 
+11558  2012 -999999 -999999 470     -999999 -88     812     126     -999999 -999999 -231    -270    230     711     791     960     479     140     -241    -901    
+11558  2013 -82     -604    -999999 -962    -254    698     65      -800    -1205   -682    -45     6       462     853     794     500     176     -486    -481    
+11558  2014 -999999 -999999 -999999 -999999 -96     580     -999999 -999999 -999999 -336    -63     88      583     611     545     -999999 -999999 -999999 -999999 
+11558  2015 92      -999999 510     -999999 -102    884     73      -715    -839    -440    -179    311     623     1143    879     258     46      -86     -137    
+11558  2016 -7      -999999 455     -999999 -223    739     27      -999999 -715    -625    -127    85      564     842     804     551     -68     -403    -389    
+11558  2017 -999999 -440    476     -660    -61     860     -25     -1068   -999999 -235    -269    316     808     827     945     199     219     -510    -999999 

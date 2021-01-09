@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   SENJA - LAUKHELLA                        (STAID:  18939)
+LATITUDE: dd:mm:ss +69:14:03
+LONGITUDE: ddd:mm:ss +017:54:02
+ELEVATION: m    9
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18939  1997 -999999 -999999 -999999 -999999 -999999 -999999 301     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 943     200     -237    -117    
+18939  1998 278     -238    -999999 -343    51      -999999 290     -373    -561    -372    47      476     1144    -999999 1313    779     356     -267    -230    
+18939  1999 346     -202    843     -386    199     1108    569     -468    -467    -165    164     598     1161    1192    975     960     467     284     -586    
+18939  2000 368     -114    810     -384    111     1126    533     -192    -374    -288    -12     630     928     1269    1174    853     649     93      -350    
+18939  2001 313     -177    864     -437    32      1203    440     -318    -665    -510    75      532     1155    1212    1242    954     378     -9      -358    
+18939  2002 355     -170    1038    -406    375     1379    123     -502    -353    -190    441     875     1280    1465    1389    758     53      -439    -560    
+18939  2003 402     -312    954     -496    325     1316    368     -905    29      -19     239     751     1079    1544    1319    766     230     111     -337    
+18939  2004 424     -169    970     -436    362     1277    379     -616    -351    -55     435     707     935     1569    1316    837     369     -69     -24     
+18939  2005 430     -58     928     -130    222     1289    453     -151    -224    -265    379     558     1136    1464    1261    753     532     75      -395    
+18939  2006 434     -119    941     -236    204     1189    401     -45     -272    -574    369     822     1025    1205    1333    874     237     96      86      
+18939  2007 439     -107    925     -370    341     1304    457     -464    -770    115     209     694     1120    1557    1229    720     623     22      106     
+18939  2008 374     16      819     -76     125     1142    370     -248    -86     -326    141     560     1017    1267    1137    773     442     -108    -102    
+18939  2009 370     -124    948     -301    268     1270    364     -305    -516    -192    153     839     964     1383    1452    872     183     43      -507    
+18939  2010 251     -321    848     -553    172     1068    294     -412    -759    -507    236     790     813     1281    1102    851     339     -311    -462    
+18939  2011 -999999 -248    -999999 -472    342     1289    -999999 -440    -519    -126    370     784     1285    1266    1316    -999999 -999999 -999999 -999999 

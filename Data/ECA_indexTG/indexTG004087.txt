@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  WALTROP-ABDINGHOF                        (STAID:   4087)
+LATITUDE: dd:mm:ss +51:35:53
+LONGITUDE: ddd:mm:ss +007:24:20
+ELEVATION: m   68
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4087   2007 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 360     
+4087   2008 1039    -999999 1495    474     988     1755    982     616     444     574     835     1550    1686    1803    1774    1301    1001    644     213     
+4087   2009 1026    436     1566    128     1078    1748    1136    -94     280     561     1262    1417    1565    1830    1843    1464    968     980     203     
+4087   2010 893     461     1464    75      859     1818    968     -120    149     572     940     1067    1690    2070    1690    1313    979     610     -284    
+4087   2011 1075    428     1555    130     1075    1695    1085    301     399     568     1225    1437    1687    1618    1779    1575    1064    616     593     
+4087   2012 1019    584     1480    336     1052    1725    1003    392     2       799     875     1477    1521    1745    1903    1338    1006    664     450     
+4087   2013 976     429     1480    243     744     1787    1085    170     95      162     887     1188    1598    1926    1831    1434    1222    595     542     
+4087   2014 1143    722     1530    573     1079    1728    1218    526     660     776     1176    1287    1603    1954    1625    1523    1310    817     434     
+4087   2015 1088    639     1492    362     913     1817    1077    367     277     597     877     1264    1614    1909    1921    1345    942     947     938     
+4087   2016 1060    698     1585    603     944     1805    1069    435     426     493     875     1462    1726    1895    1793    1744    937     532     383     
+4087   2017 1087    546     1532    301     1069    1826    1108    25      515     881     794     1524    1846    1867    1765    1378    1273    669     464     
+4087   2018 1147    575     1725    346     1143    1957    1083    552     -12     448     1293    1694    1789    2108    1968    1478    1137    634     587     
+4087   2019 -999999 653     1581    451     993     1945    -999999 233     542     777     1056    1147    1986    1926    1924    1438    1210    -999999 -999999 

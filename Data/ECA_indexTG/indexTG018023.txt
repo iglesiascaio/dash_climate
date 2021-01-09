@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   HOVRINGEN II                             (STAID:  18023)
+LATITUDE: dd:mm:ss +61:53:17
+LONGITUDE: ddd:mm:ss +009:28:46
+ELEVATION: m  940
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18023  2013 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 191     -311    -384    
+18023  2014 192     -362    753     -615    110     1075    257     -1004   -440    -215    51      492     822     1443    951     739     268     -236    -609    
+18023  2015 151     -310    577     -540    -63     892     224     -611    -385    -293    -79     183     647     951     1069    672     204     -203    -386    
+18023  2016 123     -393    703     -692    11      985     110     -998    -690    -299    -168    493     988     1052    915     924     -24     -564    -177    
+18023  2017 98      -366    594     -386    -58     888     76      -433    -564    -460    -190    473     813     989     861     601     97      -471    -589    
+18023  2018 146     -587    833     -757    11      1152    143     -721    -983    -893    -35     959     997     1513    940     592     98      -260    -543    
+18023  2019 -999999 -383    696     -562    -13     1080    -999999 -736    -390    -465    127     303     976     1165    1095    493     -86     -999999 -999999 

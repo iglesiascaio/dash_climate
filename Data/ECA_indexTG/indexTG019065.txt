@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   OEVRE TESSA                              (STAID:  19065)
+LATITUDE: dd:mm:ss +61:49:17
+LONGITUDE: ddd:mm:ss +008:57:33
+ELEVATION: m  746
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+19065  1970 10      -999999 731     -999999 -114    1171    -12     -1250   -1340   -693    -303    648     1381    994     1144    505     121     -667    -519    
+19065  1971 130     -494    704     -582    -36     1012    55      -709    -510    -690    -55     635     859     1115    1055    591     110     -538    -360    
+19065  1972 72      -623    742     -973    80      1124    63      -1423   -1148   -411    1       649     956     1415    995     409     163     -387    -414    
+19065  1973 139     -301    693     -532    119     1101    -65     -461    -740    -10     -189    545     1037    1321    943     473     -73     -596    -664    
+19065  1974 133     -487    736     -565    97      980     -16     -439    -594    -571    229     638     974     956     1008    599     -47     -599    -606    
+19065  1975 199     -477    741     -550    -89     1163    163     -508    -533    -577    -222    529     877     1316    1286    632     139     -280    -331    
+19065  1976 7       -528    727     -728    -76     1125    -44     -1017   -843    -850    -93     714     966     1218    1185    337     -24     -445    -1090   
+19065  1977 22      -760    649     -1253   -26     1055    113     -1357   -1317   -369    -270    555     974     1152    1037    417     281     -366    -575    
+19065  1978 -17     -548    699     -891    -35     1100    93      -850    -1285   -557    -163    612     1112    1124    1064    419     229     -373    -1619   
+19065  1979 -89     -830    662     -1455   -69     1051    -82     -1686   -1019   -517    -34     345     1166    1062    930     492     -52     -688    -1114   
+19065  1980 7       -826    835     -1166   20      1180    -161    -1170   -1217   -737    107     693     1188    1286    1065    652     -210    -922    -695    
+19065  1981 -999999 -731    729     -854    -18     997     -999999 -841    -1044   -709    -75     727     836     1151    1000    709     -999999 -999999 -999999 

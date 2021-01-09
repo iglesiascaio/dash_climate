@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   FV319 SAGBUKTA                           (STAID:  18550)
+LATITUDE: dd:mm:ss +59:39:45
+LONGITUDE: ddd:mm:ss +010:22:49
+ELEVATION: m    7
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18550  2013 581     -999999 1233    -999999 365     1587    666     -636    -533    -377    341     1129    1436    1756    1564    1149    691     157     209     
+18550  2014 788     231     1349    48      724     1682    828     -205    150     377     677     1115    1507    1990    1544    1238    871     374     -224    
+18550  2015 768     206     1291    -93     645     1580    775     -4      -48     248     704     985     1427    1655    1653    1311    718     299     217     
+18550  2016 799     178     1442    -94     761     1706    817     -507    15      318     680     1283    1708    1779    1631    1562    726     164     209     
+18550  2017 714     224     1277    34      666     1579    698     -38     -79     328     561     1106    1509    1686    1539    1244    727     121     -195    
+18550  2018 746     -37     1451    -263    542     1831    812     -211    -395    -297    498     1422    1773    2098    1620    1268    792     377     -76     
+18550  2019 -999999 170     1298    -125    640     1635    -999999 -295    10      202     711     1011    1491    1747    1664    1146    564     -999999 -999999 

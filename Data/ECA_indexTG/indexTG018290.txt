@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   STRAUMSNES                               (STAID:  18290)
+LATITUDE: dd:mm:ss +68:25:54
+LONGITUDE: ddd:mm:ss +017:39:42
+ELEVATION: m  200
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18290  2011 455     -999999 974     -999999 258     1278    666     -462    -699    -193    316     652     1276    1289    1270    1034    562     407     -68     
+18290  2012 231     -26     706     -362    115     1042    309     -507    -522    -48     -54     442     922     1120    1081    704     177     50      -618    
+18290  2013 407     -265    984     -423    188     1254    424     -320    -322    -550    109     1003    1260    1268    1233    1012    304     -41     -122    
+18290  2014 406     -111    919     -287    197     1349    391     -669    -45     -83     139     534     999     1776    1260    779     403     -10     -248    
+18290  2015 426     -84     862     -331    277     1139    521     -504    -233    77      190     560     794     1237    1375    994     434     138     -6      
+18290  2016 394     -76     899     -325    329     1113    426     -668    -298    -60     241     802     898     1354    1080    1002    353     -74     72      
+18290  2017 340     -59     787     -153    31      1162    428     -199    -351    -183    -65     337     1084    1276    1123    957     393     -65     -277    
+18290  2018 350     -304    916     -527    157     1190    505     -579    -746    -584    184     870     759     1579    1217    857     335     329     -109    
+18290  2019 -999999 -129    890     -358    143     1260    -999999 -559    -412    -374    234     573     1040    1387    1345    738     78      -999999 -999999 

@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  WATZMANNHAUS                             (STAID:   4738)
+LATITUDE: dd:mm:ss +47:34:19
+LONGITUDE: ddd:mm:ss +012:56:07
+ELEVATION: m 1923
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4738   1948 311     -999999 644     -999999 251     763     482     -148    -514    25      103     621     604     722     957     844     498     105     -129    
+4738   1949 279     -120    710     -267    94      811     489     -299    -386    -526    359     456     561     922     941     1016    633     -185    -186    
+4738   1950 269     -98     747     -292    130     1086    279     -475    -208    -181    -114    676     998     1183    1075    638     318     -121    -592    
+4738   1951 281     -248    672     -432    -11     926     466     -285    -418    -404    -40     411     746     970     1056    872     431     98      -118    
+4738   1952 117     -232    676     -546    94      1032    5       -691    -849    -290    258     318     789     1193    1106    374     112     -474    -487    
+4738   1953 -999999 -411    689     -653    137     886     -999999 -812    -660    -173    157     427     744     988     921     888     -999999 -999999 -999999 

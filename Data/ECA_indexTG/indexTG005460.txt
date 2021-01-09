@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   NYCKLEBY                                 (STAID:   5460)
+LATITUDE: dd:mm:ss +59:18:00
+LONGITUDE: ddd:mm:ss +017:43:11
+ELEVATION: m   25
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5460   1961 706     -999999 1220    -999999 594     1537    888     -276    40      329     511     941     1625    1554    1434    1245    1082    329     -376    
+5460   1962 498     5       1062    -281    224     1367    665     -202    -264    -553    427     805     1345    1422    1334    1029    792     170     -368    
+5460   1963 525     -250    1258    -684    366     1577    750     -853    -847    -439    344     1192    1493    1667    1569    1260    727     263     -166    
+5460   1964 608     -5      1216    -265    471     1504    687     -181    -461    -231    494     1150    1440    1606    1463    1123    703     235     -92     
+5460   1965 513     13      1129    -240    342     1438    612     -195    -455    -155    384     798     1471    1432    1414    1268    773     -210    -430    
+5460   1966 509     -298    1195    -766    341     1647    650     -769    -1133   -96     113     999     1719    1736    1487    1097    615     241     -22     
+5460   1967 656     75      1236    -244    555     1601    845     -565    -135    303     458     903     1447    1743    1608    1236    880     418     -474    
+5460   1968 581     -51     1280    -572    520     1660    603     -783    -451    92      659     814     1708    1584    1689    1215    553     44      -175    
+5460   1969 566     -163    1293    -360    266     1740    695     -299    -632    -506    389     918     1655    1812    1750    1211    760     112     -454    
+5460   1970 493     -268    1208    -800    365     1628    625     -836    -1145   -117    210     998     1720    1560    1606    1132    679     62      -72     
+5460   1971 641     33      1205    -108    402     1573    619     -108    -147    -231    312     1122    1434    1699    1581    1054    707     95      113     
+5460   1972 695     68      1246    -143    437     1700    696     -437    -101    19      340     948     1598    1931    1567    1067    680     340     355     
+5460   1973 687     295     1279    135     587     1733    480     92      -63     329     381     1045    1655    1930    1610    1029    463     -52     -238    
+5460   1974 -999999 67      -999999 -33     -999999 -999999 -999999 60      93      76      -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

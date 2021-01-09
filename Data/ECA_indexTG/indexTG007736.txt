@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  KUIVANIEMI HALTTULA                      (STAID:   7736)
+LATITUDE: dd:mm:ss +65:31:00
+LONGITUDE: ddd:mm:ss +025:16:00
+ELEVATION: m    5
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7736   1966 -43     -999999 825     -999999 -329    1390    239     -1802   -2054   -1112   -276    403     1338    1542    1289    630     106     -13     -763    
+7736   1967 161     -564    942     -1098   76      1382    502     -1735   -775    -248    -14     489     1107    1438    1593    1017    352     143     -1618   
+7736   1968 -37     -831    764     -1630   -164    1263    -47     -1850   -1407   -637    -119    267     1215    1335    1237    632     -319    -445    -401    
+7736   1969 35      -843    849     -1053   -321    1386    244     -1306   -1471   -1151   -185    377     1156    1495    1500    726     337     -333    -826    
+7736   1970 106     -664    920     -1201   -36     1465    105     -1178   -1641   -424    -193    503     1291    1645    1454    795     208     -691    -643    
+7736   1971 19      -701    797     -881    -327    1311    4       -843    -1188   -1100   -234    356     1137    1429    1361    707     90      -789    -797    
+7736   1972 265     -672    1015    -918    -23     1578    171     -945    -1018   -597    32      498     1411    1850    1468    805     204     -496    -102    
+7736   1973 119     -379    929     -489    12      1483    -115    -562    -823    -534    17      553     1322    1895    1226    532     -193    -681    -1390   
+7736   1974 304     -665    936     -890    -56     1398    335     -706    -526    -478    -113    421     1292    1532    1367    1098    253     -342    -234    
+7736   1975 221     -335    866     -548    90      1201    329     -735    -688    -300    -67     632     1001    1398    1197    1016    228     -252    -844    
+7736   1976 10      -708    807     -1124   -105    1236    2       -1575   -942    -864    -93     641     1066    1337    1298    563     -132    -421    -790    
+7736   1977 63      -690    766     -999    -127    1228    149     -987    -1245   -612    -138    367     1069    1414    1195    666     90      -306    -850    
+7736   1978 -999999 -698    -999999 -1153   -999999 -999999 -999999 -1057   -1594   -545    -198    -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

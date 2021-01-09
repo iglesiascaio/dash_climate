@@ -1,0 +1,33 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   YTRE RENDAL II                           (STAID:  19086)
+LATITUDE: dd:mm:ss +61:41:08
+LONGITUDE: ddd:mm:ss +011:11:44
+ELEVATION: m  253
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+19086  1946 315     -999999 1021    -999999 273     1338    325     -885    -901    -379    374     826     1172    1554    1282    901     133     -53     -327    
+19086  1947 230     -547    1125    -832    55      1539    288     -535    -1721   -880    139     910     1364    1575    1674    1065    285     -487    -779    
+19086  1948 278     -570    998     -1013   320     1317    239     -1377   -875    -206    355     812     1187    1545    1214    853     83      -212    -98     

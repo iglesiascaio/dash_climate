@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   KORSSELBRANNA                            (STAID:   5726)
+LATITUDE: dd:mm:ss +64:27:35
+LONGITUDE: ddd:mm:ss +015:32:24
+ELEVATION: m  178
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5726   1961 267     -999999 888     -999999 172     1273    449     -1040   -425    -129    -12     650     1275    1384    1161    855     599     -113    -1041   
+5726   1962 72      -561    739     -948    -121    1041    193     -968    -823    -1030   126     549     908     1191    1019    624     425     -478    -741    
+5726   1963 128     -626    914     -1003   76      1230    161     -1008   -1289   -725    73      880     1167    1250    1269    823     339     -685    -663    
+5726   1964 185     -431    748     -627    140     1024    212     -371    -863    -378    115     682     922     1127    1020    602     368     -340    -714    
+5726   1965 67      -465    812     -783    26      1127    151     -1062   -550    -495    138     437     1141    1184    1056    907     356     -815    -1521   
+5726   1966 -54     -1031   772     -1691   -164    1287    50      -1704   -1865   -709    -280    495     1472    1295    1100    533     122     -509    -725    
+5726   1967 109     -568    816     -942    77      1173    335     -1541   -520    -229    -49     505     1009    1245    1258    909     182     -82     -1402   
+5726   1968 30      -660    780     -1238   29      1175    -153    -1283   -1015   -365    89      365     1187    1248    1090    688     -253    -891    -537    
+5726   1969 66      -790    913     -993    -19     1423    27      -1045   -1439   -642    68      520     1385    1294    1588    604     215     -744    -1125   
+5726   1970 87      -803    849     -1308   44      1302    51      -1329   -1485   -413    -147    687     1470    1269    1173    624     168     -643    -454    
+5726   1971 110     -542    766     -627    -137    1153    20      -679    -760    -909    -96     594     1073    1262    1121    619     124     -684    -408    
+5726   1972 191     -560    869     -817    80      1331    135     -1301   -738    -370    14      594     1339    1525    1131    592     230     -420    -341    
+5726   1973 137     -267    776     -448    102     1277    -133    -243    -795    -91     -143    531     1155    1653    1018    411     -159    -650    -1132   
+5726   1974 211     -576    885     -751    155     1192    117     -524    -579    -415    177     704     1244    1205    1128    843     100     -589    -812    
+5726   1975 237     -441    786     -631    93      1139    251     -770    -276    -288    -33     595     953     1275    1183    718     214     -179    -579    

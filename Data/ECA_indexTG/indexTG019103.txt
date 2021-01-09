@@ -1,0 +1,35 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   MERAKER - LILLESVE                       (STAID:  19103)
+LATITUDE: dd:mm:ss +63:26:17
+LONGITUDE: ddd:mm:ss +011:41:29
+ELEVATION: m  115
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+19103  1969 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -394    -568    
+19103  1970 320     -999999 994     -910    262     1370    362     -1052   -1132   -215    99      895     1479    1305    1328    839     504     -263    -65     
+19103  1971 452     -92     958     -156    280     1243    355     -228    -176    -340    240     940     1123    1351    1252    822     415     -175    146     
+19103  1972 468     -95     1018    -300    413     1399    365     -772    -271    70      297     868     1426    1538    1235    722     340     35      105     
+19103  1973 -999999 -999999 -999999 -29     -999999 1311    -999999 166     -394    -999999 164     755     1241    1511    1179    -999999 -999999 -999999 -999999 

@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  LEINAU                                   (STAID:   4342)
+LATITUDE: dd:mm:ss +47:54:45
+LONGITUDE: ddd:mm:ss +010:36:48
+ELEVATION: m  663
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4342   1955 645     -999999 1182    -999999 481     1466    651     -220    -153    -66     552     960     1390    1565    1440    1169    660     125     255     
+4342   1956 542     -4      1163    -316    557     1383    642     4       -1267   120     489     1059    1179    1567    1395    1268    616     44      -65     
+4342   1957 702     207     1149    -16     623     1495    700     -253    299     605     541     720     1495    1593    1397    1139    677     284     -89     
+4342   1958 684     72      1264    -95     474     1528    759     -270    93      -254    357     1315    1329    1626    1620    1311    709     257     73      
+4342   1959 711     183     1265    -126    752     1551    626     -251    -209    482     724     1049    1428    1721    1501    1152    663     62      137     
+4342   1960 698     171     1192    -10     679     1455    742     -226    64      317     586     1131    1475    1401    1490    1057    694     478     -100    
+4342   1961 774     264     1294    -13     756     1467    882     -219    311     433     952     888     1463    1445    1494    1526    881     238     -131    
+4342   1962 573     115     1170    -115    471     1451    625     -49     -170    -102    635     886     1248    1484    1614    1141    683     48      -586    
+4342   1963 579     -222    1256    -735    599     1511    888     -872    -749    101     702     998     1435    1640    1455    1294    731     643     -506    
+4342   1964 681     46      1319    -374    656     1571    736     -533    -61     14      757     1200    1545    1736    1432    1228    574     413     -145    
+4342   1965 613     67      1133    -233    509     1427    622     -13     -573    95      475     957     1454    1449    1379    1071    615     180     175     
+4342   1966 725     185     1240    53      672     1420    791     -459    484     144     826     1050    1513    1394    1358    1298    1041    25      25      
+4342   1967 723     234     1217    -23     636     1519    830     -128    41      373     476     1054    1295    1747    1508    1198    1021    266     -226    
+4342   1968 666     186     1195    -156    658     1443    767     -246    14      277     706     993     1430    1482    1418    1130    906     260     -388    
+4342   1969 635     92      1229    -259    639     1431    809     -115    -275    136     570     1208    1217    1637    1433    1290    797     340     -673    
+4342   1970 -999999 28      -999999 -325    438     -999999 -999999 -180    -101    -17     426     905     -999999 -999999 -999999 -999999 -999999 -999999 -999999 

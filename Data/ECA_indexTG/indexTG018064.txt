@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   RENA - ORNHAUGEN                         (STAID:  18064)
+LATITUDE: dd:mm:ss +61:22:35
+LONGITUDE: ddd:mm:ss +011:29:57
+ELEVATION: m  872
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18064  2014 -999999 -999999 804     -999999 134     1141    284     -999999 -999999 -205    110     495     916     1521    977     788     283     -217    -573    
+18064  2015 195     -297    639     -539    -3      961     263     -616    -416    -248    31      203     746     1023    1108    708     243     -162    -333    
+18064  2016 174     -355    772     -659    91      1046    174     -1005   -637    -252    -72     591     1053    1134    950     961     44      -478    -230    
+18064  2017 126     -344    623     -416    -21     935     99      -501    -528    -391    -166    488     861     1030    912     597     117     -418    -540    
+18064  2018 224     -547    927     -731    114     1256    222     -710    -966    -804    49      1095    1085    1667    1011    621     140     -91     -497    
+18064  2019 -999999 -338    752     -544    39      1127    -999999 -732    -389    -458    226     355     1035    1205    1139    539     -52     -999999 -999999 

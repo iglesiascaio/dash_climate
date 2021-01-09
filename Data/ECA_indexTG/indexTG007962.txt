@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GREENLAND [DENMARK]                      DUNDAS                                   (STAID:   7962)
+LATITUDE: dd:mm:ss +76:34:00
+LONGITUDE: ddd:mm:ss -068:48:00
+ELEVATION: m   21
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7962   1961 -1227   -999999 -279    -999999 -1772   359     -1017   -2692   -2920   -2823   -1676   -813    90      466     504     -267    -898    -1890   -999999 
+7962   1962 -893    -999999 -180    -999999 -1288   406     -741    -999999 -2550   -1821   -1569   -482    182     592     442     -254    -763    -1205   -1902   
+7962   1963 -918    -1583   -204    -1742   -1484   321     -838    -1710   -1611   -2320   -1540   -595    116     353     486     -65     -914    -1506   -1730   
+7962   1964 -1200   -1828   -380    -1969   -1799   201     -1230   -2173   -2028   -2656   -1939   -806    191     228     183     -161    -1538   -1981   -1835   
+7962   1965 -980    -1948   -221    -1943   -1399   221     -691    -2206   -1770   -2344   -1817   -51     62      239     356     -154    -910    -1001   -2209   
+7962   1966 -1121   -1881   -310    -2302   -1686   276     -754    -2726   -1936   -2485   -1922   -658    102     268     447     -116    -749    -1397   -2279   
+7962   1967 -999999 -1798   -999999 -2237   -1263   -999999 -999999 -2013   -2438   -1959   -1595   -256    12      -999999 -999999 -999999 -999999 -999999 -999999 

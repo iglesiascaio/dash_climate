@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  BAD HARZBURG                             (STAID:   4193)
+LATITUDE: dd:mm:ss +51:54:05
+LONGITUDE: ddd:mm:ss +010:34:17
+ELEVATION: m  201
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4193   2006 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 889     613     
+4193   2007 1033    -999999 1507    543     1051    1736    909     552     454     675     1074    1405    1729    1774    1705    1344    884     500     263     
+4193   2008 1008    521     1472    419     884     1783    975     521     476     478     779     1391    1707    1837    1802    1297    1037    588     155     
+4193   2009 981     396     1557    75      1012    1756    1087    -48     124     501     1180    1360    1450    1872    1937    1530    824     917     76      
+4193   2010 798     297     1442    -149    782     1816    883     -461    -53     466     882     1001    1617    2102    1723    1309    884     456     -394    
+4193   2011 1021    298     1561    -27     1036    1714    1039    208     119     503     1185    1424    1687    1638    1815    1612    1032    472     501     
+4193   2012 973     486     1490    202     1028    1717    1017    258     -178    787     865     1426    1516    1737    1893    1481    996     574     268     
+4193   2013 900     279     1455    75      629     1782    1004    11      -68     -128    831     1190    1567    1909    1864    1348    1147    512     545     
+4193   2014 1072    629     1497    455     1021    1705    1170    242     592     730     1110    1225    1542    1931    1636    1527    1276    705     316     
+4193   2015 1036    555     1475    261     879     1812    1000    300     156     546     857     1233    1533    1882    2011    1313    822     872     836     
+4193   2016 1015    575     1591    441     881     1841    1041    134     348     436     812     1393    1742    1937    1840    1808    872     450     385     
+4193   2017 1021    452     1486    194     991     1784    1088    -105    314     780     752     1434    1762    1805    1784    1359    1266    632     412     
+4193   2018 1096    470     1726    230     1010    1969    1122    420     -182    215     1259    1565    1759    2073    2067    1616    1176    572     517     
+4193   2019 -999999 625     1555    415     910     1947    -999999 132     616     731     879     1121    1969    1862    2010    1478    1173    -999999 -999999 

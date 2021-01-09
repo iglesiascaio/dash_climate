@@ -1,0 +1,48 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   NAMSOS LUFTHAVN                          (STAID:   5078)
+LATITUDE: dd:mm:ss +64:28:14
+LONGITUDE: ddd:mm:ss +011:34:14
+ELEVATION: m    2
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5078   2002 -999999 -999999 -999999 -999999 -999999 -999999 295     -999999 -999999 -999999 -999999 -999999 -999999 -999999 1740    958     191     -259    -324    
+5078   2003 523     -157    1075    -364    458     1430    456     -586    -162    196     373     801     1232    1704    1349    968     315     91      -57     
+5078   2004 524     -32     1039    -243    507     1275    491     -450    -220    124     596     805     1039    1341    1437    1000    533     -60     108     
+5078   2005 530     42      994     -17     288     1304    649     65      -247    -181    431     620     1080    1536    1289    993     661     293     -231    
+5078   2006 613     -11     1149    -173    253     1465    682     -79     -212    -507    368     901     1169    1495    1723    1217    561     271     390     
+5078   2007 565     149     1069    -79     517     1424    504     -179    -489    280     448     821     1335    1600    1334    857     601     51      32      
+5078   2008 596     107     1094    18      411     1409    579     -33     58      -69     478     828     1285    1582    1357    1021    593     121     -92     
+5078   2009 547     27      1135    -214    521     1417    550     -129    -444    70      551     942     1177    1545    1522    1052    333     272     -392    
+5078   2010 304     -249    999     -633    292     1317    353     -758    -762    -217    386     710     1001    1511    1429    935     571     -455    -781    
+5078   2011 652     -168    1160    -404    517     1430    774     -86     -339    58      569     925     1374    1488    1426    1168    689     468     21      
+5078   2012 468     179     938     -119    423     1241    498     -236    -144    267     278     720     1090    1332    1296    897     374     229     -499    
+5078   2013 554     -153    1110    -395    357     1384    614     -402    -273    -348    273     1144    1316    1414    1420    1069    559     216     200     
+5078   2014 676     194     1194    52      530     1567    648     -298    274     223     479     887     1236    1933    1521    1082    701     161     -119    
+5078   2015 653     187     1041    -21     501     1286    708     -53     121     304     424     773     948     1281    1618    1185    664     275     250     
+5078   2016 559     114     1092    -159    514     1332    575     -543    -186    211     380     945     1179    1479    1333    1221    475     32      152     
+5078   2017 570     123     1045    56      363     1339    620     86      -84     56      287     745     1247    1417    1349    1215    616     29      -165    
+5078   2018 549     -92     1138    -262    382     1380    659     -203    -436    -423    390     1178    1076    1724    1330    1104    552     326     -107    
+5078   2019 -999999 80      1120    -118    451     1437    -999999 -232    -4      -53     647     765     1307    1511    1489    985     363     -999999 -999999 

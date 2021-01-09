@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    SANT PAU DE SEGURIES                     (STAID:  11072)
+LATITUDE: dd:mm:ss +42:15:29
+LONGITUDE: ddd:mm:ss +002:21:51
+ELEVATION: m  852
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11072  2008 976     -999999 1443    -999999 854     1743    968     374     452     541     850     1170    1541    1828    1853    1395    1064    442     177     
+11072  2009 1045    462     1543    211     950     1847    1093    151     314     612     780     1454    1681    1896    1959    1467    1121    689     342     
+11072  2010 947     508     1458    242     815     1771    986     164     222     482     893     1072    1501    1984    1820    1464    1042    449     223     
+11072  2011 1062    486     1542    266     1016    1722    1199    187     402     601     1102    1347    1594    1679    1888    1634    1159    805     310     
+11072  2012 971     510     1487    167     844     1845    1056    165     16      585     707     1235    1734    1812    1986    1427    1080    659     206     
+11072  2013 898     468     1340    165     746     1648    1033    170     114     550     801     888     1438    1771    1728    1401    1194    499     165     
+11072  2014 1029    509     1462    256     903     1682    1205    297     312     568     1022    1124    1590    1717    1736    1578    1281    752     323     
+11072  2015 1063    589     1566    264     1023    1877    1042    252     211     685     974     1407    1695    2095    1836    1367    1065    692     414     
+11072  2016 1036    592     1496    419     850     1787    1112    384     461     532     879     1140    1565    1921    1867    1589    1147    597     322     
+11072  2017 1053    587     1569    325     1007    1939    1002    123     550     781     896     1342    1857    1954    2004    1343    1213    443     91      
+11072  2018 1040    463     1540    189     903     1810    1148    377     91      529     1008    1175    1643    1928    1855    1624    1143    645     366     
+11072  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

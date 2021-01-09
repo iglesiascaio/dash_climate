@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    CERVERA                                  (STAID:  11027)
+LATITUDE: dd:mm:ss +41:40:32
+LONGITUDE: ddd:mm:ss +001:17:45
+ELEVATION: m  554
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11027  2008 1289    -999999 1820    -999999 1181    2171    1241    594     783     877     1195    1472    1918    2309    2296    1774    1344    600     352     
+11027  2009 1331    679     1909    413     1219    2273    1389    349     553     863     1020    1769    2134    2312    2368    1834    1427    949     423     
+11027  2010 1167    690     1751    362     1021    2113    1188    272     395     655     1110    1302    1774    2368    2186    1748    1202    614     324     
+11027  2011 1337    636     1905    393     1270    2119    1492    301     573     795     1354    1664    1909    2098    2343    2048    1483    945     493     
+11027  2012 1357    768     1950    388     1252    2345    1412    406     258     999     1065    1685    2256    2239    2537    1896    1465    872     554     
+11027  2013 1272    778     1781    484     1059    2147    1445    435     460     852     1118    1210    1805    2393    2231    1915    1623    791     367     
+11027  2014 1374    823     1869    532     1232    2133    1572    616     621     899     1346    1456    2050    2157    2191    2009    1645    1058    398     
+11027  2015 1373    806     1957    382     1323    2334    1328    359     390     955     1249    1761    2149    2568    2278    1711    1402    867     704     
+11027  2016 1335    840     1875    671     1093    2237    1438    649     660     749     1097    1435    2001    2390    2314    1997    1467    849     392     
+11027  2017 1362    790     1947    463     1299    2350    1335    271     754     1003    1186    1704    2282    2392    2374    1725    1545    727     336     
+11027  2018 1350    733     1923    446     1148    2259    1450    638     356     762     1224    1462    1979    2428    2362    2065    1389    898     561     
+11027  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

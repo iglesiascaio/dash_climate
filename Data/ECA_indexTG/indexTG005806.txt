@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   LAISVALLSBY                              (STAID:   5806)
+LATITUDE: dd:mm:ss +66:05:59
+LONGITUDE: ddd:mm:ss +017:10:12
+ELEVATION: m  460
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5806   1973 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -237    -1043   -1596   
+5806   1974 22      -866    786     -1068   -53     1125    -26     -710    -880    -736    72      508     1125    1181    1069    749     -48     -778    -1341   
+5806   1975 30      -712    594     -1011   -126    949     151     -1144   -499    -446    -352    412     743     1095    1002    640     195     -385    -937    
+5806   1976 -193    -825    645     -1284   -181    1060    -228    -2044   -842    -925    -203    585     910     1155    1111    279     -173    -794    -1381   
+5806   1977 -166    -1036   544     -1605   -251    1010    -61     -1581   -1880   -480    -517    235     812     1173    1037    497     86      -770    -750    
+5806   1978 -263    -945    627     -1382   -309    1104    -32     -1599   -1842   -874    -383    328     1073    1271    967     485     -8      -574    -2094   
+5806   1979 -179    -1149   694     -1908   -155    1150    -133    -2060   -1536   -640    -211    384     1064    1301    1083    520     -184    -735    -1224   
+5806   1980 -219    -1123   841     -1593   -206    1287    -217    -1825   -1738   -1056   28      419     1292    1438    1131    722     -171    -1205   -1709   
+5806   1981 -264    -1218   693     -1527   -293    1013    -149    -1369   -1501   -1378   -135    640     776     1253    1003    597     -45     -1003   -2089   
+5806   1982 -999999 -1003   -999999 -1515   -57     -999999 -999999 -1710   -663    -476    -85     389     725     -999999 -999999 -999999 -999999 -999999 -999999 

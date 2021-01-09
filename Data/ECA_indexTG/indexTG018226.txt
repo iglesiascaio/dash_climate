@@ -1,0 +1,34 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   GULLFJELLET                              (STAID:  18226)
+LATITUDE: dd:mm:ss +60:22:58
+LONGITUDE: ddd:mm:ss +005:32:30
+ELEVATION: m  345
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18226  2016 -999999 -999999 -999999 -999999 -999999 -999999 698     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1338    639     118     413     
+18226  2017 625     268     1016    208     517     1197    684     101     100     213     339     995     1125    1250    1215    1162    715     173     76      
+18226  2018 593     75      1078    -51     444     1290    660     3       -253    -291    400     1223    1183    1502    1181    959     594     430     129     
+18226  2019 -999999 251     1029    111     490     1317    -999999 -31     248     140     702     634     1173    1374    1400    883     516     -999999 -999999 

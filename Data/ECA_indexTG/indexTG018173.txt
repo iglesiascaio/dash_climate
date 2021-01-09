@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   TAMOKDALEN                               (STAID:  18173)
+LATITUDE: dd:mm:ss +69:05:36
+LONGITUDE: ddd:mm:ss +019:37:40
+ELEVATION: m  230
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18173  2014 -999999 -999999 -999999 -999999 -999999 -999999 64      -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 580     65      -453    -687    
+18173  2015 214     -449    767     -731    144     1055    264     -930    -561    -136    87      479     733     1161    1261    859     187     -252    -381    
+18173  2016 167     -440    822     -763    183     1062    142     -1204   -701    -303    100     750     856     1330    994     883     7       -459    -280    
+18173  2017 76      -421    653     -540    -144    1047    92      -550    -816    -467    -217    250     940     1171    1025    729     57      -509    -769    
+18173  2018 123     -715    838     -996    -12     1157    259     -1037   -1204   -867    60      774     717     1601    1138    707     32      45      -588    
+18173  2019 -999999 -488    793     -793    -7      1164    -999999 -1007   -783    -637    145     476     948     1302    1235    633     -245    -999999 -999999 

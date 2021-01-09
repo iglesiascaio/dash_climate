@@ -1,0 +1,35 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  ENNIGERLOH-OSTENFELDE                    (STAID:  11745)
+LATITUDE: dd:mm:ss +51:50:30
+LONGITUDE: ddd:mm:ss +008:03:38
+ELEVATION: m   10
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11745  2015 -999999 -999999 -999999 -999999 -999999 -999999 1058    -999999 -999999 -999999 -999999 -999999 -999999 -999999 1945    1336    931     913     876     
+11745  2016 1047    655     1591    536     929     1807    1075    332     391     480     847     1457    1705    1891    1820    1810    932     486     396     
+11745  2017 1057    522     1510    278     1059    1787    1082    -5      459     859     809     1503    1788    1815    1758    1371    1239    630     415     
+11745  2018 1147    528     1746    299     1127    1965    1140    494     -45     383     1323    1680    1769    2105    2013    1567    1204    648     528     
+11745  2019 -999999 658     1595    437     991     1962    -999999 199     600     764     1059    1151    2000    1915    1970    1464    1185    -999999 -999999 

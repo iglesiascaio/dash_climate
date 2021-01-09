@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  SCHAUMBERG-THOLEY                        (STAID:   4600)
+LATITUDE: dd:mm:ss +49:29:15
+LONGITUDE: ddd:mm:ss +007:01:46
+ELEVATION: m  569
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4600   1951 786     -999999 1257    -999999 607     1502    879     113     126     163     580     1078    1352    1624    1526    1371    754     516     183     
+4600   1952 727     252     1354    -44     878     1654    522     -160    -164    366     1053    1222    1499    1800    1658    872     622     68      -151    
+4600   1953 832     148     1328    -169    940     1504    899     -240    -110    674     856     1288    1388    1518    1603    1298    988     408     242     
+4600   1954 688     242     1158    -148    714     1366    821     -431    -266    466     555     1116    1421    1283    1395    1168    892     400     194     
+4600   1955 699     182     1264    -76     572     1524    770     -192    -246    12      764     947     1360    1625    1581    1293    694     324     169     
+4600   1956 610     89      1159    -285    703     1288    728     -82     -987    355     521     1228    1113    1492    1255    1330    708     146     154     
+4600   1957 788     325     1225    132     775     1526    760     -75     338     677     765     884     1596    1623    1363    1111    857     309     -18     
+4600   1958 730     196     1244    19      535     1469    818     -87     177     -58     443     1218    1322    1540    1540    1381    789     286     176     
+4600   1959 903     342     1448    107     903     1694    900     -77     234     631     871     1205    1523    1920    1634    1520    927     251     146     
+4600   1960 760     305     1231    57      823     1415    809     -68     94      466     732     1269    1520    1309    1419    1128    805     495     -71     
+4600   1961 832     365     1304    77      850     1423    954     -98     433     633     968     952     1422    1361    1486    1642    955     264     -45     
+4600   1962 644     182     1182    -27     496     1457    725     50      -91     -66     707     853     1401    1413    1556    1152    887     129     -309    
+4600   1963 639     -40     1279    -538    741     1486    879     -747    -559    316     846     1066    1383    1689    1384    1296    724     620     -419    
+4600   1964 762     126     1406    -215    732     1653    751     -292    86      48      786     1363    1573    1828    1555    1316    577     365     -75     
+4600   1965 667     144     1144    -124    631     1376    687     -24     -289    275     580     1038    1401    1304    1424    1108    845     102     160     

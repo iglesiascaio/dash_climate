@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   HARADS                                   (STAID:   5805)
+LATITUDE: dd:mm:ss +66:04:48
+LONGITUDE: ddd:mm:ss +020:58:12
+ELEVATION: m   55
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5805   1965 -19     -999999 898     -999999 -110    1308    94      -1451   -1041   -814    59      430     1322    1372    1229    964     265     -952    -1664   
+5805   1966 -100    -1297   903     -1995   -230    1475    -1      -2089   -2257   -1165   -199    675     1591    1599    1239    487     -26     -462    -744    
+5805   1967 84      -715    1000    -1243   250     1393    314     -2031   -921    -119    162     704     1253    1505    1417    939     125     -115    -1948   
+5805   1968 -79     -1037   893     -1921   47      1355    -258    -2063   -1739   -499    180     465     1400    1449    1217    635     -366    -1039   -651    
+5805   1969 -31     -1035   1001    -1348   -66     1559    19      -1575   -1869   -793    25      573     1475    1579    1620    708     305     -966    -1593   
+5805   1970 -999999 -1043   -999999 -1737   -999999 -999999 -999999 -1580   -2071   -449    -181    -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

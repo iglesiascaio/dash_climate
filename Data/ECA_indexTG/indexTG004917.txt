@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  WALDMUNCHEN                              (STAID:   4917)
+LATITUDE: dd:mm:ss +49:23:31
+LONGITUDE: ddd:mm:ss +012:41:07
+ELEVATION: m  499
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4917   2006 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+4917   2007 858     -999999 1413    -999999 968     1650    615     297     304     475     1063    1367    1699    1641    1610    1082    677     83      -45     
+4917   2008 822     224     1363    97      785     1661    724     130     215     276     718     1360    1650    1709    1622    1098    739     333     -5      
+4917   2009 788     115     1449    -220    885     1628    868     -489    -162    254     1125    1285    1437    1681    1758    1394    692     523     -90     
+4917   2010 665     116     1312    -245    655     1678    693     -428    -213    192     735     1041    1574    1900    1555    1046    616     419     -500    
+4917   2011 824     105     1425    -267    901     1600    804     -119    -173    374     1033    1301    1588    1486    1726    1411    769     232     198     
+4917   2012 784     208     1395    -90     874     1670    753     15      -510    500     753     1365    1592    1688    1726    1226    673     362     -45     
+4917   2013 753     107     1358    -115    582     1711    783     -100    -209    -59     727     1082    1514    1915    1696    1193    827     326     56      
+4917   2014 910     347     1392    107     897     1625    965     92      181     586     954     1154    1584    1817    1471    1366    1027    500     143     
+4917   2015 890     336     1434    28      755     1837    830     80      -156    382     695     1185    1552    1946    2002    1198    742     552     415     
+4917   2016 828     360     1434    193     765     1684    827     -81     248     281     730     1282    1606    1786    1658    1526    732     226     -71     
+4917   2017 831     177     1407    -167    855     1785    784     -541    141     572     658     1328    1774    1786    1795    1079    945     322     58      
+4917   2018 940     233     1621    -2      969     1855    879     226     -320    116     1191    1606    1720    1884    1957    1349    936     349     168     
+4917   2019 -999999 316     1485    11      826     1888    -999999 -159    24      551     929     1000    1998    1883    1786    1306    945     -999999 -999999 

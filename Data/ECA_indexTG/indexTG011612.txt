@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    PONTI SUL MINCIO (MONZAMBANO)            (STAID:  11612)
+LATITUDE: dd:mm:ss +45:23:38
+LONGITUDE: ddd:mm:ss +010:42:23
+ELEVATION: m   62
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11612  2003 -999999 -999999 -999999 -999999 -999999 -999999 1315    -999999 -999999 -999999 -999999 -999999 -999999 2575    2741    1846    1192    911     440     
+11612  2004 -999999 651     1953    336     1219    2318    1432    234     336     781     1263    1614    2165    2367    2400    1923    1538    833     -999999 
+11612  2005 1261    -999999 1972    -999999 1277    2286    1339    88      243     779     1206    1842    2302    2412    2148    1952    1337    726     167     
+11612  2006 1348    570     2020    196     1278    2328    1461    101     333     737     1320    1777    2242    2618    2119    2026    1503    853     487     
+11612  2007 1380    822     2040    530     1493    2301    1248    501     611     958     1595    1929    2193    2437    2268    1782    1310    687     268     
+11612  2008 1381    691     1989    404     1322    2347    1376    483     469     904     1247    1812    2203    2415    2419    1816    1458    852     393     
+11612  2009 1403    715     2108    351     1427    2400    1454    196     477     893     1385    2001    2203    2440    2551    2045    1364    956     266     
+11612  2010 1310    669     1997    295     1278    2365    1307    176     458     781     1336    1720    2243    2565    2284    1813    1199    913     179     
+11612  2011 1387    643     2114    277     1459    2336    1385    218     449     890     1550    1939    2178    2317    2507    2185    1307    718     380     
+11612  2012 1379    638     2080    218     1389    2494    1459    127     141     1125    1256    1781    2362    2531    2585    1943    1458    978     219     
+11612  2013 1368    680     2015    297     1220    2380    1491    359     315     727     1316    1618    2200    2546    2388    2002    1526    948     390     
+11612  2014 1486    -999999 1989    589     1434    2247    1560    614     796     1061    1470    1774    2277    2257    2208    1938    1598    1142    597     
+11612  2015 1438    869     2139    501     1405    2541    1386    396     512     943     1364    1905    2337    2805    2478    1958    1395    823     401     
+11612  2016 1401    767     2072    472     1364    2368    -999999 307     722     951     1462    1700    2186    2555    2361    2127    1364    870     296     
+11612  2017 -999999 -999999 2103    306     1478    2512    1312    35      652     1132    1425    1876    2469    2516    2550    1777    1382    774     -999999 

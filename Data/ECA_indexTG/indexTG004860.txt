@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  MOORGRUND GRAFEN-NITZENDORF              (STAID:   4860)
+LATITUDE: dd:mm:ss +50:50:36
+LONGITUDE: ddd:mm:ss +010:15:10
+ELEVATION: m  283
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4860   2004 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 967     408     -22     
+4860   2005 875     296     1425    3       841     1639    971     173     -158    369     898     1258    1577    1785    1553    1472    1050    389     61      
+4860   2006 911     202     1492    -128    725     1746    1169    -310    -137    134     766     1276    1624    2104    1506    1665    1165    678     398     
+4860   2007 951     621     1450    434     1001    1680    771     468     434     565     1040    1400    1718    1707    1616    1205    778     331     111     
+4860   2008 916     385     1429    257     850     1743    832     362     300     419     708     1418    1687    1793    1746    1202    847     445     42      
+4860   2009 866     217     1480    -133    951     1661    973     -414    -14     384     1131    1343    1427    1754    1795    1415    784     728     14      
+4860   2010 755     236     1388    -175    753     1752    819     -447    -84     406     837     1018    1629    2001    1622    1204    765     489     -419    
+4860   2011 935     241     1495    -102    988     1657    910     74      56      469     1133    1366    1636    1583    1751    1493    879     358     361     
+4860   2012 879     357     1433    76      968     1681    855     165     -324    662     809     1428    1509    1704    1823    1304    786     478     147     
+4860   2013 844     206     1420    6       632     1746    913     -26     -115    -58     813     1147    1547    1900    1785    1309    1022    404     334     
+4860   2014 1003    508     1460    324     979     1669    1061    219     431     626     1079    1235    1559    1892    1552    1435    1145    598     232     
+4860   2015 980     445     1478    153     838     1844    932     190     24      447     812     1254    1575    1951    1998    1251    786     764     633     
+4860   2016 918     488     1501    338     810     1760    939     84      294     365     737     1327    1685    1845    1750    1647    838     335     92      
+4860   2017 940     317     1455    -4      948     1781    954     -365    289     713     712     1413    1749    1815    1776    1246    1116    495     273     
+4860   2018 1027    380     1679    148     1013    1928    972     381     -247    208     1271    1567    1795    2007    1977    1443    989     484     352     
+4860   2019 -999999 473     1501    232     885     1877    -999999 32      320     645     943     1068    1950    1829    1855    1354    1066    -999999 -999999 

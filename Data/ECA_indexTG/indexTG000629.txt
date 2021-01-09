@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION BELARUS                                  ORSA                                     (STAID:    629)
+LATITUDE: dd:mm:ss +54:30:00
+LONGITUDE: ddd:mm:ss +030:24:00
+ELEVATION: m  192
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+629    1995 641     -999999 1417    -999999 721     1763    566     -552    -24     184     725     1254    1862    1730    1706    1191    723     -228    -920    
+629    1996 497     -481    1360    -956    521     1661    708     -992    -954    -560    676     1523    1571    1641    1765    946     703     476     -716    
+629    1997 555     -64     1275    -525    490     1730    515     -585    -236    -27     371     1124    1650    1809    1722    975     457     116     -766    
+629    1998 563     -999999 1343    -999999 568     1667    374     -240    -279    -169    645     1231    1768    1735    1513    1170    551     -668    -627    
+629    1999 695     -290    1491    -542    638     1916    593     -386    -615    -27     996     954     2102    2026    1612    1241    707     -195    -155    
+629    2000 -999999 -66     -999999 -295    691     -999999 691     -533    -193    -33     1010    1095    -999999 -999999 1625    993     785     291     -54     
+629    2001 623     -17     1473    -328    632     1830    645     -329    -629    -217    963     1159    1532    2217    1743    1215    694     24      -975    
+629    2002 662     -54     1459    -450    783     1866    494     -405    61      288     727     1330    1660    2095    1836    1116    342     28      -1045   
+629    2003 589     -394    1359    -857    616     1679    592     -671    -854    -180    458     1509    1423    1977    1630    1091    498     190     -169    
+629    2004 600     -123    1325    -492    557     1670    639     -698    -617    35      596     1057    1428    1748    1818    1276    721     -81     -95     
+629    2005 -999999 -175    -999999 -381    484     -999999 -999999 -235    -859    -564    711     1320    1525    -999999 -999999 -999999 -999999 -999999 -999999 

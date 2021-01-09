@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   HJARTASEN                                (STAID:  18177)
+LATITUDE: dd:mm:ss +66:29:57
+LONGITUDE: ddd:mm:ss +014:57:14
+ELEVATION: m  251
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18177  2009 -999999 -999999 911     -999999 185     1279    278     -999999 -999999 -296    160     691     1047    1467    1315    762     10      73      -782    
+18177  2010 45      -573    807     -961    -11     1150    52      -941    -1183   -651    88      533     903     1317    1221    755     296     -902    -990    
+18177  2011 322     -644    955     -940    113     1319    555     -630    -1228   -472    270     545     1208    1468    1278    946     441     281     -346    
+18177  2012 137     -186    707     -583    79      1077    198     -760    -646    -103    -76     410     908     1193    1126    663     45      -110    -1034   
+18177  2013 277     -542    931     -813    37      1244    360     -722    -670    -763    -28     900     1220    1289    1222    958     254     -129    -271    
+18177  2014 334     -224    932     -440    178     1373    268     -930    -86     -169    176     528     1026    1816    1265    752     274     -222    -451    
+18177  2015 325     -253    813     -476    162     1090    405     -636    -327    -160    157     491     791     1137    1332    952     336     -72     -147    
+18177  2016 260     -268    879     -605    244     1171    252     -1119   -546    -70     158     641     1044    1391    1073    953     160     -354    -235    
+18177  2017 231     -262    754     -339    -38     1102    277     -307    -489    -374    -100    356     979     1226    1096    950     268     -387    -498    
+18177  2018 217     -533    897     -734    22      1216    312     -791    -931    -894    58      903     858     1648    1130    754     145     43      -401    
+18177  2019 -999999 -360    853     -616    50      1267    -999999 -949    -486    -514    142     524     1058    1441    1295    636     31      -999999 -999999 

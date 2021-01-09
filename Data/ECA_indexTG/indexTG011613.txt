@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    PAISCO LOVENO                            (STAID:  11613)
+LATITUDE: dd:mm:ss +46:04:48
+LONGITUDE: ddd:mm:ss +010:17:48
+ELEVATION: m  816
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11613  2003 -999999 -999999 -999999 -999999 -999999 -999999 936     -999999 -999999 -999999 -999999 -999999 -999999 2026    2260    1517    791     511     234     
+11613  2004 -999999 379     1521    166     856     1829    1072    -13     286     466     910     1194    1755    1830    1891    1587    1102    526     -999999 
+11613  2005 927     -999999 1549    -999999 972     1821    950     60      -24     558     880     1474    1829    1922    1714    1500    983     365     -91     
+11613  2006 1027    276     1613    -35     916     1867    1193    -87     88      377     995     1378    1853    2135    1614    1694    1209    677     307     
+11613  2007 1082    644     1635    399     1218    -999999 960     408     492     759     1392    1509    1738    2038    1767    1408    1054    414     170     
+11613  2008 1021    481     1546    275     959     1864    981     295     366     575     872     1426    1764    1895    1930    1366    1103    469     163     
+11613  2009 1068    437     1700    130     1132    1932    1095    42      190     635     1090    1670    1758    1944    2088    1627    1063    596     47      
+11613  2010 951     367     1597    9       928     1948    935     -128    120     489     999     1297    1844    2155    1840    1427    890     489     -62     
+11613  2011 1095    406     1681    134     1157    1829    1133    86      404     630     1312    1534    1680    1777    2026    1748    1057    598     258     
+11613  2012 1053    521     1615    148     1091    1964    1059    150     27      1006    862     1397    1868    1938    2084    1522    1058    597     83      
+11613  2013 1020    396     1588    105     855     1916    1074    189     37      386     999     1186    1706    2071    1962    1591    1087    544     409     
+11613  2014 1103    596     1538    349     1123    1724    1177    269     373     848     1168    1354    1733    1776    1664    1528    1219    782     362     
+11613  2015 1128    601     1666    286     1096    1999    1077    244     253     700     1121    1468    1773    2234    1975    1406    996     832     486     
+11613  2016 1049    577     1576    338     985     1807    1062    136     395     612     1079    1270    1642    1947    1827    1662    949     546     482     
+11613  2017 -999999 512     1599    240     1105    1938    1003    -110    369     871     1038    1405    1864    1948    2001    1301    1217    504     -999999 

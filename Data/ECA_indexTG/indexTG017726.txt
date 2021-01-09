@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    PIEVE_DI_CUSIGNANO                       (STAID:  17726)
+LATITUDE: dd:mm:ss +44:46:49
+LONGITUDE: ddd:mm:ss +010:02:18
+ELEVATION: m 2770
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17726  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17726  2006 1372    -999999 2013    -999999 1268    2323    1526    152     370     744     1298    1763    2239    2628    2099    2037    1561    978     533     
+17726  2007 1436    911     2048    635     1505    2296    1328    659     721     998     1623    1897    2117    2503    2262    1868    1345    770     424     
+17726  2008 1386    774     1962    521     1293    2328    1414    505     641     950     1208    1720    2120    2400    2456    1847    1535    855     361     
+17726  2009 1393    735     2094    338     1432    2400    1415    157     511     973     1317    2003    2192    2457    2544    2026    1378    843     259     
+17726  2010 1251    618     1949    227     1242    2302    1258    55      382     775     1315    1651    2129    2520    2251    1796    1164    816     125     
+17726  2011 1421    623     2100    292     1446    2301    1470    192     588     859     1558    1924    2093    2244    2559    2208    1386    820     571     
+17726  2012 1412    782     2054    392     1400    2494    1441    413     179     1288    1171    1734    2331    2518    2628    1918    1434    970     309     
+17726  2013 1336    661     1976    303     1153    2341    1421    336     261     628     1284    1550    2107    2514    2395    1988    1404    872     618     
+17726  2014 1412    871     1913    608     1407    2158    1503    529     684     1104    1410    1707    2142    2166    2164    1893    1542    1077    537     
+17726  2015 1434    849     2081    515     1352    2476    1371    553     450     948     1382    1751    2245    2736    2431    1900    1287    927     569     
+17726  2016 1399    787     2044    544     1295    2360    1405    436     632     865     1388    1636    2161    2534    2379    2150    1261    808     513     
+17726  2017 1457    776     2103    438     1496    2526    1386    198     622     1241    1416    1828    2424    2522    2628    1779    1559    813     387     
+17726  2018 1458    739     2126    416     1424    2395    1537    588     258     788     1629    1813    2236    2456    2489    2108    1566    936     500     
+17726  2019 -999999 890     -999999 545     1267    -999999 -999999 371     788     1171    1262    1372    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

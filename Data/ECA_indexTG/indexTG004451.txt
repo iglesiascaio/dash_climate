@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  NEUHAUSEN OB ECK                         (STAID:   4451)
+LATITUDE: dd:mm:ss +47:58:36
+LONGITUDE: ddd:mm:ss +008:54:39
+ELEVATION: m  793
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4451   1981 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 665     212     -303    
+4451   1982 718     59      1289    -245    589     1573    829     -205    -223    185     505     1076    1504    1728    1486    1419    708     365     13      
+4451   1983 730     187     1341    -94     622     1745    689     85      -409    310     690     867     1533    2051    1645    1242    742     81      -161    
+4451   1984 607     19      1110    -226    404     1445    756     -184    -340    -44     461     796     1270    1551    1509    1055    813     399     -43     
+4451   1985 610     43      1246    -359    591     1482    643     -756    -269    95      586     1090    1197    1711    1529    1343    733     -149    140     
+4451   1986 636     -10     1212    -260    594     1473    784     -168    -803    105     435     1237    1391    1545    1480    1160    858     333     -61     
+4451   1987 610     20      1209    -306    432     1434    845     -718    -120    -178    738     745     1229    1580    1487    1469    809     256     -9      
+4451   1988 721     191     1257    3       647     1493    710     124     -113    59      690     1194    1332    1562    1579    1162    868     95      52      
+4451   1989 739     268     1234    21      758     1488    677     -87     106     554     511     1203    1288    1621    1549    1208    801     18      33      
+4451   1990 743     264     1227    84      735     1524    702     -134    380     487     453     1257    1303    1587    1675    1062    883     155     -227    
+4451   1991 651     130     1226    -253    569     1571    713     -173    -370    465     485     755     1222    1748    1731    1395    579     168     -274    
+4451   1992 747     101     1336    -152    723     1636    712     -176    3       303     577     1286    1404    1646    1852    1222    538     383     -102    
+4451   1993 -999999 139     1299    -92     768     1516    501     99      -291    175     867     1267    1467    1496    1582    1100    554     -152    -999999 

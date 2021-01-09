@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   GLOMFJORD - TVERRFJELLET                 (STAID:  18364)
+LATITUDE: dd:mm:ss +66:49:49
+LONGITUDE: ddd:mm:ss +013:54:24
+ELEVATION: m  930
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18364  2014 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -35     -476    
+18364  2015 66      -999999 390     -492    -170    629     204     -521    -476    -324    -255    67      189     656     1030    634     123     -143    -240    
+18364  2016 60      -318    461     -512    -120    683     194     -728    -570    -360    -257    251     448     892     703     716     248     -384    -270    
+18364  2017 9       -294    368     -373    -361    678     165     -415    -441    -519    -471    -96     563     783     685     737     91      -331    -511    
+18364  2018 53      -473    509     -598    -143    729     176     -591    -700    -812    -96     481     232     1213    726     469     -10     76      -412    
+18364  2019 -999999 -402    -999999 -584    -234    -999999 -999999 -767    -571    -732    -53     110     595     1058    1039    421     -179    -999999 -999999 

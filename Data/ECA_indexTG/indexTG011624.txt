@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    CASTIONE DELLA PRESOLANA                 (STAID:  11624)
+LATITUDE: dd:mm:ss +45:55:46
+LONGITUDE: ddd:mm:ss +010:03:47
+ELEVATION: m 1180
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11624  2004 773     -999999 -999999 -999999 605     -999999 934     -88     167     248     642     927     1493    1633    -999999 1342    968     490     212     
+11624  2005 744     304     1303    9       721     1569    816     19      -228    315     618     1226    1520    1674    1509    1296    840     326     -113    
+11624  2006 881     -999999 1363    -999999 712     1617    1058    -145    -36     182     724     1126    1578    1888    1384    1469    1064    640     307     
+11624  2007 -999999 539     -999999 341     934     -999999 -999999 371     344     490     1085    1233    1473    -999999 -999999 -999999 -999999 396     174     
+11624  2008 888     -999999 1340    251     749     1662    884     290     291     399     656     1191    1539    1702    1740    1190    1015    444     151     
+11624  2009 899     354     1460    86      908     1686    942     40      66      379     853     1423    1498    1709    1845    1412    872     546     24      
+11624  2010 769     261     1337    -52     684     1670    799     -172    -3      282     730     1043    1534    1869    1603    1224    743     428     -101    
+11624  2011 -999999 316     -999999 90      949     1661    -999999 80      313     464     1085    1303    1512    1598    1890    -999999 -999999 -999999 -999999 
+11624  2012 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 32      
+11624  2013 830     -999999 1329    15      618     1641    917     123     -119    177     755     927     1435    1779    1702    1362    939     449     343     
+11624  2014 903     460     1295    244     856     1496    1029    177     209     621     878     1070    1472    1531    1484    1329    1060    696     266     
+11624  2015 961     466     1443    186     835     1793    938     189     94      459     818     1228    1559    2046    1766    1217    845     749     474     
+11624  2016 890     464     1378    269     752     1636    918     83      250     379     856     1023    1435    1789    1671    1482    826     435     406     
+11624  2017 -999999 -999999 1442    155     907     1824    873     -169    233     698     806     1215    1731    1833    1909    1172    1068    382     -999999 

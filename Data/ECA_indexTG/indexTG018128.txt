@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   SVERRESBORG                              (STAID:  18128)
+LATITUDE: dd:mm:ss +63:25:19
+LONGITUDE: ddd:mm:ss +010:20:58
+ELEVATION: m  156
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18128  2012 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 186     -682    
+18128  2013 506     -999999 1052    -473    333     1306    570     -395    -351    -345    258     1084    1218    1367    1331    1035    500     177     137     
+18128  2014 654     158     1156    7       535     1494    645     -343    251     235     445     923     1170    1859    1443    1069    659     206     -105    
+18128  2015 600     170     975     -38     438     1234    671     -110    116     252     364     695     922     1245    1526    1078    646     289     142     
+18128  2016 517     101     1035    -157    441     1286    486     -489    -122    130     298     892     1176    1428    1250    1148    356     -41     158     
+18128  2017 -999999 72      996     32      350     1265    585     52      -129    12      255     780     1194    1342    1255    1135    592     27      -999999 
+18128  2018 -999999 -999999 1086    -999999 392     1320    578     -999999 -508    -385    382     1178    1056    1657    1237    981     492     260     -113    
+18128  2019 -999999 41      1036    -150    411     1349    -999999 -321    -3      -50     571     717     1246    1403    1393    874     313     -999999 -999999 

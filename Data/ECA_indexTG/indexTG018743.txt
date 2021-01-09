@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   OTEREN                                   (STAID:  18743)
+LATITUDE: dd:mm:ss +69:15:21
+LONGITUDE: ddd:mm:ss +019:52:35
+ELEVATION: m   12
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18743  1990 -999999 -999999 -999999 -999999 -999999 -999999 221     -999999 -999999 -999999 -999999 -999999 -999999 -999999 1343    720     368     -430    -48     
+18743  1991 263     -291    813     -414    73      1216    212     -455    -774    -457    172     508     1164    1262    1219    531     324     -223    -196    
+18743  1992 276     -107    822     -228    198     1135    -32     -275    -213    -73     -31     690     1179    1155    1072    854     -375    -563    -130    
+18743  1993 216     -349    763     -278    77      1162    108     -329    -385    -323    -1      554     793     1450    1230    521     -55     -136    -779    
+18743  1994 197     -541    813     -893    132     1147    194     -1205   -676    -397    293     505     990     1241    1204    626     208     -252    -227    
+18743  1995 184     -261    761     -451    108     1108    139     -520    -621    -189    -10     518     1057    1159    1105    719     95      -394    -765    
+18743  1996 190     -419    790     -656    48      1219    180     -234    -992    -258    6       394     1023    1248    1379    671     344     -480    -888    
+18743  1997 246     -424    845     -688    -68     1334    187     -505    -669    -370    -272    433     1155    1460    1381    890     109     -437    -305    
+18743  1998 180     -469    849     -620    -55     1308    122     -563    -1033   -636    -45     516     1122    1548    1247    682     272     -592    -460    
+18743  1999 229     -449    851     -703    146     1160    456     -897    -757    -294    155     576     1220    1287    976     883     386     100     -942    
+18743  2000 287     -305    825     -663    104     1163    415     -432    -613    -335    -16     659     976     1325    1183    800     578     -139    -584    
+18743  2001 207     -400    867     -665    -98     1227    331     -522    -913    -859    -15     583     1198    1257    1224    937     286     -228    -536    
+18743  2002 259     -319    997     -558    310     1334    7       -584    -554    -319    402     850     1166    1455    1376    712     -68     -619    -804    

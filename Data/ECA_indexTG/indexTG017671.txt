@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    MARZAGLIA                                (STAID:  17671)
+LATITUDE: dd:mm:ss +44:38:12
+LONGITUDE: ddd:mm:ss +010:48:20
+ELEVATION: m  540
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17671  2008 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1492    842     302     
+17671  2009 1371    673     2108    261     1404    2436    1400    104     390     888     1342    1981    2222    2515    2565    1999    1300    906     177     
+17671  2010 1249    588     1959    194     1215    2347    1248    69      351     713     1248    1685    2201    2550    2285    1760    1156    832     89      
+17671  2011 1358    582     2096    217     1378    2363    1374    177     404     825     1433    1876    2191    2333    2560    2165    1261    701     310     
+17671  2012 1345    570     2092    130     1336    2550    1422    104     -34     1045    1224    1735    2385    2601    2659    1924    1411    931     105     
+17671  2013 1316    587     2007    169     1187    2373    1435    215     190     640     1317    1608    2141    2546    2424    1984    1476    845     325     
+17671  2014 1419    806     1950    508     1355    2241    1492    506     712     965     1373    1727    2241    2270    2213    1864    1509    1103    508     
+17671  2015 1385    781     2086    390     1336    2485    1329    328     328     873     1313    1821    2266    2748    2435    1907    1295    785     439     
+17671  2016 1360    721     2033    453     1314    2362    1366    290     642     872     1378    1694    2171    2568    2342    2030    1267    805     246     
+17671  2017 1372    663     2092    259     1409    2550    1261    -15     576     1095    1323    1808    2452    2574    2622    1749    1330    702     193     
+17671  2018 1396    601     2102    302     1321    2413    1502    451     256     645     1483    1841    2232    2512    2489    2037    1486    982     262     
+17671  2019 -999999 717     -999999 289     1208    -999999 -999999 114     514     934     1250    1448    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

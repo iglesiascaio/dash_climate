@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWITZERLAND                              JUNGFRAUJOCH                             (STAID:  10985)
+LATITUDE: dd:mm:ss +46:33:00
+LONGITUDE: ddd:mm:ss +007:58:59
+ELEVATION: m 3580
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+10985  2009 -711    -999999 -230    -999999 -843    -7      -522    -1390   -1609   -1277   -887    -365    -254    19      205     -115    -611    -838    -1469   
+10985  2010 -799    -1224   -330    -1520   -987    -16     -669    -1566   -1525   -1353   -944    -662    -126    153     -80     -333    -535    -1146   -1519   
+10985  2011 -575    -1119   -210    -1340   -711    -68     -290    -1293   -1194   -1039   -677    -415    -146    -197    136     34      -372    -528    -1240   
+10985  2012 -667    -985    -270    -1376   -812    29      -449    -1314   -1589   -890    -1020   -534    -68     -32     184     -164    -455    -728    -1435   
+10985  2013 -727    -1196   -304    -1544   -988    -22     -530    -1356   -1875   -1379   -775    -804    -316    168     71      -183    -410    -1000   -960    
+10985  2014 -645    -967    -343    -1157   -815    -130    -411    -1232   -1293   -941    -818    -687    -175    -62     -154    -167    -346    -723    -1187   
+10985  2015 -567    -1007   -198    -1309   -775    148     -539    -1337   -1414   -1062   -845    -419    -101    350     185     -381    -537    -698    -618    
+10985  2016 -626    -940    -246    -1043   -935    13      -500    -1253   -1273   -1277   -903    -625    -193    105     120     9       -578    -929    -738    
+10985  2017 -651    -941    -262    -1095   -744    99      -648    -1453   -1108   -872    -956    -412    110     24      157     -487    -408    -1056   -1356   
+10985  2018 -568    -1139   -94     -1378   -732    110     -378    -1117   -1692   -1253   -585    -354    -17     138     205     44      -350    -829    -1086   
+10985  2019 -999999 -968    -231    -1189   -939    148     -999999 -1599   -848    -1080   -993    -746    118     162     164     -103    -343    -999999 -999999 

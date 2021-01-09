@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   RV41 HYNNEKLEIV                          (STAID:  18576)
+LATITUDE: dd:mm:ss +58:36:15
+LONGITUDE: ddd:mm:ss +008:24:15
+ELEVATION: m  186
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18576  2012 537     -999999 1078    -999999 633     1360    553     -288    -275    491     342     1056    1181    1475    1418    974     405     284     -649    
+18576  2013 498     -278    1124    -630    243     1480    595     -673    -561    -482    178     1031    1323    1690    1423    1072    647     63      182     
+18576  2014 724     195     1245    42      668     1553    774     -178    129     316     623     1062    1453    1841    1362    1113    841     365     -281    
+18576  2015 633     161     1080    -155    496     1377    640     -84     -94     199     534     756     1225    1463    1439    1051    593     279     185     
+18576  2016 596     74      1198    -196    548     1451    620     -609    -163    150     401     1089    1469    1507    1377    1331    548     -18     50      
+18576  2017 575     67      1114    -98     546     1376    575     -161    -192    147     422     1066    1377    1431    1320    1054    654     13      -288    
+18576  2018 623     -127    1317    -356    491     1648    654     -245    -556    -378    453     1395    1611    1940    1392    1088    632     242     -181    
+18576  2019 -999999 58      1157    -228    519     1502    -999999 -463    -19     138     553     869     1409    1594    1499    1001    443     -999999 -999999 

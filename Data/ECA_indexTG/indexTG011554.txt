@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    GEROLA ALTA (PESCEGALLO)                 (STAID:  11554)
+LATITUDE: dd:mm:ss +46:01:39
+LONGITUDE: ddd:mm:ss +009:34:15
+ELEVATION: m 1845
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11554  2003 -999999 -999999 1033    -999999 352     1464    399     -999999 -631    107     119     807     1462    1328    1603    826     185     194     -137    
+11554  2004 409     -86     842     -241    159     1168    521     -430    -146    -175    177     475     1105    1193    1201    922     552     89      -12     
+11554  2005 345     -78     865     -333    253     1132    475     -302    -721    -133    180     707     1123    1238    1039    888     594     -61     -446    
+11554  2006 465     -157    913     -421    231     1156    695     -449    -359    -251    256     655     1087    1463    918     1097    734     278     53      
+11554  2007 492     184     924     22      459     1148    -999999 42      -35     12      615     756     1042    1269    1130    721     508     -999999 -215    
+11554  2008 428     -999999 832     -104    214     1173    423     -40     -55     -110    97      652     1082    1200    1235    709     568     -13     -232    
+11554  2009 442     -87     971     -347    368     1216    534     -370    -452    -101    324     881     1024    1233    1385    961     462     181     -401    
+11554  2010 315     -147    839     -459    178     1172    365     -519    -456    -167    234     474     1003    1383    1126    758     345     -7      -447    
+11554  2011 513     -80     974     -280    418     1148    659     -306    -67     5       491     760     1024    1054    1363    1142    516     323     -171    
+11554  2012 453     29      928     -328    371     1290    537     -265    -564    307     145     654     1156    1307    1405    886     540     184     -364    
+11554  2013 405     -118    882     -404    162     1202    503     -247    -621    -239    329     402     954     1370    1273    950     559     -4      55      
+11554  2014 479     59      842     -119    367     1060    639     -193    -230    137     404     561     1024    1112    1044    903     671     342     -76     
+11554  2015 538     76      962     -200    370     1329    524     -204    -334    26      337     746     1114    1578    1289    682     449     444     265     
+11554  2016 444     97      882     -50     207     1167    482     -256    -167    -160    294     491     947     1315    1232    1002    378     47      169     
+11554  2017 -999999 34      921     -157    392     1307    451     -517    -113    235     269     668     1234    1299    1385    649     730     -36     -999999 

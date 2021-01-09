@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    CAVARIA CON PREMEZZO (V. CANTALUPA)      (STAID:  11648)
+LATITUDE: dd:mm:ss +45:41:26
+LONGITUDE: ddd:mm:ss +008:48:28
+ELEVATION: m  274
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11648  2002 1196    -999999 1758    -999999 1171    2074    1193    -137    441     866     1126    1512    2131    2074    2019    1588    1160    832     -999999 
+11648  2003 -999999 -999999 -999999 -999999 -999999 2386    1093    184     3       724     1060    1769    2407    2325    2429    1632    986     664     275     
+11648  2004 1277    544     1897    292     1151    2243    1368    229     379     723     1200    1533    2191    2327    2209    1910    1428    763     405     
+11648  2005 1217    652     1910    284     1272    2233    1163    192     250     839     1140    1832    2219    2366    2114    1771    1156    562     -24     
+11648  2006 1316    446     1999    65      1239    2328    1456    -58     291     690     1280    1747    2255    2639    2090    1965    1491    912     435     
+11648  2007 1372    828     1986    529     1473    2223    1260    522     640     975     1635    1816    2121    2416    2129    1777    1279    660     366     
+11648  2008 1372    731     1920    475     1324    2252    1371    481     586     993     1236    1740    2142    2311    2300    1772    1472    814     329     
+11648  2009 1403    -999999 2091    -999999 1449    2366    -999999 204     505     939     1383    2022    2207    2398    2486    2026    1343    902     284     
+11648  2010 1301    656     1966    295     1273    2328    1291    190     422     828     1333    1661    2182    2589    2209    1806    1202    780     155     
+11648  2011 1371    -999999 2076    259     1473    2260    1381    156     477     846     1607    1971    2094    2226    2456    2091    1320    709     418     
+11648  2012 1338    663     2021    264     1371    2431    1360    251     112     1155    1185    1767    2312    2458    2523    1875    1333    872     199     
+11648  2013 1303    613     1965    272     1143    2350    1371    371     244     632     1254    1547    2188    2505    2353    1923    1382    806     363     
+11648  2014 1376    771     1905    458     1384    2150    1454    441     582     1037    1404    1710    2200    2167    2089    1870    1503    987     530     
+11648  2015 1398    797     2073    444     1371    2469    1303    389     410     933     1375    1821    2301    2760    2341    1806    1271    834     472     
+11648  2016 1348    731     1999    463     1317    2289    1345    315     612     876     1433    1645    2128    2436    2299    2041    1236    756     377     
+11648  2017 -999999 688     2063    325     1450    2461    1276    80      -999999 1117    1398    1835    2401    2478    2501    1735    1392    713     -999999 

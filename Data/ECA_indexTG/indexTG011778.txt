@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  BALINGEN-BRONNHAUPTEN                    (STAID:  11778)
+LATITUDE: dd:mm:ss +48:15:50
+LONGITUDE: ddd:mm:ss +008:48:47
+ELEVATION: m   62
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11778  2008 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -55     
+11778  2009 863     -999999 1474    -127    900     1665    971     -247    -74     275     1060    1370    1446    1699    1843    1410    834     673     11      
+11778  2010 751     252     1337    -113    708     1672    793     -332    -7      324     823     981     1548    1874    1590    1190    774     416     -208    
+11778  2011 950     293     1490    2       1007    1627    978     32      202     537     1114    1374    1558    1513    1808    1568    882     489     282     
+11778  2012 879     343     1434    -6      932     1716    915     119     -450    692     771     1329    1602    1662    1881    1341    883     523     135     
+11778  2013 827     240     1389    -30     627     1730    918     8       -254    107     780     998     1521    1938    1725    1358    1077    313     275     
+11778  2014 977     502     1391    313     925     1611    1069    301     369     661     983     1132    1591    1725    1515    1391    1182    630     210     
+11778  2015 973     429     1499    80      877     1876    913     131     -119    492     858     1280    1621    2043    1955    1213    804     726     587     
+11778  2016 887     479     1440    343     738     1712    907     161     277     314     722     1179    1560    1804    1768    1594    765     368     115     
+11778  2017 912     325     1447    25      906     1823    874     -358    350     714     678     1320    1815    1819    1835    1191    1030    396     112     
+11778  2018 972     328     -999999 79      985     -999999 1005    381     -291    284     1229    1450    -999999 1921    1937    1517    1030    467     272     
+11778  2019 -999999 441     -999999 179     797     -999999 -999999 -111    397     588     843     960     1843    -999999 -999999 1409    1106    -999999 -999999 

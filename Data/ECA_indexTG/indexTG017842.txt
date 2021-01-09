@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    VESPIGNANO                               (STAID:  17842)
+LATITUDE: dd:mm:ss +44:13:58
+LONGITUDE: ddd:mm:ss +011:43:09
+ELEVATION: m 2080
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17842  2011 -999999 -999999 -999999 -999999 -999999 2325    1436    -999999 -999999 -999999 -999999 1805    2149    2292    2527    2193    1326    794     595     
+17842  2012 1412    739     2067    367     1369    2518    1495    340     152     1187    1237    1678    2371    2585    2593    1915    1484    1088    264     
+17842  2013 1359    701     1983    301     1223    2317    1473    341     300     705     1348    1619    2101    2460    2384    1968    1488    961     564     
+17842  2014 1447    916     1927    661     1381    2211    1522    610     824     1041    1395    1709    2173    2208    2251    1815    1593    1156    551     
+17842  2015 1430    881     2075    538     1358    2448    1370    581     477     898     1356    1821    2231    2712    2395    1912    1296    904     507     
+17842  2016 -999999 822     2057    598     1342    2316    -999999 515     786     924     1417    1687    2142    2511    2288    2299    -999999 -999999 -999999 

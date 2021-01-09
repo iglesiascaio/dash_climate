@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   LEKNES LUFTHAVN                          (STAID:   5065)
+LATITUDE: dd:mm:ss +68:09:18
+LONGITUDE: ddd:mm:ss +013:36:54
+ELEVATION: m   26
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5065   2004 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 153     181     
+5065   2005 550     -999999 914     100     315     1217    616     100     9       -22     401     567     1077    1357    1213    853     654     339     9       
+5065   2006 568     181     928     105     327     1131    590     272     25      -222    385     819     884     1166    1335    958     413     404     334     
+5065   2007 564     184     921     6       420     1241    552     -57     -286    256     328     672     1049    1500    1167    791     713     146     409     
+5065   2008 533     210     895     182     278     1152    575     25      108     -151    294     690     1000    1280    1172    918     651     154     232     
+5065   2009 554     169     984     32      425     1256    597     38      -198    98      324     850     956     1373    1430    948     410     439     -82     
+5065   2010 401     26      854     -146    275     1027    470     -16     -362    -257    325     759     785     1207    1082    947     517     -55     -185    
+5065   2011 611     4       1002    -148    407     1227    829     -109    -150    -13     426     807     1203    1193    1284    1088    772     627     159     
+5065   2012 433     282     761     31      278     1027    524     -13     -58     195     122     512     927     1085    1064    843     443     289     -227    
+5065   2013 539     28      979     -107    298     1206    600     -45     -43     -248    155     982     1161    1216    1238    1104    499     200     211     
+5065   2014 579     191     938     88      361     1273    622     -151    218     174     319     589     952     1593    1263    888     628     348     94      
+5065   2015 596     245     907     68      426     1118    700     29      84      272     335     668     791     1142    1410    1083    655     364     276     
+5065   2016 540     193     910     -15     423     1092    653     -269    -53     176     354     736     888     1273    1110    1084    640     236     277     
+5065   2017 540     218     907     127     248     1191    675     121     -32     43      176     522     1157    1244    1171    1163    621     241     15      
+5065   2018 545     71      949     -67     292     1198    684     -101    -122    -240    262     851     832     1480    1268    974     518     564     196     
+5065   2019 -999999 164     929     6       319     1214    -999999 -165    -16     -118    470     610     1000    1293    1340    847     304     -999999 -999999 

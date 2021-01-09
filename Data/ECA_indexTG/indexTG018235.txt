@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   ANDOEYA - TROLLTINDEN                    (STAID:  18235)
+LATITUDE: dd:mm:ss +69:14:29
+LONGITUDE: ddd:mm:ss +016:00:11
+ELEVATION: m  436
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18235  2009 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+18235  2010 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -215    -663    -454    -29     -999999 695     1069    976     710     -999999 -97     -318    
+18235  2011 305     -227    -999999 -393    -999999 866     517     -403    -466    -330    152     -999999 848     802     947     833     422     300     -78     
+18235  2012 128     -999999 400     -999999 -77     662     223     -999999 -383    -120    -229    107     511     731     740     526     141     5       -430    
+18235  2013 249     -223    682     -324    -1      923     286     -249    -289    -523    -156    655     889     935     944     806     174     -118    -137    
+18235  2014 244     -137    594     -231    -11     939     297     -425    -120    -192    -22     180     551     1355    899     580     272     41      -218    
+18235  2015 270     -98     588     -301    112     807     383     -382    -308    -17     18      331     481     841     1088    751     284     117     -36     
+18235  2016 252     -53     576     -205    117     727     363     -368    -222    -122    41      429     493     914     767     799     373     -84     -58     
+18235  2017 172     -111    499     -209    -179    780     364     -277    -299    -339    -247    47      663     855     818     854     322     -82     -274    
+18235  2018 197     -266    609     -411    -42     838     347     -437    -535    -610    -42     527     408     1175    916     645     196     206     -142    
+18235  2019 -999999 -177    529     -337    -66     781     -999999 -487    -385    -455    95      166     544     881     911     565     -3      -999999 -999999 

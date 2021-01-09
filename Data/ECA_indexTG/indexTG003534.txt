@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   GADDEDE A                                (STAID:   3534)
+LATITUDE: dd:mm:ss +64:30:20
+LONGITUDE: ddd:mm:ss +014:13:26
+ELEVATION: m  550
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+3534   2008 239     -999999 770     -999999 20      1138    194     -364    -359    -527    74      516     1066    1336    1008    602     226     -249    -486    
+3534   2009 167     -429    836     -708    134     1145    191     -655    -1014   -446    179     670     938     1274    1215    717     -21     -115    -814    
+3534   2010 -41     -648    723     -1048   -68     1072    9       -1137   -1211   -630    7       421     793     1296    1118    683     208     -869    -1257   
+3534   2011 306     -635    910     -922    127     1268    425     -588    -922    -418    260     545     1201    1423    1179    837     307     133     -361    
+3534   2012 85      -237    615     -574    16      983     123     -690    -676    -154    -165    360     786     1132    1025    530     15      -172    -1001   
+3534   2013 210     -557    832     -805    2       1127    271     -724    -677    -785    -94     881     1081    1172    1126    804     220     -211    -335    
+3534   2014 274     -303    894     -543    140     1324    225     -1014   -250    -222    92      549     973     1760    1229    735     160     -218    -540    
+3534   2015 241     -303    700     -535    67      990     329     -636    -416    -175    18      358     683     1022    1255    847     259     -118    -253    
+3534   2016 209     -323    814     -626    155     1102    203     -1081   -539    -214    8       665     1025    1265    1012    894     94      -376    -273    
+3534   2017 162     -319    679     -413    -61     1021    175     -388    -597    -403    -134    351     942     1106    1011    784     209     -469    -530    
+3534   2018 172     -587    868     -782    19      1158    273     -800    -1040   -932    33      956     803     1612    1047    720     156     -57     -531    
+3534   2019 -999999 -378    805     -606    33      1196    -999999 -793    -481    -542    227     420     1021    1335    1226    583     -16     -999999 -999999 

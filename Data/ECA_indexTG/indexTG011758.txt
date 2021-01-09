@@ -1,0 +1,47 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  KAMENZ                                   (STAID:  11758)
+LATITUDE: dd:mm:ss +51:16:00
+LONGITUDE: ddd:mm:ss +014:04:59
+ELEVATION: m   27
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11758  1947 888     -999999 1706    -999999 971     1925    1060    -578    -862    331     1052    1532    1883    2014    1875    1868    768     555     112     
+11758  1948 991     400     1564    154     1090    1732    966     369     -31     604     1161    1508    1750    1671    1776    1510    903     488     144     
+11758  1949 947     325     1518    147     839     1671    1058    124     178     105     1060    1360    1375    1788    1841    1670    1117    383     315     
+11758  1950 884     388     1511    104     897     1825    859     -237    249     486     744     1456    1794    1836    1843    1369    803     406     -180    
+11758  1951 925     247     1476    27      720     1780    1007    94      182     174     842     1147    1618    1791    1926    1519    805     705     257     
+11758  1952 803     304     1462    84      792     1775    669     9       -21     63      1132    1193    1535    1836    1945    1111    721     175     -93     
+11758  1953 951     205     1516    -73     959     1764    1023    -107    -12     523     1013    1343    1732    1853    1707    1437    1127    500     229     
+11758  1954 776     203     1377    -287    761     1642    941     -533    -585    415     564     1298    1745    1494    1692    1456    1045    318     306     
+11758  1955 757     193     1353    -82     583     1664    878     -288    -282    15      643     1094    1499    1760    1728    1378    844     413     213     
+11758  1956 667     86      1301    -304    649     1531    809     -61     -1118   158     515     1269    1362    1724    1502    1417    880     128     139     
+11758  1957 878     352     1358    168     809     1697    873     20      359     567     816     1043    1764    1814    1515    1189    967     459     -30     
+11758  1958 836     236     1392    24      603     1656    955     -53     169     -93     466     1431    1489    1765    1708    1468    978     418     237     
+11758  1959 920     369     1510    56      975     1804    870     6       -89     621     996     1310    1678    1940    1789    1328    894     386     110     
+11758  1960 846     265     1369    -16     775     1641    953     -98     -63     343     687     1291    1628    1616    1677    1296    948     616     175     
+11758  1961 907     434     1442    121     937     1615    1063    -189    404     655     1113    1048    1669    1544    1635    1645    1126    417     -189    
+11758  1962 742     244     1319    -40     674     1536    852     126     -58     17      971     1045    1442    1530    1634    1282    921     352     -402    
+11758  1963 -999999 -59     -999999 -636    793     1774    -999999 -890    -613    238     872     1271    1677    1912    1732    -999999 -999999 -999999 -999999 

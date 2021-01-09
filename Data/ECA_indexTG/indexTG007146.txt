@@ -1,0 +1,33 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  LAHTI KUJALA                             (STAID:   7146)
+LATITUDE: dd:mm:ss +60:58:00
+LONGITUDE: ddd:mm:ss +025:43:00
+ELEVATION: m  112
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7146   1959 489     -999999 1163    -999999 431     1619    420     -600    -287    25      339     926     1453    1722    1677    830     415     16      -699    
+7146   1960 374     -455    1186    -915    290     1617    315     -1074   -976    -430    189     1107    1624    1755    1473    940     207     -198    -184    
+7146   1961 -999999 -141    1110    -258    346     1534    -999999 -451    -127    -94     184     944     1688    1569    1352    907     809     -999999 -999999 

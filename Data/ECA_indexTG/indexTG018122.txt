@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   LIFJELL - OEYSTEINNATTEN                 (STAID:  18122)
+LATITUDE: dd:mm:ss +59:30:07
+LONGITUDE: ddd:mm:ss +008:59:00
+ELEVATION: m 1102
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18122  2013 -999999 -999999 -999999 -999999 -999999 -999999 256     -999999 -999999 -999999 -999999 -999999 -999999 1310    1105    670     217     -131    -234    
+18122  2014 210     -282    717     -507    86      1017    308     -865    -414    -267    74      450     846     1353    846     719     320     -115    -505    
+18122  2015 221     -215    623     -435    148     811     252     -303    -510    -207    -49     693     595     894     935     648     141     -31     -217    
+18122  2016 156     -291    668     -549    48      920     144     -843    -590    -216    -148    501     951     947     862     886     -39     -408    -54     
+18122  2017 156     -260    560     -262    19      815     142     -295    -457    -329    -168    550     751     886     805     521     179     -275    -341    
+18122  2018 204     -457    840     -587    24      1171    210     -540    -911    -891    12      952     1089    1535    885     540     163     -70     -402    
+18122  2019 -999999 -235    655     -384    19      991     -999999 -561    -169    -358    155     265     859     1095    1016    529     -8      -999999 -999999 

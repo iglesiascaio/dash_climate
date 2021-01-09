@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  PRACKENBACH-NEUHAUSEL                    (STAID:   4910)
+LATITUDE: dd:mm:ss +49:06:34
+LONGITUDE: ddd:mm:ss +012:49:28
+ELEVATION: m  588
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4910   2006 -999999 -999999 -999999 -999999 -999999 -999999 1019    -999999 -999999 -999999 -999999 -999999 -999999 -999999 1367    1527    1057    473     168     
+4910   2007 853     462     1414    247     974     1647    618     275     302     482     1098    1345    1675    1669    1598    1086    707     58      -97     
+4910   2008 820     210     1365    77      770     1666    747     116     220     252     690     1366    1660    1693    1644    1115    785     339     -59     
+4910   2009 784     110     1451    -234    874     1626    866     -455    -181    209     1134    1288    1417    1689    1766    1398    660     546     -114    
+4910   2010 671     112     1315    -266    675     1674    688     -469    -210    239     764     1024    1581    1896    1542    1065    613     390     -435    
+4910   2011 821     127     1420    -232    916     1589    788     -114    -139    430     1006    1314    1572    1468    1726    1427    740     198     163     
+4910   2012 780     182     1403    -132    883     1673    751     -41     -544    529     760     1357    1585    1683    1749    1264    664     327     -30     
+4910   2013 753     100     1356    -129    594     1709    777     -127    -241    -20     742     1064    1469    1931    1720    1188    868     272     100     
+4910   2014 918     370     1399    145     906     1645    948     110     236     618     963     1137    1618    1805    1511    1354    1027    459     131     
+4910   2015 911     325     1475    9       787     1873    852     42      -163    413     741     1207    1576    1986    2047    1263    725     573     434     
+4910   2016 831     370     1437    211     759     1683    840     -41     242     285     741     1252    1591    1779    1676    1570    719     237     -92     
+4910   2017 830     175     1413    -173    857     1788    792     -558    163     586     635     1343    1792    1775    1797    1113    950     307     13      
+4910   2018 943     217     1628    -36     968     1854    926     197     -350    133     1231    1550    1684    1898    1974    1413    1012    350     131     
+4910   2019 -999999 337     1499    29      825     1910    -999999 -190    157     546     948     984     2009    1906    1819    1318    982     -999999 -999999 

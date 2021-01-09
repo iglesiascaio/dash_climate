@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   IDVATTNET                                (STAID:   5725)
+LATITUDE: dd:mm:ss +64:27:00
+LONGITUDE: ddd:mm:ss +017:04:47
+ELEVATION: m  352
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5725   1982 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 98      -407    -977    
+5725   1983 -999999 -628    -999999 -968    87      -999999 28      -961    -966    -581    62      779     1046    -999999 1073    752     153     -824    -1069   
+5725   1984 80      -841    886     -1153   71      1182    42      -1683   -676    -934    158     993     1093    1308    1142    596     213     -687    -589    
+5725   1985 -234    -964    750     -1594   -126    1230    -9      -2087   -2161   -579    -265    461     1176    1331    1180    590     349     -979    -1963   
+5725   1986 -15     -1021   774     -1772   112     1219    130     -2007   -1301   -251    -221    797     1435    1339    890     379     250     -244    -1328   
+5725   1987 -104    -975    703     -1631   -169    1043    229     -2247   -1285   -999    4       493     1030    1219    881     573     455     -349    -1079   
+5725   1988 65      -597    880     -974    -115    1346    4       -907    -934    -780    -263    695     1366    1557    1117    783     -4      -768    -1124   
+5725   1989 205     -518    834     -999999 130     1199    145     -999999 -483    -312    51      649     1206    1282    1108    692     79      -334    -1266   
+5725   1990 178     -528    -999999 -896    194     -999999 47      -1164   -190    -255    165     672     1159    1354    -999999 599     200     -664    -554    
+5725   1991 104     -612    798     -938    30      1244    73      -812    -1502   -429    102     420     948     1463    1312    517     53      -350    -606    
+5725   1992 126     -376    775     -584    98      1152    -205    -667    -472    -216    -359    855     1290    1139    1031    673     -595    -680    -510    
+5725   1993 35      -673    737     -774    134     1047    -96     -989    -828    -453    10      842     822     1283    1027    407     -83     -614    -1074   
+5725   1994 -29     -984    823     -1511   -26     1239    -22     -1544   -1959   -713    170     470     951     1577    1180    563     -5      -623    -561    
+5725   1995 97      -509    754     -694    -23     1193    61      -931    -578    -366    -166    459     1270    1186    1124    631     305     -761    -999999 
+5725   1996 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

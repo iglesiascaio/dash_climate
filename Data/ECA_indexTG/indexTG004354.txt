@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  BAD LIEBENZELL                           (STAID:   4354)
+LATITUDE: dd:mm:ss +48:46:24
+LONGITUDE: ddd:mm:ss +008:43:46
+ELEVATION: m  352
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4354   1947 885     -999999 1605    -999999 958     1869    905     -458    -291    377     1056    1443    1818    1916    1873    1511    716     492     102     
+4354   1948 810     402     1279    186     935     1436    752     339     112     635     876     1291    1372    1434    1499    1187    753     315     -127    
+4354   1949 870     193     1428    -21     764     1630    940     -5      78      138     1022    1139    1432    1754    1698    1514    1004    300     313     
+4354   1950 886     375     1463    170     814     1806    910     -90     299     417     649     1371    1756    1906    1753    1323    875     534     -195    
+4354   1951 901     356     1386    117     755     1656    946     278     284     356     733     1176    1526    1735    1704    1429    743     673     142     
+4354   1952 910     353     1562    64      965     1932    745     59      -15     501     1060    1336    1754    2107    1928    1165    795     273     -80     
+4354   1953 850     208     1399    -93     873     1601    915     -133    -63     433     833     1351    1489    1707    1602    1398    1005    339     172     
+4354   1954 729     235     1198    -117    643     1448    876     -307    -225    387     518     1021    1457    1442    1446    1294    867     467     315     
+4354   1955 757     280     1275    73      574     1582    785     -90     -15     115     658     951     1494    1678    1569    1286    803     266     317     
+4354   1956 708     149     1272    -180    718     1481    839     80      -989    350     604     1198    1344    1688    1406    1375    828     314     212     
+4354   1957 868     399     1330    149     841     1653    865     -166    428     777     746     996     1670    1785    1506    1265    870     461     62      
+4354   1958 852     278     1390    92      664     1649    938     19      204     52      542     1395    1501    1720    1722    1439    893     486     210     
+4354   1959 897     400     1438    113     943     1721    782     19      109     659     894     1275    1633    1888    1639    1282    755     312     244     
+4354   1960 874     351     1353    151     893     1596    888     53      157     572     824     1279    1662    1546    1582    1213    868     582     125     

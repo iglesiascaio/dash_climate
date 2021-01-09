@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   ORKDAL - THAMSHAMN                       (STAID:  18210)
+LATITUDE: dd:mm:ss +63:18:55
+LONGITUDE: ddd:mm:ss +009:50:57
+ELEVATION: m    4
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18210  2006 -999999 -999999 -999999 -999999 -999999 -999999 713     -999999 -999999 -999999 -999999 -999999 -999999 -999999 1664    1226    675     240     338     
+18210  2007 551     161     1071    -74     514     1416    506     -76     -529    256     465     821     1360    1557    1331    877     536     103     -171    
+18210  2008 584     83      1094    -51     473     1381    573     -9      31      2       520     898     1251    1541    1347    987     563     169     -313    
+18210  2009 534     10      1130    -292    585     1373    481     -215    -353    181     604     972     1189    1492    1433    1071    296     82      -399    
+18210  2010 271     -289    996     -720    372     1327    265     -1012   -754    16      380     721     1056    1495    1421    883     585     -685    -931    
+18210  2011 593     -261    1125    -522    514     1388    679     -186    -441    61      570     912     1299    1460    1402    1093    631     314     -65     
+18210  2012 436     132     943     -174    470     1246    433     -336    -117    353     290     763     1094    1327    1314    850     352     98      -775    
+18210  2013 497     -265    1072    -594    364     1328    577     -579    -409    -281    324     1049    1255    1383    1344    1057    532     145     85      
+18210  2014 647     160     1164    -6      566     1487    605     -285    201     285     504     907     1220    1773    1460    1099    700     13      -146    
+18210  2015 619     135     1026    -69     499     1261    691     -202    163     281     463     753     999     1279    1498    1147    661     266     92      
+18210  2016 539     103     1073    -172    496     1319    483     -460    -145    190     393     902     1199    1461    1293    1179    303     -27     161     
+18210  2017 560     80      1047    29      424     1304    609     7       -92     107     353     810     1239    1385    1287    1195    665     -35     -250    
+18210  2018 515     -141    1129    -390    415     1373    604     -456    -471    -330    436     1142    1156    1658    1297    1061    535     220     -136    
+18210  2019 -999999 50      1084    -175    469     1393    -999999 -352    -23     55      576     779     1310    1444    1423    960     371     -999999 -999999 

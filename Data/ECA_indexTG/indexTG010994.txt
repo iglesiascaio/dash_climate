@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION PORTUGAL                                 QUINTA DE CARVALHAIS 1                   (STAID:  10994)
+LATITUDE: dd:mm:ss +40:33:32
+LONGITUDE: ddd:mm:ss -007:46:50
+ELEVATION: m  425
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+10994  2013 1332    -999999 -999999 -999999 -999999 2071    1463    736     642     900     1130    -999999 1797    2205    2185    2003    1473    911     669     
+10994  2014 1381    950     1755    758     1308    1928    1542    843     763     1024    1367    1525    1777    2019    1984    1850    1665    1106    597     
+10994  2015 1399    946     1831    610     1374    2061    1418    592     644     1037    1358    1727    2008    2138    2039    1712    1474    1067    931     
+10994  2016 1383    991     1826    858     1127    2143    1465    886     750     824     1136    1421    1873    2307    2239    1941    1510    941     729     
+10994  2017 1464    959     1889    743     1411    2117    1566    580     937     1056    1480    1700    2055    2131    2170    1813    1805    1082    810     
+10994  2018 1404    1011    1838    767     1191    2039    1564    771     715     859     1215    1519    1806    1974    2329    2156    1494    1045    928     
+10994  2019 -999999 1048    1752    860     1326    1921    -999999 727     933     1150    1156    1667    1622    2067    2064    1915    1482    -999999 -999999 

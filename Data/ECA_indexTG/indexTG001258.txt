@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION RUSSIAN FEDERATION                       OREL                                     (STAID:   1258)
+LATITUDE: dd:mm:ss +53:00:00
+LONGITUDE: ddd:mm:ss +036:00:00
+ELEVATION: m  200
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+1258   1995 -999999 -999999 1534    -999999 811     1850    584     -599    -999999 81      874     1457    1978    1830    1752    1268    704     -172    -753    
+1258   1996 556     -999999 1495    -977    613     1805    715     -1105   -1073   -578    661     1721    1699    1920    1791    1098    622     417     -798    
+1258   1997 576     -999999 1373    -999999 560     1837    522     -772    -480    -109    478     1285    1813    1907    1792    951     502     115     -724    
+1258   1998 -999999 -999999 1498    -999999 693     1874    -999999 -510    -537    -23     642     1409    1972    2015    1648    1242    661     -706    -806    
+1258   1999 -999999 -999999 -999999 -999999 663     2026    595     -426    -541    -91     1014    1054    2091    2228    1757    1258    802     -319    -186    
+1258   2000 -999999 -999999 1460    -999999 790     1784    650     -702    -270    -26     1235    1136    1577    1941    1838    1060    803     56      -139    
+1258   2001 688     -999999 1573    -999999 690     1966    619     -323    -536    -142    1072    1181    1644    2337    1906    1243    577     40      -1034   
+1258   2002 707     -94     1536    -542    829     1940    569     -554    -2      342     812     1332    1740    2249    1838    1251    480     -1      -1143   
+1258   2003 587     -450    1441    -968    536     1797    676     -685    -1117   -365    397     1641    1520    2036    1799    1233    605     156     -348    
+1258   2004 -999999 -999999 1429    -430    658     1797    668     -500    -439    131     652     1192    1575    1890    1919    1303    755     -58     -222    
+1258   2005 -999999 -199    -999999 -434    589     -999999 -999999 -225    -902    -595    805     1630    1595    -999999 -999999 -999999 -999999 -999999 -999999 

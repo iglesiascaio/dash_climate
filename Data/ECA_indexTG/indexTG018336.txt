@@ -1,0 +1,48 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   E39 LOENNSET                             (STAID:  18336)
+LATITUDE: dd:mm:ss +62:45:37
+LONGITUDE: ddd:mm:ss +007:22:13
+ELEVATION: m   15
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18336  2002 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 421     12      -125    
+18336  2003 768     -999999 1245    0       676     1582    689     45      65      432     668     927     1470    1779    1494    1114    479     481     210     
+18336  2004 743     276     1192    108     707     1410    718     -33     150     365     785     973     1201    1423    1599    1160    669     326     276     
+18336  2005 724     316     1115    222     564     1368    813     282     96      228     667     801     1181    1598    1320    1112    842     484     36      
+18336  2006 813     278     1255    147     480     1538    903     247     160     -107    526     1023    1253    1648    1705    1355    797     561     544     
+18336  2007 687     404     1111    201     628     1438    624     136     -108    451     575     854     1411    1577    1326    906     681     283     87      
+18336  2008 724     276     1150    171     582     1405    731     194     237     174     608     966     1311    1607    1292    1101    719     374     92      
+18336  2009 735     295     1221    99      745     1434    670     201     -5      363     796     1076    1267    1556    1473    1144    441     433     30      
+18336  2010 502     37      1082    -258    449     1396    546     -423    -395    105     467     775     1136    1524    1521    1051    751     -171    -394    
+18336  2011 748     72      1182    -128    641     1380    870     85      -69     207     736     982     1268    1424    1443    1226    804     581     231     
+18336  2012 630     395     1016    159     577     1304    620     49      200     498     379     848     1144    1368    1394    943     531     387     -197    
+18336  2013 698     89      1152    -122    501     1407    782     -121    -39     -29     415     1114    1281    1478    1460    1148    752     447     417     
+18336  2014 864     450     1277    342     724     1560    872     111     513     469     706     996     1334    1797    1542    1269    905     440     265     
+18336  2015 784     434     1104    270     602     1346    878     191     361     438     518     848     1086    1338    1605    1216    877     541     362     
+18336  2016 698     348     1146    110     595     1367    707     -145    115     333     461     986     1272    1484    1341    1322    609     194     384     
+18336  2017 708     309     1126    255     568     1350    775     226     145     277     440     984     1275    1398    1374    1275    787     261     15      
+18336  2018 696     163     1183    -7      585     1387    758     -5      -35     -63     524     1292    1200    1638    1316    1102    649     526     154     
+18336  2019 -999999 288     1151    115     585     1450    -999999 -70     275     200     798     765     1362    1493    1493    984     564     -999999 -999999 

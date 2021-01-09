@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   OERSTA - EITREFJELL                      (STAID:  18095)
+LATITUDE: dd:mm:ss +62:09:36
+LONGITUDE: ddd:mm:ss +006:17:16
+ELEVATION: m  690
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18095  2014 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -125    
+18095  2015 385     -999999 661     -135    106     917     576     -190    -84     8       16      289     525     909     1303    906     619     200     81      
+18095  2016 389     46      784     -171    173     1009    515     -350    -249    -42     9       545     929     1079    1017    1116    516     -88     164     
+18095  2017 375     74      745     35      173     951     458     -16     -51     -101    -6      621     849     1010    990     991     479     -96     -206    
+18095  2018 404     -134    857     -237    235     1079    477     -162    -355    -485    183     1006    868     1390    973     698     334     402     -59     
+18095  2019 -999999 46      824     -106    221     1142    -999999 -279    35      -147    474     345     993     1233    1196    696     322     -999999 -999999 

@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  PAIMIO TAATILA                           (STAID:   7074)
+LATITUDE: dd:mm:ss +60:30:00
+LONGITUDE: ddd:mm:ss +022:46:00
+ELEVATION: m   52
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7074   1959 565     -999999 1216    -999999 458     1663    509     -604    -256    -27     446     955     1479    1795    1707    885     471     162     -458    
+7074   1960 437     -362    1191    -786    272     1593    449     -1050   -891    -493    208     1098    1549    1735    1494    1035    329     -14     -3      
+7074   1961 592     -20     1149    -162    445     1522    692     -468    -45     18      312     1002    1672    1544    1355    996     881     192     -526    
+7074   1962 390     -183    1013    -483    152     1300    562     -416    -501    -778    406     835     1176    1454    1265    927     647     94      -594    
+7074   1963 415     -450    1256    -888    234     1587    571     -1007   -1100   -840    239     1303    1445    1695    1618    1207    540     -33     -372    
+7074   1964 458     -258    1108    -523    222     1482    535     -317    -876    -533    259     941     1427    1580    1438    980     656     -35     -204    
+7074   1965 405     -159    1092    -419    225     1420    430     -309    -755    -382    371     691     1495    1389    1377    1223    543     -479    -478    
+7074   1966 356     -527    1093    -1005   215     1574    507     -1217   -1383   -316    12      943     1648    1699    1376    857     469     196     -370    
+7074   1967 459     -201    1122    -999999 403     1466    758     -1261   -424    26      287     893     1297    1599    1496    1142    797     332     -1016   
+7074   1968 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -1340   -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

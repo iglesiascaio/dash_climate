@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   BEITOSTOELEN                             (STAID:  18937)
+LATITUDE: dd:mm:ss +61:13:59
+LONGITUDE: ddd:mm:ss +008:55:59
+ELEVATION: m  822
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18937  1971 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -492    -293    
+18937  1972 57      -999999 662     -870    -11     1053    80      -1318   -1009   -436    -78     478     881     1325    949     394     182     -339    -396    
+18937  1973 117     -291    645     -490    19      1076    -69     -444    -646    -139    -262    449     993     1315    917     434     -82     -559    -638    
+18937  1974 124     -472    688     -555    59      954     12      -443    -586    -535    134     581     948     925     988     538     17      -517    -606    
+18937  1975 -999999 -496    -999999 -591    -206    -999999 173     -552    -618    -713    -342    434     -999999 1290    1304    604     182     -268    -295    
+18937  1976 -9      -527    708     -722    -132    1107    -40     -1041   -838    -914    -107    625     954     1196    1165    388     -69     -437    -1053   
+18937  1977 8       -721    590     -1150   -107    1003    95      -1146   -1264   -400    -367    439     925     1111    971     435     226     -382    -561    
+18937  1978 -45     -549    589     -841    -179    1009    141     -756    -1244   -636    -350    444     1040    1008    979     393     264     -239    -1531   
+18937  1979 -999999 -999999 588     -999999 -166    981     -76     -999999 -990    -607    -95     206     1090    1006    850     463     -48     -644    -1050   
+18937  1980 -999999 -826    -999999 -1155   -999999 -999999 -999999 -1189   -1230   -814    -31     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

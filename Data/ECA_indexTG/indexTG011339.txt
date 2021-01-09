@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FRANCE                                   DORANS                                   (STAID:  11339)
+LATITUDE: dd:mm:ss +47:35:30
+LONGITUDE: ddd:mm:ss +006:50:12
+ELEVATION: m  401
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11339  2009 -999999 -999999 1697    -999999 -999999 1888    1143    -999999 -999999 -999999 1222    1598    1706    1902    2051    1638    989     807     223     
+11339  2010 933     433     1526    79      921     1845    969     -155    177     546     1036    1184    1734    2067    1732    1388    955     564     -77     
+11339  2011 1125    465     1650    167     1198    1776    1157    235     363     743     1295    1559    1750    1655    1922    1711    1100    663     456     
+11339  2012 1039    541     1565    187     1089    1845    1069    291     -212    904     922     1435    1746    1810    1975    1486    1039    683     332     
+11339  2013 987     412     1552    136     797     1897    1087    87      -26     322     963     1111    1653    2120    1912    1537    1248    471     372     
+11339  2014 1153    651     1590    445     1097    1809    1261    422     551     826     1155    1310    1858    1875    1694    1644    1358    778     336     
+11339  2015 1149    607     1682    254     1063    2053    1098    264     152     713     1062    1415    1837    2245    2071    1439    1011    846     661     
+11339  2016 1062    644     1624    488     926     1908    1086    356     443     540     903     1334    1742    1981    1996    1771    963     530     164     
+11339  2017 1098    477     1656    144     1117    2026    1048    -205    507     905     943     1496    2018    2028    2033    1399    1197    543     267     
+11339  2018 -999999 526     -999999 297     1150    -999999 1207    610     17      482     1357    1632    1908    -999999 -999999 1757    1213    651     447     

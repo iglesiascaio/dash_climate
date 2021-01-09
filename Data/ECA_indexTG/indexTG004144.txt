@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  GERODA-PLATZ                             (STAID:   4144)
+LATITUDE: dd:mm:ss +50:16:40
+LONGITUDE: ddd:mm:ss +009:54:56
+ELEVATION: m  550
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4144   1949 877     -999999 1453    -999999 809     1607    1002    -3      59      212     1055    1169    1329    1777    1705    1675    1075    252     170     
+4144   1950 758     333     1337    57      793     1659    703     -182    196     470     569     1331    1626    1658    1690    1122    690     299     -406    
+4144   1951 767     143     1290    -85     608     1559    855     59      110     107     623     1093    1453    1669    1551    1338    777     454     -73     
+4144   1952 698     168     1334    -138    791     1643    526     -163    -180    181     1018    1181    1453    1739    1732    861     625     89      -195    
+4144   1953 812     135     1338    -183    925     1529    862     -241    -106    616     830     1325    1444    1555    1584    1276    1038    266     85      
+4144   1954 632     134     1164    -301    660     1388    749     -555    -445    363     508     1105    1472    1265    1429    1193    814     236     116     
+4144   1955 595     63      1184    -208    464     1489    657     -399    -356    -67     601     863     1315    1605    1542    1163    637     172     -5      
+4144   1956 576     -8      1156    -368    651     1318    673     -195    -939    228     519     1202    1157    1529    1262    1250    682     88      59      
+4144   1957 729     258     1181    56      685     1511    711     -135    264     588     657     810     1579    1659    1295    1079    782     269     -119    
+4144   1958 692     79      1247    -126    494     1481    821     -257    10      -212    488     1206    1334    1531    1572    1332    783     350     126     
+4144   1959 830     301     1397    21      862     1653    783     -89     26      586     849     1150    1497    1826    1631    1418    808     121     79      
+4144   1960 687     170     1209    -97     751     1403    768     -245    -127    365     706     1181    1515    1320    1377    1149    772     383     -168    
+4144   1961 754     227     1257    -101    768     1369    948     -325    223     484     975     850     1402    1274    1433    1614    981     248     -122    
+4144   1962 602     148     1159    -91     470     1435    688     19      -178    -92     717     792     1310    1415    1575    1136    838     84      -437    
+4144   1963 580     -128    1261    -625    647     1492    809     -791    -649    144     739     1062    1379    1656    1436    1283    630     521     -516    

@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  KREIS BIBERACH ALTHEIM                   (STAID:   4560)
+LATITUDE: dd:mm:ss +48:08:56
+LONGITUDE: ddd:mm:ss +009:27:38
+ELEVATION: m  533
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4560   2004 -999999 -999999 -999999 -999999 -999999 -999999 869     -999999 -999999 -999999 -999999 -999999 -999999 -999999 1711    1338    946     320     -112    
+4560   2005 773     174     1390    -162    767     1619    857     -83     -305    239     840     1223    1629    1696    1532    1411    936     222     -141    
+4560   2006 825     93      1437    -250    700     1692    1034    -399    -205    119     755     1228    1621    2037    1417    1554    1058    490     165     
+4560   2007 881     468     1429    268     960     1659    692     330     312     438     1098    1349    1653    1698    1625    1141    740     193     -43     
+4560   2008 841     267     1387    104     828     1673    754     128     235     342     727     1413    1656    1689    1673    1140    836     282     -59     
+4560   2009 821     143     1475    -196    899     1673    885     -392    -132    300     1043    1358    1493    1708    1813    1418    757     484     -53     
+4560   2010 728     176     1348    -171    710     1700    742     -341    -112    304     777     1050    1580    1902    1616    1143    713     371     -312    
+4560   2011 881     206     1461    -115    958     1637    835     -79     63      470     1057    1351    1606    1528    1775    1440    765     305     241     
+4560   2012 852     271     1439    -26     915     1737    843     99      -444    618     783     1341    1655    1716    1839    1282    778     473     24      
+4560   2013 814     208     1393    -55     674     1719    880     -21     -179    144     796     1086    1538    1911    1703    1304    965     366     78      
+4560   2014 950     411     1409    176     905     1645    1016    194     263     581     959     1177    1629    1758    1547    1377    1126    540     204     
+4560   2015 920     377     1486    29      867     1860    879     78      -219    482     829     1290    1655    2001    1917    1200    825     614     275     
+4560   2016 887     411     1472    223     782     1759    879     84      316     354     774     1217    1632    1859    1782    1552    767     322     -28     
+4560   2017 876     248     1450    -107    923     1813    825     -488    226     689     710     1361    1814    1803    1821    1171    952     347     62      
+4560   2018 980     300     1624    71      979     1862    928     380     -260    269     1168    1507    1735    1915    1931    1472    925     387     241     
+4560   2019 -999999 372     1466    116     811     1851    -999999 -79     194     549     873     1013    1862    1899    1792    1350    1004    -999999 -999999 

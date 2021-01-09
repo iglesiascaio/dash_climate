@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   GAUSDAL - FOLLEBU                        (STAID:  18066)
+LATITUDE: dd:mm:ss +61:13:28
+LONGITUDE: ddd:mm:ss +010:15:32
+ELEVATION: m  375
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18066  2013 338     -999999 1024    -999999 213     1343    366     -904    -590    -541    183     995     1189    1561    1273    916     334     -152    -271    
+18066  2014 463     -167    1116    -429    482     1442    446     -743    -258    94      460     893     1286    1765    1271    1001    435     -99     -590    
+18066  2015 437     -166    989     -458    352     1298    429     -539    -223    13      439     606     1147    1384    1358    987     459     -160    -275    
+18066  2016 406     -212    1089    -541    411     1376    369     -922    -420    35      272     920     1416    1426    1290    1208    262     -360    -248    
+18066  2017 350     -252    982     -433    332     1278    337     -596    -459    -133    229     895     1214    1384    1233    916     375     -281    -640    
+18066  2018 444     -417    1221    -679    346     1583    448     -603    -805    -583    255     1364    1469    1967    1310    926     420     0       -485    
+18066  2019 -999999 -177    1067    -459    366     1433    -999999 -581    -296    -125    485     741     1326    1548    1423    866     260     -999999 -999999 

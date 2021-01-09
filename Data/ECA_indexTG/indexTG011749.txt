@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  GREIZ                                    (STAID:  11749)
+LATITUDE: dd:mm:ss +50:39:00
+LONGITUDE: ddd:mm:ss +012:12:00
+ELEVATION: m   28
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11749  1947 844     -999999 1630    -999999 947     1896    938     -593    -834    349     1002    1493    1831    1915    1939    1584    715     524     89      
+11749  1948 932     380     1485    144     1013    1682    908     365     -32     600     1066    1376    1677    1662    1705    1416    884     425     10      
+11749  1949 921     281     1482    67      810     1668    1018    69      126     161     1035    1243    1400    1805    1790    1609    1073    371     323     
+11749  1950 897     404     1519    160     888     1851    852     -144    315     479     710     1469    1849    1919    1786    1360    769     428     -206    
+11749  1951 918     269     1469    54      742     1783    914     172     211     238     787     1203    1651    1810    1884    1462    652     636     273     
+11749  1952 825     309     1452    106     830     1780    673     47      -9      243     1030    1224    1577    1869    1889    1104    765     148     -21     
+11749  1953 921     220     1472    -33     892     1756    959     -99     27      476     881     1321    1653    1909    1703    1349    1015    511     240     
+11749  1954 794     229     1354    -204    722     1656    947     -462    -408    428     554     1180    1738    1554    1678    1411    1050    375     345     
+11749  1955 764     225     1354    -36     606     1657    856     -238    -234    10      685     1126    1577    1734    1659    1326    827     417     213     
+11749  1956 715     117     1339    -264    704     1582    845     11      -1067   237     559     1311    1401    1802    1539    1403    899     230     159     
+11749  1957 880     397     1328    184     761     1714    886     -27     446     673     691     915     1691    1873    1577    1207    990     459     37      
+11749  1958 843     258     1408    59      607     1698    948     -23     174     -93     475     1433    1528    1779    1781    1426    979     436     165     

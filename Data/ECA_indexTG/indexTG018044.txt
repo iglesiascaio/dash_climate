@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   LYNGDAL                                  (STAID:  18044)
+LATITUDE: dd:mm:ss +58:08:02
+LONGITUDE: ddd:mm:ss +007:02:43
+ELEVATION: m    6
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18044  2013 -999999 -999999 1198    -999999 483     1525    -999999 -999999 -999999 -124    399     1091    1335    1687    1548    1089    -999999 402     525     
+18044  2014 948     469     1388    353     852     1656    1028    133     406     562     878     1116    1548    1888    1528    1358    1065    659     206     
+18044  2015 843     486     1181    249     643     1441    914     281     262     426     656     847     1245    1467    1603    1257    855     634     538     
+18044  2016 825     405     1311    177     746     1508    878     -177    170     403     593     1237    1520    1529    1474    1503    805     328     489     
+18044  2017 812     402     1229    288     709     1452    884     220     142     400     590     1133    1407    1495    1451    1282    965     401     205     
+18044  2018 851     267     1404    89      709     1666    900     167     -128    -42     692     1477    1609    1893    1495    1234    872     595     275     
+18044  2019 -999999 440     1282    238     741     1560    -999999 91      360     445     808     972     1414    1630    1630    1223    757     -999999 -999999 

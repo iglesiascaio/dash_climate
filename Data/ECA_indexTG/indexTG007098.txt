@@ -1,0 +1,47 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  TAMMELA MUSTIALA                         (STAID:   7098)
+LATITUDE: dd:mm:ss +60:49:00
+LONGITUDE: ddd:mm:ss +023:46:00
+ELEVATION: m  110
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7098   1959 503     -999999 1179    -999999 423     1639    448     -620    -338    -47     370     944     1490    1800    1621    824     415     96      -585    
+7098   1960 397     -416    1194    -852    285     1614    365     -1013   -965    -446    188     1110    1598    1758    1486    1000    249     -149    -103    
+7098   1961 542     -110    1123    -232    375     1525    636     -451    -140    -80     206     993     1685    1550    1345    944     832     127     -579    
+7098   1962 343     -244    1011    -547    143     1301    525     -494    -570    -801    394     844     1198    1431    1272    913     606     52      -774    
+7098   1963 353     -532    1222    -986    194     1532    543     -1049   -1152   -916    223     1275    1388    1634    1569    1218    519     -108    -466    
+7098   1964 412     -321    1091    -594    207     1457    495     -347    -994    -570    255     937     1399    1580    1391    964     637     -122    -275    
+7098   1965 352     -227    1065    -494    185     1397    381     -397    -835    -425    314     668     1455    1369    1368    1207    495     -561    -520    
+7098   1966 296     -618    1087    -1114   195     1581    464     -1385   -1472   -345    2       922     1665    1714    1367    830     426     128     -484    
+7098   1967 429     -284    1141    -776    401     1505    713     -1251   -552    16      263     920     1326    1638    1545    1131    738     270     -1042   
+7098   1968 351     -373    1121    -1052   299     1554    308     -1502   -596    -177    378     700     1624    1492    1549    970     160     -200    -265    
+7098   1969 329     -497    1159    -747    149     1615    439     -986    -1015   -718    301     871     1548    1665    1631    917     474     -74     -791    
+7098   1970 330     -508    1120    -1082   262     1568    374     -1095   -1379   -263    104     938     1662    1578    1469    949     357     -183    -299    
+7098   1971 409     -270    1088    -401    195     1499    326     -303    -622    -582    152     1014    1367    1633    1494    841     374     -238    -303    
+7098   1972 495     -325    1200    -586    239     1717    450     -938    -511    -343    135     923     1650    1916    1583    968     402     -18     129     
+7098   1973 433     -54     1145    -202    373     1659    135     -233    -535    -114    241     986     1633    1920    1424    635     158     -388    -682    
+7098   1974 546     -252    1074    -366    243     1442    605     -313    -97     -207    206     728     1413    1511    1401    1173    482     148     28      
+7098   1975 566     1       1201    -176    437     1516    573     -190    -386    -103    291     1118    1307    1701    1534    1231    431     61      -279    

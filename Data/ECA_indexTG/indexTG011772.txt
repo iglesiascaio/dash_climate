@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  BAD SUDERODE                             (STAID:  11772)
+LATITUDE: dd:mm:ss +51:43:59
+LONGITUDE: ddd:mm:ss +011:07:00
+ELEVATION: m   24
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11772  1947 922     -999999 1717    -999999 1006    1935    1107    -488    -890    393     1065    1562    1861    1948    1993    1867    889     598     173     
+11772  1948 1020    458     1553    193     1064    1738    1014    357     40      668     1115    1410    1692    1747    1774    1570    937     537     353     
+11772  1949 1038    471     1568    342     946     1700    1140    310     364     315     1174    1357    1439    1830    1823    1775    1217    424     378     
+11772  1950 945     504     1530    249     942     1851    911     -54     439     609     745     1465    1834    1829    1891    1399    845     491     -179    
+11772  1951 950     314     1448    90      769     1693    1013    220     245     259     877     1173    1543    1749    1783    1553    766     728     465     
+11772  1952 849     410     1456    224     903     1736    673     79      123     289     1173    1255    1544    1807    1852    1085    760     171     19      
+11772  1953 989     287     1481    54      974     1712    1064    45      103     603     984     1335    1648    1796    1690    1417    1100    675     415     
+11772  1954 825     330     1348    -98     794     1589    993     -354    -384    468     608     1299    1640    1484    1645    1399    1072    506     422     
+11772  1955 805     293     1359    29      642     1633    926     -123    -238    74      778     1079    1485    1724    1686    1389    870     522     339     
+11772  1956 723     200     1297    -173    723     1510    860     23      -929    313     526     1323    1354    1731    1440    1391    893     294     228     
+11772  1957 925     455     1358    269     852     1686    913     163     431     713     816     1025    1729    1805    1525    1239    1025    471     123     
+11772  1958 887     316     1426    139     659     1670    989     53      252     -27     594     1406    1498    1745    1762    1527    1021    418     345     

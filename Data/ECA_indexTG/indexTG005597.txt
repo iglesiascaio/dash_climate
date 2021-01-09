@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   KRACKELBACKEN                            (STAID:   5597)
+LATITUDE: dd:mm:ss +61:33:00
+LONGITUDE: ddd:mm:ss +014:12:00
+ELEVATION: m  670
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5597   1968 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -45     -596    -571    
+5597   1969 -999999 -999999 852     -999999 -1      1326    104     -701    -999999 -568    -3      567     -999999 1271    1456    659     291     -643    -829    
+5597   1970 -999999 -999999 -999999 -999999 4       -999999 118     -999999 -999999 -503    -162    671     -999999 1135    1199    644     225     -518    -450    
+5597   1971 228     -999999 780     -458    77      1106    126     -475    -999999 -515    -50     715     985     1250    1081    695     214     -535    -392    
+5597   1972 267     -999999 806     -999999 73      1223    206     -999999 -646    -358    -45     618     1099    1484    1076    586     262     -231    -207    
+5597   1973 177     -178    738     -355    106     1212    -45     -276    -606    -52     -153    514     1116    1467    1036    471     -20     -585    -740    
+5597   1974 238     -393    798     -521    219     1063    101     -425    -384    -211    208     660     1009    1085    1090    738     -41     -391    -471    
+5597   1975 279     -337    795     -429    87      1168    324     -458    -352    -316    -63     634     920     1397    1173    751     304     -82     -467    
+5597   1976 139     -373    807     -615    39      1197    49      -894    -512    -651    -39     804     1040    1271    1274    464     11      -326    -926    
+5597   1977 -999999 -999999 628     -999999 -27     1013    180     -999999 -992    -297    -312    521     947     1043    1039    536     304     -304    -999999 

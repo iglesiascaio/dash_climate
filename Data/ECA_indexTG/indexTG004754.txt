@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  WELLENDINGEN                             (STAID:   4754)
+LATITUDE: dd:mm:ss +48:08:54
+LONGITUDE: ddd:mm:ss +008:41:47
+ELEVATION: m  655
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4754   1978 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 4       
+4754   1979 694     -999999 1190    -198    633     1464    774     -550    -30     372     462     1061    1482    1501    1410    1208    873     238     257     
+4754   1980 633     249     1164    20      560     1425    700     -366    179     308     405     962     1293    1388    1589    1329    663     108     -273    
+4754   1981 689     45      1264    -378    796     1489    782     -505    -352    591     732     1065    1387    1534    1542    1311    736     301     -144    
+4754   1982 776     148     1318    -145    622     1621    896     -196    -90     262     491     1108    1545    1802    1512    1436    800     456     128     
+4754   1983 790     277     1384    5       693     1758    751     175     -319    370     769     944     1525    2040    1703    1309    806     137     -66     
+4754   1984 -999999 99      -999999 -112    464     -999999 -999999 -58     -218    -28     569     854     1340    1619    -999999 -999999 -999999 -999999 -999999 

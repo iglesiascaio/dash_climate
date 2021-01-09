@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   RANHEIM                                  (STAID:  11098)
+LATITUDE: dd:mm:ss +63:25:28
+LONGITUDE: ddd:mm:ss +010:32:00
+ELEVATION: m   23
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11098  2012 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 314     -547    
+11098  2013 649     -999999 1183    -353    495     1415    723     -312    -205    -184    443     1225    1330    1473    1441    1165    659     348     341     
+11098  2014 807     337     1285    200     684     1609    808     -161    442     404     612     1034    1286    1959    1571    1224    809     405     87      
+11098  2015 756     349     1113    146     596     1365    825     95      267     425     513     846     1050    1353    1682    1218    796     463     326     
+11098  2016 662     274     1162    20      607     1397    633     -315    52      315     461     1041    1292    1530    1366    1267    543     72      280     
+11098  2017 667     199     1132    139     493     1389    739     143     -23     151     409     916     1321    1468    1376    1293    769     153     -22     
+11098  2018 688     57      1251    -133    567     1484    747     -88     -306    -197    557     1339    1225    1822    1398    1138    635     441     160     
+11098  2019 -999999 219     1183    45      571     1485    -999999 -134    124     102     750     851     1378    1542    1532    1034    460     -999999 -999999 

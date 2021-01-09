@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    VALDENA                                  (STAID:  17833)
+LATITUDE: dd:mm:ss +44:26:38
+LONGITUDE: ddd:mm:ss +009:47:03
+ELEVATION: m 7620
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17833  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17833  2006 1080    -999999 1615    -999999 920     1909    1252    -55     209     440     968     1355    1802    2210    1713    1630    1258    868     508     
+17833  2007 1118    745     1637    565     1115    1869    999     616     572     632     1243    1474    1706    2022    1875    1489    1002    506     236     
+17833  2008 1076    518     1570    344     946     1896    1099    402     397     554     896     1386    1749    1944    1990    1435    1249    608     265     
+17833  2009 1099    508     1690    185     1079    1963    1154    71      223     610     993     1630    1743    2021    2119    1608    1046    811     249     
+17833  2010 961     442     1552    107     886     1891    993     -86     164     456     939     1265    1724    2107    1837    1425    915     644     100     
+17833  2011 1112    450     1674    207     1062    1862    1152    187     348     505     1183    1503    1727    1794    2062    1767    1023    671     535     
+17833  2012 1122    571     1670    269     1048    2069    1177    322     -73     909     886     1345    1899    2082    2222    1564    1174    792     290     
+17833  2013 1043    493     1566    204     835     1882    1161    267     38      361     994     1156    1642    2031    1965    1591    1242    647     507     
+17833  2014 1133    681     1538    481     1020    1784    1243    455     480     733     1058    1271    1758    1795    1799    1540    1275    911     482     
+17833  2015 1160    654     1690    365     1026    2054    1117    405     193     619     1031    1427    1840    2309    2006    1502    1029    824     658     
+17833  2016 1108    658     1612    507     965     1889    1128    355     507     573     1080    1245    1684    2055    1923    1669    1010    710     468     
+17833  2017 1149    601     1697    320     1127    2091    1085    27      480     902     1037    1437    1967    2072    2229    1417    1244    591     330     
+17833  2018 1127    513     1703    271     994     1982    1203    507     -55     408     1205    1375    1797    2057    2085    1682    1231    694     446     
+17833  2019 -999999 639     -999999 382     880     -999999 -999999 176     539     740     900     1006    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

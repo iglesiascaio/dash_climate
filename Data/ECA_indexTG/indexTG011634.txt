@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    PONTE DI LEGNO (CASE PIRLI)              (STAID:  11634)
+LATITUDE: dd:mm:ss +46:17:53
+LONGITUDE: ddd:mm:ss +010:30:24
+ELEVATION: m 1640
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11634  2004 -999999 -999999 -999999 -999999 335     -999999 -999999 -376    -53     -17     377     647     1222    -999999 -999999 -999999 678     208     -10     
+11634  2005 -999999 31      -999999 -244    433     -999999 -999999 -211    -540    25      361     904     -999999 -999999 1195    -999999 699     49      -373    
+11634  2006 -999999 -999999 -999999 -999999 389     -999999 798     -397    -285    -177    413     824     1317    1601    -999999 1217    829     376     154     
+11634  2007 -999999 281     -999999 109     635     -999999 528     105     63      181     804     936     1207    -999999 1244    876     636     72      -99     
+11634  2008 526     112     -999999 -21     391     -999999 552     -4      44      36      265     868     1230    -999999 1385    867     689     96      -167    
+11634  2009 556     20      1123    -247    563     1348    651     -275    -301    45      552     1075    1164    1341    1532    1097    597     260     -336    
+11634  2010 -999999 -47     -999999 -369    356     -999999 460     -442    -324    -56     438     689     1228    1550    -999999 900     453     56      -416    
+11634  2011 -999999 10      -999999 -206    607     -999999 -999999 -221    43      182     696     950     1126    -999999 -999999 -999999 -999999 -999999 -129    
+11634  2012 631     -999999 1105    -197    584     1443    700     -226    -243    517     356     871     1335    1447    1545    1061    717     321     -277    
+11634  2013 584     41      1083    -260    392     1393    650     -93     -424    -33     532     681     1188    1548    1437    1100    702     146     140     
+11634  2014 634     192     1020    -11     556     1228    786     -107    -72     318     599     754     1191    1281    1209    1080    803     476     35      
+11634  2015 699     217     1143    -65     561     1497    696     -92     -146    202     552     930     1252    1743    1482    893     626     571     354     
+11634  2016 628     255     1081    66      471     1332    657     -182    8       123     547     745     1145    1460    1385    1190    576     169     265     
+11634  2017 -999999 187     1118    -28     631     1466    603     -371    32      441     521     926     1398    1465    1533    837     837     135     -999999 

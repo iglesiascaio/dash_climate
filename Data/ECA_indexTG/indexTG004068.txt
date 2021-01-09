@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  ESCHAU-HOBBACH                           (STAID:   4068)
+LATITUDE: dd:mm:ss +49:51:36
+LONGITUDE: ddd:mm:ss +009:17:13
+ELEVATION: m  198
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4068   1991 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 27      
+4068   1992 923     -999999 1482    114     905     1791    835     117     204     487     787     1437    1663    1825    1879    1275    662     575     135     
+4068   1993 889     333     1447    114     976     1630    716     289     -103    403     1053    1474    1601    1676    1613    1249    765     131     431     
+4068   1994 1015    420     1489    296     949     1818    981     353     84      715     826     1302    1649    2076    1724    1336    792     820     433     
+4068   1995 909     488     1423    322     828     1718    903     46      504     342     944     1203    1459    1960    1728    1221    1168    310     -11     
+4068   1996 753     244     1304    -79     725     1592    816     -146    -79     205     822     1151    1570    1554    1650    1063    902     480     -155    
+4068   1997 868     340     1368    -18     854     1684    793     -275    418     680     618     1256    1514    1660    1872    1268    712     400     258     
+4068   1998 902     404     1411    243     927     1643    823     228     241     566     856     1357    1652    1637    1639    1311    957     197     132     
+4068   1999 930     362     1488    134     961     1679    885     229     30      590     906     1386    1526    1851    1656    1589    827     239     258     
+4068   2000 991     420     1461    272     1023    1641    1003    165     401     623     974     1472    1665    1502    1758    1381    1018    608     309     
+4068   2001 916     475     1419    218     922     1707    915     86      264     547     698     1514    1451    1827    1834    1157    1245    333     -34     
+4068   2002 -999999 444     -999999 156     934     1751    -999999 15      521     589     924     1288    1739    1744    1770    -999999 -999999 814     218     
+4068   2003 937     -999999 1572    27      941     1958    834     -31     -119    565     838     1417    2005    1845    2025    1282    635     594     124     
+4068   2004 878     346     1388    157     804     1649    905     89      267     371     935     1110    1553    1697    1695    1328    945     441     95      
+4068   2005 874     336     1415    67      868     1617    952     207     -119    405     949     1251    1635    1746    1470    1430    1078    343     19      
+4068   2006 -999999 245     -999999 -54     751     1751    -999999 -195    21      187     787     1279    1613    2119    1516    -999999 -999999 -999999 -999999 

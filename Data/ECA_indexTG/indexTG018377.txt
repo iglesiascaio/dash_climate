@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   LI BRU                                   (STAID:  18377)
+LATITUDE: dd:mm:ss +62:00:37
+LONGITUDE: ddd:mm:ss +010:00:01
+ELEVATION: m  780
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18377  2012 -999999 -999999 -999999 -999999 -999999 -999999 30      -999999 -674    76      -110    -999999 -999999 1090    1036    496     -93     -288    -1421   
+18377  2013 84      -871    796     -1260   -142    1143    178     -1400   -927    -1036   -155    765     1008    1359    1064    666     179     -310    -254    
+18377  2014 219     -299    -999999 -531    191     1134    265     -971    -352    -95     156     531     920     1475    1040    748     334     -288    -635    
+18377  2015 236     -287    720     -527    90      1030    246     -681    -237    -212    117     365     825     1076    1182    739     252     -252    -369    
+18377  2016 111     -452    787     -812    73      1080    64      -1349   -710    -291    -46     553     1058    1177    1005    965     -117    -650    -295    
+18377  2017 145     -419    737     -463    86      1031    102     -474    -631    -371    -3      629     983     1158    952     686     180     -563    -867    
+18377  2018 147     -748    960     -1034   40      1282    179     -1016   -1239   -1022   61      1080    1166    1596    1079    751     185     -398    -579    
+18377  2019 -999999 -426    810     -655    81      1189    -999999 -901    -468    -396    205     439     1107    1285    1172    637     -81     -999999 -999999 

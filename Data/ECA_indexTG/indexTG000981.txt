@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION LATVIA                                   MERSRAGS                                 (STAID:    981)
+LATITUDE: dd:mm:ss +57:18:00
+LONGITUDE: ddd:mm:ss +023:06:00
+ELEVATION: m    6
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+981    1995 -999999 -999999 -999999 -999999 528     1666    -999999 -238    175     181     439     945     1640    1658    1699    1159    -999999 -999999 -430    
+981    1996 -999999 -999999 -999999 -654    -999999 1513    756     -578    -956    -458    422     871     1308    1504    1741    1006    818     450     -389    
+981    1997 676     119     1273    -217    433     1731    691     -294    39      77      344     859     1519    1848    1814    1226    557     265     -211    
+981    1998 -999999 -999999 -999999 -999999 492     1496    599     125     75      -70     558     1025    1473    1539    1472    1240    716     -195    -125    
+981    1999 732     11      1351    -202    570     1703    824     -137    -358    113     741     843     1703    1853    1561    1403    756     310     -6      
+981    2000 780     201     1229    8       663     1519    851     -53     86      133     806     1010    1354    1604    1577    1002    996     530     244     
+981    2001 -999999 248     -999999 -10     543     -999999 -999999 -24     -275    -33     640     1050    1354    1980    -999999 -999999 -999999 -999999 -999999 

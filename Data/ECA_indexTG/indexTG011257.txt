@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FRANCE                                   AIX-LA-MOLLE                             (STAID:  11257)
+LATITUDE: dd:mm:ss +43:31:51
+LONGITUDE: ddd:mm:ss +005:26:33
+ELEVATION: m  215
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11257  1945 -999999 -999999 1984    -999999 -999999 2264    1450    -999999 -999999 -999999 1397    1750    2208    2398    2183    1955    1507    887     640     
+11257  1946 1399    885     1935    662     1311    2182    1497    576     783     904     1465    1570    1924    2354    2259    2028    1515    949     425     
+11257  1947 1469    817     2035    451     1392    2337    1627    322     622     1057    1355    1765    2160    2452    2394    2068    1657    1153    564     
+11257  1948 1466    1037    1846    699     1443    2053    1540    762     777     1294    1331    1702    1939    2045    2172    1873    1547    1200    917     
+11257  1949 1493    1032    2004    864     1275    2240    1626    774     906     839     1473    1518    2012    2390    2310    2314    1680    883     783     
+11257  1950 1434    982     1966    759     1276    2373    1450    628     876     1031    1055    1735    2216    2546    2350    1867    1474    1009    377     
+11257  1951 1406    859     1857    605     1167    2145    1542    715     737     838     1212    1452    1974    2250    2204    2039    1449    1142    817     
+11257  1952 1423    932     1981    615     1421    2345    1349    465     561     1138    1430    1694    2256    2513    2264    1713    1454    878     667     
+11257  1953 1441    826     1917    520     1389    2118    1580    387     506     1035    1323    1807    1839    2236    2271    2008    1583    1148    1077    
+11257  1954 1361    973     1794    685     1236    2043    1533    425     537     1033    1144    1528    2028    2067    2033    1957    1497    1147    882     
+11257  1955 1440    1017    1885    841     1293    2149    1448    927     700     924     1342    1614    1950    2295    2195    1901    1396    1047    935     
+11257  1956 1289    842     1832    559     1249    2033    1398    825     -127    921     1105    1715    1766    2158    2165    2067    1337    791     669     
+11257  1957 1426    939     1806    758     1305    2096    1509    665     960     1212    1244    1457    1933    2216    2135    1836    1578    1112    730     
+11257  1958 1438    976     1889    776     1233    2121    1563    674     939     822     1078    1795    1896    2191    2270    2086    1533    1070    863     
+11257  1959 1471    1047    1917    831     1344    2215    1503    647     1000    1164    1229    1635    2022    2418    2197    1981    1536    991     795     
+11257  1960 1395    981     1850    759     1371    2096    1419    588     903     1070    1233    1806    2090    2116    2082    1760    1413    1084    577     

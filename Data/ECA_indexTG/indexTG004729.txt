@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  WALDSASSEN                               (STAID:   4729)
+LATITUDE: dd:mm:ss +50:00:38
+LONGITUDE: ddd:mm:ss +012:17:57
+ELEVATION: m  509
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4729   1949 696     -999999 1264    -999999 631     1444    763     -239    -112    -25     809     1113    1259    1569    1499    1324    772     194     140     
+4729   1950 681     179     1300    -58     679     1614    645     -347    42      260     516     1256    1618    1666    1559    1166    541     232     -370    
+4729   1951 700     77      1234    -136    545     1536    705     -38     15      81      526     1028    1438    1587    1581    1229    480     414     25      
+4729   1952 637     102     1278    -123    667     1610    501     -166    -237    82      847     1076    1416    1760    1649    896     560     44      -321    
+4729   1953 711     17      1274    -264    721     1527    728     -306    -154    266     731     1168    1497    1651    1431    1150    814     218     4       
+4729   1954 601     37      1159    -384    587     1437    705     -575    -602    306     423     1027    1502    1345    1468    1180    799     135     114     
+4729   1955 570     14      1171    -244    432     1483    636     -460    -402    -139    516     921     1393    1574    1479    1128    604     178     -13     
+4729   1956 510     -113    1158    -503    510     1407    646     -250    -1297   33      427     1066    1238    1666    1311    1220    687     29      -103    
+4729   1957 691     156     1185    -93     606     1568    685     -290    136     472     527     817     1607    1715    1382    1050    698     308     -162    

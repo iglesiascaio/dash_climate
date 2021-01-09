@@ -1,0 +1,35 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    PORLEZZA (TORRENTE)                      (STAID:  11690)
+LATITUDE: dd:mm:ss +46:02:21
+LONGITUDE: ddd:mm:ss +009:08:26
+ELEVATION: m  291
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11690  2013 -999999 -999999 -999999 -999999 -999999 2208    1334    -999999 -999999 -999999 -999999 1443    2010    2358    2250    1838    1339    823     436     
+11690  2014 1335    784     1793    481     1343    1995    1413    439     584     1042    1376    1611    2017    2021    1948    1781    1475    979     617     
+11690  2015 1352    830     1942    512     1335    2311    1266    435     480     962     1346    1698    2117    2593    2218    1657    1248    894     507     
+11690  2016 1295    757     1865    504     1235    2125    1334    360     653     875     1315    1516    1934    2267    2166    1977    1210    813     430     
+11690  2017 -999999 711     1904    367     1372    2262    1248    88      613     1116    1302    1697    2212    2289    2283    1622    1382    748     -999999 

@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  OLBERSLEBEN                              (STAID:   4905)
+LATITUDE: dd:mm:ss +51:09:07
+LONGITUDE: ddd:mm:ss +011:19:59
+ELEVATION: m  160
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4905   2005 -999999 -999999 -999999 -999999 -999999 -999999 1033    -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1531    1132    432     114     
+4905   2006 963     237     1565    -121    789     1814    1237    -407    -64     190     854     1326    1623    2214    1600    1757    1238    718     442     
+4905   2007 1010    663     1530    463     1051    1779    830     527     417     615     1069    1469    1809    1806    1722    1291    812     388     152     
+4905   2008 965     432     1478    306     893     1792    885     448     318     468     794     1414    1694    1852    1827    1263    902     491     85      
+4905   2009 923     275     1551    -79     1021    1739    1016    -369    61      466     1217    1386    1468    1830    1911    1480    812     763     12      
+4905   2010 788     254     1441    -179    795     1805    880     -473    -65     458     857     1071    1633    2060    1716    1293    828     520     -483    
+4905   2011 969     248     1550    -113    984     1743    927     96      66      450     1126    1379    1709    1689    1830    1557    932     292     444     
+4905   2012 935     377     1513    108     1018    1757    933     213     -362    692     878     1481    1558    1797    1910    1429    871     500     195     
+4905   2013 896     241     1488    51      669     1808    983     18      -72     -86     866     1234    1614    1950    1855    1391    1099    454     364     
+4905   2014 1047    527     1536    315     1010    1756    1125    151     443     642     1119    1274    1593    1996    1674    1548    1217    606     264     
+4905   2015 1017    491     1522    204     853     1899    978     261     76      485     799     1274    1605    2004    2077    1344    833     762     611     
+4905   2016 988     505     1603    334     881     1869    1023    24      368     433     795     1413    1777    1950    1877    1789    900     384     129     
+4905   2017 993     366     1510    51      982     1833    1014    -242    289     732     750     1455    1767    1880    1850    1335    1152    552     343     
+4905   2018 1086    427     1747    197     1044    2016    1032    411     -201    248     1271    1620    1860    2100    2083    1533    1064    497     446     
+4905   2019 -999999 521     1588    281     931     1991    -999999 81      319     700     957     1138    2065    1930    1982    1445    1125    -999999 -999999 

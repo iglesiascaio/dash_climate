@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    TORRIGLIA                                (STAID:  17828)
+LATITUDE: dd:mm:ss +44:30:52
+LONGITUDE: ddd:mm:ss +009:09:15
+ELEVATION: m 7690
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17828  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17828  2006 1131    -999999 1592    -999999 956     1859    1291    198     344     528     995     1345    1748    2141    1683    1629    1307    938     660     
+17828  2007 1130    809     1586    621     1135    1799    1040    617     581     731     1257    1419    1688    1907    1800    1433    1084    602     403     
+17828  2008 1093    606     1548    444     977     1833    1134    445     487     605     907     1418    1698    1881    1917    1451    1239    710     337     
+17828  2009 1135    588     1674    301     1095    1903    1216    265     301     650     1071    1565    1721    1942    2042    1685    1121    846     352     
+17828  2010 1002    529     1538    229     904     1856    1050    80      259     499     986     1228    1667    2071    1822    1439    1034    678     215     
+17828  2011 1156    547     1666    318     1103    1833    1231    304     447     598     1226    1489    1709    1781    2007    1777    1113    809     574     
+17828  2012 1137    651     1638    355     1048    1991    1227    389     83      905     899     1334    1840    1985    2148    1622    1212    848     362     
+17828  2013 1062    573     1538    305     882     1823    1170    362     179     444     1042    1166    1581    1970    1910    1546    1256    704     515     
+17828  2014 1130    690     1520    472     1008    1751    1266    441     458     747     1036    1243    1719    1778    1755    1580    1299    918     547     
+17828  2015 1160    700     1653    417     1037    2009    1121    415     274     710     995     1405    1805    2235    1982    1474    1063    827     667     
+17828  2016 1113    670     1607    509     972     1871    1157    373     484     602     1085    1234    1648    2004    1953    1703    1038    734     475     
+17828  2017 1128    630     1637    374     1080    2013    1083    159     501     864     1002    1371    1886    2020    2129    1396    1188    661     316     
+17828  2018 1137    535     1680    304     1000    1949    1233    506     65      429     1183    1395    1752    2029    2063    1658    1296    742     472     
+17828  2019 -999999 676     -999999 408     899     -999999 -999999 233     532     770     890     1040    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

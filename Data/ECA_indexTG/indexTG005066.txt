@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   SANDNESSJOEN LH - STOKKA                 (STAID:   5066)
+LATITUDE: dd:mm:ss +65:57:38
+LONGITUDE: ddd:mm:ss +012:28:17
+ELEVATION: m   17
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5066   2004 702     -999999 1121    -999999 644     1340    693     -40     20      311     767     858     1072    1425    1513    1075    720     283     379     
+5066   2005 702     305     1075    252     446     1362    837     277     88      64      558     719     1151    1566    1362    1079    897     532     91      
+5066   2006 751     286     1172    160     437     1414    831     322     56      -198    528     985     1069    1440    1721    1267    665     568     535     
+5066   2007 705     355     1087    146     583     1415    689     73      -202    442     478     827     1268    1640    1334    956     820     286     456     
+5066   2008 720     361     1106    314     503     1375    734     201     283     111     559     841     1232    1534    1355    1099    782     321     307     
+5066   2009 692     289     1164    117     634     1413    710     133     -110    263     631     1008    1166    1521    1544    1097    526     515     -50     
+5066   2010 524     90      1027    -176    434     1253    609     -130    -368    14      474     816     977     1431    1342    1105    749     -32     -165    
+5066   2011 774     126     1191    -43     587     1432    961     97      -64     150     641     973     1394    1451    1450    1229    888     767     262     
+5066   2012 582     415     944     149     474     1209    663     71      112     383     340     694     1103    1261    1260    994     531     469     -239    
+5066   2013 673     115     1125    -62     463     1356    730     59      -1      -127    353     1160    1319    1353    1395    1153    680     357     312     
+5066   2014 737     313     1156    180     541     1504    755     -125    378     285     485     853     1169    1830    1502    1073    786     406     177     
+5066   2015 709     337     1023    153     529     1223    825     92      196     350     453     781     873     1212    1573    1231    781     465     445     
+5066   2016 652     317     1055    108     566     1243    717     -224    101     326     451     916     1046    1410    1267    1223    667     263     348     
+5066   2017 648     297     1032    231     371     1316    751     257     71      150     307     654     1241    1379    1325    1280    698     275     104     
+5066   2018 626     124     1080    -14     435     1285    772     -15     -144    -195    413     1087    927     1612    1305    1112    638     571     141     
+5066   2019 -999999 230     1081    52      480     1354    -999999 -103    126     5       681     761     1154    1437    1465    976     484     -999999 -999999 

@@ -1,0 +1,35 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  ASCHAFFENBURG                            (STAID:   4192)
+LATITUDE: dd:mm:ss +49:58:44
+LONGITUDE: ddd:mm:ss +009:06:45
+ELEVATION: m  110
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4192   1947 1041    -999999 1800    -999999 1093    2058    1141    -283    -410    534     1154    1592    1944    2089    2136    1874    940     617     214     
+4192   1948 1020    546     1528    301     1162    1691    961     477     204     806     1153    1526    1682    1690    1700    1408    986     488     86      
+4192   1949 1052    401     1624    162     995     1794    1154    186     220     427     1243    1324    1543    1977    1852    1794    1194    474     341     
+4192   1950 983     520     1567    262     993     1895    926     25      437     637     804     1531    1906    1954    1826    1362    893     524     -141    
+4192   1951 1005    402     1500    186     864     1756    1069    346     369     419     864     1310    1613    1860    1791    1545    902     767     236     

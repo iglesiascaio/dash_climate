@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    PUIG SESOLLES                            (STAID:  11066)
+LATITUDE: dd:mm:ss +41:46:24
+LONGITUDE: ddd:mm:ss +002:26:16
+ELEVATION: m 1668
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11066  2010 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 699     241     66      
+11066  2011 800     246     1206    118     644     1374    970     64      234     187     756     993     1183    1307    1626    1362    959     545     322     
+11066  2012 788     399     1226    156     583     1596    826     313     -189    426     327     987     1489    1490    1805    1235    829     415     279     
+11066  2013 693     295     1066    116     363     1418    837     233     -196    169     416     505     1102    1640    1501    1218    995     295     365     
+11066  2014 767     369     1117    209     557     1338    987     209     36      281     695     699     1289    1334    1391    1293    1116    548     271     
+11066  2015 844     402     1249    127     689     1591    842     214     -129    341     616     1085    1403    1851    1514    1001    776     751     588     
+11066  2016 766     445     1154    336     432     1495    862     220     192     134     407     755     1233    1646    1598    1267    907     411     396     
+11066  2017 820     408     1251    197     691     1643    844     -40     239     517     575     975     1584    1640    1702    1008    1095    419     83      
+11066  2018 760     299     1193    57      479     1490    840     280     -219    90      601     748     1238    1664    1562    1334    819     368     556     
+11066  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

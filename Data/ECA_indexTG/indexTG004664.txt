@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  STEINBERG                                (STAID:   4664)
+LATITUDE: dd:mm:ss +51:21:51
+LONGITUDE: ddd:mm:ss +009:41:29
+ELEVATION: m  500
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4664   1970 608     -999999 1147    -999999 412     1469    780     -307    -296    -57     316     976     1522    1365    1523    1168    728     447     -136    
+4664   1971 701     150     1237    -74     623     1478    657     -57     -24     -65     686     1249    1209    1616    1600    1039    787     141     175     
+4664   1972 626     211     1082    -26     610     1381    574     -397    158     399     508     919     1206    1575    1357    906     601     213     47      
+4664   1973 670     162     1211    -31     523     1541    694     -59     -86     235     293     1033    1433    1511    1674    1301    610     175     -140    
+4664   1974 704     243     1100    84      644     1318    607     229     172     405     647     880     1173    1265    1510    1112    351     365     308     
+4664   1975 747     273     1267    227     570     1570    732     328     25      236     507     966     1269    1661    1771    1405    629     166     -58     

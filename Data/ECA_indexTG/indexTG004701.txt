@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  TUTTLINGEN                               (STAID:   4701)
+LATITUDE: dd:mm:ss +48:00:33
+LONGITUDE: ddd:mm:ss +008:49:08
+ELEVATION: m  649
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4701   1991 -999999 -999999 1262    -999999 612     1619    789     -999999 -367    541     500     789     1296    1808    1742    1418    695     258     -195    
+4701   1992 793     158     1372    -124    769     1672    791     -177    8       350     632     1319    1476    1704    1830    1249    663     465     -39     
+4701   1993 755     213     1323    -25     791     1538    606     134     -186    211     893     1273    1526    1568    1521    1146    670     0       227     
+4701   1994 889     293     1366    123     823     1729    876     101     32      695     568     1198    1548    1965    1667    1224    740     667     196     
+4701   1995 763     316     1275    110     657     1600    772     -178    333     153     741     1079    1302    1874    1614    1018    1090    196     -105    
+4701   1996 645     144     1225    -176    644     1520    651     -170    -257    86      737     1112    1525    1553    1481    929     740     283     -306    
+4701   1997 749     181     1257    -161    732     1531    741     -345    202     521     542     1127    1377    1492    1720    1264    664     298     92      
+4701   1998 744     256     1296    66      757     1573    634     -5      115     360     671     1238    1515    1617    1584    1135    784     -21     -120    
+4701   1999 766     146     1357    -107    810     1554    744     10      -222    405     718     1305    1372    1705    1580    1443    733     56      7       
+4701   2000 843     215     1357    23      853     1560    864     -146    220     415     856     1288    1615    1414    1654    1307    882     402     197     
+4701   2001 783     355     1279    101     814     1582    745     -9      116     517     548     1369    1326    1696    1716    989     1090    144     -176    
+4701   2002 833     281     1307    -20     773     1637    796     -170    320     480     685     1151    1708    1631    1573    1081    789     517     202     
+4701   2003 805     237     1487    -120    812     1903    705     -182    -406    451     708     1274    1979    1777    1954    1207    510     404     -103    

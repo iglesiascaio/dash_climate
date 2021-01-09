@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION UKRAINE                                  ROVNO                                    (STAID:   1470)
+LATITUDE: dd:mm:ss +50:36:00
+LONGITUDE: ddd:mm:ss +026:12:00
+ELEVATION: m  234
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+1470   1995 794     -999999 1505    -999999 786     1873    721     -333    210     280     782     1298    1804    1960    1850    1331    898     -109    -610    
+1470   1996 659     -999999 1473    -999999 697     1748    838     -964    -868    -405    779     1754    1707    1720    1814    1055    866     585     -411    
+1470   1997 731     118     1416    -338    712     1779    711     -569    -2      223     457     1471    1718    1828    1791    1231    632     304     -302    
+1470   1998 780     149     1527    -46     822     1796    598     2       182     72      1021    1411    1849    1816    1725    1333    757     -331    -502    
+1470   1999 -999999 -999999 -999999 -999999 879     1950    789     -119    -223    370     1041    1231    2057    2037    1754    1468    818     55      -79     
+1470   2000 -999999 -999999 -999999 -999999 1011    -999999 927     -326    89      301     1252    1441    1674    1751    1859    1150    1002    626     112     
+1470   2001 -999999 -999999 -999999 -999999 862     1898    833     -97     -258    236     995     1377    1530    2194    1957    1320    1029    161     -793    
+1470   2002 887     -999999 1600    -999999 982     1926    842     -225    345     459     838     1644    1682    2150    1936    1343    717     462     -862    
+1470   2003 791     -104    1557    -638    827     1841    805     -352    -706    61      678     1729    1717    1975    1821    1336    633     481     -13     
+1470   2004 818     104     1480    -255    757     1826    896     -560    -221    221     817     1238    1638    1959    1873    1332    996     338     15      
+1470   2005 -999999 127     -999999 -167    741     -999999 -999999 -57     -485    -106    935     1372    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

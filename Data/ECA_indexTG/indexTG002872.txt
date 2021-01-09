@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    PRACCHIA                                 (STAID:   2872)
+LATITUDE: dd:mm:ss +44:03:14
+LONGITUDE: ddd:mm:ss +010:54:20
+ELEVATION: m  620
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+2872   2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+2872   2006 1038    -999999 1528    -999999 906     1778    1186    87      199     457     946     1316    1640    2044    1645    1561    1228    766     505     
+2872   2007 1057    709     1529    531     1057    1767    966     552     535     654     1155    1366    1684    1873    1740    1345    1017    535     191     
+2872   2008 1041    512     1519    325     923     1818    1074    398     392     534     897     1336    1661    1885    1905    1410    1163    647     242     
+2872   2009 1063    497     1625    190     1012    1880    1137    151     177     577     986     1473    1652    1937    2043    1642    998     776     290     
+2872   2010 966     470     1487    192     857     1801    1026    15      280     455     908     1209    1642    1988    1769    1388    973     717     213     
+2872   2011 1079    493     1627    248     1011    1834    1114    225     312     507     1096    1432    1742    1796    1961    1724    1021    600     482     
+2872   2012 1073    504     1622    197     988     1995    1197    179     -88     793     910     1259    1819    2038    2121    1568    1167    858     211     
+2872   2013 1040    510     1543    187     898     1825    1192    243     100     454     1055    1192    1582    1963    1923    1530    1297    746     331     
+2872   2014 1148    704     1522    473     1012    1769    1265    508     592     738     1040    1259    1735    1796    1774    1521    1330    941     513     
+2872   2015 1126    678     1643    379     996     1986    1135    371     238     643     946     1397    1776    2212    1962    1540    1112    752     498     
+2872   2016 1097    653     1591    477     981     1865    1129    368     570     612     1089    1245    1669    1987    1931    1609    1037    745     289     
+2872   2017 1095    575     1633    268     1075    1998    1019    31      506     841     979     1402    1908    1976    2107    1404    1031    623     293     
+2872   2018 1118    495     1665    293     1021    1902    1226    527     35      422     1207    1439    1745    1974    1981    1632    1260    785     335     
+2872   2019 -999999 630     -999999 316     904     -999999 -999999 121     511     764     906     1048    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

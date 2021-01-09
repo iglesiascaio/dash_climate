@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  TROCHTELFINGEN-WILSINGEN                 (STAID:   4697)
+LATITUDE: dd:mm:ss +48:16:55
+LONGITUDE: ddd:mm:ss +009:18:52
+ELEVATION: m  769
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4697   1988 -999999 -999999 -999999 -999999 -999999 1419    691     -999999 -999999 -999999 -999999 -999999 1268    1480    1505    1124    856     88      75      
+4697   1989 731     282     1195    56      745     1443    670     -36     136     552     517     1158    1248    1578    1497    1149    828     27      61      
+4697   1990 721     281     1190    112     716     1476    680     -86     389     468     462     1209    1282    1520    1621    1021    853     161     -281    
+4697   1991 621     102     1181    -294    538     1526    685     -160    -456    445     460     705     1203    1691    1674    1334    556     169     -252    
+4697   1992 728     95      1294    -149    695     1592    713     -170    -16     280     559     1243    1383    1614    1772    1171    541     432     -99     
+4697   1993 685     157     1258    -73     750     1455    503     155     -296    173     847     1233    1424    1466    1474    1088    582     -163    160     
+4697   1994 800     192     1275    39      711     1643    795     50      -108    588     485     1053    1465    1829    1628    1166    639     585     145     
+4697   1995 683     244     1198    49      590     1503    693     -245    268     87      683     1003    1179    1817    1504    976     1021    73      -207    
+4697   1996 535     18      1119    -318    516     1417    585     -377    -372    -52     627     977     1410    1415    1426    842     709     200     -412    
+4697   1997 696     130     1197    -216    685     1462    691     -395    200     485     468     1095    1303    1418    1660    1220    623     231     11      
+4697   1998 692     203     1235    23      692     1499    581     -49     116     276     639     1158    1441    1523    1532    1099    759     -120    -119    
+4697   1999 717     112     1287    -106    736     1474    720     52      -266    322     662     1222    1270    1622    1523    1406    709     45      -43     
+4697   2000 791     164     1306    -38     791     1514    814     -235    177     325     798     1250    1531    1339    1672    1238    838     365     174     
+4697   2001 726     307     1213    63      737     1519    709     -49     64      427     469     1308    1256    1618    1673    924     1100    90      -239    
+4697   2002 784     252     1255    -39     703     1592    749     -145    301     407     618     1081    1632    1575    1570    1041    733     473     102     
+4697   2003 764     179     1445    -200    784     1850    670     -250    -480    440     676     1234    1874    1685    1993    1190    450     377     -100    

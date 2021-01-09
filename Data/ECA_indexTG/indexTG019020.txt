@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   OEVRE JERVAN                             (STAID:  19020)
+LATITUDE: dd:mm:ss +63:20:35
+LONGITUDE: ddd:mm:ss +010:39:11
+ELEVATION: m  176
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+19020  1968 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -235    
+19020  1969 441     -999999 1095    -391    267     1496    410     -265    -702    -410    377     837     1421    1345    1720    852     574     -200    -345    
+19020  1970 389     -281    982     -640    267     1347    439     -739    -856    -170    67      899     1423    1276    1344    865     576     -128    16      
+19020  1971 478     -5      940     -70     305     1194    418     -131    -99     -276    242     945     1035    1272    1272    851     458     -56     178     
+19020  1972 533     -10     1021    -198    452     1376    452     -574    -197    120     323     909     1359    1527    1240    746     489     120     303     
+19020  1973 485     212     908     120     382     1260    321     238     -211    293     98      745     1182    1421    1174    805     306     -148    -155    
+19020  1974 548     24      1010    -12     433     1226    461     152     -35     14      374     908     1217    1214    1246    1087    305     -5      59      
+19020  1975 -999999 88      -999999 52      328     -999999 -999999 31      68      65      202     713     946     -999999 -999999 -999999 -999999 -999999 -999999 

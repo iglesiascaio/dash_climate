@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  FUCHSKAUTEN                              (STAID:   4124)
+LATITUDE: dd:mm:ss +50:39:36
+LONGITUDE: ddd:mm:ss +008:06:12
+ELEVATION: m  653
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4124   1947 688     -999999 1425    -999999 689     1671    856     -562    -868    108     742     1220    1569    1685    1756    1567    739     265     -65     
+4124   1948 711     238     1173    -39     788     1343    722     101     -160    522     743     1099    1303    1354    1372    1155    637     377     1       
+4124   1949 729     177     1261    1       609     1403    876     -17     21      34      862     938     1141    1552    1508    1560    925     142     37      
+4124   1950 644     221     1200    -33     621     1550    594     -253    134     331     382     1143    1554    1543    1554    1001    597     182     -475    
+4124   1951 662     46      1134    -173    457     1390    764     -21     -6      -4      442     931     1236    1476    1452    1249    631     417     94      
+4124   1952 582     133     1202    -132    699     1487    383     -255    -242    137     923     1046    1285    1607    1563    767     474     -96     -260    
+4124   1953 719     19      1199    -258    767     1403    801     -299    -212    482     704     1112    1346    1427    1435    1160    919     321     161     
+4124   1954 560     129     1033    -268    562     1246    709     -550    -431    308     378     992     1307    1106    1326    1074    795     257     83      
+4124   1955 552     39      1113    -220    369     1408    650     -329    -436    -173    538     749     1223    1519    1475    1163    590     197     42      
+4124   1956 473     -43     1015    -408    512     1166    620     -229    -1079   162     311     1057    970     1396    1124    1212    605     43      25      
+4124   1957 664     208     1090    14      623     1413    638     -150    184     535     594     740     1471    1532    1237    958     753     199     -117    
+4124   1958 602     61      1117    -114    373     1349    721     -205    -10     -256    298     1075    1186    1405    1450    1265    710     188     71      
+4124   1959 771     226     1309    -11     765     1553    774     -186    94      464     772     1059    1386    1754    1512    1357    819     144     25      
+4124   1960 629     164     1101    -87     639     1294    719     -200    -86     264     569     1082    1358    1230    1295    1059    720     379     -145    
+4124   1961 699     242     1170    -46     689     1293    865     -279    321     466     839     765     1322    1197    1359    1544    875     177     -195    
+4124   1962 -999999 58      989     -163    325     1232    617     -68     -233    -233    552     662     1177    1211    1305    1022    787     37      -999999 

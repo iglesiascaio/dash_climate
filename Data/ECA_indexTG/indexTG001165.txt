@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION RUSSIAN FEDERATION                       BELYJ                                    (STAID:   1165)
+LATITUDE: dd:mm:ss +55:54:00
+LONGITUDE: ddd:mm:ss +032:54:00
+ELEVATION: m  214
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+1165   1995 -999999 -999999 -999999 -999999 694     -999999 -999999 -654    -130    71      725     1249    1798    1626    1566    1139    633     -316    -1063   
+1165   1996 -999999 -999999 -999999 -999999 -999999 1582    644     -1049   -1153   -473    599     1440    1516    1611    1620    920     586     396     -759    
+1165   1997 456     -191    1201    -644    392     1677    382     -717    -433    -156    333     997     1644    1725    1661    863     344     -28     -837    
+1165   1998 -999999 -999999 -999999 -999999 499     1627    236     -435    -607    -205    470     1231    1811    1661    1410    1078    498     -869    -739    
+1165   1999 -999999 -999999 -999999 -656    514     1847    569     -520    -714    -78     858     807     2011    1977    1541    1168    680     -151    -198    
+1165   2000 608     -131    1286    -409    611     1581    606     -656    -354    -134    987     1006    1437    1718    1591    958     709     152     -140    
+1165   2001 -999999 -120    -999999 -443    591     1762    -999999 -420    -781    -278    973     1048    1482    2188    1632    -999999 -999999 -999999 -999999 

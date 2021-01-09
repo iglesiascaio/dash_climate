@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  REMSCHEID-LENNEP                         (STAID:   4551)
+LATITUDE: dd:mm:ss +51:10:51
+LONGITUDE: ddd:mm:ss +007:15:05
+ELEVATION: m  345
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4551   2011 -999999 -999999 1495    -999999 1104    1577    1093    -999999 240     616     1292    1409    1567    1491    1673    1537    1013    730     375     
+4551   2012 920     509     1397    168     992     1634    915     257     -147    793     762     1413    1409    1650    1836    1292    926     525     263     
+4551   2013 869     297     1407    79      655     1738    942     34      -74     81      788     1102    1507    1926    1774    1323    1077    421     397     
+4551   2014 1044    593     1455    408     1049    1637    1122    375     459     813     1141    1197    1546    1885    1477    1480    1178    705     243     
+4551   2015 977     488     1417    170     854     1737    964     162     99      508     881     1175    1518    1811    1875    1224    872     799     734     
+4551   2016 953     540     1500    410     831     1706    997     226     260     342     761     1387    1599    1769    1747    1726    844     428     324     
+4551   2017 975     454     1449    215     991     1748    954     -87     427     786     720     1459    1780    1760    1705    1255    1104    498     247     
+4551   2018 -999999 406     -999999 161     1070    -999999 -999999 380     -178    329     1251    1635    1696    -999999 -999999 -999999 -999999 -999999 -999999 

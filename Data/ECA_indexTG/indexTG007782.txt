@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  KOLARI RAUTUVAARA                        (STAID:   7782)
+LATITUDE: dd:mm:ss +67:28:59
+LONGITUDE: ddd:mm:ss +023:54:00
+ELEVATION: m  213
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7782   1977 -112    -999999 649     -999999 -236    1120    -86     -1350   -1440   -761    -308    358     942     1306    1106    462     -160    -557    -1045   
+7782   1978 -167    -902    769     -1345   -92     1208    -154    -1497   -1508   -692    -240    652     1188    1388    1047    552     -187    -825    -1965   
+7782   1979 -66     -1129   832     -1729   -96     1349    -138    -1841   -1345   -622    -221    552     1276    1506    1263    587     -327    -668    -1040   
+7782   1980 -140    -1057   925     -1466   -132    1421    -265    -1673   -1700   -962    53      518     1530    1525    1209    695     -282    -1209   -1438   
+7782   1981 -183    -1166   739     -1388   -288    1095    -25     -1311   -1417   -1367   -178    684     848     1392    1037    620     62      -760    -1885   
+7782   1982 -29     -954    723     -1527   -16     1114    -27     -1809   -819    -494    -35     479     776     1442    1114    532     -88     -525    -973    
+7782   1983 -57     -768    855     -1096   36      1187    -216    -1081   -1248   -712    97      724     1113    1427    1018    732     -77     -1308   -1457   
+7782   1984 -999999 -975    -999999 -1212   -999999 -999999 -999999 -1438   -681    -875    6       -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

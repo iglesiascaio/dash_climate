@@ -1,0 +1,35 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  FRONBERG (SCHWANDORF)                    (STAID:  11783)
+LATITUDE: dd:mm:ss +49:20:26
+LONGITUDE: ddd:mm:ss +012:07:58
+ELEVATION: m   37
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11783  1951 848     -999999 1432    -999999 740     1718    885     -31     102     234     716     1268    1582    1778    1790    1442    724     494     37      
+11783  1952 798     213     1483    -56     818     1852    639     -96     -112    220     1037    1204    1628    2017    1905    1083    708     125     -175    
+11783  1953 846     138     1464    -153    902     1697    844     -205    -70     425     898     1384    1651    1815    1624    1398    941     191     41      
+11783  1954 747     130     1338    -279    765     1595    825     -455    -437    449     637     1205    1637    1496    1653    1391    883     198     224     
+11783  1955 -999999 156     1345    -92     638     1660    -999999 -304    -206    110     702     1104    1568    1778    1631    1272    -999999 -999999 -999999 

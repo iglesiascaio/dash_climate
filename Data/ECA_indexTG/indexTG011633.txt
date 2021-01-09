@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    VAL MASINO (S.MARTINO)                   (STAID:  11633)
+LATITUDE: dd:mm:ss +46:14:34
+LONGITUDE: ddd:mm:ss +009:37:55
+ELEVATION: m  943
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11633  2004 -999999 -999999 -999999 -999999 721     -999999 -999999 -33     137     229     780     1093    1646    1721    -999999 1430    986     -999999 103     
+11633  2005 -999999 -999999 -999999 -36     825     -999999 -999999 -74     -141    346     797     1328    1648    1774    -999999 -999999 881     -999999 -205    
+11633  2006 -999999 -999999 -999999 -999999 797     1694    -999999 -321    -70     167     855     1248    1670    1956    1455    -999999 -999999 -999999 196     
+11633  2007 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1640    1740    -999999 -999999 -999999 311     28      
+11633  2008 846     -999999 1372    88      808     1652    822     128     109     425     727     1268    1590    1678    1686    1246    901     376     11      
+11633  2009 -999999 260     -999999 -41     894     -999999 876     -142    14      409     905     1384    1569    -999999 1786    1374    828     427     -69     
+11633  2010 747     193     1350    -135    725     1664    755     -247    -83     285     794     1099    1545    1857    1585    1205    700     358     -188    
+11633  2011 918     237     1490    -23     967     1654    940     -67     217     435     1106    1364    1555    1614    1790    1504    805     450     123     
+11633  2012 787     283     1271    -26     604     1683    902     -5      -207    544     371     885     1391    1782    1866    1310    865     547     45      
+11633  2013 886     294     -999999 32      -999999 1706    937     115     -74     238     -999999 1148    1525    1865    1723    1318    976     516     221     
+11633  2014 933     466     1358    227     912     1561    999     197     268     601     972     1165    1562    1612    1510    1320    1041    634     272     
+11633  2015 910     424     1488    134     876     1819    839     89      33      445     905     1282    1648    2035    1768    1213    823     483     131     
+11633  2016 865     338     1410    108     790     1660    881     -25     226     389     885     1101    1503    1803    1668    1469    766     400     168     
+11633  2017 -999999 305     1442    -13     951     1778    773     -341    -999999 681     875     1295    1747    1808    1776    1139    892     288     -999999 

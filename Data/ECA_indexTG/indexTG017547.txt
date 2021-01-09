@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    CA_BORTOLANI                             (STAID:  17547)
+LATITUDE: dd:mm:ss +44:20:48
+LONGITUDE: ddd:mm:ss +011:05:03
+ELEVATION: m 6910
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17547  2011 -999999 -999999 -999999 -999999 -999999 -999999 1312    -999999 -999999 -999999 -999999 -999999 -999999 2023    2385    2011    1185    743     576     
+17547  2012 1254    661     1865    315     1177    2343    1274    368     -19     1071    983     1471    2150    2416    2455    1689    1275    856     276     
+17547  2013 1177    545     1774    222     964     2130    1270    277     101     450     1120    1326    1877    2296    2210    1801    1288    720     582     
+17547  2014 1241    752     1695    544     1153    1989    1340    481     573     850     1165    1445    1966    1975    2024    1642    1401    976     494     
+17547  2015 1289    725     1883    416     1149    2282    1226    475     264     704     1157    1587    2051    2546    2241    1690    1097    895     686     
+17547  2016 1230    704     1807    533     1073    2125    1227    356     559     629     1170    1422    1899    2340    2128    1866    1067    752     547     
+17547  2017 1279    656     1895    355     1270    2343    1186    -3      539     1023    1168    1615    2211    2358    2456    1536    1375    640     368     
+17547  2018 1246    569     1893    302     1122    2190    1323    535     -30     468     1347    1558    1986    2290    2289    1874    1341    753     455     
+17547  2019 -999999 713     -999999 427     994     -999999 -999999 215     631     875     1005    1104    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

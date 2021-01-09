@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SPAIN                                    OLOT - PLA DE BAIX                       (STAID:  11060)
+LATITUDE: dd:mm:ss +42:11:29
+LONGITUDE: ddd:mm:ss +002:28:57
+ELEVATION: m  421
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11060  2008 1305    -999999 1796    -999999 1165    2127    1311    689     732     852     1175    1468    1910    2211    2247    1748    1420    761     438     
+11060  2009 1406    790     1926    521     1309    2251    1451    473     667     968     1127    1827    2085    2275    2388    1829    1482    1041    656     
+11060  2010 1282    832     1819    535     1172    2146    1306    419     530     841     1234    1431    1865    2377    2188    1803    1354    759     507     
+11060  2011 1384    792     1882    573     1341    2062    1512    513     711     897     1427    1702    1933    2016    2234    1968    1487    1081    608     
+11060  2012 1360    843     1906    493     1243    2284    1425    472     392     993     1109    1623    2169    2257    2424    1838    1462    974     565     
+11060  2013 1294    822     1773    521     1129    2106    1424    519     475     911     1164    1313    1875    2260    2176    1838    1597    831     507     
+11060  2014 1375    880     1815    625     1261    2046    1530    655     721     952     1354    1479    1981    2094    2062    1912    1624    1051    578     
+11060  2015 1402    889     1942    554     1356    2265    1384    555     526     972     1317    1778    2101    2493    2197    1747    1383    1021    671     
+11060  2016 1345    908     1803    726     1187    2062    1435    728     783     855     1229    1478    1944    2287    1960    1924    1436    944     593     
+11060  2017 -999999 875     -999999 589     1302    -999999 -999999 354     844     1077    1195    1630    2199    -999999 -999999 -999999 -999999 -999999 -999999 
+11060  2018 -999999 -999999 -999999 -999999 1184    -999999 -999999 634     346     839     1283    1432    1934    -999999 -999999 -999999 -999999 -999999 -999999 

@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    PADULLE_SALA_BOLOGNESE                   (STAID:  17711)
+LATITUDE: dd:mm:ss +44:37:39
+LONGITUDE: ddd:mm:ss +011:17:26
+ELEVATION: m  250
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17711  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17711  2006 1339    -999999 2004    -999999 1276    2297    1475    56      351     740     1333    1755    2160    2574    2153    2033    1524    867     460     
+17711  2007 1388    814     2055    518     1443    2353    1288    479     626     912     1509    1909    2207    2522    2326    1840    1349    672     251     
+17711  2008 1381    680     1998    387     1296    2373    1422    449     468     878     1248    1760    2179    2429    2506    1842    1531    890     349     
+17711  2009 1390    711     2112    310     1412    2423    1440    168     423     881     1363    1990    2194    2480    2586    2034    1337    951     207     
+17711  2010 1284    621     1980    215     1278    2327    1318    84      369     763     1323    1750    2184    2516    2277    1813    1219    924     131     
+17711  2011 1384    628     2121    249     1391    2381    1427    203     432     847     1474    1855    2195    2340    2604    2243    1315    728     319     
+17711  2012 1372    592     2115    133     1366    2562    1473    102     -34     1086    1263    1745    2369    2620    2690    1982    1456    983     142     
+17711  2013 1354    633     2032    209     1235    2377    1497    269     217     703     1351    1654    2135    2537    2450    2045    1519    927     368     
+17711  2014 1459    864     1975    555     1415    2245    1550    548     771     1042    1448    1757    2197    2265    2269    1910    1589    1151    543     
+17711  2015 1418    830     2110    441     1341    2509    1392    337     443     890     1315    1817    2264    2760    2496    1984    1345    848     444     
+17711  2016 1372    748     2042    452     1373    2330    1387    315     607     928     1457    1735    2159    2505    2321    2062    1290    812     254     
+17711  2017 1379    674     2079    273     1409    2518    1299    2       593     1090    1352    1782    2396    2539    2613    1766    1401    728     238     
+17711  2018 1411    639     2105    329     1369    2381    1536    456     289     692     1543    1876    2204    2478    2454    2057    1538    1014    260     
+17711  2019 -999999 740     -999999 301     1220    -999999 -999999 125     542     953     1267    1449    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

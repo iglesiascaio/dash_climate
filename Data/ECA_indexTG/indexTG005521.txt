@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   FORSHULT                                 (STAID:   5521)
+LATITUDE: dd:mm:ss +59:57:36
+LONGITUDE: ddd:mm:ss +013:31:48
+ELEVATION: m  125
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5521   1961 524     -999999 1138    -999999 549     1441    687     -771    -182    227     450     968     1537    1507    1283    1070    926     56      -813    
+5521   1962 328     -216    974     -553    154     1273    467     -538    -283    -644    387     728     1251    1371    1195    902     626     -132    -948    
+5521   1963 319     -598    1160    -1203   298     1496    554     -1480   -1179   -519    342     1073    1448    1569    1471    1034    634     -9      -652    
+5521   1964 446     -186    1084    -509    435     1337    482     -376    -499    -229    481     1054    1290    1422    1297    945     450     53      -571    
+5521   1965 330     -219    1062    -524    318     1333    373     -462    -541    -264    419     803     1348    1352    1299    1141    538     -565    -1156   
+5521   1966 322     -640    1071    -1228   263     1506    474     -1139   -1405   -188    37      931     1576    1587    1357    913     415     95      -437    
+5521   1967 456     -206    1102    -666    478     1438    672     -1116   -422    218     361     849     1319    1551    1440    1076    656     285     -788    
+5521   1968 321     -341    1128    -976    395     1486    309     -1230   -907    -79     503     764     1567    1473    1420    1034    361     -471    -617    
+5521   1969 404     -999999 1192    -999999 187     1625    423     -483    -999999 -667    314     919     1644    1629    1603    1024    611     -373    -815    
+5521   1970 305     -563    1095    -1137   277     1518    379     -1052   -1589   -255    106     975     1698    1426    1435    913     528     -308    -368    
+5521   1971 473     -190    1086    -346    336     1411    408     -389    -274    -339    273     1071    1314    1561    1355    919     545     -243    -172    
+5521   1972 519     -180    1125    -436    394     1536    463     -805    -324    -91     299     972     1461    1747    1398    847     529     11      151     
+5521   1973 487     94      1129    -70     480     1559    196     -171    -202    217     261     955     1567    1742    1367    858     143     -413    -541    

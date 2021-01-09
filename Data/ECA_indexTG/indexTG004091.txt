@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  MEINERZHAGEN-REDLENDORF                  (STAID:   4091)
+LATITUDE: dd:mm:ss +51:05:27
+LONGITUDE: ddd:mm:ss +007:37:46
+ELEVATION: m  380
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4091   2007 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 350     161     
+4091   2008 824     -999999 1307    257     793     1566    774     331     281     296     627     1451    1529    1604    -999999 1106    775     441     33      
+4091   2009 847     246     1407    -36     914     1565    932     -193    62      345     1158    1247    1376    1635    1677    1335    765     700     22      
+4091   2010 722     243     1311    -121    687     1659    784     -314    -65     333     812     928     1581    1905    1489    1125    802     425     -386    
+4091   2011 909     267     1389    -54     980     1493    969     86      159     510     1134    1301    1485    1408    1585    1420    897     592     296     
+4091   2012 823     409     1293    93      893     1529    807     177     -216    672     672     1328    1334    1540    1707    1157    813     451     187     
+4091   2013 793     218     1320    15      570     1642    882     -19     -138    -15     704     1026    1424    1838    1657    1253    1015    372     326     
+4091   2014 964     517     1369    335     946     1557    1044    312     372     685     1036    1119    1454    1805    1409    1384    1096    650     215     
+4091   2015 904     430     1337    130     754     1666    899     120     46      421     751     1091    1446    1745    1800    1169    801     730     655     
+4091   2016 872     474     1406    340     757     1621    913     139     218     295     675     1297    1546    1681    1634    1587    785     372     218     
+4091   2017 890     373     1354    122     893     1656    880     -172    341     693     610     1368    1692    1673    1605    1159    1029    448     193     
+4091   2018 988     345     1582    108     973     1823    976     340     -243    249     1144    1532    1646    1986    1830    1336    1034    556     343     
+4091   2019 -999999 484     1412    250     814     1769    -999999 4       419     543     944     958     1836    1739    1734    1255    1002    -999999 -999999 

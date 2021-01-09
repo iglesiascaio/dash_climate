@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    BIENNO                                   (STAID:  11590)
+LATITUDE: dd:mm:ss +45:56:48
+LONGITUDE: ddd:mm:ss +010:17:12
+ELEVATION: m  501
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11590  2003 -999999 -999999 -999999 -999999 -999999 -999999 1156    252     -999999 -999999 1055    1791    -999999 2285    2531    1735    1023    733     450     
+11590  2004 -999999 582     -999999 365     1049    2062    1312    223     425     636     1116    1404    1952    2074    2146    1799    1345    791     -999999 
+11590  2005 1166    -999999 1791    -999999 1172    2087    1191    294     215     744     1070    1698    2098    2184    1981    1738    1196    638     188     
+11590  2006 1261    518     1854    213     1143    2125    1424    151     311     611     1204    1616    2134    2394    1847    1916    1442    912     533     
+11590  2007 1326    857     1879    610     1428    2090    1201    612     693     938     1584    1766    1976    2274    2016    1644    1270    685     411     
+11590  2008 1254    711     1781    491     1187    2104    1232    515     551     821     1105    1631    1972    2150    2186    1623    1341    729     390     
+11590  2009 1295    667     1943    352     1354    2190    1304    263     409     850     1299    1911    2010    2202    2352    1861    1277    776     274     
+11590  2010 1170    580     1814    231     1144    2165    1159    90      339     705     1206    1521    2041    2393    2058    1646    1097    736     154     
+11590  2011 1306    603     1933    313     1369    -999999 1371    239     570     822     1516    1773    1916    2100    2319    2020    1282    813     489     
+11590  2012 1282    727     1864    349     1305    2241    1308    370     178     1199    1097    1612    2137    2226    2366    1759    1298    868     300     
+11590  2013 1251    620     1834    320     1073    2182    1312    390     263     597     1215    1411    1966    2347    2226    1823    1315    799     585     
+11590  2014 1326    821     1779    569     1317    1976    1417    515     616     1055    1367    1583    1996    2014    1919    1763    1461    999     589     
+11590  2015 1383    839     1963    528     1332    2315    1281    514     474     932     1348    1744    2083    2600    2253    1694    1215    936     640     
+11590  2016 1308    772     1877    533     1254    2126    1315    350     610     863     1367    1540    1937    2298    2138    1954    1215    777     592     
+11590  2017 -999999 -999999 -999999 416     -999999 -999999 -999999 105     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

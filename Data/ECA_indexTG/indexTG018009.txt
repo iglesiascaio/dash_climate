@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   GJERPEN-ARHUS                            (STAID:  18009)
+LATITUDE: dd:mm:ss +59:13:36
+LONGITUDE: ddd:mm:ss +009:34:37
+ELEVATION: m   41
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18009  2013 617     -999999 1222    -999999 364     1577    644     -999999 -417    -327    345     1098    1434    1763    1529    1132    679     121     76      
+18009  2014 789     213     1353    11      772     1668    840     -193    164     425     737     1151    1583    1938    1478    1220    880     420     -339    
+18009  2015 695     199     1184    -146    601     1474    668     -36     -52     305     651     849     1348    1540    1530    1176    632     197     145     
+18009  2016 724     101     1380    -162    715     1624    743     -537    -89     250     612     1281    1661    1674    1540    1499    690     42      48      
+18009  2017 701     137     1291    -73     700     1559    679     -191    -77     289     577     1231    1523    1664    1488    1246    721     69      -186    
+18009  2018 774     -18     1485    -237    648     1830    803     -161    -376    -206    606     1544    1803    2090    1598    1247    773     390     -94     
+18009  2019 -999999 198     1387    -114    786     1694    -999999 -303    72      345     900     1116    1577    1804    1698    1213    609     -999999 -999999 

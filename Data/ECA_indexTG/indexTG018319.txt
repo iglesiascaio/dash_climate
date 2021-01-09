@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   SANDE - LAUVKOLLMYR                      (STAID:  18319)
+LATITUDE: dd:mm:ss +59:38:49
+LONGITUDE: ddd:mm:ss +010:06:19
+ELEVATION: m  437
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18319  2014 -999999 -999999 -999999 -999999 -999999 -999999 539     -999999 -999999 -999999 -999999 -999999 -999999 -999999 1185    921     585     109     -318    
+18319  2015 467     1       919     -248    329     1215    445     -174    -253    35      386     569     1101    1305    1235    908     367     63      18      
+18319  2016 419     -129    1032    -412    392     1288    409     -866    -384    20      250     902     1302    1355    1208    1165    256     -189    -9      
+18319  2017 427     -90     958     -208    377     1242    410     -284    -343    4       267     857     1209    1338    1179    881     442     -93     -385    
+18319  2018 422     -325    1144    -545    256     1477    468     -505    -768    -680    252     1196    1436    1757    1235    960     456     -11     -352    
+18319  2019 -999999 -109    977     -345    308     1326    -999999 -532    -130    -86     325     687     1222    1420    1333    855     245     -999999 -999999 

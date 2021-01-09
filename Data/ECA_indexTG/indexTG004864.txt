@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  MUHLHAUSEN-GORMAR                        (STAID:   4864)
+LATITUDE: dd:mm:ss +51:12:28
+LONGITUDE: ddd:mm:ss +010:29:45
+ELEVATION: m  190
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4864   2004 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 79      
+4864   2005 913     -999999 1452    85      856     1680    994     259     -100    407     917     1245    1587    1840    1609    1505    1041    436     135     
+4864   2006 947     223     1535    -108    758     1806    1193    -375    -81     159     818     1298    1653    2188    1572    1666    1180    733     486     
+4864   2007 1000    659     1505    475     1035    1745    832     540     389     601     1070    1436    1787    1764    1686    1273    808     416     184     
+4864   2008 955     436     1468    309     880     1785    864     411     333     456     771     1409    1711    1840    1803    1251    878     464     112     
+4864   2009 914     281     1524    -50     1000    1712    1006    -325    75      466     1153    1386    1481    1802    1846    1460    803     763     15      
+4864   2010 776     238     1434    -200    790     1802    846     -455    -155    436     859     1076    1654    2054    1692    1253    781     506     -438    
+4864   2011 952     248     1524    -91     980     1712    892     121     60      448     1148    1349    1686    1649    1799    1502    877     297     428     
+4864   2012 918     397     1465    149     1016    1711    875     243     -250    742     846     1455    1523    1753    1850    1342    806     479     169     
+4864   2013 880     224     1460    53      635     1791    943     19      -38     -108    822     1197    1595    1955    1816    1352    1008    466     408     
+4864   2014 1027    515     1517    305     1019    1732    1077    126     390     677     1120    1263    1589    1982    1621    1517    1152    559     290     
+4864   2015 1006    474     1501    209     850     1873    959     255     70      480     834     1236    1601    1974    2035    1299    811     772     632     
+4864   2016 960     493     1561    320     857     1820    988     -5      333     415     797     1357    1745    1901    1811    1741    865     362     186     
+4864   2017 983     361     1494    63      988     1808    994     -235    256     722     771     1465    1769    1856    1797    1285    1128    564     364     
+4864   2018 1053    423     1714    200     1013    1996    963     393     -196    229     1239    1579    1843    2116    2026    1463    980     445     421     
+4864   2019 -999999 500     1535    285     916     1918    -999999 85      355     701     918     1131    1948    1880    1926    1397    1105    -999999 -999999 

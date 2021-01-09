@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  GREIZ-DOLAU                              (STAID:   4162)
+LATITUDE: dd:mm:ss +50:37:33
+LONGITUDE: ddd:mm:ss +012:10:45
+ELEVATION: m  270
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4162   1991 809     -999999 1358    -999999 719     1705    839     123     -286    566     640     947     1432    1942    1733    1437    686     398     -1      
+4162   1992 912     308     1498    113     862     1848    797     82      266     416     757     1410    1735    1857    1949    1256    633     508     59      
+4162   1993 819     256     1408    19      916     1606    628     150     -169    323     987     1438    1586    1655    1576    1191    739     -50     316     
+4162   1994 924     321     1418    193     850     1762    863     277     -37     635     718     1194    1573    1985    1722    1295    685     616     345     
+4162   1995 829     378     1367    237     746     1667    843     -45     428     252     851     1137    1370    1934    1688    1202    1105    212     -211    
+4162   1996 663     73      1271    -306    624     1573    808     -417    -288    21      759     1097    1548    1525    1644    1041    911     469     -375    
+4162   1997 832     270     1356    -115    791     1687    755     -304    383     554     544     1268    1555    1662    1839    1246    675     345     183     
+4162   1998 885     368     1421    245     892     1658    775     203     360     443     905     1329    1679    1669    1625    1307    876     138     56      
+4162   1999 901     298     1452    85      895     1641    910     234     -47     491     803     1389    1471    1853    1595    1586    821     325     216     
+4162   2000 966     381     1460    211     963     1669    995     51      378     492     981     1417    1708    1522    1777    1345    1079    558     271     
+4162   2001 869     424     1394    158     830     1696    903     -11     221     410     680     1394    1435    1797    1847    1181    1174    344     -97     
+4162   2002 904     398     1448    131     851     1788    829     49      474     451     700     1398    1703    1803    1855    1206    788     494     -105    
+4162   2003 850     194     1515    -193    854     1897    752     -97     -398    436     718     1405    1899    1830    1961    1256    517     491     88      
+4162   2004 831     252     1370    54      759     1664    858     -123    206     338     852     1089    1523    1679    1785    1275    919     380     27      
+4162   2005 843     258     1422    -13     808     1661    893     155     -245    267     881     1278    1624    1815    1543    1378    959     339     39      
+4162   2006 915     163     1515    -158    740     1803    1124    -377    -134    130     800     1293    1706    2170    1529    1574    1110    688     424     

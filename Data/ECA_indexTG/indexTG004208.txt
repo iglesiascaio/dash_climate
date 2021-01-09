@@ -1,0 +1,49 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  ASSLAR KLEIN-ALTENSTADTEN                (STAID:   4208)
+LATITUDE: dd:mm:ss +50:34:51
+LONGITUDE: ddd:mm:ss +008:28:09
+ELEVATION: m  200
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4208   1981 -999999 -999999 -999999 -999999 -999999 -999999 850     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1316    760     479     -172    
+4208   1982 875     185     1442    -185    763     1760    993     -301    -71     397     660     1229    1631    1933    1711    1471    935     574     262     
+4208   1983 905     429     1470    191     805     1846    831     410     -130    472     859     1087    1672    2038    1821    1326    848     320     54      
+4208   1984 820     294     1271    110     658     1560    899     176     99      258     650     1065    1386    1611    1678    1217    1015    461     187     
+4208   1985 724     205     1324    -211    822     1498    732     -454    -383    356     770     1338    1333    1632    1525    1328    794     71      289     
+4208   1986 818     191     1353    -31     797     1664    845     89      -517    346     657     1383    1693    1694    1606    1063    944     525     221     
+4208   1987 771     206     1347    -100    669     1562    937     -486    -28     49      999     969     1423    1698    1560    1427    874     513     220     
+4208   1988 924     427     1399    274     846     1637    851     368     232     346     765     1423    1570    1653    1685    1282    985     283     463     
+4208   1989 957     499     1457    328     982     1690    884     215     304     716     745     1478    1568    1782    1717    1433    995     220     256     
+4208   1990 976     501     1428    354     968     1727    881     305     517     706     808     1384    1568    1744    1863    1179    989     473     132     
+4208   1991 840     357     1388    3       793     1710    876     137     -286    637     708     1031    1361    1948    1811    1451    779     402     16      
+4208   1992 944     355     1505    144     935     1803    841     146     279     501     799     1499    1705    1835    1865    1301    645     584     146     
+4208   1993 889     326     1472    98      996     1666    693     224     -93     418     1089    1485    1708    1680    1610    1246    777     54      397     
+4208   1994 1011    396     1513    280     946     1863    936     374     48      683     868     1285    1689    2157    1738    1318    710     788     404     
+4208   1995 939     465     1499    316     871     1814    908     69      491     338     1009    1270    1535    2046    1851    1262    1145    308     -91     
+4208   1996 784     225     1362    -134    769     1664    847     -221    -88     277     876     1157    1646    1661    1683    1134    901     504     -146    
+4208   1997 934     349     1475    -27     947     1794    849     -335    446     741     745     1349    1617    1751    2009    1357    757     437     295     
+4208   1998 955     457     1480    311     1012    1693    833     275     370     602     927     1503    1717    1681    1683    1354    890     251     159     
+4208   1999 982     395     1523    203     976     1729    949     291     153     600     917     1411    1586    1928    1669    1615    860     374     315     

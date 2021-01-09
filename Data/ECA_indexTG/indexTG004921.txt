@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  BAD BRUCKENAU (A)                        (STAID:   4921)
+LATITUDE: dd:mm:ss +50:18:33
+LONGITUDE: ddd:mm:ss +009:47:04
+ELEVATION: m  310
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4921   1969 -999999 -999999 -999999 -999999 -999999 1620    886     -999999 -999999 -999999 -999999 1270    1425    1818    1611    1265    947     444     -479    
+4921   1970 737     111     1285    -280    573     1606    874     -210    -136    87      486     1142    1706    1501    1615    1247    875     500     -18     
+4921   1971 797     227     1379    -28     770     1613    715     -128    71      57      832     1422    1335    1790    1706    1164    774     206     275     
+4921   1972 744     294     1245    83      765     1556    654     -226    207     522     697     1074    1404    1736    1524    1016    643     303     3       
+4921   1973 773     201     1356    -30     695     1674    769     -61     -31     329     481     1267    1603    1661    1756    1349    695     267     -100    
+4921   1974 837     336     1269    145     837     1481    698     282     265     596     811     1104    1343    1447    1649    1246    449     409     406     
+4921   1975 856     356     1417    314     731     1712    792     350     172     337     676     1179    1449    1801    1879    1496    662     223     2       
+4921   1976 830     186     1432    42      691     1789    858     118     3       98      688     1285    1788    1955    1623    1234    914     424     -195    
+4921   1977 827     336     1243    17      761     1537    858     -3      273     602     533     1141    1478    1589    1543    1156    954     462     152     
+4921   1978 749     341     1217    33      752     1454    762     67      -137    505     636     1113    1426    1516    1420    1181    819     284     93      
+4921   1979 -999999 -999999 1260    -999999 -999999 1526    785     -999999 -999999 -999999 583     1164    1639    1506    1436    1221    840     292     356     
+4921   1980 741     315     1264    103     723     1508    765     -264    225     436     587     1140    1472    1457    1595    1323    704     271     -59     
+4921   1981 753     177     1326    -194    894     1532    818     -311    -214    634     791     1253    1474    1575    1545    1304    755     398     -229    
+4921   1982 810     147     1372    -213    721     1662    915     -311    -88     340     628     1192    1557    1832    1594    1412    811     526     164     
+4921   1983 863     342     1464    100     768     1854    772     284     -175    398     855     1053    1684    2071    1800    1305    765     245     -5      
+4921   1984 -999999 209     -999999 19      597     1506    -999999 76      -16     176     632     985     1351    1535    1629    -999999 -999999 -999999 -999999 

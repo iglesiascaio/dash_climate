@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   VARGARDA-HAGRUNGA                        (STAID:   5329)
+LATITUDE: dd:mm:ss +58:01:12
+LONGITUDE: ddd:mm:ss +012:49:48
+ELEVATION: m  148
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5329   1962 -999999 -999999 -999999 -999999 -999999 -999999 660     -999999 -999999 -999999 -999999 -999999 -999999 -999999 1253    995     840     138     -326    
+5329   1963 506     -178    -999999 -634    462     -999999 773     -863    -701    -205    465     1125    1482    -999999 1445    1161    769     389     -226    
+5329   1964 -999999 81      -999999 -188    548     -999999 -999999 -70     -273    -114    649     1113    -999999 1401    1411    1095    753     -999999 -59     
+5329   1965 544     -999999 1103    -146    432     1344    625     -123    -267    -64     490     871     1383    1339    1313    1215    809     -155    -339    
+5329   1966 546     -155    1157    -547    419     1537    675     -593    -725    20      187     1043    1608    1583    1423    1080    709     236     -112    
+5329   1967 711     -999999 1179    -999999 594     1474    851     -999999 -55     362     421     994     1300    1599    1516    1225    890     437     -239    
+5329   1968 627     89      1249    -325    567     1570    655     -437    -297    165     697     842     1597    1501    1614    1238    666     61      -147    
+5329   1969 -999999 -96     -999999 -318    342     -999999 754     -210    -628    -362    454     937     -999999 1679    1725    1270    832     156     -999999 
+5329   1970 -999999 -999999 -999999 -999999 337     -999999 629     -639    -835    -162    165     1001    1677    -999999 1515    1056    688     142     -53     
+5329   1971 -999999 90      -999999 -54     466     -999999 672     -85     -20     -144    393     1147    1332    -999999 1495    1040    768     204     259     
+5329   1972 667     134     1182    -108    553     1534    663     -491    -92     141     469     1046    1413    1739    1445    955     693     341     307     
+5329   1973 -999999 296     -999999 115     586     -999999 500     -18     50      380     362     1007    1518    -999999 1510    1064    449     -12     -103    
+5329   1974 -999999 142     -999999 48      654     -999999 666     111     146     254     692     1018    1384    -999999 1481    1198    475     331     209     
+5329   1975 -999999 225     -999999 143     547     -999999 772     229     -26     109     419     1108    1399    -999999 1866    1281    751     284     238     
+5329   1976 -999999 96      -999999 -70     416     -999999 650     -331    -122    -250    418     1080    1418    -999999 1612    996     616     338     -320    
+5329   1977 -999999 22      -999999 -331    490     -999999 -999999 -281    -399    148     253     1060    1492    -999999 -999999 -999999 -999999 -999999 -999999 

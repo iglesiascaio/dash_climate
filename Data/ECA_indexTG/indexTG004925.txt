@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  HOHERODSKOPF/VOGELSBERG                  (STAID:   4925)
+LATITUDE: dd:mm:ss +50:30:30
+LONGITUDE: ddd:mm:ss +009:13:28
+ELEVATION: m  743
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4925   2008 -999999 -999999 -999999 -999999 -999999 1476    619     -999999 -999999 -999999 -999999 1301    1445    1544    1438    958     639     260     -153    
+4925   2009 682     56      1292    -235    758     1448    760     -354    -196    120     1045    1118    1189    1498    1648    1238    578     471     -219    
+4925   2010 540     13      1163    -375    515     1528    588     -608    -290    133     677     741     1432    1792    1355    965     611     188     -556    
+4925   2011 757     59      1271    -280    850     1367    868     -130    -141    369     997     1190    1336    1269    1496    1333    765     510     44      
+4925   2012 663     206     1193    -197    752     1433    689     -109    -549    539     518     1193    1226    1442    1624    1131    674     264     -55     
+4925   2013 610     -2      1180    -239    374     1542    681     -277    -400    -250    533     844     1292    1742    1583    1064    806     169     139     
+4925   2014 805     325     1245    123     818     1450    885     69      164     585     909     964     1359    1700    1288    1245    952     456     -62     
+4925   2015 756     223     1245    -123    638     1607    712     -121    -193    274     650     990     1320    1705    1788    993     629     518     440     
+4925   2016 710     264     1283    117     559     1518    771     -88     -7      81      508     1087    1401    1590    1557    1544    600     176     53      
+4925   2017 714     177     1220    -85     736     1533    694     -401    112     515     486     1198    1516    1546    1536    1018    845     212     -56     
+4925   2018 844     111     1505    -139    823     1742    875     112     -508    6       1096    1375    1511    1910    1797    1321    950     353     100     
+4925   2019 -999999 306     1310    40      651     1707    -999999 -265    310     392     738     827     1749    1663    1709    1162    835     -999999 -999999 

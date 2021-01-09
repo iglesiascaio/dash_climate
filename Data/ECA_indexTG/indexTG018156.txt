@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   LADE                                     (STAID:  18156)
+LATITUDE: dd:mm:ss +63:26:34
+LONGITUDE: ddd:mm:ss +010:26:34
+ELEVATION: m   13
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18156  2012 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 280     -651    
+18156  2013 625     -999999 1183    -407    497     1422    673     -373    -202    -189    444     1236    1344    1475    1445    1133    622     266     237     
+18156  2014 786     286     1300    142     696     1636    746     -181    393     387     635     1064    1324    1977    1598    1175    785     276     -32     
+18156  2015 748     290     1131    82      600     1386    803     43      258     406     531     861     1064    1384    1701    1228    778     403     259     
+18156  2016 666     238     1192    -23     621     1435    623     -331    6       304     485     1069    1314    1578    1409    1280    508     84      266     
+18156  2017 685     207     1161    148     529     1421    734     144     22      198     442     944     1349    1500    1413    1308    759     135     -41     
+18156  2018 662     43      1247    -151    573     1470    711     -96     -335    -198    585     1331    1207    1806    1388    1140    642     353     42      
+18156  2019 -999999 179     1193    -15     576     1497    -999999 -195    121     114     752     867     1397    1551    1539    1038    443     -999999 -999999 

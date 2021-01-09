@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION UKRAINE                                  KONOTOP                                  (STAID:   1461)
+LATITUDE: dd:mm:ss +51:12:00
+LONGITUDE: ddd:mm:ss +033:12:00
+ELEVATION: m  149
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+1461   1995 802     -999999 1603    -999999 897     1954    693     -554    58      320     896     1458    2040    1978    1843    1388    779     -93     -652    
+1461   1996 663     -355    1585    -816    736     1865    -999999 -982    -806    -410    854     1842    1761    1992    1838    1151    727     550     -531    
+1461   1997 689     -23     1462    -494    692     1894    664     -656    -286    69      532     1470    1882    1972    1826    1090    594     294     -608    
+1461   1998 751     -999999 1595    -387    785     1948    575     -316    -207    -22     851     1477    2048    2023    1773    1376    723     -446    -651    
+1461   1999 850     -107    1674    -409    822     2102    690     -308    -279    216     1140    1151    2199    2267    1858    1425    784     -168    -123    
+1461   2000 852     -11     1598    -276    924     1887    800     -562    -124    107     1355    1353    1746    1969    1943    1206    869     269     47      
+1461   2001 802     144     1641    -153    836     2048    766     -160    -359    145     1086    1300    1652    2415    2064    1329    793     175     -872    
+1461   2002 827     61      1650    -382    949     2047    726     -455    242     462     928     1473    1861    2315    1943    1373    567     227     -996    
+1461   2003 729     -260    1534    -780    761     1849    748     -477    -874    -102    602     1778    1661    2037    1849    1280    710     256     -270    
+1461   2004 815     -999999 1530    -999999 788     1914    801     -376    -406    330     810     1210    1681    2005    2043    1392    851     159     -77     
+1461   2005 -999999 -22     -999999 -252    784     -999999 -999999 -96     -619    -372    1006    1724    1661    -999999 -999999 -999999 -999999 -999999 -999999 

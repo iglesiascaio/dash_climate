@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   TRANAS                                   (STAID:   5335)
+LATITUDE: dd:mm:ss +58:02:24
+LONGITUDE: ddd:mm:ss +014:59:24
+ELEVATION: m  155
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5335   1961 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -309    
+5335   1962 512     -999999 1047    -177    258     1333    642     -71     -149    -477    481     777     1340    1369    1291    1012    784     125     -373    
+5335   1963 545     -218    1246    -662    445     1556    755     -914    -704    -264    414     1185    1519    1613    1534    1193    748     326     -185    
+5335   1964 635     50      1225    -207    552     1472    670     -75     -371    -160    644     1175    1482    1508    1426    1102    618     291     -57     
+5335   1965 537     38      1139    -195    414     1414    613     -139    -409    -113    510     849     1478    1380    1387    1223    787     -178    -397    
+5335   1966 532     -193    1161    -613    421     1551    643     -664    -795    34      166     1056    1629    1600    1425    1073    663     192     -90     
+5335   1967 675     106     1205    -205    603     1523    836     -452    -60     372     447     985     1400    1627    1539    1212    905     388     -315    
+5335   1968 621     40      1278    -424    589     1623    630     -537    -421    200     707     862     1685    1543    1643    1221    593     75      -150    
+5335   1969 579     -120    1298    -338    333     1715    720     -292    -596    -389    444     949     1662    1778    1702    1234    775     150     -544    
+5335   1970 505     -231    1172    -732    364     1563    618     -739    -932    -151    244     995     1668    1504    1521    1082    672     99      -11     
+5335   1971 660     70      1193    -70     489     1505    621     -150    -45     -152    403     1214    1367    1663    1481    1007    721     130     224     
+5335   1972 667     89      1202    -141    521     1595    653     -557    -86     92      474     995     1518    1784    1480    940     683     335     312     
+5335   1973 -999999 282     -999999 95      608     -999999 -999999 -20     -18     375     362     1077    1609    -999999 -999999 -999999 -999999 -999999 -999999 

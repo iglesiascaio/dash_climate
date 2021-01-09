@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  MUHLHAUSEN                               (STAID:   4429)
+LATITUDE: dd:mm:ss +51:12:32
+LONGITUDE: ddd:mm:ss +010:23:48
+ELEVATION: m  300
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4429   1995 -999999 -999999 1416    -999999 -999999 1730    891     -999999 -999999 -999999 872     1158    1399    1955    1825    1263    1155    245     -189    
+4429   1996 -999999 -999999 1278    -999999 721     1563    791     -999999 -999999 -999999 837     1061    1478    1538    1671    1069    866     435     -999999 
+4429   1997 909     -999999 1394    -999999 829     1706    800     -999999 424     582     633     1265    1499    1661    1950    1331    727     342     218     
+4429   1998 909     452     1396    -999999 919     1608    745     381     527     505     877     1375    1616    1596    1612    1284    812     138     79      
+4429   1999 935     331     1470    165     906     1653    941     317     88      513     905     1300    1484    1852    1617    1652    845     328     230     
+4429   2000 962     423     1418    268     987     1575    963     190     384     533     1008    1421    1621    1445    1661    1340    986     561     277     
+4429   2001 927     -999999 1391    -999999 842     1677    919     -999999 251     354     737     1417    1389    1809    1823    1143    1172    434     0       
+4429   2002 941     493     1429    -999999 866     1745    843     268     503     522     730     1343    1663    1707    1862    1251    769     511     -63     
+4429   2003 933     -999999 1548    -999999 903     1917    802     174     -250    489     833     1384    1851    1851    2046    1299    530     585     125     
+4429   2004 -999999 -999999 1379    -999999 854     1634    898     72      328     491     934     1092    1494    1616    1788    1338    937     417     -999999 

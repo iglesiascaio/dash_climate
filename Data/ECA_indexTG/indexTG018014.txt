@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   GJENGEDAL - DALHEIM                      (STAID:  18014)
+LATITUDE: dd:mm:ss +61:39:34
+LONGITUDE: ddd:mm:ss +005:59:31
+ELEVATION: m  355
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18014  1989 -999999 -999999 -999999 -999999 -999999 -999999 512     -999999 -999999 -999999 -999999 -999999 -999999 -999999 1033    872     476     188     -199    
+18014  1990 -999999 172     927     65      438     1217    -999999 148     264     166     315     828     1218    1216    1217    748     596     -999999 -999999 
+18014  1991 -999999 -999999 -999999 -999999 -999999 -999999 425     -999999 -999999 -999999 -999999 -999999 -999999 1464    1234    730     417     128     58      
+18014  1992 -999999 113     -999999 36      357     -999999 326     62      -16     21      160     883     1291    1128    -999999 920     65      2       56      
+18014  1993 343     -19     766     -36     332     950     285     -93     -76     -73     296     773     877     1031    939     664     278     -88     -438    
+18014  1994 367     -254    841     -532    232     1150    444     -411    -769    -137    294     541     744     1487    1206    749     316     272     21      
+18014  1995 391     59      816     -65     178     1147    496     -106    -114    -44     77      497     1022    1228    1186    870     701     -89     -570    
+18014  1996 -999999 -154    -999999 -434    211     -999999 -999999 -279    -454    -247    340     545     952     -999999 -999999 -999999 -999999 -999999 -999999 

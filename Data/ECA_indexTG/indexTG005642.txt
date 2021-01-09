@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   SKALAN                                   (STAID:   5642)
+LATITUDE: dd:mm:ss +62:39:00
+LONGITUDE: ddd:mm:ss +014:10:12
+ELEVATION: m  802
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5642   1962 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -777    
+5642   1963 197     -999999 898     -915    108     1197    248     -802    -1191   -607    85      845     1160    1218    1211    850     389     -500    -404    
+5642   1964 281     -319    794     -494    236     1013    237     -326    -770    -336    277     768     987     1082    969     666     354     -314    -999999 
+5642   1965 -999999 -999999 -999999 -999999 -999999 1077    172     -999999 -999999 -999999 -999999 491     1110    1098    1025    855     416     -762    -1444   
+5642   1966 17      -932    801     -1577   -66     1261    187     -1619   -1678   -575    -260    630     1409    1280    1098    630     225     -295    -764    
+5642   1967 183     -459    824     -874    130     1185    388     -1289   -537    -94     -20     499     1031    1298    1223    896     278     -6      -1120   
+5642   1968 85      -512    836     -1025   102     1235    -81     -1125   -816    -283    181     409     1275    1262    1169    708     4       -956    -831    
+5642   1969 96      -797    927     -1038   -18     1391    84      -852    -1475   -743    92      600     1354    1315    1502    679     339     -773    -1003   
+5642   1970 103     -757    834     -1228   22      1260    113     -1250   -1454   -467    -146    674     1424    1189    1172    675     305     -648    -356    
+5642   1971 214     -425    814     -508    -2      1158    160     -595    -579    -701    -24     718     1007    1297    1166    695     255     -473    -265    
+5642   1972 225     -483    875     -804    135     1296    247     -1337   -809    -286    49      639     1246    1502    1137    654     261     -175    -222    
+5642   1973 251     -132    840     -306    216     1295    -12     -136    -588    23      -8      624     1211    1541    1130    516     42      -595    -828    
+5642   1974 -999999 -422    -999999 -548    214     -999999 130     -424    -376    -354    279     720     1146    -999999 1140    828     96      -534    -563    
+5642   1975 341     -343    867     -441    99      1229    385     -475    -268    -311    -35     637     987     1408    1283    896     335     -74     -335    
+5642   1976 -999999 -390    -999999 -635    48      -999999 -999999 -1065   -496    -704    13      835     1038    -999999 -999999 -999999 96      -311    -1023   

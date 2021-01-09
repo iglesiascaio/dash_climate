@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    FORLI_URBANA                             (STAID:  17622)
+LATITUDE: dd:mm:ss +44:13:13
+LONGITUDE: ddd:mm:ss +012:02:30
+ELEVATION: m  510
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17622  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17622  2006 1443    -999999 2061    -999999 1352    2351    1595    219     538     835     1399    1824    2252    2589    2208    2077    1647    1059    616     
+17622  2007 1508    987     2131    701     1557    2435    1369    651     850     1086    1584    2003    2314    2637    2350    1877    1389    838     476     
+17622  2008 1498    829     2086    563     1413    2455    1547    596     622     1038    1379    1822    2264    2549    2547    1934    1679    1024    491     
+17622  2009 1484    865     2161    476     1506    2454    1508    343     608     1023    1405    2087    2231    2553    2573    2094    1448    984     401     
+17622  2010 1384    754     2040    379     1359    2399    1413    205     545     927     1360    1791    2217    2596    2377    1877    1345    1020    292     
+17622  2011 1488    745     2174    389     1448    2434    1540    284     611     911     1543    1892    2250    2415    2631    2298    1438    888     637     
+17622  2012 1493    798     2170    401     1453    2620    1598    350     202     1235    1344    1777    2470    2704    2680    2022    1604    1168    310     
+17622  2013 1445    785     2076    367     1309    2415    1568    410     383     808     1422    1700    2203    2559    2477    2079    1561    1064    607     
+17622  2014 1519    990     2003    722     1457    2304    1627    676     902     1122    1475    1773    -999999 2293    2357    1905    1704    1271    607     
+17622  2015 1506    967     2165    603     1439    2538    1467    608     593     993     1430    1895    2316    2802    2489    2036    1406    962     477     
+17622  2016 1484    883     2093    631     1424    2398    1483    575     855     1025    1488    1761    2221    2598    2369    2108    1375    969     455     
+17622  2017 1530    837     2175    472     1528    2599    1453    236     752     1233    1452    1895    2517    2626    2651    1890    1562    904     586     
+17622  2018 1520    831     2187    556     1458    2484    1601    688     375     829     1633    1917    2305    2579    2561    2109    1606    1088    477     
+17622  2019 -999999 923     -999999 534     1359    -999999 -999999 376     773     1209    1362    1512    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    LAMA                                     (STAID:  17651)
+LATITUDE: dd:mm:ss +43:49:54
+LONGITUDE: ddd:mm:ss +011:50:21
+ELEVATION: m 7150
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17651  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17651  2006 975     -999999 1492    -999999 865     1738    1136    -69     134     361     927     1308    1660    1875    1675    1495    1146    766     369     
+17651  2007 1024    644     1553    463     988     1855    880     533     488     548     1057    1361    1733    2022    1805    1312    874     468     62      
+17651  2008 1024    433     1518    240     943     1816    1048    345     317     529     867     1430    1633    1885    1925    1345    1183    611     179     
+17651  2009 1025    461     1587    131     1014    1841    1085    51      164     556     932     1550    1621    1981    1898    1517    950     794     262     
+17651  2010 944     443     1474    142     835     1804    990     -46     226     448     853     1205    1644    1943    1820    1360    905     709     172     
+17651  2011 1005    416     1582    171     888     1820    1038    165     178     355     1016    1296    1683    1822    1952    1711    904     502     430     
+17651  2012 -999999 -999999 -999999 -999999 -999999 -999999 1197    151     -999999 -999999 -999999 -999999 -999999 2179    2140    1527    1194    869     231     
+17651  2013 1027    523     1521    203     891     1778    1177    282     85      445     1044    1190    1579    1883    1865    1555    1272    701     351     
+17651  2014 1120    688     1491    484     971     1766    -999999 505     611     679     986     1239    1685    1769    1842    1411    -999999 -999999 449     
+17651  2015 1088    -999999 1627    319     978     1944    1088    338     153     527     962     1444    1691    2222    1912    1505    1040    721     463     
+17651  2016 1077    617     1562    479     965     1833    1079    375     606     479     1114    1244    1669    1995    1829    1512    981     728     291     
+17651  2017 1101    524     1671    205     1067    2086    1025    -116    454     840     989     1354    1946    2091    2211    1412    1109    564     260     
+17651  2018 -999999 480     -999999 241     1010    -999999 1143    474     -48     442     1171    1340    -999999 -999999 1846    1553    1159    716     291     
+17651  2019 -999999 564     -999999 256     852     -999999 -999999 80      413     716     860     983     -999999 -999999 -999999 -999999 -999999 -999999 -999999 

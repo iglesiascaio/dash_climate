@@ -1,0 +1,47 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   LUSTER BADEPLASS                         (STAID:  19137)
+LATITUDE: dd:mm:ss +61:25:05
+LONGITUDE: ddd:mm:ss +007:26:31
+ELEVATION: m    2
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+19137  1980 -999999 -999999 1221    -999999 517     1548    355     -999999 -382    -64     503     1154    1520    1679    1443    1002    349     -287    -162    
+19137  1981 416     -193    1050    -366    395     1284    548     -445    -504    -141    260     1063    1174    1409    1264    1107    490     47      -791    
+19137  1982 -999999 -88     1182    -475    605     1547    -999999 -468    -132    325     520     966     1482    1665    1492    946     731     -999999 -999999 
+19137  1983 -999999 -999999 -999999 -999999 -999999 1369    551     -999999 -999999 -999999 -999999 1004    1259    1505    1340    1007    537     110     -97     
+19137  1984 637     -31     1205    -231    516     1508    686     -402    -191    -150    531     1167    1462    1605    1455    987     675     396     80      
+19137  1985 462     23      1124    -344    587     1430    340     -567    -568    75      454     1229    1447    1503    1340    751     673     -416    -467    
+19137  1986 486     -258    1064    -706    533     1426    576     -808    -857    264     345     983     1551    1493    1239    755     635     336     -199    
+19137  1987 521     -117    1120    -487    455     1416    632     -1025   -209    -236    613     992     1322    1565    1359    852     841     195     -63     
+19137  1988 664     186     1219    33      491     1557    553     106     58      -29     342     1156    1698    1575    1403    1123    395     141     -24     
+19137  1989 682     218     1093    171     608     1333    610     293     253     257     671     898     1329    1471    1200    981     566     283     -38     
+19137  1990 691     269     1117    160     638     1385    515     124     420     272     573     1067    1415    1433    1308    890     578     75      119     
+19137  1991 644     141     1159    -54     659     1443    521     -42     -258    336     665     976     1178    1678    1465    972     435     158     85      
+19137  1992 627     175     1109    74      584     1371    479     89      47      225     484     1040    1511    1419    1188    1003    288     152     64      
+19137  1993 539     84      1057    14      557     1264    432     16      -45     18      568     1086    1267    1352    1173    883     508     -99     -306    
+19137  1994 529     -158    1085    -449    478     1356    581     -297    -776    -38     498     973     1041    1619    1397    955     473     319     80      
+19137  1995 567     169     1130    4       523     1434    550     -95     29      198     451     916     1360    1496    1444    1116    696     -168    -621    
+19137  1996 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

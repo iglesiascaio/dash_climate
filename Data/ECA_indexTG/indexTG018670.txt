@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   SKURDEVIKAI                              (STAID:  18670)
+LATITUDE: dd:mm:ss +60:22:40
+LONGITUDE: ddd:mm:ss +007:34:09
+ELEVATION: m 1250
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18670  2012 -999999 -999999 -999999 -999999 -999999 -999999 -103    -999999 -999999 -248    -452    -999999 -999999 798     835     246     -193    -343    -1196   
+18670  2013 -99     -814    428     -1042   -484    780     77      -980    -941    -1187   -510    244     594     950     795     488     136     -394    -413    
+18670  2014 -65     -473    -999999 -722    -234    798     44      -1137   -604    -435    -298    46      566     1133    725     534     128     -515    -694    
+18670  2015 -60     -490    308     -691    -295    574     83      -694    -685    -502    -331    -53     286     605     823     504     28      -281    -460    
+18670  2016 -80     -554    444     -826    -304    742     0       -1058   -968    -601    -478    162     744     760     720     744     -107    -655    -280    
+18670  2017 -34     -462    364     -507    -223    625     56      -585    -671    -506    -368    199     442     759     668     469     -124    -170    -563    
+18670  2018 24      -625    636     -784    -250    981     -999999 -776    -1039   -1102   -240    593     904     1310    727     478     -999999 -109    -490    
+18670  2019 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -669    -365    -999999 -999999 55      -999999 842     -999999 -999999 -163    -999999 -999999 

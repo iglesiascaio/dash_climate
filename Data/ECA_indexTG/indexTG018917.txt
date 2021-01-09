@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   BJOERNEVATN                              (STAID:  18917)
+LATITUDE: dd:mm:ss +69:37:14
+LONGITUDE: ddd:mm:ss +030:00:25
+ELEVATION: m  180
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18917  2010 -999999 -999999 685     -999999 -999999 975     78      -999999 -1278   -999999 13      453     754     1269    894     709     205     -683    -974    
+18917  2011 127     -736    779     -1167   17      1084    332     -1070   -1488   -478    127     405     911     1265    1070    885     282     -168    -327    
+18917  2012 -37     -485    625     -860    -56     936     137     -1049   -1228   -457    -169    454     734     1080    975     660     99      -347    -1184   
+18917  2013 158     -660    913     -912    -132    1316    148     -748    -793    -987    -120    713     1268    1353    1325    914     24      -491    -628    
+18917  2014 63      -529    681     -780    -81     1080    59      -1214   -469    -389    -143    287     742     1298    1189    686     -34     -473    -758    
+18917  2015 -999999 -550    722     -862    93      978     -999999 -1129   -680    -237    13      514     831     898     1199    855     32      -999999 -999999 

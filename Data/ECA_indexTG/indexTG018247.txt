@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   TOFTE - RULLETO                          (STAID:  18247)
+LATITUDE: dd:mm:ss +59:33:05
+LONGITUDE: ddd:mm:ss +010:34:53
+ELEVATION: m    9
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18247  2013 617     -999999 1225    -999999 360     1578    658     -999999 -465    -365    325     1145    1434    1746    1549    1123    693     157     182     
+18247  2014 774     200     1349    -6      713     1682    828     -292    103     347     677     1115    1507    1990    1544    1238    871     374     -224    
+18247  2015 723     206     1266    -93     650     1585    632     -4      -48     248     704     999     1443    1655    1653    1126    599     172     67      
+18247  2016 799     111     1442    -145    761     1706    817     -507    15      318     680     1283    1708    1779    1631    1562    726     164     209     
+18247  2017 678     222     1097    34      537     1352    821     -38     -79     319     328     955     1271    1429    1353    1233    870     358     75      
+18247  2018 841     150     1504    -75     643     1865    914     -44     -278    -128    552     1476    1756    2127    1709    1375    875     493     59      
+18247  2019 -999999 309     1393    43      768     1702    -999999 -90     173     336     890     1080    1545    1806    1749    1270    684     -999999 -999999 

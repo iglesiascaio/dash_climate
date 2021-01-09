@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    BADIA TEDALDA                            (STAID:   2768)
+LATITUDE: dd:mm:ss +43:41:34
+LONGITUDE: ddd:mm:ss +012:08:11
+ELEVATION: m  859
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+2768   2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+2768   2006 1069    -999999 1616    -999999 891     1891    1250    1       202     360     963     1353    1759    2126    1785    1698    1272    781     481     
+2768   2007 1106    700     1657    517     1073    1957    962     557     513     580     1207    1436    1776    2173    1915    1416    968     501     192     
+2768   2008 1088    493     1591    328     891     1972    1117    428     367     493     830     1347    1792    2026    2093    1433    1252    663     302     
+2768   2009 1093    512     1686    199     1034    1973    1154    115     179     537     951     1610    1672    2078    2157    1618    1025    824     287     
+2768   2010 973     476     1540    179     838     1906    999     0       258     454     866     1195    1714    2088    1911    1446    915     639     143     
+2768   2011 1087    432     1670    206     950     1907    1173    193     290     406     1074    1375    1729    1825    2161    1842    1015    666     422     
+2768   2012 1085    500     1653    153     972     2104    1163    225     -213    844     834     1233    1928    2137    2240    1526    1202    760     246     
+2768   2013 1032    484     1561    174     847     1877    1142    269     -11     402     1023    1123    1609    2004    2008    1586    1242    595     455     
+2768   2014 1096    648     1494    463     938     1777    1209    429     509     645     947     1222    1724    1772    1831    1455    1217    956     407     
+2768   2015 1113    600     1651    300     949     2028    1091    302     179     509     916     1421    1765    2318    1993    1470    1029    775     603     
+2768   2016 1073    616     1574    472     909     1866    1096    319     495     469     1047    1215    1649    2074    1867    1577    1029    685     434     
+2768   2017 1096    535     1677    224     1036    2123    1048    -136    391     795     939     1371    1959    2119    2288    1365    1215    559     229     
+2768   2018 1093    461     1678    208     959     1949    1192    472     -108    345     1166    1372    1699    2089    2052    1675    1192    708     367     
+2768   2019 -999999 565     -999999 276     795     -999999 -999999 27      452     637     828     927     -999999 -999999 -999999 -999999 -999999 -999999 -999999 

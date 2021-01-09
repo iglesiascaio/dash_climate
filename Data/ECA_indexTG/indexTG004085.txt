@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  WAIBSTADT                                (STAID:   4085)
+LATITUDE: dd:mm:ss +49:17:43
+LONGITUDE: ddd:mm:ss +008:54:23
+ELEVATION: m  237
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4085   2007 -999999 -999999 -999999 -999999 -999999 -999999 868     -999999 -999999 -999999 -999999 -999999 -999999 -999999 1773    1299    915     388     157     
+4085   2008 1036    475     1565    329     1022    1858    926     391     447     545     859     1658    1825    1928    1820    1277    954     547     155     
+4085   2009 1018    351     1647    13      1115    1831    1094    -214    109     537     1309    1504    1654    1868    1965    1567    933     787     146     
+4085   2010 910     390     1529    27      911     1878    923     -186    132     514     1045    1177    1804    2102    1727    1303    852     616     -206    
+4085   2011 1087    400     1650    63      1196    1787    1052    153     262     719     1325    1550    1758    1695    1906    1657    1006    493     467     
+4085   2012 1035    494     1606    199     1123    1873    993     289     -183    846     948     1571    1720    1864    2029    1481    921     578     295     
+4085   2013 970     363     1547    139     792     1896    1019    125     -18     248     953     1180    1679    2122    1881    1452    1101    502     348     
+4085   2014 1138    611     1603    399     1138    1823    1174    361     496     845     1225    1346    1808    1976    1685    1570    1252    698     359     
+4085   2015 1119    561     1663    245     1038    2039    1027    258     104     655     1041    1418    1783    2185    2140    1385    932     766     673     
+4085   2016 1042    596     1625    460     931     1891    1051    269     438     491     886     1415    1750    1999    1921    1762    911     486     162     
+4085   2017 1060    442     1613    123     1097    1958    1000    -237    476     860     901     1525    1959    1984    1931    1357    1125    516     286     
+4085   2018 1182    480     1830    261     1167    2090    1147    542     -77     436     1398    1673    1937    2185    2143    1626    1192    622     415     
+4085   2019 -999999 599     1640    323     1010    2020    -999999 97      470     785     1060    1187    2020    2045    1995    1520    1149    -999999 -999999 

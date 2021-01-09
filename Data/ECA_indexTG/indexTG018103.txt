@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   HORNSUND                                 (STAID:  18103)
+LATITUDE: dd:mm:ss +77:00:06
+LONGITUDE: ddd:mm:ss +015:32:08
+ELEVATION: m   10
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18103  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 418     476     58      -341    -243    -999999 
+18103  2006 -999999 -999999 215     -999999 -412    408     -146    -182    -781    -1198   -47     -19     302     459     458     127     -297    -263    -390    
+18103  2007 -228    -999999 45      -999999 -534    365     -90     -727    -756    -566    -863    -217    242     414     431     160     -84     -347    -550    
+18103  2008 -319    -590    54      -580    -814    368     -223    -500    -698    -1361   -942    -144    266     449     389     303     -377    -590    -611    
+18103  2009 -270    -721    24      -828    -717    405     -36     -971    -910    -884    -1191   -93     263     517     429     195     -228    -69     -349    
+18103  2010 -349    -550    78      -549    -676    305     -272    -531    -790    -1325   -655    -48     168     383     361     245     -205    -860    -960    
+18103  2011 -272    -869    158     -1061   -502    370     -42     -1265   -947    -982    -362    -156    305     385     419     353     -124    -398    -609    
+18103  2012 -150    -999999 48      -999999 -447    358     -100    -224    -383    -363    -789    -202    187     435     425     235     -111    -424    -612    
+18103  2013 -321    -688    113     -733    -845    462     -181    -704    -887    -1374   -964    -181    285     552     544     412     -309    -643    -626    
+18103  2014 -166    -461    90      -368    -551    428     -118    -331    -124    -706    -745    -209    297     522     462     196     -77     -475    -794    
+18103  2015 -205    -605    113     -846    -435    401     -41     -614    -1159   -561    -451    -290    260     496     446     218     -68     -272    -499    
+18103  2016 -1      -350    223     -394    -343    477     227     -273    -410    -578    -523    66      357     600     471     349     324     5       -421    
+18103  2017 -192    -406    93      -610    -699    420     110     -826    -579    -943    -730    -425    286     491     478     448     92      -210    -407    
+18103  2018 -164    -414    123     -411    -592    400     -45     -442    -382    -1125   -744    90      274     474     447     173     -92     -214    -447    
+18103  2019 -999999 -578    170     -713    -523    443     -999999 -817    -893    -1027   -313    -221    353     537     437     217     -403    -999999 -999999 

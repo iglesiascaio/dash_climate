@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   FALERUM                                  (STAID:   5344)
+LATITUDE: dd:mm:ss +58:08:24
+LONGITUDE: ddd:mm:ss +016:12:36
+ELEVATION: m   80
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5344   1968 -999999 -999999 -999999 -999999 -999999 -999999 632     -999999 -999999 -999999 -999999 -999999 -999999 1548    1607    1187    555     155     -146    
+5344   1969 539     -124    1254    -333    282     1667    684     -315    -560    -464    400     913     1588    1773    1636    1197    753     100     -628    
+5344   1970 479     -278    1161    -804    358     1554    587     -765    -1041   -147    249     969     1629    1528    1508    1062    641     57      -52     
+5344   1971 644     38      1185    -94     434     1516    631     -139    -93     -199    382     1117    1344    1687    1511    1042    723     125     171     
+5344   1972 662     80      1208    -147    495     1625    626     -498    -112    61      450     972     1533    1823    1517    932     615     330     285     
+5344   1973 661     264     1254    94      596     1667    437     12      -26     339     380     1061    1603    1843    1552    1060    369     -116    -198    
+5344   1974 696     48      1192    -28     529     1481    680     57      65      105     561     921     1421    1520    1501    1218    511     317     115     
+5344   1975 772     183     1319    84      495     1691    787     188     -65     12      381     1087    1404    1772    1889    1354    778     228     161     
+5344   1976 566     36      1211    -183    400     1607    608     -519    -192    -246    435     1013    1537    1700    1582    978     587     259     -357    
+5344   1977 596     -24     1108    -352    447     1474    676     -244    -467    46      280     1009    1548    1452    1425    919     782     324     0       
+5344   1978 -999999 59      -999999 -238    -999999 -999999 734     -171    -575    -59     350     -999999 -999999 -999999 -999999 953     693     558     -559    
+5344   1979 -999999 -124    -999999 -646    -999999 -999999 -999999 -694    -689    -86     338     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

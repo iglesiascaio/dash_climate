@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   SENJA - GRASMYRSKOGEN                    (STAID:  19049)
+LATITUDE: dd:mm:ss +69:17:38
+LONGITUDE: ddd:mm:ss +017:46:44
+ELEVATION: m   50
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+19049  1992 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -319    -397    -62     
+19049  1993 269     -259    775     -196    89      1199    172     -278    -255    -245    17      495     785     1544    1255    521     -43     46      -653    
+19049  1994 235     -394    790     -734    180     1111    201     -957    -576    -186    281     448     937     1199    1193    668     163     -227    -174    
+19049  1995 201     -211    718     -352    104     1044    170     -376    -524    -157    -10     475     1013    1101    1016    697     154     -340    -685    
+19049  1996 215     -357    766     -592    56      1178    232     -235    -874    -192    3       355     946     1236    1345    690     329     -326    -750    
+19049  1997 -999999 -350    -999999 -592    -40     -999999 -999999 -428    -599    -349    -220    444     1073    -999999 -999999 -999999 -999999 -999999 -999999 

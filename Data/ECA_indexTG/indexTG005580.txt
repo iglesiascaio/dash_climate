@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   DALSTUGA                                 (STAID:   5580)
+LATITUDE: dd:mm:ss +61:04:12
+LONGITUDE: ddd:mm:ss +015:42:00
+ELEVATION: m  240
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5580   1970 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 436     -347    -405    
+5580   1971 345     -292    986     -451    180     1350    247     -500    -447    -504    102     940     1262    1485    1300    802     363     -427    -306    
+5580   1972 410     -344    1043    -605    236     1502    384     -992    -510    -203    132     776     1442    1749    1313    820     399     -69     22      
+5580   1973 364     -38     1029    -188    311     1507    79      -109    -507    -11     115     822     1481    1746    1293    689     108     -562    -776    
+5580   1974 452     -312    1014    -409    306     1327    407     -263    -163    -207    347     780     1334    1320    1328    962     294     -31     -313    
+5580   1975 491     -165    1098    -380    295     1505    529     -266    -580    -129    124     883     1251    1701    1554    1049    436     106     -326    
+5580   1976 242     -356    1003    -682    182     1407    232     -1220   -488    -637    187     997     1294    1535    1388    587     272     -166    -866    
+5580   1977 290     -416    898     -838    213     1289    359     -707    -953    -118    -43     792     1325    1313    1232    750     509     -188    -536    
+5580   1978 -999999 -391    -999999 -783    144     1214    -999999 -636    -1219   -352    6       775     1241    1282    1121    -999999 -999999 -999999 -999999 

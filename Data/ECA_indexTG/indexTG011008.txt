@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION IRELAND                                  ATHENRY                                  (STAID:  11008)
+LATITUDE: dd:mm:ss +53:16:48
+LONGITUDE: ddd:mm:ss -008:46:47
+ELEVATION: m   40
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11008  2013 980     -999999 1308    -999999 725     1548    1075    517     483     398     734     1043    1348    1758    1532    1382    1191    656     676     
+11008  2014 1015    715     1350    585     964     1500    1054    535     540     700     1036    1158    1463    1631    1405    1406    1064    692     530     
+11008  2015 953     640     1186    481     826     1342    1063    474     434     626     851     1001    1270    1383    1369    1235    1038    916     801     
+11008  2016 987     741     1312    615     859     1511    997     570     464     644     741     1189    1496    1492    1544    1402    1030    559     687     
+11008  2017 1007    720     1283    638     993     1424    1016    602     624     805     926     1247    1394    1468    1410    1241    1117    688     537     
+11008  2018 998     624     1342    490     862     1572    973     540     383     460     885     1242    1606    1620    1489    1198    958     762     788     
+11008  2019 -999999 769     1301    717     927     1477    -999999 601     768     738     953     1091    1293    1607    1526    1329    -999999 -999999 -999999 

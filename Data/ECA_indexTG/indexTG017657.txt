@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    LAVEZZOLA                                (STAID:  17657)
+LATITUDE: dd:mm:ss +44:33:47
+LONGITUDE: ddd:mm:ss +011:50:38
+ELEVATION: m   50
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17657  2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 
+17657  2006 1300    -999999 1948    -999999 1248    2221    1426    75      345     710     1315    1722    2087    2465    2106    1978    1476    821     445     
+17657  2007 1333    788     1973    498     1366    2289    1227    446     616     906     1373    1819    2167    2444    2253    1763    1291    626     237     
+17657  2008 1352    647     1952    362     1270    2301    1422    418     435     858     1253    1698    2117    2374    2407    1839    1527    895     368     
+17657  2009 1368    720     2066    332     1358    2374    1441    223     415     867     1319    1887    2111    2437    2566    2056    1329    940     211     
+17657  2010 1283    630     1956    238     1242    2316    1337    117     401     769     1276    1683    2124    2511    2307    1816    1264    933     146     
+17657  2011 1379    638     2105    259     1354    2381    1434    229     419     825     1424    1816    2226    2351    2562    2240    1326    738     333     
+17657  2012 1357    596     2073    155     1320    2503    1498    104     18      1023    1248    1686    2347    2573    2584    1978    1482    1036    156     
+17657  2013 1338    664     1982    233     1235    2303    1497    283     265     735     1326    1647    2097    2441    2364    2000    1507    985     337     
+17657  2014 1452    872     1954    558     1409    2218    1536    575     784     1037    1455    1735    2184    2231    2237    1870    1595    1140    548     
+17657  2015 1392    841     2050    463     1315    2439    1372    339     505     899     1269    1776    2229    2684    2397    1920    1361    836     426     
+17657  2016 1380    777     2011    493     1372    2290    1406    335     732     972     1423    1723    2110    2470    2285    2041    1307    871     273     
+17657  2017 1384    699     2057    304     1385    2487    1327    57      610     1069    1335    1748    2391    2509    2556    1781    1418    778     305     
+17657  2018 1425    684     2098    382     1397    2362    1543    491     346     733     1547    1915    2207    2455    2417    2032    1535    1061    290     
+17657  2019 -999999 758     -999999 326     1205    -999999 -999999 173     535     944     1220    1458    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

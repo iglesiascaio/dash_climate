@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FRANCE                                   DAMMARTIN                                (STAID:  11325)
+LATITUDE: dd:mm:ss +49:04:00
+LONGITUDE: ddd:mm:ss +002:38:53
+ELEVATION: m  172
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11325  1974 -999999 -999999 1428    -999999 934     1678    919     -999999 -999999 633     959     1211    1566    1664    1801    1354    725     686     674     
+11325  1975 991     603     1461    594     787     1762    995     607     492     427     830     1106    1487    1821    1969    1536    875     563     133     
+11325  1976 1065    460     1607    285     908     1976    1082    361     365     465     840     1419    1959    2066    1901    1439    1197    605     142     
+11325  1977 1000    575     1348    281     911     1587    1084    142     588     778     757     1193    1427    1710    1620    1365    1261    620     509     
+11325  1978 950     585     1359    304     900     1558    1060    199     194     688     771     1237    1459    1634    1579    1459    1174    544     404     
+11325  1979 948     446     1413    122     874     1643    1098    -198    163     565     837     1218    1562    1727    1637    1488    1177    625     526     
+11325  1980 932     579     1400    375     831     1612    1001    47      563     534     805     1155    1467    1569    1795    1600    965     440     237     
+11325  1981 1014    519     1454    255     1035    1656    1079    316     209     914     936     1254    1456    1712    1793    1558    1007    673     282     
+11325  1982 1076    553     1549    337     918     1797    1195    300     440     608     822     1321    1730    1904    1755    1750    1062    778     407     
+11325  1983 1060    604     1539    371     878     1911    1076    547     135     655     863     1117    1714    2125    1887    1509    1086    632     374     
+11325  1984 995     529     1399    334     782     1704    1146    355     268     447     890     1012    1540    1778    1788    1373    1117    949     399     
+11325  1985 923     475     1464    104     899     1635    1003    -247    168     449     938     1311    1443    1806    1649    1623    1068    317     504     
+11325  1986 976     417     1419    189     846     1748    1111    318     -301    526     656     1350    1756    1795    1694    1246    1305    777     481     
+11325  1987 953     483     1490    139     880     1660    1153    -288    235     376     1176    1098    1467    1740    1765    1689    1164    606     372     
+11325  1988 1090    643     1492    487     1007    1690    1075    634     453     618     998     1405    1567    1688    1811    1467    1195    558     652     

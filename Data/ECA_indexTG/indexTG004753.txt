@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  WEISWEIL-WALDECKHOF                      (STAID:   4753)
+LATITUDE: dd:mm:ss +48:11:21
+LONGITUDE: ddd:mm:ss +007:41:54
+ELEVATION: m  173
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4753   1992 -999999 -999999 -999999 -999999 -999999 1950    1015    -999999 -999999 -999999 -999999 -999999 1749    1994    2102    1481    823     746     249     
+4753   1993 1045    495     1614    275     1122    1831    823     496     58      563     1223    1583    1826    1875    1792    1373    905     188     582     
+4753   1994 1163    575     1632    446     1110    1989    1094    409     337     992     893     1437    1840    2192    1931    1480    930     877     574     
+4753   1995 1051    629     1560    490     960     1879    1027    215     702     492     1007    1384    1597    2137    1894    1314    1326    431     88      
+4753   1996 925     388     1501    56      905     1819    942     6       76      382     1038    1298    1798    1819    1839    1196    1035    591     -6      
+4753   1997 1054    475     1600    103     1117    1871    978     -254    618     882     944     1518    1725    1827    2055    1513    930     493     375     
+4753   1998 1060    549     1590    381     1105    1829    943     373     398     712     1011    1588    1816    1856    1814    1437    1080    307     270     
+4753   1999 1099    494     1675    283     1123    1870    1062    422     143     703     1060    1603    1684    2030    1889    1770    1013    405     390     
+4753   2000 1168    565     1659    404     1169    1865    1163    245     590     743     1148    1615    1913    1725    1958    1582    1181    725     581     
+4753   2001 1092    688     1590    463     1128    1891    1021    340     469     815     876     1685    1660    2000    2005    1282    1374    395     144     
+4753   2002 1126    581     1606    314     1082    1923    1061    156     676     743     1050    1453    2014    1897    1861    1347    1055    782     460     
+4753   2003 1127    540     1812    194     1152    2225    975     102     2       797     1083    1575    2254    2095    2327    1518    765     648     277     

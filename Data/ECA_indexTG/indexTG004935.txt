@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  OBERHACHING-LAUFZORN                     (STAID:   4935)
+LATITUDE: dd:mm:ss +48:00:50
+LONGITUDE: ddd:mm:ss +011:33:14
+ELEVATION: m  604
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4935   2007 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 95      -91     
+4935   2008 846     -999999 1382    85      815     1683    776     165     187     362     707     1373    1659    1705    1685    1142    848     336     -47     
+4935   2009 821     143     1477    -195    899     1665    902     -369    -165    229     1083    1389    1461    1729    1798    1387    763     561     -69     
+4935   2010 720     178     1333    -193    708     1670    745     -378    -126    300     773     1054    1532    1877    1597    1150    688     400     -280    
+4935   2011 855     194     1436    -127    907     1623    823     -105    20      431     1010    1283    1537    1533    1796    1447    754     269     237     
+4935   2012 828     231     1429    -76     889     1724    829     27      -521    571     786     1307    1647    1730    1792    1295    795     397     51      
+4935   2013 778     166     1373    -91     638     1702    830     -54     -290    57      806     1055    1464    1911    1723    1261    926     299     98      
+4935   2014 927     384     1392    168     880     1635    964     139     278     552     924     1165    1642    1745    1518    1352    1043    495     233     
+4935   2015 920     350     1487    43      825     1873    886     88      -219    407     815     1252    1631    2017    1962    1219    758     684     334     
+4935   2016 879     426     1442    260     765     1714    879     104     348     329     784     1183    1589    1833    1717    1534    773     334     16      
+4935   2017 876     253     1444    -98     897     1827    841     -517    241     674     681     1330    1822    1817    1841    1152    998     368     56      
+4935   2018 968     285     1623    22      997     1843    936     312     -336    254     1253    1493    1693    1877    1954    1453    991     361     209     
+4935   2019 -999999 352     1461    52      819     1851    -999999 -161    114     574     903     983     1892    1855    1807    1317    1009    -999999 -999999 

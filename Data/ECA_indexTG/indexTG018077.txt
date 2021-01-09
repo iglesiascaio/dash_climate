@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   MYKLEBUSTFJELLET                         (STAID:  18077)
+LATITUDE: dd:mm:ss +61:40:44
+LONGITUDE: ddd:mm:ss +005:12:02
+ELEVATION: m  715
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18077  2014 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 296     -157    
+18077  2015 332     -999999 600     -171    55      845     520     -209    -144    -33     2       194     537     840     1147    866     534     158     51      
+18077  2016 367     7       753     -200    178     978     483     -359    -298    -60     -4      594     1025    934     976     983     562     -99     121     
+18077  2017 337     43      701     -26     173     882     413     -89     -120    -140    -39     690     778     961     904     895     423     -79     -175    
+18077  2018 370     -142    812     -264    255     1013    431     -225    -406    -411    200     975     887     1294    852     641     294     362     -83     
+18077  2019 -999999 13      792     -140    248     1047    -999999 -305    -21     -160    542     372     860     1188    1087    693     309     -999999 -999999 

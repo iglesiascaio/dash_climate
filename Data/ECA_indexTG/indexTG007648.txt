@@ -1,0 +1,40 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  RISTIJARVI HIISIJARVI                    (STAID:   7648)
+LATITUDE: dd:mm:ss +64:22:00
+LONGITUDE: ddd:mm:ss +028:34:59
+ELEVATION: m  200
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7648   1959 182     -999999 941     -999999 158     1468    80      -1145   -643    -191    -21     681     1400    1558    1442    559     102     -423    -1289   
+7648   1960 162     -816    1097    -1340   175     1558    0       -1346   -1384   -611    133     1003    1403    1871    1395    742     -240    -495    -618    
+7648   1961 280     -504    926     -642    0       1480    394     -800    -497    -389    -197    581     1531    1646    1266    705     656     -199    -1071   
+7648   1962 66      -613    828     -999    -92     1123    294     -973    -949    -1135   207     662     1054    1243    1070    718     311     -163    -1343   
+7648   1963 100     -886    1050    -1416   25      1314    318     -1504   -1399   -1220   73      1225    1119    1448    1368    1037    262     -342    -964    
+7648   1964 157     -606    897     -937    -3      1307    180     -625    -1243   -754    -41     785     1166    1501    1250    694     449     -629    -752    
+7648   1965 -999999 -601    -999999 -919    -56     1283    -999999 -782    -1255   -669    69      437     1310    1331    1209    -999999 180     -940    -915    
+7648   1966 -60     -1118   875     -1631   -214    1413    158     -1968   -2076   -1089   -279    724     1509    1556    1176    537     47      -115    -1003   
+7648   1967 175     -613    995     -1169   196     1433    444     -1623   -840    -142    120     608     1196    1528    1567    924     381     28      -1725   
+7648   1968 -999999 -859    -999999 -1685   -12     1341    -999999 -2127   -1171   -492    -24     480     1435    1279    1312    -999999 -999999 -999999 -999999 

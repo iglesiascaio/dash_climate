@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   MESTERVIK                                (STAID:  18732)
+LATITUDE: dd:mm:ss +69:19:46
+LONGITUDE: ddd:mm:ss +018:53:20
+ELEVATION: m   12
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18732  1964 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -201    -245    
+18732  1965 181     -999999 763     -409    -8      1053    265     -520    -467    -489    178     292     1000    1026    1131    946     301     -452    -806    
+18732  1966 115     -627    732     -986    -128    1231    169     -849    -1337   -681    -96     394     1190    1394    1108    379     48      85      -355    
+18732  1967 272     -292    879     -626    259     1153    470     -955    -559    -28     113     686     967     1223    1263    1004    188     228     -904    
+18732  1968 154     -420    683     -875    24      1005    157     -1083   -622    -320    68      326     964     1051    997     679     -205    8       -25     
+18732  1969 293     -305    903     -435    95      1337    286     -593    -713    -333    87      529     1155    1422    1428    773     391     -308    -405    
+18732  1970 270     -362    896     -694    135     1331    260     -586    -1132   -203    -48     650     1207    1465    1315    760     405     -389    -320    
+18732  1971 219     -325    773     -459    -63     1177    141     -479    -590    -607    -27     447     1197    1133    1203    672     212     -463    -133    
+18732  1972 421     -204    942     -254    176     1403    261     -263    -375    -225    108     643     1420    1517    1271    671     285     -174    138     
+18732  1973 238     -93     814     -170    154     1233    1       -189    -491    -165    54      569     1106    1564    1024    543     -64     -475    -679    
+18732  1974 403     -294    928     -419    276     1284    296     -240    -328    10      159     655     1204    1441    1204    887     202     -197    -215    
+18732  1975 -999999 -999999 -999999 -293    -999999 -999999 -999999 -484    -165    -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

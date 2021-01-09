@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   E6 MINNESUND                             (STAID:  18675)
+LATITUDE: dd:mm:ss +60:23:52
+LONGITUDE: ddd:mm:ss +011:13:49
+ELEVATION: m  150
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18675  2012 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -584    
+18675  2013 492     -999999 1144    -600    247     1497    579     -567    -655    -583    236     1088    1344    1682    1459    1028    598     111     80      
+18675  2014 685     124     1245    -91     615     1589    745     -389    49      284     537     1021    1447    1886    1430    1130    784     319     -312    
+18675  2015 646     117     1117    -195    488     1420    702     -193    -68     162     540     763     1283    1516    1456    1129    681     296     144     
+18675  2016 583     65      1210    -253    537     1491    600     -662    -240    158     425     1023    1466    1600    1405    1327    495     -20     -12     
+18675  2017 608     15      1188    -170    522     1493    644     -241    -266    103     436     1023    1431    1581    1464    1175    654     104     -230    
+18675  2018 679     -101    1398    -316    479     1774    723     -261    -472    -428    406     1456    1638    2113    1565    1178    648     346     -129    
+18675  2019 -999999 105     1241    -169    532     1619    -999999 -318    -49     127     608     863     1461    1757    1635    1107    504     -999999 -999999 

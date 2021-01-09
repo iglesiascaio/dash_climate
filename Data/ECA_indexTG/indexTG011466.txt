@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    DARFO BOARIO TERME                       (STAID:  11466)
+LATITUDE: dd:mm:ss +45:52:32
+LONGITUDE: ddd:mm:ss +010:10:39
+ELEVATION: m  222
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11466  2002 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 536     
+11466  2003 -999999 -999999 2113    -999999 1388    2547    1277    351     -999999 993     1248    1936    2501    2481    2657    1835    1156    845     465     
+11466  2004 1313    677     1901    422     1231    2218    1410    321     483     791     1276    1599    2130    2243    2275    1911    1501    815     464     
+11466  2005 1294    705     1987    342     1325    2325    1282    233     328     859     1252    1863    2237    2341    2381    1859    1283    705     244     
+11466  2006 1372    608     2016    271     1318    2300    1497    162     423     815     1351    1789    2269    2596    2034    2046    1518    927     479     
+11466  2007 1363    860     1973    563     1497    2205    1228    520     704     998     1644    1854    2096    2396    2119    1717    1307    657     299     
+11466  2008 1318    699     1880    430     1291    2195    1312    459     539     919     1206    1743    2084    2243    2255    1730    1408    794     405     
+11466  2009 1388    724     2066    393     1459    2319    1395    292     491     933     1418    2026    2159    2337    2455    1978    1357    853     295     
+11466  2010 1280    664     1945    304     1275    2300    1257    191     438     837     1316    1674    2187    2528    2180    1767    1183    825     179     
+11466  2011 1366    647     2034    311     1463    2216    1386    230     545     915     1598    1881    2063    2198    2381    2074    1325    762     376     
+11466  2012 1343    684     1978    275     1361    2367    1378    261     181     1169    1204    1706    2251    2373    2474    1839    1375    920     318     
+11466  2013 1327    696     1935    377     1194    2281    1394    425     389     728     1329    1529    2092    2447    2297    1900    1406    877     441     
+11466  2014 1398    853     1874    576     1400    2084    1466    581     724     1071    1430    1700    2091    2125    2037    1854    1519    1024    560     
+11466  2015 1407    849     2053    515     1390    2438    1300    458     528     981     1368    1821    2207    2725    2375    1797    1293    812     458     
+11466  2016 1357    760     1963    499     1331    2232    1376    373     678     942     1436    1620    2065    2408    2218    2017    1277    820     399     
+11466  2017 -999999 726     2001    360     1410    2379    1265    95      629     1125    1354    1773    2303    2410    2422    1712    1346    733     -999999 

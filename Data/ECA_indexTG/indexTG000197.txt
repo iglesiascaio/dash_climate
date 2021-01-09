@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   BULKEN                                   (STAID:    197)
+LATITUDE: dd:mm:ss +60:38:45
+LONGITUDE: ddd:mm:ss +006:13:24
+ELEVATION: m  323
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+197    2014 -999999 -999999 -999999 -999999 -999999 1481    750     -999999 -999999 -999999 -999999 978     1312    1772    1355    1114    755     382     -84     
+197    2015 579     207     939     -49     390     1203    676     -44     -15     235     333     599     953     1242    1405    1087    624     318     160     
+197    2016 563     101     1097    -165    490     1322    584     -466    -190    148     325     990     1412    1285    1271    1292    508     -47     205     
+197    2017 561     109     1032    26      490     1228    601     -88     -46     99      344     1023    1142    1317    1222    1131    608     64      -128    
+197    2018 607     -27     1197    -202    527     1466    593     -139    -355    -242    441     1380    1431    1762    1203    937     551     291     -46     
+197    2019 -999999 140     1111    -39     535     1412    -999999 -163    108     100     740     772     1238    1537    1455    912     439     -999999 -999999 

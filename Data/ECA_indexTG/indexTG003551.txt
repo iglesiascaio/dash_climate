@@ -1,0 +1,43 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION IRELAND                                  OAK PARK                                 (STAID:   3551)
+LATITUDE: dd:mm:ss +52:51:39
+LONGITUDE: ddd:mm:ss -006:54:54
+ELEVATION: m   63
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+3551   2007 1055    -999999 1348    -999999 984     1477    1127    675     552     659     1123    1174    1386    1497    1535    1373    1145    844     640     
+3551   2008 986     -999999 1304    -999999 910     1488    974     646     -999999 624     820     1282    1332    1559    1582    1278    929     715     409     
+3551   2009 982     606     1335    424     929     1525    1086    383     486     709     923     1154    1471    1519    1583    1331    1163    761     285     
+3551   2010 883     537     1340    241     847     1553    1014    170     270     554     894     1094    1531    1624    1505    1408    1080    550     -48     
+3551   2011 1044    563     1313    340     994     1395    1221    351     756     704     1119    1164    1257    1487    1427    1417    1241    1003    608     
+3551   2012 1002    861     1261    667     912     1480    968     684     715     891     733     1107    1356    1445    1625    1299    957     650     556     
+3551   2013 995     593     1342    521     736     1611    1099    525     478     381     760     1067    1394    1811    1645    1419    1231    643     634     
+3551   2014 1051    728     1390    586     980     1554    1105    556     568     717     1021    1203    1465    1720    1475    1444    1146    725     542     
+3551   2015 995     663     1254    482     858     1440    1081    477     421     645     887     1044    1367    1474    1476    1269    1029    946     862     
+3551   2016 1019    765     1376    660     884     1583    1022    591     518     632     767     1249    1515    1612    1619    1481    1061    522     633     
+3551   2017 1057    720     1359    620     1018    1542    1072    587     643     857     934     1260    1520    1597    1510    1322    1163    689     537     
+3551   2018 1052    631     1428    482     888     1692    1041    535     361     481     912     1271    1649    1795    1630    1300    1005    819     819     
+3551   2019 -999999 795     1347    730     927     1550    -999999 609     765     754     903     1123    1321    1684    1637    1400    971     -999999 -999999 

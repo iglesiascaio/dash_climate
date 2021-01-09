@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  LOHR/MAIN-HALSBACH                       (STAID:   4868)
+LATITUDE: dd:mm:ss +50:00:51
+LONGITUDE: ddd:mm:ss +009:39:18
+ELEVATION: m  285
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4868   2005 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 349     57      
+4868   2006 949     -999999 1531    -69     791     1786    1158    -220    -41     211     838     1324    1664    2188    1502    1655    1145    674     388     
+4868   2007 991     628     1509    441     1103    1715    781     496     439     607     1249    1456    1759    1714    1674    1191    810     341     122     
+4868   2008 953     397     1485    258     930     1788    834     331     325     446     766     1573    1758    1850    1755    1185    832     484     103     
+4868   2009 927     266     1565    -69     1040    1738    1004    -357    60      459     1252    1415    1553    1804    1851    1502    836     679     30      
+4868   2010 802     280     1420    -105    817     1772    836     -305    -33     457     913     1082    1708    1977    1629    1197    772     541     -358    
+4868   2011 976     292     1539    -59     1063    1696    932     77      122     592     1209    1395    1675    1610    1803    1536    897     365     381     
+4868   2012 929     401     1494    132     1039    1750    848     225     -234    733     862     1516    1599    1755    1890    1318    769     460     193     
+4868   2013 894     263     1466    76      717     1796    940     55      -32     109     878     1168    1609    2004    1769    1352    1015    451     283     
+4868   2014 1042    523     1515    311     1047    1729    1059    259     398     718     1164    1263    1652    1955    1578    1466    1132    577     304     
+4868   2015 1019    476     1548    196     912     1936    933     229     41      534     901     1301    1676    2069    2055    1258    838     706     545     
+4868   2016 937     492     1522    328     854     1773    942     102     337     418     797     1346    1676    1875    1766    1659    825     344     86      
+4868   2017 952     339     1476    28      982     1806    917     -307    335     750     787     1404    1800    1839    1779    1230    1053    464     247     
+4868   2018 1070    395     1723    176     1068    1985    989     432     -185    303     1277    1632    1848    2075    2028    1460    1006    500     367     
+4868   2019 -999999 484     1550    234     939     1920    -999999 62      277     674     1032    1113    1933    1934    1893    1388    1045    -999999 -999999 

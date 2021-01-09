@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  PRIEN-STOCK                              (STAID:   4528)
+LATITUDE: dd:mm:ss +47:51:34
+LONGITUDE: ddd:mm:ss +012:21:50
+ELEVATION: m  530
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4528   1946 784     -999999 1435    -999999 959     1595    737     -425    246     440     1021    1419    1448    1730    1603    1373    621     219     -312    
+4528   1947 866     -27     1604    -488    976     1827    997     -636    -517    424     1021    1484    1768    1910    1803    1625    751     624     55      
+4528   1948 879     406     1392    170     977     1527    900     411     37      542     920     1469    1441    1497    1639    1374    915     411     -142    
+4528   1949 864     220     1444    -48     775     1617    978     -25     30      119     1050    1165    1431    1773    1642    1595    1036    301     201     
+4528   1950 862     361     1467    103     873     1795    800     -164    289     492     689     1432    1805    1863    1717    1279    747     377     -217    
+4528   1951 863     231     1405    -6      744     1660    938     73      141     259     768     1207    1512    1742    1723    1462    747     613     65      
+4528   1952 782     233     1444    -75     824     1796    637     -134    -162    255     993     1231    1611    1935    1836    1038    715     154     -123    
+4528   1953 825     140     1402    -161    861     1617    893     -260    -93     426     903     1255    1509    1747    1591    1393    994     290     79      
+4528   1954 722     162     1266    -258    678     1533    861     -444    -426    425     544     1062    1589    1434    1578    1379    892     310     239     
+4528   1955 734     205     1289    -25     607     1567    751     -243    -78     86      653     1083    1470    1669    1558    1284    762     206     304     
+4528   1956 647     78      1283    -254    681     1481    768     36      -1160   244     602     1196    1252    1691    1493    1449    723     135     15      
+4528   1957 818     288     1286    54      765     1619    816     -183    361     680     712     901     1645    1720    1493    1235    834     379     21      

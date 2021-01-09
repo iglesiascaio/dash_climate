@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   JARPSTROMMEN                             (STAID:   6650)
+LATITUDE: dd:mm:ss +63:23:24
+LONGITUDE: ddd:mm:ss +013:23:24
+ELEVATION: m  380
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+6650   1961 -999999 -999999 -999999 -999999 -999999 -999999 462     -999999 -999999 -999999 -999999 -999999 -999999 1218    1039    856     558     -31     -825    
+6650   1962 100     -424    667     -745    -141    967     244     -811    -584    -853    11      425     799     1074    1022    653     428     -357    -646    
+6650   1963 191     -527    888     -863    106     1171    238     -725    -1256   -672    118     871     1097    1178    1236    807     383     -479    -376    
+6650   1964 221     -294    740     -437    177     976     220     -160    -799    -369    202     699     931     1049    947     593     315     -251    -557    
+6650   1965 116     -365    788     -634    102     1051    215     -856    -474    -375    223     463     1075    1073    1007    881     362     -602    -1402   
+6650   1966 -8      -917    762     -1572   -97     1215    137     -1593   -1739   -596    -256    556     1328    1261    1059    604     228     -424    -652    
+6650   1967 191     -436    796     -786    132     1129    391     -1188   -488    -99     -3      492     972     1222    1187    889     263     24      -1013   
+6650   1968 -999999 -472    -999999 -962    -999999 -999999 -999999 -1099   -759    -251    185     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION LITHUANIA                                VARENA                                   (STAID:   1021)
+LATITUDE: dd:mm:ss +54:18:00
+LONGITUDE: ddd:mm:ss +024:36:00
+ELEVATION: m  109
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+1021   1995 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 1756    -999999 -999999 -999999 -999999 -999999 -999999 
+1021   1996 -999999 -999999 -999999 -999999 -999999 1622    -999999 -999999 -999999 -999999 -999999 1421    1500    1554    1817    988     804     537     -735    
+1021   1997 653     -999999 1321    -999999 534     1721    671     -610    5       26      403     1168    1596    1800    1765    1187    588     206     -361    
+1021   1998 676     -999999 1370    -107    658     1647    500     -32     110     -56     799     1244    1775    1666    1513    1190    685     -439    -436    
+1021   1999 744     -92     -999999 -349    666     1840    722     -225    -394    205     895     921     1929    1959    1639    1367    746     73      -75     
+1021   2000 804     117     1353    -125    836     1602    825     -323    46      204     1061    1256    1571    1616    1618    973     974     529     94      
+1021   2001 -999999 198     -999999 -113    706     -999999 -999999 -101    -348    -14     875     1239    1433    2162    -999999 1229    901     -999999 -999999 

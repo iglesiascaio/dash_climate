@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION PORTUGAL                                 QUINTA DA LEDA 1                         (STAID:  10997)
+LATITUDE: dd:mm:ss +41:01:18
+LONGITUDE: ddd:mm:ss -007:00:59
+ELEVATION: m  213
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+10997  2013 1565    -999999 2138    -999999 1339    2528    1677    776     790     1089    1352    1576    2161    2753    2659    2308    1702    1019    543     
+10997  2014 1640    1069    2139    829     1571    2390    1729    1000    955     1200    1641    1876    2202    2502    2458    2142    1815    1226    621     
+10997  2015 1652    1044    2248    645     1619    2588    1623    480     856     1254    1551    2048    2474    2767    2521    2086    1649    1134    944     
+10997  2016 1627    1125    2183    974     1343    2594    1676    1047    927     1034    1317    1677    2288    2749    2737    2313    1684    1032    686     
+10997  2017 1697    1038    2311    746     1664    2644    1729    531     1051    1244    1690    2058    2611    2658    2665    2203    1938    1039    729     
+10997  2018 1627    1058    2205    771     1416    2485    1776    824     760     1032    1438    1803    2190    2473    2780    2513    1672    1147    877     
+10997  2019 -999999 1067    2155    767     1552    2439    -999999 512     928     1257    1394    1999    2108    2620    2578    2204    1705    -999999 -999999 

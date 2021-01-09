@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  KONIGSMOOR                               (STAID:   4300)
+LATITUDE: dd:mm:ss +53:13:45
+LONGITUDE: ddd:mm:ss +009:39:12
+ELEVATION: m   40
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4300   1950 847     -999999 1370    -999999 815     1676    818     -7      338     514     645     1280    1665    1646    1715    1251    767     438     -122    
+4300   1951 857     271     1326    63      656     1588    926     165     155     217     658     1094    1512    1601    1647    1430    670     686     408     
+4300   1952 758     358     1312    213     785     1553    616     108     117     157     1007    1198    1385    1635    1632    998     701     145     -11     
+4300   1953 898     225     1374    21      833     1635    965     82      -11     418     807     1272    1652    1667    1586    1244    1032    616     345     
+4300   1954 771     305     1255    -66     713     1488    919     -205    -368    354     547     1234    1530    1396    1540    1269    1043    440     387     
+4300   1955 759     255     1296    17      525     1614    892     -155    -202    -18     654     945     1353    1758    1723    1326    855     495     312     
+4300   1956 699     199     1216    -161    661     1422    860     56      -899    310     452     1215    1301    1661    1301    1345    868     365     335     
+4300   1957 865     462     1260    316     746     1590    870     228     394     573     712     953     1582    1702    1485    1117    964     525     117     
+4300   1958 815     286     1312    76      575     1558    962     14      100     -15     501     1237    1411    1629    1631    1442    1005    438     340     
+4300   1959 904     413     1443    128     946     1713    839     4       32      621     956     1260    1555    1848    1731    1288    886     342     253     
+4300   1960 844     347     1299    146     783     1527    935     105     76      399     700     1246    1564    1508    1509    1252    925     630     184     

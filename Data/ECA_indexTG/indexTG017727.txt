@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    PIEVEPELAGO                              (STAID:  17727)
+LATITUDE: dd:mm:ss +44:11:39
+LONGITUDE: ddd:mm:ss +010:34:37
+ELEVATION: m 1083
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17727  2012 -999999 -999999 1541    -999999 898     1978    1029    -999999 -999999 795     704     1189    1819    1991    2120    1403    1043    643     184     
+17727  2013 925     372     1443    88      710     1769    1038    191     -133    267     868     1000    1517    1910    1871    1475    1153    484     420     
+17727  2014 998     557     1391    375     859     1643    1125    344     359     559     899     1121    1606    1646    1676    1388    1157    830     353     
+17727  2015 1042    534     1562    250     883     1936    1016    300     80      451     877     1321    1697    2225    1877    1348    902     800     555     
+17727  2016 988     547     1478    402     808     1772    1005    241     410     373     957     1100    1541    1962    1805    1489    924     605     430     
+17727  2017 1022    491     1575    206     980     2014    956     -145    346     775     856     1304    1892    1996    2149    1228    1180    452     173     
+17727  2018 989     385     1554    135     846     1820    1079    414     -214    251     1056    1238    1634    1941    1880    1559    1091    587     348     
+17727  2019 -999999 518     -999999 269     713     -999999 -999999 35      442     598     710     833     -999999 -999999 -999999 -999999 -999999 -999999 -999999 

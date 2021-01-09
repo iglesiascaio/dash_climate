@@ -1,0 +1,48 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   FLORO LUFTHAVN                           (STAID:   5114)
+LATITUDE: dd:mm:ss +61:34:59
+LONGITUDE: ddd:mm:ss +005:01:40
+ELEVATION: m    9
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5114   2002 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 641     371     210     
+5114   2003 -999999 -999999 -999999 -999999 616     -999999 -999999 212     203     394     660     811     1295    1645    -999999 1174    604     732     365     
+5114   2004 795     389     1164    210     650     1402    853     233     3       365     680     905     1187    1363    1651    1184    883     489     456     
+5114   2005 796     466     1103    358     616     1311    923     350     256     342     715     796     1110    1526    1289    1171    1008    586     366     
+5114   2006 886     448     1249    350     513     1499    1072    363     317     40      508     990     1160    1622    1704    1491    1018    708     664     
+5114   2007 790     584     1122    402     688     1413    749     324     199     558     635     870     1449    1473    1318    976     863     405     365     
+5114   2008 847     446     1245    381     659     1487    862     367     411     262     667     1048    1259    1678    1516    1286    800     503     348     
+5114   2009 829     430     1226    285     746     1437    872     376     115     408     810     1023    1232    1575    1497    1207    736     677     246     
+5114   2010 631     301     1093    37      517     1355    720     -71     -74     269     539     743     1112    1445    1500    1207    805     147     -100    
+5114   2011 833     259     1182    99      670     1364    1029    243     161     283     762     967     1204    1431    1452    1265    987     835     365     
+5114   2012 739     559     1057    330     631     1328    758     324     299     536     468     884     1186    1368    1425    994     690     593     80      
+5114   2013 750     276     1109    93      497     1350    892     111     87      86      428     975     1200    1410    1435    1188    915     571     546     
+5114   2014 930     571     1263    472     743     1521    1032    334     541     515     743     972     1312    1704    1540    1295    1035    764     378     
+5114   2015 847     570     1098    375     608     1317    1012    353     397     484     534     804     1048    1327    1565    1298    1039    698     584     
+5114   2016 837     530     1198    328     680     1376    946     151     243     449     542     1043    1364    1397    1367    1469    909     462     625     
+5114   2017 829     527     1176    452     684     1349    928     407     310     422     535     1090    1239    1398    1408    1371    933     479     319     
+5114   2018 820     391     1200    268     652     1395    904     308     168     121     603     1229    1249    1566    1364    1170    821     724     474     
+5114   2019 -999999 529     1201    406     701     1454    -999999 270     483     405     875     827     1287    1508    1560    1139    826     -999999 -999999 

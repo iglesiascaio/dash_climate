@@ -1,0 +1,41 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION RUSSIAN FEDERATION                       BOGUCHAR                                 (STAID:   1301)
+LATITUDE: dd:mm:ss +49:55:48
+LONGITUDE: ddd:mm:ss +040:34:12
+ELEVATION: m   86
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+1301   1995 956     -999999 1827    -999999 1093    2134    881     -504    66      349     1246    1671    2329    2136    1943    1601    799     246     -690    
+1301   1996 741     -351    1771    -912    780     2152    837     -1229   -778    -472    878     1934    2026    2385    2039    1283    735     519     -578    
+1301   1997 -999999 -999999 -999999 -999999 825     -999999 738     -824    -490    38      749     1633    2202    2141    2021    1206    772     136     -642    
+1301   1998 842     -999999 1800    -999999 942     2231    711     -565    -560    156     961     1632    2345    2331    2020    1522    927     -291    -561    
+1301   1999 -999999 -29     1791    -363    864     2285    738     -273    -236    214     1168    1233    2240    2490    2116    1474    961     -311    -13     
+1301   2000 875     -999999 1682    -999999 902     2062    696     -603    -181    139     1341    1245    1911    2236    2031    1286    742     33      47      
+1301   2001 -999999 -999999 -999999 -999999 970     2193    828     -117    -316    238     1181    1498    1850    2590    2124    1516    708     260     -923    
+1301   2002 889     -999999 1752    -999999 932     2212    888     -446    184     482     815     1479    1954    2613    2036    1652    703     304     -1090   
+1301   2003 -999999 -999999 1643    -999999 729     1981    845     -590    -999999 -290    689     1824    1715    2165    2047    1400    892     223     -209    
+1301   2004 -999999 -999999 -999999 -999999 908     2019    862     -203    -393    412     835     1458    1800    2054    2221    1551    843     216     -207    
+1301   2005 -999999 -999999 -999999 -999999 841     -999999 -999999 -152    -718    -334    1024    1834    -999999 -999999 -999999 -999999 -999999 -999999 -999999 

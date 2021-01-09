@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   KVALOEYSLETTA                            (STAID:  18193)
+LATITUDE: dd:mm:ss +69:41:56
+LONGITUDE: ddd:mm:ss +018:52:37
+ELEVATION: m   63
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18193  2011 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 359     -35     
+18193  2012 276     -999999 667     -227    113     964     365     -339    -312    -39     -9      383     859     1062    967     726     280     91      -376    
+18193  2013 389     -163    914     -300    166     1169    404     -214    -310    -456    91      860     1172    1167    1168    1012    267     -63     -71     
+18193  2014 358     -81     783     -207    142     1150    374     -519    -11     -83     90      416     839     1475    1126    727     372     24      -185    
+18193  2015 405     -47     803     -258    279     1046    492     -373    -212    79      195     562     717     1125    1286    916     415     148     -47     
+18193  2016 399     -37     840     -251    326     1018    475     -479    -226    -39     267     746     825     1202    1020    965     455     8       13      
+18193  2017 329     -22     723     -145    33      1037    463     -166    -296    -173    -14     283     938     1106    1063    953     430     -9      -217    
+18193  2018 363     -193    847     -361    142     1105    501     -406    -471    -501    154     774     701     1442    1159    825     341     344     -71     
+18193  2019 -999999 -85     772     -291    128     1067    -999999 -461    -348    -326    229     485     833     1206    1154    708     67      -999999 -999999 

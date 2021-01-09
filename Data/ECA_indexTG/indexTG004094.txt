@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GERMANY                                  HELMSTEDT-EMMERSTEDT                     (STAID:   4094)
+LATITUDE: dd:mm:ss +52:14:52
+LONGITUDE: ddd:mm:ss +010:57:37
+ELEVATION: m  110
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+4094   2008 -999999 -999999 -999999 -999999 -999999 1763    935     -999999 -999999 -999999 -999999 -999999 1699    1841    1745    1276    971     559     154     
+4094   2009 950     358     1535    32      1017    1729    1041    -173    124     498     1197    1363    1456    1837    1886    1457    820     852     37      
+4094   2010 779     264     1429    -177    770     1793    870     -474    -85     420     886     1009    1607    2074    1693    1289    864     457     -436    
+4094   2011 994     267     1545    -61     995     1716    994     184     84      441     1163    1387    1690    1656    1802    1563    970     449     480     
+4094   2012 941     452     1464    183     1018    1685    959     230     -183    726     869     1454    1499    1735    1815    1393    929     555     212     
+4094   2013 919     276     1483    84      666     1810    1005    50      -21     -87     845     1246    1623    1955    1847    1359    1150    502     482     
+4094   2014 1064    589     1519    386     1026    1727    1163    155     535     704     1122    1254    1551    2002    1622    1552    1226    708     306     
+4094   2015 1024    550     1458    259     861     1808    983     301     159     568     821     1193    1533    1885    1998    1295    837     822     801     
+4094   2016 999     546     1585    391     903     1824    1024    15      354     445     817     1446    1767    1902    1801    1764    907     405     343     
+4094   2017 1003    439     1474    185     978     1762    1058    -71     295     741     763     1424    1720    1790    1774    1354    1209    606     379     
+4094   2018 1090    455     1729    224     1052    1963    1060    378     -119    228     1268    1666    1808    2069    2007    1535    1074    571     498     
+4094   2019 -999999 584     1559    375     938     1944    -999999 159     476     713     970     1132    2010    1856    1969    1406    1145    -999999 -999999 

@@ -1,0 +1,39 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION GREENLAND [DENMARK]                      TORGILSBU                                (STAID:  18842)
+LATITUDE: dd:mm:ss +60:32:06
+LONGITUDE: ddd:mm:ss -043:13:30
+ELEVATION: m   24
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18842  1932 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -78     -440    
+18842  1933 179     -999999 518     -452    1       748     300     -530    -379    -272    -99     371     663     760     817     581     274     45      -126    
+18842  1934 166     -172    489     -342    -54     705     271     -522    -382    -336    19      156     550     785     773     640     257     -84     99      
+18842  1935 197     -141    562     -271    107     735     259     -305    -643    -217    33      502     588     750     864     624     195     -41     -48     
+18842  1936 274     -35     613     -49     101     838     323     -66     -31     -218    150     372     690     961     857     636     306     26      -401    
+18842  1937 162     -175    463     -461    33      697     284     -421    -572    -23     -110    229     694     679     717     560     185     111     -158    
+18842  1938 40      -232    389     -362    -141    563     133     -514    -419    -605    -39     226     453     547     686     450     234     -289    -275    
+18842  1939 273     -223    628     -374    94      818     449     -338    -521    -176    111     348     653     953     844     850     472     23      -3      
+18842  1940 -999999 21      -999999 -48     73      673     -999999 -105    -36     -229    152     299     605     634     781     -999999 -999999 -999999 -999999 

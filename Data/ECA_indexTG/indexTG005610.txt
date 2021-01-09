@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   LJUSDAL                                  (STAID:   5610)
+LATITUDE: dd:mm:ss +61:49:48
+LONGITUDE: ddd:mm:ss +016:07:48
+ELEVATION: m  140
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+5610   1961 434     -999999 1070    -999999 453     1404    635     -953    -356    168     326     862     1505    1443    1267    1007    857     34      -994    
+5610   1962 215     -391    923     -818    46      1240    364     -826    -614    -810    280     675     1175    1327    1215    849     530     -292    -965    
+5610   1963 269     -660    1118    -1219   262     1434    427     -1291   -1419   -582    262     1107    1324    1517    1457    1015    491     -226    -554    
+5610   1964 340     -291    1023    -581    375     1277    343     -509    -685    -284    403     1007    1263    1375    1192    882     417     -272    -748    
+5610   1965 251     -334    1015    -626    256     1315    294     -606    -514    -299    350     719     1348    1346    1251    1067    444     -633    -1501   
+5610   1966 -999999 -900    -999999 -1607   121     -999999 -999999 -1631   -1700   -451    -67     874     1656    -999999 -999999 -999999 -999999 -22     -435    
+5610   1967 371     -999999 1091    -794    353     1487    610     -1448   -466    84      232     739     1359    1627    1469    1102    529     201     -1015   
+5610   1968 -999999 -475    1106    -1147   315     1526    130     -1442   -973    -158    468     639     1589    1571    1419    938     216     -768    -999999 
+5610   1969 -999999 -999999 -999999 -999999 -999999 1601    316     -999999 -999999 -999999 -999999 -999999 1603    1566    1634    925     538     -522    -990    
+5610   1970 254     -665    1056    -1252   210     1497    323     -1239   -1554   -301    64      861     1665    1450    1382    893     466     -394    -382    
+5610   1971 352     -298    1009    -461    177     1380    287     -542    -460    -493    152     870     1281    1502    1354    870     406     -420    -357    
+5610   1972 407     -373    1073    -689    265     1527    412     -1092   -614    -181    208     765     1462    1750    1367    865     443     -74     -58     
+5610   1973 406     1       1073    -169    396     1545    106     -22     -455    127     209     845     1476    1819    1339    723     179     -588    -864    
+5610   1974 457     -339    1077    -492    371     1388    394     -322    -270    -171    470     817     1371    1401    1390    1001    294     -109    -429    
+5610   1975 523     -139    1125    -342    379     1503    501     -290    -304    -11     239     906     1235    1678    1587    1078    433     -7      -330    

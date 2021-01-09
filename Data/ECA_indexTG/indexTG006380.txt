@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   VADDO                                    (STAID:   6380)
+LATITUDE: dd:mm:ss +59:58:48
+LONGITUDE: ddd:mm:ss +018:49:12
+ELEVATION: m   10
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+6380   1961 626     -999999 1121    -999999 500     1442    797     -345    66      265     404     829     1503    1471    1354    1154    994     238     -447    
+6380   1962 438     -53     988     -327    145     1308    606     -225    -306    -586    328     698     1211    1401    1309    966     705     143     -432    
+6380   1963 438     -298    1148    -716    236     1485    659     -823    -911    -513    204     1015    1360    1561    1532    1194    606     178     -243    
+6380   1964 516     -77     1094    -297    321     1396    611     -211    -447    -361    399     927     1319    1519    1348    1037    660     133     -169    
+6380   1965 469     -29     1052    -259    245     1371    586     -188    -436    -211    323     625     1358    1380    1375    1245    699     -191    -406    
+6380   1966 433     -344    1108    -808    236     1581    577     -813    -1248   -189    -2      892     1628    1685    1434    990     533     209     -52     
+6380   1967 579     23      1150    -293    486     1499    777     -632    -186    250     395     810     1309    1658    1523    1188    789     352     -548    
+6380   1968 509     -89     1172    -591    436     1548    543     -735    -484    80      522     708     1615    1495    1537    1149    485     -3      -288    
+6380   1969 482     -228    1178    -419    159     1617    623     -349    -641    -607    370     722     1470    1716    1661    1112    688     67      -495    
+6380   1970 412     -311    1082    -827    258     1484    580     -788    -1239   -174    162     782     1461    1509    1482    1078    621     38      -109    
+6380   1971 545     -18     1089    -143    272     1464    531     -115    -210    -349    186     975     1269    1611    1506    957     620     13      12      
+6380   1972 -999999 -3      -999999 -208    -999999 -999999 -999999 -457    -177    -38     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

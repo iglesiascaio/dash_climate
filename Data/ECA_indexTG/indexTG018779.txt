@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   STRANDA - HELSEM                         (STAID:  18779)
+LATITUDE: dd:mm:ss +62:17:35
+LONGITUDE: ddd:mm:ss +006:57:16
+ELEVATION: m   84
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18779  1961 668     -999999 1039    -999999 536     1247    873     -213    310     310     460     834     1194    1304    1242    1188    1012    413     -56     
+18779  1962 546     225     935     36      320     1161    651     177     -18     -197    395     765     996     1283    1200    956     832     159     -37     
+18779  1963 610     60      1152    -254    579     1401    660     -302    -441    104     586     1048    1409    1298    1497    1063    731     183     63      
+18779  1964 596     217     979     71      572     1148    587     160     -15     166     577     971     1070    1215    1156    871     685     201     62      
+18779  1965 536     143     1030    -31     464     1235    615     -138    -14     50      547     799     1220    1225    1260    1125    760     -46     -391    
+18779  1966 527     -44     997     -387    407     1344    570     -364    -407    148     217     849     1468    1275    1295    867     621     222     71      
+18779  1967 613     195     1007    17      498     1214    746     -197    194     261     364     864     1052    1294    1293    1161    606     475     -35     
+18779  1968 510     123     1022    -147    381     1304    501     -187    -223    89      342     709     1241    1337    1333    1160    488     -144    -57     
+18779  1969 598     -33     1156    -143    459     1486    579     51      -454    -123    541     964     1398    1358    1700    957     783     -11     -72     
+18779  1970 555     41      1054    -182    397     1387    563     -178    -307    -6      239     952     1458    1290    1415    954     641     91      44      
+18779  1971 611     175     1016    89      488     1236    534     50      184     39      403     1020    1071    1301    1331    948     583     70      288     
+18779  1972 658     169     1060    6       604     1343    591     -202    -73     331     486     992     1269    1496    1262    836     704     230     522     
+18779  1973 580     354     966     254     485     1276    463     249     -37     413     197     835     1186    1428    1212    916     419     56      24      
+18779  1974 672     231     1055    218     582     1250    559     425     204     248     538     958     1255    1222    1273    1077    424     181     205     

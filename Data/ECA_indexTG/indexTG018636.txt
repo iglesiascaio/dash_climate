@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   ROEYKEN - SKOGSBORG                      (STAID:  18636)
+LATITUDE: dd:mm:ss +59:41:30
+LONGITUDE: ddd:mm:ss +010:31:10
+ELEVATION: m    3
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+18636  2013 583     -999999 1233    -999999 365     1587    666     -636    -533    -377    341     1129    1436    1756    1564    1149    691     157     223     
+18636  2014 828     -999999 1349    -999999 728     1682    828     -999999 173     379     677     1115    1507    1990    1544    1238    871     374     -224    
+18636  2015 768     206     1291    -93     645     1580    775     -4      -48     248     704     985     1427    1655    1653    1311    718     299     217     
+18636  2016 809     178     1440    -94     746     1711    821     -507    15      318     654     1262    1706    1788    1639    1577    711     180     270     
+18636  2017 794     248     1348    -999999 684     1612    819     28      -29     285     562     1202    1564    1706    1563    1475    749     217     -87     
+18636  2018 852     -999999 1565    -999999 694     1936    855     -141    -411    -204    599     1626    1867    2237    1703    1327    825     400     9       
+18636  2019 -999999 -999999 1384    -999999 741     1712    -999999 -217    133     302     827     1108    1549    1856    1726    1209    597     -999999 -999999 

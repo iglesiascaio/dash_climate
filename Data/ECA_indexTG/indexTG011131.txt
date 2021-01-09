@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION NORWAY                                   DRAG I TYSFJORD                          (STAID:  11131)
+LATITUDE: dd:mm:ss +68:02:47
+LONGITUDE: ddd:mm:ss +016:02:02
+ELEVATION: m   60
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+11131  1957 369     -999999 851     -999999 179     1196    420     -171    -459    -169    195     513     824     1603    1148    803     356     102     -382    
+11131  1958 333     -293    896     -563    59      1253    598     -504    -829    -538    140     576     1084    1232    1438    890     573     331     -474    
+11131  1959 450     40      841     -312    362     1169    453     -588    173     244     221     617     1008    1241    1253    687     496     176     -142    
+11131  1960 430     -75     1077    -410    431     1428    320     -472    -631    96      363     830     1107    1668    1497    969     77      -78     -314    
+11131  1961 442     -144    909     -227    144     1306    616     -251    -104    -186    -13     627     1112    1495    1303    903     759     181     -565    
+11131  1962 296     -174    837     -435    61      1107    407     -414    -315    -691    252     629     867     1200    1245    813     444     -36     -484    
+11131  1963 -999999 -260    -999999 -540    324     -999999 428     -526    -617    -368    276     1062    1113    -999999 1473    972     443     -132    -192    
+11131  1964 -999999 -46     -999999 -187    305     -999999 440     39      -423    -39     212     741     905     1308    -999999 684     665     -37     -117    
+11131  1965 289     -85     849     -280    116     1133    371     -411    -315    -317    271     399     1083    1128    1186    1019    439     -347    -703    
+11131  1966 213     -451    762     -811    -25     1240    265     -663    -1094   -398    -113    435     1274    1308    1140    508     191     99      -228    
+11131  1967 360     -131    880     -380    307     1129    528     -705    -190    49      143     725     948     1167    1265    1013    306     273     -700    
+11131  1968 247     -260    746     -628    101     1036    232     -698    -477    -263    144     424     1011    1101    994     790     -124    42      6       
+11131  1969 -999999 -210    -999999 -305    165     -999999 288     -390    -554    -265    167     592     1254    -999999 -999999 736     455     -331    -279    
+11131  1970 -999999 -266    -999999 -526    206     -999999 295     -522    -803    -168    20      761     1208    -999999 -999999 785     407     -310    -149    
+11131  1971 -999999 -220    -999999 -297    49      -999999 -999999 -291    -468    -535    54      627     1208    1147    -999999 -999999 281     -412    24      
+11131  1972 -999999 -94     -999999 -114    -999999 -999999 -999999 -149    -224    -101    202     -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

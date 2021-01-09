@@ -1,0 +1,42 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION SWEDEN                                   YXSJO                                    (STAID:   6727)
+LATITUDE: dd:mm:ss +64:16:48
+LONGITUDE: ddd:mm:ss +017:31:12
+ELEVATION: m  350
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+6727   1961 185     -999999 835     -999999 74      1238    383     -1247   -448    -270    -95     582     1296    1342    1080    790     587     -235    -1195   
+6727   1962 -29     -689    689     -1087   -242    1009    130     -1006   -1058   -1247   36      495     917     1154    955     558     347     -520    -1046   
+6727   1963 47      -806    907     -1259   30      1199    113     -1354   -1390   -919    95      915     1132    1269    1193    813     277     -756    -816    
+6727   1964 88      -606    732     -851    40      1024    148     -645    -1108   -624    45      699     909     1150    1010    555     343     -460    -870    
+6727   1965 -11     -585    786     -932    -40     1112    75      -1134   -776    -625    99      410     1099    1189    1048    863     273     -917    -1695   
+6727   1966 -89     -1167   781     -1869   -176    1291    42      -1870   -2059   -813    -277    560     1464    1312    1103    504     73      -453    -753    
+6727   1967 61      -622    821     -1046   81      1194    293     -1758   -583    -248    -28     516     1067    1271    1241    838     168     -123    -1646   
+6727   1968 -43     -799    793     -1454   2       1203    -282    -1475   -1227   -493    118     385     1257    1268    1087    633     -378    -1096   -630    
+6727   1969 21      -904    893     -1061   -85     1414    -36     -1101   -1492   -792    24      515     1354    1330    1557    555     192     -864    -1143   
+6727   1970 11      -911    846     -1457   0       1331    -33     -1476   -1783   -475    -187    656     1503    1320    1177    588     48      -738    -643    
+6727   1971 34      -673    751     -764    -229    1165    -63     -758    -905    -1066   -174    554     1076    1277    1138    609     60      -862    -615    
+6727   1972 -999999 -682    -999999 -960    42      -999999 -999999 -1440   -817    -435    -17     575     1326    -999999 -999999 -999999 -999999 -999999 -999999 

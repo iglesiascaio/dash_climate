@@ -1,0 +1,46 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  KUHMO KALLIOJOKI                         (STAID:   7669)
+LATITUDE: dd:mm:ss +64:17:51
+LONGITUDE: ddd:mm:ss +030:10:12
+ELEVATION: m  197
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7669   2004 -999999 -999999 -999999 -999999 -999999 -999999 210     -999999 -999999 -999999 -999999 -999999 -999999 1597    1328    944     195     -509    -637    
+7669   2005 267     -598    -999999 -755    -90     1523    492     -604    -1054   -1024   142     658     1321    1730    1509    931     368     164     -859    
+7669   2006 181     -704    1053    -1134   -93     1470    224     -1000   -1587   -1227   194     794     1441    1527    1440    893     163     -382    -193    
+7669   2007 244     -519    973     -964    269     1411    241     -966    -1816   -43     104     742     1232    1488    1506    741     388     -410    -220    
+7669   2008 246     -360    824     -515    -11     1237    305     -711    -620    -608    32      545     1174    1423    1113    637     413     -139    -335    
+7669   2009 154     -477    989     -852    77      1362    279     -1111   -1138   -603    -85     913     1189    1486    1406    995     -35     -112    -1133   
+7669   2010 47      -881    1103    -1452   143     1508    117     -1754   -1471   -815    256     991     1157    1982    1374    826     241     -720    -1610   
+7669   2011 286     -929    1110    -1542   178     1554    414     -1196   -1848   -524    280     782     1484    1832    1343    920     386     -64     -125    
+7669   2012 105     -474    950     -886    75      1358    310     -1152   -1415   -520    -85     825     1219    1590    1260    864     239     -171    -1448   
+7669   2013 287     -700    1096    -996    -97     1531    351     -888    -615    -1295   32      974     1592    1563    1439    955     246     -144    -460    
+7669   2014 303     -325    1034    -648    251     1471    186     -1172   -275    -135    84      798     1124    1797    1481    885     -63     -255    -663    
+7669   2015 341     -436    978     -726    273     1286    429     -1001   -490    -144    148     809     1135    1294    1424    1039    277     -24     -428    
+7669   2016 297     -422    1128    -858    410     1470    211     -1703   -415    -225    314     1137    1266    1771    1365    884     224     -474    -605    
+7669   2017 208     -499    816     -819    -48     1302    297     -882    -985    -318    -164    336     1127    1444    1329    802     238     -149    -374    
+7669   2018 288     -544    1142    -782    88      1526    405     -711    -1313   -1014   131     1148    1198    1852    1518    968     277     -26     -688    
+7669   2019 -999999 -509    984     -955    180     1352    -999999 -1396   -762    -466    291     718     1451    1322    1287    821     93      -999999 -999999 

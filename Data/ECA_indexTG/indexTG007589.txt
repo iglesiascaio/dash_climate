@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION FINLAND                                  KALAJOKI RAHJA                           (STAID:   7589)
+LATITUDE: dd:mm:ss +64:13:00
+LONGITUDE: ddd:mm:ss +023:42:00
+ELEVATION: m    3
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+7589   1978 145     -999999 836     -999999 47      1217    402     -649    -1337   -438    -65     641     1145    1355    1150    769     378     61      -1375   
+7589   1979 279     -580    1004    -1242   162     1441    385     -1224   -1116   -235    -13     729     1290    1498    1530    967     223     -28     -379    
+7589   1980 212     -468    963     -767    -39     1396    332     -876    -1067   -707    143     453     1485    1434    1273    982     421     -410    -624    
+7589   1981 182     -524    881     -743    -81     1250    405     -657    -972    -940    -27     726     990     1510    1243    819     491     -97     -980    
+7589   1982 308     -461    912     -1022   163     1278    516     -1363   -691    -135    80      541     849     1556    1416    1001    339     214     -178    
+7589   1983 368     -221    1066    -485    237     1372    446     -404    -916    -434    326     822     1144    1579    1387    1116    515     -294    -518    
+7589   1984 345     -392    1013    -616    134     1351    449     -866    -453    -735    195     944     1233    1431    1384    868     537     -59     -356    
+7589   1985 45      -644    854     -1325   -85     1310    488     -1802   -1868   -416    -196    354     1107    1364    1453    1020    640     -202    -1048   
+7589   1986 222     -527    912     -1200   232     1351    486     -1386   -1162   -56     -76     819     1397    1527    1130    648     550     258     -1073   
+7589   1987 89      -654    795     -1318   -132    1178    424     -1770   -1087   -814    -35     455     1102    1347    1084    797     734     -271    -554    
+7589   1988 333     -305    1025    -628    69      1470    446     -565    -774    -426    -40     671     1256    1861    1286    1090    485     -238    -657    
+7589   1989 515     -134    1107    -374    432     1422    531     -240    -208    42      413     839     1317    1531    1415    1108    403     85      -566    
+7589   1990 -999999 -166    -999999 -472    300     -999999 -999999 -842    41      -89     319     669     1125    -999999 -999999 -999999 -999999 -999999 -999999 
+7589   1991 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -427    -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 

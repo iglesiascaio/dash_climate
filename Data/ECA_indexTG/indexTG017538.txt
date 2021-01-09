@@ -1,0 +1,44 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on: 13-11-2019
+THESE DATA CAN BE USED FOR NON-COMMERCIAL RESEARCH AND EDUCATION PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED: 
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE = -999999):
+
+THIS FILE HOLDS DATA FOR STATION ITALY                                    BOLOGNA_TORRE_ASINELLI                   (STAID:  17538)
+LATITUDE: dd:mm:ss +44:29:39
+LONGITUDE: ddd:mm:ss +011:20:48
+ELEVATION: m 1480
+
+DATA IS FOR INDEX Mean of daily mean temperature (TG) with unit 0.01 Temperature (&#176;C)
+
+01-06 SOUID: Source identifier
+08-11 YEAR : YYYY
+13-20 ANNUAL DATA VALUES
+21-28 WINTER HALF YEAR DATA VALUES
+29-36 SUMMER HALF YEAR DATA VALUES
+37-44 WINTER (DJF) DATA VALUES
+45-52 SPRING (MAM) DATA VALUES
+53-60 SUMMER (JJA) DATA VALUES
+61-68 AUTUMN (SON) DATA VALUES
+69-76 JANUARY DATA VALUES
+etc. 
+157-164 DECEMBER DATA VALUES
+
+17538  2006 -999999 -999999 -999999 -999999 -999999 2285    1626    -999999 -999999 -999999 -999999 1666    1902    2706    2234    2134    1698    1043    595     
+17538  2007 1517    967     2177    659     1596    2455    1393    619     775     1057    1690    2043    2295    2672    2392    1948    1405    826     437     
+17538  2008 1490    815     2103    549     1396    2486    1531    556     661     993     1363    1831    2284    2570    2596    1951    1676    962     403     
+17538  2009 1480    811     2202    394     1525    2505    1506    207     592     1008    1420    2143    2272    2582    2653    2118    1472    931     309     
+17538  2010 1369    699     2073    295     1356    2442    1391    129     461     875     1406    1788    2259    2656    2404    1904    1307    965     223     
+17538  2011 1515    719     2225    356     1522    2457    1566    240     632     945     1630    1994    2249    2413    2702    2349    1468    886     619     
+17538  2012 1512    823     2202    405     1503    2666    1564    385     200     1345    1322    1837    2504    2724    2764    2038    1565    1089    310     
+17538  2013 1445    740     2109    337     1284    2470    1556    366     333     748     1409    1699    2231    2630    2541    2128    1544    996     633     
+17538  2014 1538    969     2047    693     1495    2333    1625    621     839     1172    1507    1806    2314    2318    2368    1961    1681    1231    598     
+17538  2015 1535    953     2198    589     1457    2582    1498    634     529     1012    1465    1895    2357    2831    2551    2068    1408    1022    574     
+17538  2016 1498    889     2142    631     1425    2450    1499    550     778     998     1501    1779    2260    2643    2442    2212    1379    911     506     
+17538  2017 1548    846     2206    479     1579    2640    1468    233     722     1317    1495    1924    2540    2653    2723    1876    1631    890     506     
+17538  2018 1533    804     2229    498     1461    2521    1637    649     323     781     1683    1925    2348    2603    2606    2192    1671    1047    488     
+17538  2019 -999999 948     -999999 566     1364    -999999 -999999 388     850     1236    1376    1483    -999999 -999999 -999999 -999999 -999999 -999999 -999999 
